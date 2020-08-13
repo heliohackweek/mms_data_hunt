@@ -6,21 +6,21 @@ Challenges/Tasks:
 
 1. SITL Reports Web Search
 
-  a. Building the database.
+    a. Building the database.
 
-    - Retrieve ASCII reports from [Berkely](https://www.ssl.berkeley.edu/~moka/eva/sitl_report.html) hopefully from some type of RESTful API.
-    - Parse through reports to create a language learning set to pick up on mispelled events, case sensitivity, and typographic errors.
-    - Find occurances of reported BBF and DF events.
-    - Store results in a SQL-less database for future use.
-    - Automate process for future reports as well as process all remaining reports.
-    - _out of scope:_ create a standardized reporting mechanism or format
+        - Retrieve ASCII reports from [Berkely](https://www.ssl.berkeley.edu/~moka/eva/sitl_report.html) hopefully from some type of RESTful API.
+        - Parse through reports to create a language learning set to pick up on mispelled events, case sensitivity, and typographic errors.
+        - Find occurances of reported BBF and DF events.
+        - Store results in a SQL-less database for future use.
+        - Automate process for future reports as well as process all remaining reports.
+        - _out of scope:_ create a standardized reporting mechanism or format
+    b. Frontend work
 
-  b. Frontend work
-    - Website with search that queries database base upon event type, date range, or latest N events.
-    - API underneath website so researchers can grab data from database using HTTP methods
-    - Visually map events to xy and yz planes for further research
-    - Add functionality of mapping/visualizations to show data layers or with slight transparency
-    - _out of scope:_ extend to produce a catalog of all events reported
+        - Website with search that queries database base upon event type, date range, or latest N events.
+        - API underneath website so researchers can grab data from database using HTTP methods
+        - Visually map events to xy and yz planes for further research
+        - Add functionality of mapping/visualizations to show data layers or with slight transparency
+        - _out of scope:_ extend to produce a catalog of all events reported
 2. Event Finder
 
   a. Build a Python package to search MMS data for specific events (BBF & DF)
