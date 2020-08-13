@@ -2,9 +2,15 @@
 
 This Helio HackWeek project aims at finding events within observational data from Scientists in the Loop (SITL) reports to better equip researchers of finding overlooked or similar events by extending the requested functionality.
 
-Challenges/Tasks:
+__Challenges/Tasks:__
 
 1. SITL Reports Web Search
+    a. Building the database.
+        - Retrieve
+        - Parse
+    b. Frontend work
+
+---
 
     a. Building the database.
 
