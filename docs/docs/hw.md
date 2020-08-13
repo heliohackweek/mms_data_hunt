@@ -8,11 +8,15 @@ __Challenges/Tasks:__
 
     a. Building the database.
 
-        - Retrieve
-        - Parse
+       - Retrieve
+       - Parse
     b. Frontend work
 
 2. Event Finder
+
+    a. Build a Python package to search MMS data for specific events (BBF & DF)
+    b. Use ML to find similar events
+    c. Use GPU processing to optimize ML techniques
 
 ---
 
