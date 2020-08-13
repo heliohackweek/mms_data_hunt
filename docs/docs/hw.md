@@ -14,6 +14,7 @@ __Challenges/Tasks:__
        - Store results in a SQL-less database for future use.
        - Automate process for future reports as well as process all remaining reports.
        - _out of scope:_ create a standardized reporting mechanism or format
+
     b. Frontend work
 
        - Website with search that queries database base upon event type, date range, or latest N events.
