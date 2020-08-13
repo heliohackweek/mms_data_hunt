@@ -1,0 +1,12 @@
+site_name: MeMeS (MMS events explorer)
+site_url: http://memes.jhuapl.edu
+theme:
+    name: readthedocs
+extra_css: [extra.css]
+markdown_extensions:
+  - admonition
+  - pymdownx.tasklist
+nav:
+  - Overview: 'index.md'
+  - MMS Mission: 'mms.md'
+  - HackWeek Project: 'hw.md'
