@@ -11,6 +11,8 @@ __Challenges/Tasks:__
         - Parse
     b. Frontend work
 
+2. Event Finder
+
 ---
 
     a. Building the database.
