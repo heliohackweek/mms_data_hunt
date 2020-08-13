@@ -98,39 +98,39 @@
 <p>This Helio HackWeek project aims at finding events within observational data from Scientists in the Loop (SITL) reports to better equip researchers of finding overlooked or similar events by extending the requested functionality.</p>
 <p>Challenges/Tasks:</p>
 <ol>
-<li>SITL Reports Web Search
-  a. Building the database.<ul>
-<li>Retrieve ASCII reports from <a href="https://www.ssl.berkeley.edu/~moka/eva/sitl_report.html">Berkely</a> hopefully from some type of RESTful API.</li>
-<li>Parse through reports to create a language learning set to pick up on mispelled events, case sensitivity, and typographic errors.</li>
-<li>Find occurances of reported BBF and DF events.</li>
-<li>Store results in a SQL-less database for future use.</li>
-<li>Automate process for future reports as well as process all remaining reports.</li>
-<li><em>out of scope:</em> create a standardized reporting mechanism or format
-  b. Frontend work</li>
-<li>Website with search that queries database base upon event type, date range, or latest N events.</li>
-<li>API underneath website so researchers can grab data from database using HTTP methods</li>
-<li>Visually map events to xy and yz planes for further research</li>
-<li>Add functionality of mapping/visualizations to show data layers or with slight transparency</li>
-<li><em>out of scope:</em> extend to produce a catalog of all events reported</li>
-</ul>
-</li>
-<li>Event Finder
-  a. Build a Python package to search MMS data for specific events (BBF &amp; DF)<ul>
-<li>Use pyspedas to retrieve/stream data for specific dates and times reported from sample CSV files from database of SITL reports</li>
-<li>Unsure about specific types of observations needed to identify these events</li>
-<li>Data format retrieved? Is is a Pandas dataframe?</li>
-<li>Manipulate to identify event duration, magnatude, location, and observational files used.</li>
-<li>Add event information to database as well as references to data, imagery, and other information (metadata or resources)
-  b. Use ML to find similar events</li>
-<li>Once a small subset of events have been confirmed from the data, a training set will be created for each event type</li>
-<li>Use of tensorflow to produce similar events within the spanse of observational records</li>
-<li>Optimize algorithm used to optimize resource use
-  c. Use GPU processing to optimize ML techniques</li>
-<li>Use RAPIDS on NVIDIA resources to expedite processing of data for events</li>
-<li>Build optimized algorithms to sift through large amounts of data for analysis</li>
-</ul>
-</li>
+<li>SITL Reports Web Search</li>
 </ol>
+<p>a. Building the database.</p>
+<pre><code>- Retrieve ASCII reports from [Berkely](https://www.ssl.berkeley.edu/~moka/eva/sitl_report.html) hopefully from some type of RESTful API.
+- Parse through reports to create a language learning set to pick up on mispelled events, case sensitivity, and typographic errors.
+- Find occurances of reported BBF and DF events.
+- Store results in a SQL-less database for future use.
+- Automate process for future reports as well as process all remaining reports.
+- _out of scope:_ create a standardized reporting mechanism or format
+</code></pre>
+<p>b. Frontend work
+    - Website with search that queries database base upon event type, date range, or latest N events.
+    - API underneath website so researchers can grab data from database using HTTP methods
+    - Visually map events to xy and yz planes for further research
+    - Add functionality of mapping/visualizations to show data layers or with slight transparency
+    - <em>out of scope:</em> extend to produce a catalog of all events reported
+2. Event Finder</p>
+<p>a. Build a Python package to search MMS data for specific events (BBF &amp; DF)</p>
+<pre><code>- Use pyspedas to retrieve/stream data for specific dates and times reported from sample CSV files from database of SITL reports
+- Unsure about specific types of observations needed to identify these events
+- Data format retrieved? Is is a Pandas dataframe?
+- Manipulate to identify event duration, magnatude, location, and observational files used.
+- Add event information to database as well as references to data, imagery, and other information (metadata or resources)
+</code></pre>
+<p>b. Use ML to find similar events</p>
+<pre><code>- Once a small subset of events have been confirmed from the data, a training set will be created for each event type
+- Use of tensorflow to produce similar events within the spanse of observational records
+- Optimize algorithm used to optimize resource use
+</code></pre>
+<p>c. Use GPU processing to optimize ML techniques</p>
+<pre><code>- Use RAPIDS on NVIDIA resources to expedite processing of data for events
+- Build optimized algorithms to sift through large amounts of data for analysis
+</code></pre>
               
             </div>
           </div>
