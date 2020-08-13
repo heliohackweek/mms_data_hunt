@@ -1,5 +1,4 @@
 site_name: MeMeS (MMS events explorer)
-site_url: http://memes.jhuapl.edu
 theme:
     name: readthedocs
 extra_css: [extra.css]
