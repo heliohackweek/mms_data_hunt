@@ -7,6 +7,7 @@ __Challenges/Tasks:__
 1. SITL Reports Web Search
 
     a. Building the database.
+
         - Retrieve
         - Parse
     b. Frontend work
