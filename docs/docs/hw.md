@@ -5,6 +5,7 @@ This Helio HackWeek project aims at finding events within observational data fro
 __Challenges/Tasks:__
 
 1. SITL Reports Web Search
+
     a. Building the database.
         - Retrieve
         - Parse
