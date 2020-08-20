@@ -4,7 +4,7 @@ theme:
 extra_css: [extra.css]
 markdown_extensions:
   - admonition
-  - pymdownx.tasklist
+#  - pymdownx.tasklist
 nav:
   - Overview: 'index.md'
   - MMS Mission: 'mms.md'
