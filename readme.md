@@ -1,6 +1,6 @@
 # MeMeS (MMS Event Explorer)
 
-Project as part of the [2020 Helio HackWeek](https://heliohackweek.github.io/) Great MMS Data Hunt project.
+This project is part of the [2020 Helio HackWeek](https://heliohackweek.github.io/) Great MMS Data Hunt project.
 
 ---
 
