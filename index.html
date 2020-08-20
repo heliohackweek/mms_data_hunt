@@ -51,6 +51,10 @@
                 <ul class="current">
                     <li class="toctree-l1 current"><a class="reference internal current" href=".">Overview</a>
     <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#getting-set-up">Getting Set Up</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#set-up-for-remote-systems">Set Up for Remote Systems</a>
+    </li>
     </ul>
                     </li>
                 </ul>
@@ -96,6 +100,105 @@
               
                 <h1 id="memes-docs">MeMeS Docs</h1>
 <p>This is the documentation for the 2020 Heliophysics HackWeek to explore events noted by the SITL reports and within observations.</p>
+<h2 id="getting-set-up">Getting Set Up</h2>
+<p>In order for all of us to collaborate on a project together, we need to ensure that we all are able to contribute within the same environment. I recommend creating a virtual environment for such a reason and I will step you thru this process to do so on your local device.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The reason I prefer using Miniconda over Anaconda or Enthought's Canopy is two-fold: Miniconda only installs the minimum amount of Python packages needed to run the distribution; Miniconda would have initally faster imports for several packages as the pycache has not been built whereas Anaconda will be slower for that initial import to compile more of those packages.</p>
+<p>I do not use Canopy as it is not freely available for all features (mainly to add/remove Python packages at will).</p>
+</div>
+<ol>
+<li>
+<p>Obtain and Install Miniconda</p>
+<ul>
+<li>Miniconda can be downloaded from here: <a href="https://docs.conda.io/en/latest/miniconda.html">https://docs.conda.io/en/latest/miniconda.html</a>.<ul>
+<li>For Linux/Mac Operating Systems, I recommend using the files that download a <code>.sh</code> file. This can then be run from the Terminal/Command Prompt.</li>
+<li>For Windows, I will warn you to uninstall any prior installations of Python separate from ArcGIS and/or other self-contained installations. When installing packages, the exact location to install these gets clobbered within Windows installations that have multiple "Python"s. Miniconda, unlike Anaconda, will only install the Python <code>.exe</code> file. Ancaconda allows you to install the <code>Anaconda Navigator</code> which, in my experience, is confusing.</li>
+</ul>
+</li>
+<li>
+<p>Follow the installation instructions:</p>
+<ul>
+<li>
+<p>Linux/Mac, at the end, be sure to allow the installer to run the init script which will place the proper lines in your shell's rc file. You can find which shell you are running by the command:</p>
+<pre><code>echo $0
+</code></pre>
+</li>
+<li>
+<p>Windows, you will want to install from the <code>.exe</code> file and then use the <code>Anaconda Command Prompt</code> to use the modified environment that recognizes the proper Python installation.</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Test your default installation.</p>
+<ul>
+<li>
+<p>In order to test your installation, type <code>python</code> from the Terminal/Anaconda Prompt and you should see something similar to:</p>
+<pre><code>Python 3.8.3 
+[Clang 10.0.0 ] :: Anaconda, Inc.
+Type "help", "copyright", "credits" or "license" for more information.
+ &gt;&gt;&gt;
+</code></pre>
+</li>
+<li>
+<p>The <code>&gt;&gt;&gt;</code> shows that you are actually running the Python interpreter. This is what we want to see. To exit, type <code>exit()</code> and hit enter.</p>
+</li>
+<li>Please refer to <a href="https://github.com/edmondb/helio_info">this resource</a> for more links to get familiar with Python programming.</li>
+</ul>
+</li>
+<li>
+<p>Set Up a Virtual Environment</p>
+<ul>
+<li>
+<p>I recommend doing the following step in order to update the installers and default environment from the Terminal/Anaconda Command Prompt:</p>
+<pre><code>conda update conda
+conda install pip virtualenv
+</code></pre>
+</li>
+<li>
+<p>This updates the <em>conda</em> installer as well as installs a separate installer (<em>pip</em>) and the Python package that allows us to create virtual environments (<em>virtualenv</em>).</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Clone the GitHub Repository</p>
+<ul>
+<li>Most Linux/Mac systems already come with Git installed. Windows, you will want to <a href="https://git-scm.com/downloads">download</a> and install Git.</li>
+<li>
+<p>In order to clone the repository, you need to execute the following command (Windows, do this from the <code>Git Bash</code> which is separate from the <code>Anaconda Command Prompt</code>):</p>
+<pre><code>git clone https://github.com/heliohackweek/mms_data_hunt.git
+</code></pre>
+</li>
+<li>
+<p>There might be some configuration needed in order to do this, but it will "copy" the code into the current directory that you are at. Windows, you will need to know where that is or <code>cd</code> to a location before cloning so that you can work with the copied files.</p>
+</li>
+<li>Please refer to <a href="https://github.com/edmondb/helio_info">this resource</a> for more links to get familiar with Git.</li>
+</ul>
+</li>
+<li>
+<p>Test environment on your local device.</p>
+<ul>
+<li>
+<p>In the files that you cloned, there is a <code>test</code> folder that contains a script that will allow one to ensure that their environment is setup properly. To run this:</p>
+<pre><code>python /location/of/mms_data_hunt/test
+</code></pre>
+</li>
+<li>
+<p>It verifies that all the necessary imports are installed.</p>
+</li>
+</ul>
+</li>
+</ol>
+<h2 id="set-up-for-remote-systems">Set Up for Remote Systems</h2>
+<p>On other systems, you will most likely be provided a Python installation that has been built or is customized for you. Here is my recommendations for getting started for those systems.</p>
+<ol>
+<li>Log into the system.</li>
+<li>Load Python environment using (module load; sourcing a module file).</li>
+<li>Clone the GitHub Repository.</li>
+<li>Test environment on the remote system.</li>
+</ol>
               
             </div>
           </div>
@@ -149,5 +252,5 @@
 
 <!--
 MkDocs version : 1.1.2
-Build Date UTC : 2020-08-13 20:45:39.733013+00:00
+Build Date UTC : 2020-08-20 14:11:04.191033+00:00
 -->
