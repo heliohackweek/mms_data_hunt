@@ -49,7 +49,7 @@ Development of a project is not always linear and with varying degrees of skill 
     5. _(out of scope):_ Extend to produce a catalog of all events reported (beyond BBF and DF).
 - __Step 1:__ Event Finder
   - __Step 1.1:__ Build a Python package to search MMS data for events.
-    1. Use pyspedas to retrieve/stream data for specific dates and times reported from a sample CSV file from SITL database of reports.
+    1. Use [pyspedas](https://github.com/spedas/pyspedas) to retrieve/stream data for specific dates and times reported from a sample CSV file from SITL database of reports.
     2. Identify specific type of observation from MMS needed to identify/characterize events.
     3. Put data in a Pandas dataframe or structure in a more Python way.
     4. Manipulate data to identify event duration, magnitude, location, and observational files used.
