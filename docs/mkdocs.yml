@@ -4,6 +4,7 @@ theme:
 extra_css: [extra.css]
 markdown_extensions:
   - admonition
+  - attr_list
 #  - pymdownx.tasklist
 nav:
   - Overview: 'index.md'

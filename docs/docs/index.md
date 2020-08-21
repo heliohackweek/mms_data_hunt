@@ -63,5 +63,8 @@ On other systems, you will most likely be provided a Python installation that ha
 
 1. Log into the system.
 2. Load Python environment using (module load; sourcing a module file).
-3. Clone the GitHub Repository.
-4. Test environment on the remote system.
+    - Most remote systems are Linux OS-based. The administrators typically will allow the use of [modules](http://modules.sourceforge.net/) for environment/PATH modification.
+    - In order to see what modules are available: `modules avail`.
+    - Load a module: `module load module_name`.
+3. Clone the GitHub Repository. (see #3 above)
+4. Test environment on the remote system. (see #4 above)
