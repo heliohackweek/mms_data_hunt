@@ -31,14 +31,14 @@ To contribute to the scientific community a research-aiding utility that identif
 
 Development of a project is not always linear and with varying degrees of skill and knowledge one may be more interested in contributing to different portions of this single effort. Below, are possible paths of development that have been envisioned for this particular scope of a 3-day programming sprint and out of scope development for future collaboration:
 
-- __Step 0:__ Process SITL Reports __<span style="color:red">(currently in progress)</style>__
+- __Step 0:__ Process SITL Reports __(currently in progress)__
   - __Step 0.1:__ Build the ground-truth database
     1. Retrieve ASCII reports from [Berkeley](https://www.ssl.berkeley.edu/~moka/eva/sitl_report.html) in a programmatic way.
-      - _(out of scope)_: Create a RESTFul, web-based API that allows scientists to search for events.
+        - _(out of scope)_: Create a RESTFul, web-based API that allows scientists to search for events.
     2. Parse reports to obtain records of BBF and DF events.
-      - _(out of scope)_: Create a machine learning algorithm to pick up more events based upon case sensitivity, misspelling, and typographic errors. For now, a 1-year record of exact (or minimal variations) phrase occurances will suffice.
+        - _(out of scope)_: Create a machine learning algorithm to pick up more events based upon case sensitivity, misspelling, and typographic errors. For now, a 1-year record of exact (or minimal variations) phrase occurances will suffice.
     3. Store results in a database for future use and organization.
-      - _(out of scope)_: Weigh the options of SQL and SQL-less types of storage. For now, a SQLite file-based database will suffice.
+        - _(out of scope)_: Weigh the options of SQL and SQL-less types of storage. For now, a SQLite file-based database will suffice.
     4. _(out of scope)_: Automate process for future reports as well as process full record of reports.
     5. _(out of scope)_: Create a standardized mechanism and format for reporting.
   - __Step 0.2:__ Frontend work
