@@ -1,0 +1,7 @@
+Some scientific articles related to MMS and BBF. 
+
+0. [KEY PAPER FROM PITCH] Contribution of Bursty Bulk Flows to the Global Dipolarization of the Magnetotail During an Isolated Substorm | https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JA026872
+
+1. MMS SITL Ground Loop: Automating the burst data selection process | https://arxiv.org/pdf/2004.07199.pdf
+2. BBF Deceleration Down‐Tail of X < −15 RE From MMS Observation | https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JA026837
+3. [INFO ON FOM] Magnetospheric Multiscale Instrument Suite Operations and Data System | https://link.springer.com/article/10.1007/s11214-014-0128-5
