@@ -1,0 +1,80 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-05-18/12:41:53 - 2019-05-18/12:44:03, 100.0, seriksson(EVA), Extended partial MP
+2019-05-18/12:44:03 - 2019-05-18/12:46:13, 100.0, seriksson(EVA), Extended partial MP
+2019-05-18/12:46:13 - 2019-05-18/12:48:23, 100.0, seriksson(EVA), Extended partial MP
+2019-05-18/12:48:23 - 2019-05-18/12:50:33, 100.0, seriksson(EVA), Extended partial MP
+2019-05-18/12:50:33 - 2019-05-18/12:52:43, 100.0, seriksson(EVA), Extended partial MP
+2019-05-18/12:52:43 - 2019-05-18/12:54:53, 100.0, seriksson(EVA), Extended partial MP
+2019-05-18/12:54:53 - 2019-05-18/12:57:03, 100.0, seriksson(EVA), Extended partial MP
+2019-05-18/13:11:23 - 2019-05-18/13:13:33, 100.0, seriksson(EVA), Extended partial MP
+2019-05-18/13:13:33 - 2019-05-18/13:15:43, 100.0, seriksson(EVA), Extended partial MP
+2019-05-18/13:15:43 - 2019-05-18/13:17:43, 100.0, seriksson(EVA), Extended partial MP
+2019-05-18/13:17:43 - 2019-05-18/13:19:53, 100.0, seriksson(EVA), Extended partial MP
+2019-05-18/13:19:53 - 2019-05-18/13:22:03, 100.0, seriksson(EVA), Extended partial MP
+2019-05-18/13:22:03 - 2019-05-18/13:24:23, 100.0, seriksson(EVA), Extended partial MP
+2019-05-18/13:24:23 - 2019-05-18/13:26:53, 100.0, seriksson(EVA), Extended partial MP
+2019-05-18/13:27:53 - 2019-05-18/13:31:23, 100.0, seriksson(EVA),  Partial MP
+2019-05-18/13:51:13 - 2019-05-18/13:53:33,  90.0, seriksson(EVA),  Boundary layer
+2019-05-18/13:53:33 - 2019-05-18/13:55:53,  90.0, seriksson(EVA),  Boundary layer
+2019-05-18/13:55:53 - 2019-05-18/13:58:43,  90.0, seriksson(EVA),  Boundary layer
+2019-05-18/14:07:23 - 2019-05-18/14:10:23, 100.0, seriksson(EVA), Two partial MPs
+2019-05-18/14:18:33 - 2019-05-18/14:20:23, 100.0, seriksson(EVA),  Partial MP
+2019-05-18/14:20:23 - 2019-05-18/14:22:13, 100.0, seriksson(EVA),  Partial MP
+2019-05-18/14:23:33 - 2019-05-18/14:26:13, 110.0, seriksson(EVA),  Partial MP with larger B rotations
+2019-05-18/14:29:33 - 2019-05-18/14:30:43,  50.0, seriksson(EVA),  Boundary layer
+2019-05-18/14:31:23 - 2019-05-18/14:32:33,  75.0, seriksson(EVA),  Boundary layer
+2019-05-18/14:34:23 - 2019-05-18/14:35:23, 120.0, seriksson(EVA),  Msheath CS
+2019-05-18/14:36:43 - 2019-05-18/14:38:33,  95.0, seriksson(EVA),  Boundary layer and deep magnetic hole
+2019-05-18/14:47:23 - 2019-05-18/14:48:23,  85.0, seriksson(EVA),  Boundary layer with By rotations
+2019-05-18/14:48:53 - 2019-05-18/14:51:13, 150.0, seriksson(EVA),  Extended complete MP into boundary plasma sheet (BPS)
+2019-05-18/14:51:13 - 2019-05-18/14:53:23, 150.0, seriksson(EVA),  Extended complete MP into boundary plasma sheet (BPS)
+2019-05-18/14:53:23 - 2019-05-18/14:55:43, 150.0, seriksson(EVA),  Extended complete MP into boundary plasma sheet (BPS)
+2019-05-18/14:55:43 - 2019-05-18/14:58:03, 150.0, seriksson(EVA),  Extended complete MP into boundary plasma sheet (BPS)
+2019-05-18/15:02:03 - 2019-05-18/15:04:23, 120.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:04:23 - 2019-05-18/15:06:43, 120.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:06:43 - 2019-05-18/15:09:13, 120.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:09:13 - 2019-05-18/15:11:33, 120.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:11:33 - 2019-05-18/15:13:53, 120.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:13:53 - 2019-05-18/15:16:13, 140.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:16:13 - 2019-05-18/15:18:33, 140.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:18:33 - 2019-05-18/15:20:53, 120.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:20:53 - 2019-05-18/15:23:23, 120.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:23:23 - 2019-05-18/15:25:43, 120.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:25:43 - 2019-05-18/15:28:03, 120.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:28:03 - 2019-05-18/15:30:23, 120.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:30:23 - 2019-05-18/15:32:43, 120.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:32:43 - 2019-05-18/15:35:13, 120.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:35:13 - 2019-05-18/15:37:33, 140.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:37:33 - 2019-05-18/15:39:53, 140.0, seriksson(EVA),  Potential mid-latitude KH waves with induced CS
+2019-05-18/15:47:03 - 2019-05-18/15:52:03, 120.0, seriksson(EVA),  Partial MP with enhanced Tipara and potential mid-latitude KH-induced B rotations
+2019-05-18/15:52:53 - 2019-05-18/15:56:53, 120.0, seriksson(EVA),  Partial MP with enhanced Tipara and potential mid-latitude KH-induced B rotations
+2019-05-18/15:59:43 - 2019-05-18/16:04:03, 120.0, seriksson(EVA),  Partial MP with enhanced Tipara and potential mid-latitude KH-induced B rotations
+2019-05-18/16:25:13 - 2019-05-18/16:27:03,  95.0, seriksson(EVA), Boundary layer with enhanced Tipara - potentially KHI related
+2019-05-18/16:27:43 - 2019-05-18/16:30:43,  95.0, seriksson(EVA),  Extended boundary layer with large Tipara and deep magnetic hole
+2019-05-18/17:17:23 - 2019-05-18/17:18:23,  90.0, seriksson(EVA),  Very deep msheath magnetic hole
+2019-05-18/18:05:23 - 2019-05-18/18:06:33,  90.0, seriksson(EVA),  Very deep msheath magnetic hole
+2019-05-18/19:27:23 - 2019-05-18/19:29:03,  90.0, seriksson(EVA),  Boundary layer
+2019-05-18/20:05:03 - 2019-05-18/20:06:03, 150.0, seriksson(EVA), Low-shear msheath CS with likely exhaust
+2019-05-18/21:12:13 - 2019-05-18/21:14:13, 150.0, seriksson(EVA),  Msheath Bz CS with potential exhaust
+2019-05-19/22:58:33 - 2019-05-19/23:03:43,  90.0, margall(EVA)," SW turbulence, 5keV foreshock ions"
+2019-05-19/23:03:43 - 2019-05-19/23:09:03,  90.0, margall(EVA)," SW turbulence, 5keV foreshock ions"
+2019-05-19/23:36:13 - 2019-05-19/23:36:53, 100.0, margall(EVA), SW CS
+2019-05-19/23:37:23 - 2019-05-19/23:37:53,  60.0, margall(EVA), SLAMs
+2019-05-20/00:05:33 - 2019-05-20/00:06:33, 120.0, margall(EVA), SW CS
+2019-05-20/00:15:33 - 2019-05-20/00:16:23, 120.0, margall(EVA), Solar wind CS
+2019-05-20/00:40:23 - 2019-05-20/00:42:03, 120.0, margall(EVA), Solar Wind CS
+2019-05-20/00:47:03 - 2019-05-20/00:50:33, 120.0, margall(EVA)," SW CS, increase in Te"
+2019-05-20/08:16:03 - 2019-05-20/08:18:33,  80.0, margall(EVA)," Quasi-perpendicular BS, low mach number, in-and-out motion"
+2019-05-20/08:18:33 - 2019-05-20/08:21:03,  80.0, margall(EVA)," Quasi-perpendicular BS, low mach number, in-and-out motion"
+2019-05-20/08:21:03 - 2019-05-20/08:23:23,  80.0, margall(EVA)," Quasi-perpendicular BS, low mach number, in-and-out motion"
+2019-05-20/08:23:23 - 2019-05-20/08:25:53,  80.0, margall(EVA)," Quasi-perpendicular BS, low mach number, in-and-out motion"
+2019-05-20/08:25:53 - 2019-05-20/08:28:23,  80.0, margall(EVA)," Quasi-perpendicular BS, low mach number, in-and-out motion"
+2019-05-20/08:36:13 - 2019-05-20/08:37:03, 125.0, margall(EVA), MSH CS
+2019-05-20/11:08:13 - 2019-05-20/11:10:23, 150.0, margall(EVA), MSH Bifurcated Bx CS
+2019-05-20/11:10:23 - 2019-05-20/11:12:43, 150.0, margall(EVA), MSH Bifurcated Bx CS
+2019-05-20/11:12:43 - 2019-05-20/11:14:53, 150.0, margall(EVA), MSH Bifurcated Bx CS
+2019-05-20/12:06:53 - 2019-05-20/12:09:23, 150.0, margall(EVA), MSH bifurcated CS
+2019-05-20/13:54:03 - 2019-05-20/13:56:33, 150.0, margall(EVA), Bifurcated MSH current sheet
+2019-05-20/13:56:33 - 2019-05-20/13:59:03, 150.0, margall(EVA), Bifurcated MSH current sheet
+2019-05-20/13:59:03 - 2019-05-20/14:01:33, 150.0, margall(EVA), Bifurcated MSH current sheet
+2019-05-20/14:20:13 - 2019-05-20/14:21:53, 125.0, margall(EVA), MSH Bifurcated CS

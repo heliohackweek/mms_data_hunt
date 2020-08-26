@@ -1,0 +1,69 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-02-02/14:16:03 - 2019-02-02/14:16:53, 110.0, seriksson(EVA),  Partial MP (mms2)
+2019-02-02/14:17:23 - 2019-02-02/14:18:43, 110.0, seriksson(EVA),"  Partial MP (mms1,2)"
+2019-02-02/14:21:23 - 2019-02-02/14:23:33, 100.0, seriksson(EVA), Three low-shear partial MPs with some flow disturbances
+2019-02-02/14:23:33 - 2019-02-02/14:25:33, 100.0, seriksson(EVA), Three low-shear partial MPs with some flow disturbances
+2019-02-02/14:25:33 - 2019-02-02/14:27:43, 100.0, seriksson(EVA), Three low-shear partial MPs with some flow disturbances
+2019-02-02/14:27:43 - 2019-02-02/14:29:53, 100.0, seriksson(EVA), Three low-shear partial MPs with some flow disturbances
+2019-02-02/14:29:53 - 2019-02-02/14:31:43, 175.0, seriksson(EVA),  Complete high-shear MP crossing
+2019-02-02/14:31:43 - 2019-02-02/14:33:33, 175.0, seriksson(EVA),  Complete high-shear MP crossing
+2019-02-02/14:33:33 - 2019-02-02/14:35:43, 175.0, seriksson(EVA),  Complete high-shear MP crossing
+2019-02-02/14:35:43 - 2019-02-02/14:38:03, 155.0, seriksson(EVA),  Complete high-shear MP crossing
+2019-02-02/14:40:03 - 2019-02-02/14:41:03,  60.0, seriksson(EVA),  Boundary layer encounter
+2019-02-02/14:47:13 - 2019-02-02/14:48:23, 100.0, seriksson(EVA), Partial MP encounter
+2019-02-02/14:48:43 - 2019-02-02/14:51:13, 125.0, seriksson(EVA),  Partial MP with Bz rotation and possible Viz jet
+2019-02-02/14:59:43 - 2019-02-02/15:02:13,  90.0, seriksson(EVA),  Boundary layer encounter with Bx rotation
+2019-02-02/15:51:23 - 2019-02-02/15:54:03, 120.0, seriksson(EVA),  Turbulent msheath near bow shock
+2019-02-02/16:10:03 - 2019-02-02/16:11:53, 120.0, seriksson(EVA),  Msheath Bz CS
+2019-02-02/16:11:53 - 2019-02-02/16:13:33, 125.0, seriksson(EVA), Bow shock encounter with fast Vix jet
+2019-02-02/16:18:03 - 2019-02-02/16:18:53, 120.0, seriksson(EVA),  Msheath CS
+2019-02-02/16:18:53 - 2019-02-02/16:20:03, 120.0, seriksson(EVA),  Msheath CS
+2019-02-02/16:26:43 - 2019-02-02/16:28:53, 120.0, seriksson(EVA),  Msheath Bz CS
+2019-02-02/16:30:33 - 2019-02-02/16:31:53, 120.0, seriksson(EVA),  Msheath By CS
+2019-02-02/16:33:33 - 2019-02-02/16:35:13, 120.0, seriksson(EVA),  Msheath Bz CS - too narrow to resolve
+2019-02-02/16:35:33 - 2019-02-02/16:37:23, 110.0, seriksson(EVA),  Skimming bow shock
+2019-02-02/16:37:23 - 2019-02-02/16:39:13, 110.0, seriksson(EVA),  Skimming bow shock
+2019-02-02/16:39:13 - 2019-02-02/16:41:03, 110.0, seriksson(EVA),  Skimming bow shock
+2019-02-02/16:42:13 - 2019-02-02/16:44:13, 110.0, seriksson(EVA),  Skimming bow shock
+2019-02-02/16:44:13 - 2019-02-02/16:46:23, 110.0, seriksson(EVA),  Skimming bow shock
+2019-02-02/16:48:43 - 2019-02-02/16:51:13, 115.0, seriksson(EVA),  Quasi-perp bow shock
+2019-02-02/16:54:23 - 2019-02-02/16:58:13, 115.0, seriksson(EVA),  Quasi-perp bow shock
+2019-02-02/16:58:53 - 2019-02-02/17:00:53, 115.0, seriksson(EVA),  Skimming bow shock
+2019-02-02/17:00:53 - 2019-02-02/17:03:03, 115.0, seriksson(EVA),  Skimming bow shock
+2019-02-02/17:03:03 - 2019-02-02/17:05:03, 115.0, seriksson(EVA),  Skimming bow shock
+2019-02-02/17:07:03 - 2019-02-02/17:10:53, 115.0, seriksson(EVA), Quasi-perp bow shock
+2019-02-02/17:16:03 - 2019-02-02/17:18:03,  90.0, seriksson(EVA),  Foreshock waves
+2019-02-02/17:21:43 - 2019-02-02/17:23:23, 115.0, seriksson(EVA),  Bifurcated solar wind By CS
+2019-02-02/17:35:03 - 2019-02-02/17:35:43, 120.0, seriksson(EVA),  Bifurcated solar wind Bz CS - too narrow to resolve Viz
+2019-02-02/17:54:43 - 2019-02-02/17:55:23, 120.0, seriksson(EVA),  Bifurcated solar wind By CS
+2019-02-02/18:08:43 - 2019-02-02/18:10:03, 175.0, seriksson(EVA),  Solar wind Byz CS with Viy reconnection jet
+2019-02-02/18:18:43 - 2019-02-02/18:19:23, 115.0, seriksson(EVA),"  Deep, single solar wind magnetic hole"
+2019-02-02/18:39:43 - 2019-02-02/18:40:23, 120.0, seriksson(EVA),  Solar wind Bxz CS - too narrow to resolve Vi
+2019-02-02/18:40:53 - 2019-02-02/18:41:43, 140.0, seriksson(EVA),  Very narrow solar wind Bxz CS
+2019-02-02/20:06:03 - 2019-02-02/20:07:03, 120.0, seriksson(EVA),  Solar wind By CS - too narrow to  resolve Viy
+2019-02-02/20:17:13 - 2019-02-02/20:17:53, 110.0, seriksson(EVA),  Solar wind Bxz CS
+2019-02-02/20:18:03 - 2019-02-02/20:18:43, 135.0, seriksson(EVA),  Solar wind Bz CS - maybe Viz jet
+2019-02-02/20:19:03 - 2019-02-02/20:19:43, 130.0, seriksson(EVA),  Bifurcated solar wind Bxz CS
+2019-02-02/20:24:13 - 2019-02-02/20:26:13, 160.0, seriksson(EVA),  Bifurcated solar wind By CS with weak Viy jet
+2019-02-02/20:56:53 - 2019-02-02/20:59:03, 145.0, seriksson(EVA), Potential bifurcated solar wind Bz CS with foreshock ions and Viz jet
+2019-02-02/21:37:03 - 2019-02-02/21:38:23, 115.0, seriksson(EVA), Deep magnetic hole in foreshock
+2019-02-02/22:05:33 - 2019-02-02/22:06:33, 125.0, seriksson(EVA),  Narrow solar wind By CS
+2019-02-02/22:37:43 - 2019-02-02/22:39:03, 145.0, seriksson(EVA),  Narrow solar wind Bz CS
+2019-02-02/22:47:23 - 2019-02-02/22:48:23, 145.0, seriksson(EVA),  Narrow solar wind Bz CS
+2019-02-02/22:58:43 - 2019-02-02/23:00:03, 100.0, fplaschke(EVA), SW magnetic hole or foreshock structure
+2019-02-03/21:33:43 - 2019-02-03/21:36:03, 100.0, fplaschke(EVA)," SW current sheets, wave interval start"
+2019-02-03/21:45:43 - 2019-02-03/21:46:23,  75.0, fplaschke(EVA), SW wavelet
+2019-02-03/21:48:23 - 2019-02-03/21:48:53,  75.0, fplaschke(EVA), SW wavelet
+2019-02-03/21:49:33 - 2019-02-03/21:51:53,  75.0, fplaschke(EVA), SW wavelets
+2019-02-03/21:51:53 - 2019-02-03/21:54:03,  75.0, fplaschke(EVA), SW wavelets
+2019-02-03/21:54:03 - 2019-02-03/21:56:23,  75.0, fplaschke(EVA), SW wavelets
+2019-02-03/22:01:33 - 2019-02-03/22:04:53,  75.0, fplaschke(EVA), SW wavelets
+2019-02-03/22:06:03 - 2019-02-03/22:06:53,  75.0, fplaschke(EVA), SW wavelets
+2019-02-03/22:07:03 - 2019-02-03/22:10:03,  75.0, fplaschke(EVA), SW wavelets
+2019-02-03/22:13:33 - 2019-02-03/22:16:03,  75.0, fplaschke(EVA), SW wavelets
+2019-02-03/23:06:23 - 2019-02-03/23:08:53,  75.0, fplaschke(EVA), SW waves
+2019-02-03/23:08:53 - 2019-02-03/23:11:23,  75.0, fplaschke(EVA), SW waves
+2019-02-03/23:11:23 - 2019-02-03/23:13:53,  75.0, fplaschke(EVA), SW waves
+2019-02-03/23:32:33 - 2019-02-03/23:33:13,  75.0, fplaschke(EVA), SW wavelets
+2019-02-03/23:37:13 - 2019-02-03/23:37:53,  75.0, fplaschke(EVA), SW wavelets
+2019-02-03/23:43:23 - 2019-02-03/23:43:53,  75.0, fplaschke(EVA), SW wavelets

@@ -1,0 +1,135 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-06-05/05:45:53 - 2017-06-05/05:47:23, 120.0, nahmadi(EVA),"  BBF, Velocity 100km/s"
+2017-06-05/05:47:23 - 2017-06-05/05:49:53, 120.0, nahmadi(EVA),"  BBF, Velocity 100km/s"
+2017-06-05/05:53:53 - 2017-06-05/05:55:53,  60.0, nahmadi(EVA),  Magnetic nulls
+2017-06-05/05:55:53 - 2017-06-05/05:58:03,  80.0, nahmadi(EVA),  Magnetic nulls
+2017-06-05/05:58:03 - 2017-06-05/06:00:03,  80.0, nahmadi(EVA),  Magnetic nulls
+2017-06-05/06:00:03 - 2017-06-05/06:02:33,  80.0, nahmadi(EVA),  Magnetic nulls
+2017-06-05/06:02:33 - 2017-06-05/06:04:53,  80.0, nahmadi(EVA),  Magnetic nulls
+2017-06-05/06:21:43 - 2017-06-05/06:24:23, 120.0, nahmadi(EVA)," BBF with enhanced Bz, Possible TCR "
+2017-06-05/06:49:43 - 2017-06-05/06:51:23,  70.0, nahmadi(EVA),  High vy flow and Bz fluctuations
+2017-06-05/06:51:23 - 2017-06-05/06:53:03,  70.0, nahmadi(EVA),  High vy flow and Bz fluctuations
+2017-06-05/10:19:53 - 2017-06-05/10:21:13, 100.0, nahmadi(EVA),"  BBF, enhanced Bz w/weak vx flow"
+2017-06-05/11:44:33 - 2017-06-05/11:46:43, 100.0, nahmadi(EVA), PSBL
+2017-06-05/11:46:43 - 2017-06-05/11:48:43, 100.0, nahmadi(EVA), PSBL
+2017-06-05/11:48:43 - 2017-06-05/11:50:53, 100.0, nahmadi(EVA), PSBL
+2017-06-05/11:50:53 - 2017-06-05/11:52:53, 100.0, nahmadi(EVA), PSBL
+2017-06-05/11:52:53 - 2017-06-05/11:54:53, 120.0, nahmadi(EVA), vx flow reversal
+2017-06-05/11:54:53 - 2017-06-05/11:57:23, 120.0, nahmadi(EVA), vx flow reversal
+2017-06-05/12:16:43 - 2017-06-05/12:18:53, 140.0, nahmadi(EVA), Bz reversal w/earthward flow
+2017-06-05/12:18:53 - 2017-06-05/12:20:53, 120.0, nahmadi(EVA), Bz reversal w/earthward flow
+2017-06-05/12:20:53 - 2017-06-05/12:23:03, 120.0, nahmadi(EVA), Bz reversal w/earthward flow
+2017-06-05/12:23:03 - 2017-06-05/12:25:03,  80.0, nahmadi(EVA),  vx and vy flow reversal w/B fluctuations
+2017-06-05/12:25:03 - 2017-06-05/12:27:03, 110.0, nahmadi(EVA),  vx and vy flow reversal w/B fluctuations
+2017-06-05/12:27:03 - 2017-06-05/12:30:23, 110.0, nahmadi(EVA),  vx and vy flow reversal w/B fluctuations and enhanced current
+2017-06-05/12:55:23 - 2017-06-05/12:57:43,  80.0, nahmadi(EVA), magnetic nulls
+2017-06-05/12:57:43 - 2017-06-05/12:59:53,  80.0, nahmadi(EVA), magnetic nulls
+2017-06-05/12:59:53 - 2017-06-05/13:02:13, 100.0, nahmadi(EVA), magnetic nulls w/current
+2017-06-05/13:20:23 - 2017-06-05/13:22:13, 120.0, nahmadi(EVA), BBF 
+2017-06-05/13:22:13 - 2017-06-05/13:23:53, 120.0, nahmadi(EVA), BBF 
+2017-06-05/13:23:53 - 2017-06-05/13:25:43, 120.0, nahmadi(EVA), BBF 
+2017-06-05/13:25:43 - 2017-06-05/13:28:13, 120.0, nahmadi(EVA), BBF and strong current 
+2017-06-05/13:35:13 - 2017-06-05/13:36:33, 160.0, nahmadi(EVA), PSBL and DF 
+2017-06-05/13:36:33 - 2017-06-05/13:37:53, 160.0, nahmadi(EVA), PSBL and DF 
+2017-06-05/13:38:33 - 2017-06-05/13:40:33, 120.0, nahmadi(EVA), PSBL 
+2017-06-05/13:56:43 - 2017-06-05/13:59:03, 120.0, nahmadi(EVA), vx flow reversal w/high currents 
+2017-06-05/13:59:03 - 2017-06-05/14:01:23, 120.0, nahmadi(EVA), vx flow reversal w/high currents 
+2017-06-05/14:01:23 - 2017-06-05/14:03:33, 120.0, nahmadi(EVA), vx flow reversal w/high currents 
+2017-06-05/14:03:33 - 2017-06-05/14:05:53, 150.0, nahmadi(EVA), Bz enhancement w/vx flow and high currents 
+2017-06-05/14:05:53 - 2017-06-05/14:08:13, 150.0, nahmadi(EVA), Bz enhancement w/vx flow and high currents 
+2017-06-05/14:08:13 - 2017-06-05/14:10:33, 120.0, nahmadi(EVA), vx flow reversal w/high currents 
+2017-06-05/16:45:53 - 2017-06-05/16:48:03, 150.0, nahmadi(EVA), Strong vx flow w/Bx reversal
+2017-06-05/16:48:03 - 2017-06-05/16:50:13, 150.0, nahmadi(EVA), Strong vx flow w/Bx reversal
+2017-06-05/16:50:13 - 2017-06-05/16:52:23, 150.0, nahmadi(EVA), Strong vx flow w/Bx reversal
+2017-06-05/16:52:23 - 2017-06-05/16:54:33, 150.0, nahmadi(EVA), Strong vx flow w/Bx reversal
+2017-06-05/16:54:33 - 2017-06-05/16:56:43, 150.0, nahmadi(EVA), Strong vx flow w/Bx reversal
+2017-06-05/16:56:43 - 2017-06-05/16:58:53, 150.0, nahmadi(EVA), Strong vx flow w/Bx reversal
+2017-06-05/17:16:43 - 2017-06-05/17:19:03, 140.0, nahmadi(EVA), Bx and By reversal w/Bz enhancement and high currents
+2017-06-05/17:19:03 - 2017-06-05/17:21:33, 140.0, nahmadi(EVA), Bx and By reversal w/Bz enhancement and high currents
+2017-06-05/17:21:33 - 2017-06-05/17:23:53, 140.0, nahmadi(EVA), Bx and By reversal w/Bz enhancement and high currents
+2017-06-05/17:30:13 - 2017-06-05/17:31:53, 120.0, nahmadi(EVA), BBF
+2017-06-05/17:31:53 - 2017-06-05/17:33:43, 120.0, nahmadi(EVA), BBF
+2017-06-05/17:33:43 - 2017-06-05/17:35:23, 120.0, nahmadi(EVA), BBF
+2017-06-05/18:12:53 - 2017-06-05/18:15:13, 120.0, nahmadi(EVA), vx flow w/Bx reversal 
+2017-06-05/18:15:13 - 2017-06-05/18:17:43, 120.0, nahmadi(EVA), vx flow w/Bx reversal 
+2017-06-05/18:17:43 - 2017-06-05/18:20:03, 120.0, nahmadi(EVA), vx flow w/Bx reversal 
+2017-06-05/18:20:03 - 2017-06-05/18:22:33, 120.0, nahmadi(EVA), vx flow w/Bx reversal 
+2017-06-05/18:47:13 - 2017-06-05/18:49:33, 100.0, nahmadi(EVA), Possible BBF 
+2017-06-05/18:49:33 - 2017-06-05/18:52:03, 100.0, nahmadi(EVA), Possible BBF 
+2017-06-05/18:52:03 - 2017-06-05/18:54:23, 100.0, nahmadi(EVA), Possible BBF 
+2017-06-05/18:54:23 - 2017-06-05/18:56:53, 100.0, nahmadi(EVA), Possible BBF 
+2017-06-05/18:56:53 - 2017-06-05/18:59:13, 100.0, nahmadi(EVA), Possible BBF 
+2017-06-05/22:01:03 - 2017-06-05/22:03:23, 140.0, nahmadi(EVA), vx flow w/high currents and Bz reversals
+2017-06-05/22:03:23 - 2017-06-05/22:05:43, 140.0, nahmadi(EVA), vx flow w/high currents and Bz reversals
+2017-06-05/22:38:23 - 2017-06-05/22:40:43, 150.0, nahmadi(EVA), Stong vx flow w/Bz reversal
+2017-06-05/22:40:43 - 2017-06-05/22:43:13, 150.0, nahmadi(EVA), Stong vx flow w/Bz reversal
+2017-06-05/22:43:13 - 2017-06-05/22:45:33, 150.0, nahmadi(EVA), Stong vx flow w/Bz reversal
+2017-06-05/22:45:33 - 2017-06-05/22:48:03, 150.0, nahmadi(EVA), Stong vx flow w/Bz reversal
+2017-06-05/22:48:03 - 2017-06-05/22:50:23, 150.0, nahmadi(EVA), Stong vx flow w/Bz reversal
+2017-06-05/22:50:23 - 2017-06-05/22:52:53, 150.0, nahmadi(EVA), Stong vx flow w/Bz reversal
+2017-06-06/00:32:13 - 2017-06-06/00:34:43, 120.0, nahmadi(EVA), BBF
+2017-06-06/00:34:43 - 2017-06-06/00:37:03, 120.0, nahmadi(EVA), BBF
+2017-06-06/00:37:03 - 2017-06-06/00:39:33, 120.0, nahmadi(EVA), BBF
+2017-06-06/00:39:33 - 2017-06-06/00:42:03, 120.0, nahmadi(EVA), BBF
+2017-06-06/00:42:03 - 2017-06-06/00:44:33, 120.0, nahmadi(EVA), BBF
+2017-06-06/00:49:23 - 2017-06-06/00:51:53, 120.0, nahmadi(EVA), BBF
+2017-06-06/00:51:53 - 2017-06-06/00:54:23, 120.0, nahmadi(EVA), BBF
+2017-06-06/00:54:23 - 2017-06-06/00:56:53, 120.0, nahmadi(EVA), BBF
+2017-06-06/00:56:53 - 2017-06-06/00:59:13, 120.0, nahmadi(EVA), BBF
+2017-06-06/00:59:13 - 2017-06-06/01:01:43, 120.0, nahmadi(EVA), BBF
+2017-06-06/01:10:13 - 2017-06-06/01:12:33, 150.0, nahmadi(EVA), Strong vx flow 
+2017-06-06/01:12:33 - 2017-06-06/01:15:03, 150.0, nahmadi(EVA), Strong vx flow 
+2017-06-06/01:15:03 - 2017-06-06/01:17:33, 150.0, nahmadi(EVA), Strong vx flow 
+2017-06-06/01:17:33 - 2017-06-06/01:19:53, 150.0, nahmadi(EVA), Strong vx flow 
+2017-06-06/01:19:53 - 2017-06-06/01:22:23, 150.0, nahmadi(EVA), Strong vx flow 
+2017-06-06/01:22:23 - 2017-06-06/01:24:53, 150.0, nahmadi(EVA), Strong vx flow 
+2017-06-06/05:28:53 - 2017-06-06/05:30:43, 120.0, nahmadi(EVA), Fast tailward flow w/strong current 
+2017-06-06/05:30:43 - 2017-06-06/05:32:43, 120.0, nahmadi(EVA), Fast tailward flow w/strong current 
+2017-06-06/05:32:43 - 2017-06-06/05:34:33, 120.0, nahmadi(EVA), Fast tailward flow w/strong current 
+2017-06-06/05:34:33 - 2017-06-06/05:36:33, 120.0, nahmadi(EVA), Fast tailward flow w/strong current 
+2017-06-06/06:52:53 - 2017-06-06/06:55:03, 100.0, nahmadi(EVA), Possible BBF 
+2017-06-06/06:55:03 - 2017-06-06/06:57:03, 100.0, nahmadi(EVA), Possible BBF 
+2017-06-06/06:57:03 - 2017-06-06/06:59:13, 100.0, nahmadi(EVA), Possible BBF 
+2017-06-06/06:59:13 - 2017-06-06/07:01:23, 100.0, nahmadi(EVA), Possible BBF 
+2017-06-06/08:05:13 - 2017-06-06/08:07:43, 120.0, nahmadi(EVA), Multiple vx flow reversal w/Bz enhancements 
+2017-06-06/08:07:43 - 2017-06-06/08:10:03, 120.0, nahmadi(EVA), Multiple vx flow reversal w/Bz enhancements 
+2017-06-06/08:10:03 - 2017-06-06/08:12:33, 120.0, nahmadi(EVA), Multiple vx flow reversal w/Bz enhancements 
+2017-06-06/08:12:33 - 2017-06-06/08:15:03, 120.0, nahmadi(EVA), Multiple vx flow reversal w/Bz enhancements 
+2017-06-06/08:15:03 - 2017-06-06/08:17:23, 120.0, nahmadi(EVA), Multiple vx flow reversal w/Bz enhancements 
+2017-06-06/08:17:23 - 2017-06-06/08:19:53, 120.0, nahmadi(EVA), Multiple vx flow reversal w/Bz enhancements 
+2017-06-06/08:24:43 - 2017-06-06/08:27:13, 120.0, nahmadi(EVA), Multiple vx flow reversal w/Bz enhancements 
+2017-06-06/08:27:13 - 2017-06-06/08:29:33, 120.0, nahmadi(EVA), Multiple vx flow reversal w/Bz enhancements 
+2017-06-06/08:29:33 - 2017-06-06/08:32:03, 120.0, nahmadi(EVA), Multiple vx flow reversal w/Bz enhancements 
+2017-06-06/08:32:03 - 2017-06-06/08:34:33, 120.0, nahmadi(EVA), Multiple vx flow reversal w/Bz enhancements 
+2017-06-06/08:34:33 - 2017-06-06/08:36:53, 120.0, nahmadi(EVA), Multiple vx flow reversal w/Bz enhancements 
+2017-06-06/09:58:53 - 2017-06-06/10:01:03, 100.0, nahmadi(EVA), PSBL
+2017-06-06/10:01:03 - 2017-06-06/10:03:13, 100.0, nahmadi(EVA), PSBL
+2017-06-06/10:03:13 - 2017-06-06/10:05:33, 100.0, nahmadi(EVA), PSBL
+2017-06-06/10:05:33 - 2017-06-06/10:07:43, 100.0, nahmadi(EVA), PSBL
+2017-06-06/10:27:33 - 2017-06-06/10:29:33,  80.0, nahmadi(EVA), vx flow reversal
+2017-06-06/10:29:33 - 2017-06-06/10:31:33,  80.0, nahmadi(EVA), vx flow reversal
+2017-06-06/10:31:33 - 2017-06-06/10:33:33,  80.0, nahmadi(EVA), vx flow reversal
+2017-06-06/11:34:03 - 2017-06-06/11:35:53, 100.0, nahmadi(EVA), vx flow reversal w/electrostatic wave activity 
+2017-06-06/11:35:53 - 2017-06-06/11:37:33, 100.0, nahmadi(EVA), vx flow reversal w/electrostatic wave activity 
+2017-06-06/11:37:33 - 2017-06-06/11:39:23, 100.0, nahmadi(EVA), vx flow reversal w/electrostatic wave activity 
+2017-06-06/15:17:13 - 2017-06-06/15:19:13, 100.0, nahmadi(EVA), vx flow reversal w/Bx decrease 
+2017-06-06/15:19:13 - 2017-06-06/15:21:13, 100.0, nahmadi(EVA), vx flow reversal w/Bx decrease 
+2017-06-06/15:21:13 - 2017-06-06/15:23:23, 100.0, nahmadi(EVA), vx flow reversal w/Bx decrease 
+2017-06-06/15:23:23 - 2017-06-06/15:25:23, 100.0, nahmadi(EVA), vx flow reversal w/Bx decrease 
+2017-06-06/15:35:03 - 2017-06-06/15:36:53,  80.0, nahmadi(EVA), vx and vy flow reversals 
+2017-06-06/15:36:53 - 2017-06-06/15:38:43,  80.0, nahmadi(EVA), vx and vy flow reversals 
+2017-06-06/17:40:53 - 2017-06-06/17:43:03, 120.0, nahmadi(EVA), vx flow reversals w/Bz enhancements
+2017-06-06/17:43:03 - 2017-06-06/17:45:13, 120.0, nahmadi(EVA), vx flow reversals w/Bz enhancements
+2017-06-06/17:45:13 - 2017-06-06/17:47:23, 120.0, nahmadi(EVA), vx flow reversals w/Bz enhancements
+2017-06-06/17:47:23 - 2017-06-06/17:49:43, 120.0, nahmadi(EVA), vx flow reversals w/Bz enhancements
+2017-06-06/17:49:43 - 2017-06-06/17:51:53, 120.0, nahmadi(EVA), vx flow reversals w/Bz enhancements
+2017-06-06/17:51:53 - 2017-06-06/17:54:03, 120.0, nahmadi(EVA), vx flow reversals w/Bz enhancements
+2017-06-06/18:02:03 - 2017-06-06/18:04:23,  80.0, nahmadi(EVA), earthward vx flow 
+2017-06-06/18:04:23 - 2017-06-06/18:06:33,  80.0, nahmadi(EVA), earthward vx flow 
+2017-06-06/18:06:33 - 2017-06-06/18:08:53,  80.0, nahmadi(EVA), earthward vx flow 
+2017-06-06/18:08:53 - 2017-06-06/18:11:03,  80.0, nahmadi(EVA), earthward vx flow 
+2017-06-06/18:11:03 - 2017-06-06/18:13:23,  80.0, nahmadi(EVA), earthward vx flow 
+2017-06-06/22:36:13 - 2017-06-06/22:38:13, 100.0, nahmadi(EVA), vx flow reversal w/Bz enhancements 
+2017-06-06/22:38:13 - 2017-06-06/22:40:13, 100.0, nahmadi(EVA), vx flow reversal w/Bz enhancements 
+2017-06-06/22:40:13 - 2017-06-06/22:42:13, 100.0, nahmadi(EVA), vx flow reversal w/Bz enhancements 
+2017-06-06/22:42:13 - 2017-06-06/22:44:13, 100.0, nahmadi(EVA), vx flow reversal w/Bz enhancements 

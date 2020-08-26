@@ -1,0 +1,84 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-12-24/18:01:43 - 2019-12-24/18:03:03, 100.0, tphan(EVA),  large amplitude EMIC wave
+2019-12-24/18:29:43 - 2019-12-24/18:32:23, 110.0, tphan(EVA),  rising tone large amplitude EMIC waves
+2019-12-24/18:39:43 - 2019-12-24/18:41:53, 110.0, tphan(EVA),  rising tone large amplitude EMIC waves
+2019-12-24/19:33:13 - 2019-12-24/19:35:03, 110.0, tphan(EVA),  partial MP crossings
+2019-12-24/19:35:03 - 2019-12-24/19:36:43, 110.0, tphan(EVA),  partial MP crossings
+2019-12-24/19:36:43 - 2019-12-24/19:38:33, 110.0, tphan(EVA),  partial MP crossings
+2019-12-24/19:39:03 - 2019-12-24/19:41:03, 150.0, tphan(EVA),  long complete and partial MP crossings
+2019-12-24/19:41:03 - 2019-12-24/19:42:53, 150.0, tphan(EVA),  long complete and partial MP crossings
+2019-12-24/19:42:53 - 2019-12-24/19:44:53, 150.0, tphan(EVA),  long complete and partial MP crossings
+2019-12-24/19:44:53 - 2019-12-24/19:46:53, 150.0, tphan(EVA),  long complete and partial MP crossings
+2019-12-24/20:09:33 - 2019-12-24/20:11:03, 100.0, tphan(EVA),  magnetic holes
+2019-12-24/22:40:23 - 2019-12-24/22:42:13, 125.0, tphan(EVA),  Bow shock
+2019-12-24/22:42:13 - 2019-12-24/22:44:03, 125.0, tphan(EVA),  Bow shock
+2019-12-24/22:44:03 - 2019-12-24/22:45:53, 125.0, tphan(EVA),  Bow shock
+2019-12-25/00:08:43 - 2019-12-25/00:09:53, 150.0, tphan(EVA),"  SW bifurcated CS, possibly reconnection"
+2019-12-25/00:22:13 - 2019-12-25/00:23:03, 125.0, tphan(EVA),  SW bifurcated CS
+2019-12-25/01:58:03 - 2019-12-25/01:59:43, 125.0, tphan(EVA),  SW CS
+2019-12-25/03:17:53 - 2019-12-25/03:20:13, 110.0, tphan(EVA),  upstream transients
+2019-12-25/03:20:13 - 2019-12-25/03:22:33, 110.0, tphan(EVA),  upstream transients
+2019-12-25/03:22:33 - 2019-12-25/03:25:03, 110.0, tphan(EVA),  upstream transients
+2019-12-25/03:25:03 - 2019-12-25/03:27:23, 110.0, tphan(EVA),  upstream transients
+2019-12-25/03:27:23 - 2019-12-25/03:29:43, 110.0, tphan(EVA),  upstream transients
+2019-12-26/02:57:13 - 2019-12-26/02:57:33, 100.0, tphan(EVA),  SW CS
+2019-12-26/03:05:33 - 2019-12-26/03:06:13, 100.0, tphan(EVA),  SW CS
+2019-12-27/07:56:23 - 2019-12-27/07:58:23,  90.0, tphan(EVA),  interesting SW structure with large B enhancements
+2019-12-27/07:58:23 - 2019-12-27/08:00:23,  90.0, tphan(EVA),  interesting SW structure with large B enhancements
+2019-12-27/08:43:43 - 2019-12-27/08:45:43,  90.0, tphan(EVA),  interesting upstream structures
+2019-12-27/08:45:43 - 2019-12-27/08:47:53,  90.0, tphan(EVA),  interesting upstream structures
+2019-12-27/08:47:53 - 2019-12-27/08:49:53,  90.0, tphan(EVA),  interesting upstream structures
+2019-12-27/08:49:53 - 2019-12-27/08:52:03,  90.0, tphan(EVA),  interesting upstream structures
+2019-12-27/10:11:23 - 2019-12-27/10:13:53, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:13:53 - 2019-12-27/10:16:13, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:16:13 - 2019-12-27/10:18:43, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:18:43 - 2019-12-27/10:21:13, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:21:13 - 2019-12-27/10:23:33, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:23:33 - 2019-12-27/10:26:03, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:26:03 - 2019-12-27/10:28:33, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:28:33 - 2019-12-27/10:30:53, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:30:53 - 2019-12-27/10:33:23, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:33:23 - 2019-12-27/10:35:53, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:35:53 - 2019-12-27/10:38:13, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:38:13 - 2019-12-27/10:40:43, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:40:43 - 2019-12-27/10:43:13, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:43:13 - 2019-12-27/10:45:33, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:45:33 - 2019-12-27/10:48:03, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:48:03 - 2019-12-27/10:50:33, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:50:33 - 2019-12-27/10:52:53, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/10:52:53 - 2019-12-27/10:55:23, 110.0, tphan(EVA),  upstream waves and energetic particles
+2019-12-27/11:05:43 - 2019-12-27/11:08:33, 100.0, tphan(EVA),  possible SW reconnecting CS 
+2019-12-27/11:31:23 - 2019-12-27/11:33:43,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/11:33:43 - 2019-12-27/11:36:03,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/11:36:03 - 2019-12-27/11:38:33,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/11:38:33 - 2019-12-27/11:40:53,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/11:40:53 - 2019-12-27/11:43:13,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/11:43:13 - 2019-12-27/11:45:33,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/11:45:33 - 2019-12-27/11:47:53,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/11:47:53 - 2019-12-27/11:50:13,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/11:50:13 - 2019-12-27/11:52:43,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/11:52:43 - 2019-12-27/11:55:03,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/11:55:03 - 2019-12-27/11:57:23,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/11:57:23 - 2019-12-27/11:59:43,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/11:59:43 - 2019-12-27/12:02:03,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/12:02:03 - 2019-12-27/12:04:23,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/12:04:23 - 2019-12-27/12:06:53,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/12:06:53 - 2019-12-27/12:09:13,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/12:09:13 - 2019-12-27/12:11:33,  90.0, tphan(EVA),  long interval of interesting upstream waves and energetic particles
+2019-12-27/13:10:43 - 2019-12-27/13:12:33, 125.0, tphan(EVA),  clean BS crossing
+2019-12-27/13:12:33 - 2019-12-27/13:14:23, 125.0, tphan(EVA),  clean BS crossing
+2019-12-27/13:14:23 - 2019-12-27/13:16:13, 125.0, tphan(EVA),  clean BS crossing
+2019-12-27/13:32:43 - 2019-12-27/13:35:13, 100.0, tphan(EVA),  shock transients
+2019-12-27/17:06:13 - 2019-12-27/17:08:13, 110.0, tphan(EVA),  FTE-like structure
+2019-12-27/17:08:13 - 2019-12-27/17:10:23, 110.0, tphan(EVA),  FTE-like structure
+2019-12-27/17:10:23 - 2019-12-27/17:12:23, 110.0, tphan(EVA),  FTE-like structure
+2019-12-27/17:17:43 - 2019-12-27/17:19:23, 110.0, tphan(EVA),  partial MP or FTE
+2019-12-27/17:19:23 - 2019-12-27/17:21:13, 110.0, tphan(EVA),  partial MP or FTE
+2019-12-27/17:27:03 - 2019-12-27/17:29:13, 125.0, tphan(EVA),  FTE
+2019-12-27/17:34:13 - 2019-12-27/17:36:23, 110.0, tphan(EVA),  train of FTE-like structures
+2019-12-27/17:36:23 - 2019-12-27/17:38:33, 110.0, tphan(EVA),  train of FTE-like structures
+2019-12-27/17:38:33 - 2019-12-27/17:40:43, 110.0, tphan(EVA),  train of FTE-like structures
+2019-12-27/17:40:43 - 2019-12-27/17:42:53, 110.0, tphan(EVA),  train of FTE-like structures
+2019-12-27/17:45:13 - 2019-12-27/17:47:23, 175.0, tphan(EVA),  complete MP crossing
+2019-12-27/17:47:23 - 2019-12-27/17:49:33, 175.0, tphan(EVA),  complete MP crossing
+2019-12-27/17:49:33 - 2019-12-27/17:51:43, 175.0, tphan(EVA),  complete MP crossing

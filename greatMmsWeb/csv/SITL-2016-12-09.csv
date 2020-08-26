@@ -1,0 +1,52 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-12-09/05:08:54 - 2016-12-09/05:11:14, 150.0, tphan(EVA),  long low-shear MP
+2016-12-09/05:11:14 - 2016-12-09/05:13:44, 150.0, tphan(EVA),  long low-shear MP
+2016-12-09/05:13:44 - 2016-12-09/05:16:04, 150.0, tphan(EVA),  long low-shear MP
+2016-12-09/05:16:04 - 2016-12-09/05:18:34, 150.0, tphan(EVA),  long low-shear MP
+2016-12-09/05:18:34 - 2016-12-09/05:20:54, 150.0, tphan(EVA),  long low-shear MP
+2016-12-09/05:20:54 - 2016-12-09/05:23:24, 150.0, tphan(EVA),  long low-shear MP
+2016-12-09/05:23:24 - 2016-12-09/05:25:44,  60.0, tphan(EVA),  part of MP or magnetosheath
+2016-12-09/05:25:44 - 2016-12-09/05:28:04,  60.0, tphan(EVA),  part of MP or magnetosheath
+2016-12-09/05:28:04 - 2016-12-09/05:30:24,  60.0, tphan(EVA),  part of MP or magnetosheath
+2016-12-09/05:30:24 - 2016-12-09/05:32:54,  60.0, tphan(EVA),  part of MP or magnetosheath
+2016-12-09/05:32:54 - 2016-12-09/05:35:14,  60.0, tphan(EVA),  part of MP or magnetosheath
+2016-12-09/05:35:14 - 2016-12-09/05:37:34,  60.0, tphan(EVA),  part of MP or magnetosheath
+2016-12-09/05:37:34 - 2016-12-09/05:39:04,  60.0, tphan(EVA),  part of MP or magnetosheath
+2016-12-09/05:39:04 - 2016-12-09/05:40:34,  60.0, tphan(EVA),  part of MP or magnetosheath
+2016-12-09/06:09:44 - 2016-12-09/06:11:14,  70.0, tphan(EVA), turbuent magnetosheath current sheet with enhanced j 
+2016-12-09/06:11:14 - 2016-12-09/06:12:54,  70.0, tphan(EVA), turbuent magnetosheath current sheet with enhanced j 
+2016-12-09/07:22:44 - 2016-12-09/07:26:24,  60.0, tphan(EVA),  shock
+2016-12-09/08:58:54 - 2016-12-09/09:00:54,  80.0, tphan(EVA), Turbulent magnetosheath with sharp current sheets
+2016-12-09/09:00:54 - 2016-12-09/09:03:04,  80.0, tphan(EVA), Turbulent magnetosheath with sharp current sheets
+2016-12-09/09:03:04 - 2016-12-09/09:05:04,  80.0, tphan(EVA), Turbulent magnetosheath with sharp current sheets
+2016-12-09/09:05:04 - 2016-12-09/09:07:14,  80.0, tphan(EVA), Turbulent magnetosheath with sharp current sheets
+2016-12-09/09:22:04 - 2016-12-09/09:24:14,  75.0, tphan(EVA),  turbulent magnetosheath with thin current sheets
+2016-12-09/09:24:14 - 2016-12-09/09:26:24,  75.0, tphan(EVA),  turbulent magnetosheath with thin current sheets
+2016-12-09/09:26:24 - 2016-12-09/09:28:34,  75.0, tphan(EVA),  turbulent magnetosheath with thin current sheets
+2016-12-09/09:28:34 - 2016-12-09/09:30:44,  75.0, tphan(EVA),  turbulent magnetosheath with thin current sheets
+2016-12-09/09:30:44 - 2016-12-09/09:32:54,  75.0, tphan(EVA),  turbulent magnetosheath with thin current sheets
+2016-12-09/09:32:54 - 2016-12-09/09:35:04,  75.0, tphan(EVA),  turbulent magnetosheath with thin current sheets
+2016-12-09/09:44:34 - 2016-12-09/09:47:04,  60.0, tphan(EVA),  long foreshock/shock
+2016-12-09/09:47:04 - 2016-12-09/09:49:24,  60.0, tphan(EVA),  long foreshock/shock
+2016-12-09/09:49:24 - 2016-12-09/09:51:54,  60.0, tphan(EVA),  long foreshock/shock
+2016-12-09/10:17:04 - 2016-12-09/10:19:24,  70.0, tphan(EVA),  long foreshock/shock
+2016-12-09/10:19:24 - 2016-12-09/10:21:54,  70.0, tphan(EVA),  long foreshock/shock
+2016-12-09/10:28:54 - 2016-12-09/10:29:54,  75.0, tphan(EVA),  shock
+2016-12-09/10:42:04 - 2016-12-09/10:43:44,  75.0, tphan(EVA),  shock
+2016-12-09/10:47:04 - 2016-12-09/10:50:04,  75.0, tphan(EVA),  pristine solar wind
+2016-12-09/11:18:04 - 2016-12-09/11:20:34,  80.0, tphan(EVA),  shock with interesting B variations
+2016-12-09/11:27:54 - 2016-12-09/11:29:54,  75.0, tphan(EVA),  shock
+2016-12-09/11:44:24 - 2016-12-09/11:45:44,  75.0, tphan(EVA),  shock
+2016-12-09/11:48:24 - 2016-12-09/11:49:24,  75.0, tphan(EVA),  shock
+2016-12-09/15:05:54 - 2016-12-09/15:06:54,  70.0, tphan(EVA),  magnetosheath current sheet with deep B minima
+2016-12-09/16:42:34 - 2016-12-09/16:43:34, 175.0, tphan(EVA),  magnetosheath current sheet with jet?
+2016-12-09/17:03:14 - 2016-12-09/17:04:04,  75.0, tphan(EVA),  magnetosheath current sheet
+2016-12-09/17:10:24 - 2016-12-09/17:11:14, 175.0, tphan(EVA),  magnetosheath current sheet with jet?
+2016-12-09/17:18:44 - 2016-12-09/17:20:34,  60.0, tphan(EVA),  magnetosheath current sheet
+2016-12-09/17:40:44 - 2016-12-09/17:42:24, 100.0, tphan(EVA),  giant flux rope?
+2016-12-09/17:42:24 - 2016-12-09/17:44:14, 100.0, tphan(EVA),  giant flux rope?
+2016-12-09/17:44:14 - 2016-12-09/17:45:54, 100.0, tphan(EVA),  giant flux rope?
+2016-12-09/17:55:34 - 2016-12-09/17:57:24, 175.0, tphan(EVA),  complete and partial MPs
+2016-12-09/17:57:24 - 2016-12-09/17:59:24, 175.0, tphan(EVA),  complete and partial MPs
+2016-12-09/18:01:44 - 2016-12-09/18:03:34, 150.0, tphan(EVA),  low-shear MP
+2016-12-09/18:04:34 - 2016-12-09/18:07:04, 160.0, tphan(EVA),  moderate shear MP

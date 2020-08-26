@@ -1,0 +1,84 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-02-19/13:34:03 - 2019-02-19/13:35:33,  75.0, jstawarz(EVA),  Whistlers and low frequency turbulence.
+2019-02-19/13:37:23 - 2019-02-19/13:38:13,  75.0, jstawarz(EVA),  Whistlers and low frequency turbulence.
+2019-02-19/14:02:03 - 2019-02-19/14:04:13, 135.0, jstawarz(EVA), Magnetopause crossing al 4 s/c
+2019-02-19/14:04:13 - 2019-02-19/14:06:23, 135.0, jstawarz(EVA), Magnetopause crossing al 4 s/c
+2019-02-19/14:06:23 - 2019-02-19/14:08:43, 135.0, jstawarz(EVA), Magnetopause crossing al 4 s/c
+2019-02-19/14:08:43 - 2019-02-19/14:10:53, 135.0, jstawarz(EVA), Magnetopause crossing al 4 s/c
+2019-02-19/14:10:53 - 2019-02-19/14:12:53, 135.0, jstawarz(EVA),"  MMS1,3,4 partially cross magnetopause"
+2019-02-19/14:12:53 - 2019-02-19/14:14:43, 135.0, jstawarz(EVA),"  MMS1,3,4 partially cross magnetopause"
+2019-02-19/14:14:43 - 2019-02-19/14:16:43, 135.0, jstawarz(EVA),"  MMS1,3,4 partially cross magnetopause"
+2019-02-19/14:16:43 - 2019-02-19/14:18:33, 135.0, jstawarz(EVA),"  MMS1,3,4 partially cross magnetopause and all 4 s/c see a flux rope"
+2019-02-19/14:18:33 - 2019-02-19/14:20:33, 135.0, jstawarz(EVA),"  MMS1,3,4 partially cross magnetopause and all 4 s/c see a flux rope"
+2019-02-19/14:26:13 - 2019-02-19/14:28:43, 100.0, jstawarz(EVA),"  Partial magnetopause crossing on MMS1,3,4"
+2019-02-19/14:28:43 - 2019-02-19/14:31:13, 100.0, jstawarz(EVA),"  Partial magnetopause crossing on MMS1,3,4"
+2019-02-19/16:13:53 - 2019-02-19/16:15:03,  40.0, jstawarz(EVA),  Interesting magnetic structure seen simultaneously by 4 spacecraft but with different magnetic profiles. Possibly related to a flux rope.
+2019-02-19/17:28:03 - 2019-02-19/17:30:13, 100.0, jstawarz(EVA),  Quasi-perp shock with potential temporal/spatial variation between spacecraft
+2019-02-19/17:30:13 - 2019-02-19/17:32:23, 100.0, jstawarz(EVA),  Quasi-perp shock with potential temporal/spatial variation between spacecraft
+2019-02-19/17:32:23 - 2019-02-19/17:34:23, 100.0, jstawarz(EVA),  Quasi-perp shock with potential temporal/spatial variation between spacecraft
+2019-02-19/17:34:23 - 2019-02-19/17:36:33, 100.0, jstawarz(EVA),  Quasi-perp shock with potential temporal/spatial variation between spacecraft
+2019-02-19/17:36:33 - 2019-02-19/17:38:43, 100.0, jstawarz(EVA),  Quasi-perp shock with potential temporal/spatial variation between spacecraft
+2019-02-19/18:53:33 - 2019-02-19/18:58:33,  75.0, ocontel(EVA),  Ion foreshock with HF E and B waves
+2019-02-19/18:58:33 - 2019-02-19/19:03:03,  75.0, ocontel(EVA),  Ion foreshock with HF E and B waves
+2019-02-19/19:03:03 - 2019-02-19/19:07:03,  75.0, ocontel(EVA),  Ion foreshock with E and B waves
+2019-02-21/02:08:53 - 2019-02-21/02:11:13,  70.0, ocontel(EVA),  SW Current Sheet with energetic electrons and HF E waves
+2019-02-21/02:16:03 - 2019-02-21/02:18:33,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:18:33 - 2019-02-21/02:21:03,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:21:03 - 2019-02-21/02:23:33,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:23:33 - 2019-02-21/02:26:03,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:26:03 - 2019-02-21/02:28:23,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:28:23 - 2019-02-21/02:30:53,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:30:53 - 2019-02-21/02:33:23,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:33:23 - 2019-02-21/02:35:53,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:35:53 - 2019-02-21/02:38:23,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:38:23 - 2019-02-21/02:40:53,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:40:53 - 2019-02-21/02:43:23,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:43:23 - 2019-02-21/02:45:53,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:45:53 - 2019-02-21/02:48:13,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:48:13 - 2019-02-21/02:50:43,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:50:43 - 2019-02-21/02:53:13,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:53:13 - 2019-02-21/02:55:43,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:55:43 - 2019-02-21/02:58:13,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/02:58:13 - 2019-02-21/03:00:43,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/03:00:43 - 2019-02-21/03:03:13,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/03:03:13 - 2019-02-21/03:05:43,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/03:05:43 - 2019-02-21/03:08:03,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/03:08:03 - 2019-02-21/03:10:33,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/03:10:33 - 2019-02-21/03:13:03,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/03:13:03 - 2019-02-21/03:15:33,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/03:15:33 - 2019-02-21/03:18:03,  90.0, ocontel(EVA),  1 hour of pristine solar wind. No energetic ions. Relatively quiet B and density. Some energetic electrons and HF E waves (transient electron foreshock connections?).
+2019-02-21/03:20:03 - 2019-02-21/03:22:13,  80.0, ocontel(EVA),  SW discontinuity with E and B waves
+2019-02-21/03:33:43 - 2019-02-21/03:37:53,  70.0, ocontel(EVA),  SW Current Sheet
+2019-02-21/03:42:33 - 2019-02-21/03:44:53,  70.0, ocontel(EVA),  SW Small scale Current Sheet with E and B waves
+2019-02-21/05:41:03 - 2019-02-21/05:44:53,  70.0, ocontel(EVA),  SW Current Sheet
+2019-02-21/05:44:53 - 2019-02-21/05:47:33,  70.0, ocontel(EVA),  SW Current Sheet
+2019-02-21/05:48:53 - 2019-02-21/05:50:53,  80.0, ocontel(EVA),  SW discontinuity
+2019-02-21/06:02:23 - 2019-02-21/06:05:23,  90.0, ocontel(EVA),  SW discontinuity with energetic ions 
+2019-02-21/06:30:03 - 2019-02-21/06:35:03,  70.0, ocontel(EVA),  SW discontinuity with energetic ions and electrons
+2019-02-21/07:32:23 - 2019-02-21/07:35:43,  70.0, ocontel(EVA),  SW Current Sheet with energetic electrons and HF E waves
+2019-02-21/08:40:23 - 2019-02-21/08:43:03,  70.0, ocontel(EVA),  SW discontinuity
+2019-02-21/09:27:13 - 2019-02-21/09:27:53,  70.0, ocontel(EVA),  SW Small scale Current Sheet
+2019-02-21/09:29:43 - 2019-02-21/09:31:03,  70.0, ocontel(EVA),  SW Current Sheet
+2019-02-21/09:41:13 - 2019-02-21/09:43:23,  75.0, ocontel(EVA),  SW Current Sheet with HF E waves
+2019-02-21/09:47:23 - 2019-02-21/09:51:03,  65.0, ocontel(EVA),  HF E and B waves with energetic ions
+2019-02-21/09:56:13 - 2019-02-21/09:58:13,  65.0, ocontel(EVA),  SW Current Sheet with B waves
+2019-02-21/10:02:43 - 2019-02-21/10:06:03,  70.0, ocontel(EVA), SW Current Sheet 
+2019-02-21/10:28:03 - 2019-02-21/10:31:43,  70.0, ocontel(EVA),  SW Current Sheet
+2019-02-21/10:37:03 - 2019-02-21/10:37:33,  65.0, ocontel(EVA),  SW Small scale Current Sheet
+2019-02-21/10:46:23 - 2019-02-21/10:48:43,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/10:48:43 - 2019-02-21/10:51:03,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/10:51:03 - 2019-02-21/10:53:33,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/10:53:33 - 2019-02-21/10:55:53,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/10:55:53 - 2019-02-21/10:58:13,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/10:58:13 - 2019-02-21/11:00:33,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/11:00:33 - 2019-02-21/11:02:53,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/11:02:53 - 2019-02-21/11:05:13,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/11:05:13 - 2019-02-21/11:07:43,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/11:07:43 - 2019-02-21/11:10:03,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/11:10:03 - 2019-02-21/11:12:23,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/11:12:23 - 2019-02-21/11:14:43,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/11:14:43 - 2019-02-21/11:17:03,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/11:17:03 - 2019-02-21/11:19:23,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/11:19:23 - 2019-02-21/11:21:53,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/11:21:53 - 2019-02-21/11:24:13,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.
+2019-02-21/11:24:13 - 2019-02-21/11:26:33,  90.0, ocontel(EVA),  40 min of relatively quiet SW. No energetic ions or electrons. Steady B and desnity.

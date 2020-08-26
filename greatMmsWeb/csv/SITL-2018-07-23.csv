@@ -1,0 +1,63 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-07-23/11:12:13 - 2018-07-23/11:14:03, 100.0, margall(EVA),"  Earthward flow, thin CS, small B, large E"
+2018-07-23/11:14:03 - 2018-07-23/11:16:33, 120.0, margall(EVA),"  Earthward flow, thin CS, small B, large E"
+2018-07-23/11:16:33 - 2018-07-23/11:18:33, 100.0, margall(EVA),"  Earthward flow, thin CS, small B, large E"
+2018-07-23/11:18:33 - 2018-07-23/11:21:43,  90.0, kgenestreti(EVA)," Sharp DF, some E"
+2018-07-23/11:21:43 - 2018-07-23/11:22:53,  70.0, kgenestreti(EVA),"  Earthward flow, thin CS, small B, large E"
+2018-07-23/11:22:53 - 2018-07-23/11:25:03,  70.0, kgenestreti(EVA),"  Earthward flow, thin CS, small B, large E"
+2018-07-23/11:29:43 - 2018-07-23/11:32:13,  90.0, kgenestreti(EVA)," DFs with strong E, T, some weak J, Earthward flow"
+2018-07-23/11:32:13 - 2018-07-23/11:34:43,  90.0, kgenestreti(EVA)," DFs with strong E, T, some weak J, Earthward flow"
+2018-07-23/11:34:43 - 2018-07-23/11:37:03,  90.0, kgenestreti(EVA)," DFs with strong E, T, some weak J, Earthward flow"
+2018-07-23/11:37:03 - 2018-07-23/11:39:33,  90.0, kgenestreti(EVA)," DFs with strong E, T, some weak J, Earthward flow"
+2018-07-23/11:39:33 - 2018-07-23/11:42:03,  90.0, kgenestreti(EVA)," DFs with strong E, T, some weak J, Earthward flow"
+2018-07-23/11:42:03 - 2018-07-23/11:47:23, 120.0, margall(EVA)," CS, Vx reversal, Bz reversal"
+2018-07-23/12:18:33 - 2018-07-23/12:20:53,  80.1, kgenestreti(EVA),"  DFs with Earthward flow, weak J, E, T increase"
+2018-07-23/12:20:53 - 2018-07-23/12:23:13,  80.1, kgenestreti(EVA),"  DFs with Earthward flow, weak J, E, T increase"
+2018-07-23/12:23:13 - 2018-07-23/12:25:33,  80.1, kgenestreti(EVA),"  DFs with Earthward flow, weak J, E, T increase"
+2018-07-23/12:37:03 - 2018-07-23/12:39:13,  30.0, kgenestreti(EVA), By reversals in tail with weak Viy
+2018-07-23/12:39:13 - 2018-07-23/12:41:33,  30.0, kgenestreti(EVA), By reversals in tail with weak Viy
+2018-07-23/12:41:33 - 2018-07-23/12:43:43,  30.0, kgenestreti(EVA), By reversals in tail with weak Viy
+2018-07-23/12:43:43 - 2018-07-23/12:46:03,  30.0, kgenestreti(EVA), By reversals in tail with weak Viy
+2018-07-23/13:27:43 - 2018-07-23/13:30:03,  60.0, kgenestreti(EVA),"  Bz reversal with no flows / J / E, etc"
+2018-07-23/13:30:03 - 2018-07-23/13:32:23,  60.0, kgenestreti(EVA),"  Bz reversal with no flows / J / E, etc"
+2018-07-23/13:32:23 - 2018-07-23/13:34:43,  60.0, kgenestreti(EVA),"  Bz reversal with no flows / J / E, etc"
+2018-07-23/17:10:13 - 2018-07-23/17:13:03,  40.0, kgenestreti(EVA), PSBL
+2018-07-23/17:27:03 - 2018-07-23/17:28:53,  40.0, kgenestreti(EVA), PSBL
+2018-07-23/17:31:03 - 2018-07-23/17:32:43,  70.0, kgenestreti(EVA),  PSBL with weak J
+2018-07-23/17:32:43 - 2018-07-23/17:34:33,  70.0, kgenestreti(EVA),  PSBL with weak J
+2018-07-23/17:34:33 - 2018-07-23/17:36:13,  70.0, kgenestreti(EVA),  PSBL with weak J
+2018-07-23/17:57:13 - 2018-07-23/17:58:53,  60.0, kgenestreti(EVA), Bz enhancement during partial CS crossing
+2018-07-23/17:58:53 - 2018-07-23/18:00:43,  60.0, kgenestreti(EVA), Bz enhancement during partial CS crossing
+2018-07-23/19:20:03 - 2018-07-23/19:22:33,  70.0, kgenestreti(EVA)," Multiple partial CS crossings with +Bz enhancements, Earthward flow, temperature enhancements, etc,"
+2018-07-23/19:22:33 - 2018-07-23/19:24:53,  70.0, kgenestreti(EVA)," Multiple partial CS crossings with +Bz enhancements, Earthward flow, temperature enhancements, etc,"
+2018-07-23/19:24:53 - 2018-07-23/19:27:23,  70.0, kgenestreti(EVA)," Multiple partial CS crossings with +Bz enhancements, Earthward flow, temperature enhancements, etc,"
+2018-07-23/19:27:23 - 2018-07-23/19:29:53,  70.0, kgenestreti(EVA)," Multiple partial CS crossings with +Bz enhancements, Earthward flow, temperature enhancements, etc,"
+2018-07-23/19:29:53 - 2018-07-23/19:32:23,  70.0, kgenestreti(EVA)," Multiple partial CS crossings with +Bz enhancements, Earthward flow, temperature enhancements, etc,"
+2018-07-23/19:32:23 - 2018-07-23/19:34:43,  70.0, kgenestreti(EVA)," Multiple partial CS crossings with +Bz enhancements, Earthward flow, temperature enhancements, etc,"
+2018-07-23/19:34:43 - 2018-07-23/19:37:13,  70.0, kgenestreti(EVA)," Multiple partial CS crossings with +Bz enhancements, Earthward flow, temperature enhancements, etc,"
+2018-07-23/23:28:53 - 2018-07-23/23:33:53,  30.0, margall(EVA)," PSBL, earthward flow, weak currents"
+2018-07-23/23:33:53 - 2018-07-23/23:38:43,  30.0, margall(EVA)," PSBL, earthward flow, weak currents"
+2018-07-23/23:38:43 - 2018-07-23/23:43:43,  30.0, margall(EVA)," PSBL, earthward flow, weak currents"
+2018-07-23/23:43:43 - 2018-07-23/23:48:43,  30.0, margall(EVA)," PSBL, earthward flow, weak currents"
+2018-07-24/00:54:53 - 2018-07-24/00:58:33,  40.0, margall(EVA)," PSBL, cold ions"
+2018-07-24/01:18:53 - 2018-07-24/01:22:43,  40.0, margall(EVA)," PSBL, cold ions"
+2018-07-24/01:30:43 - 2018-07-24/01:35:13,  60.0, margall(EVA)," PSBL, cold ions, oscillating earth/tail flows, strong J"
+2018-07-24/01:35:13 - 2018-07-24/01:39:33,  60.0, margall(EVA)," PSBL, cold ions, oscillating earth/tail flows, strong J"
+2018-07-24/01:39:33 - 2018-07-24/01:44:03,  60.0, margall(EVA)," PSBL, cold ions, oscillating earth/tail flows, strong J"
+2018-07-24/01:44:03 - 2018-07-24/01:48:33,  60.0, margall(EVA)," PSBL, cold ions, oscillating earth/tail flows, strong J"
+2018-07-24/10:03:23 - 2018-07-24/10:08:03,  90.0, margall(EVA)," PSBL, Bz reversal, earthward flow, strong E, waves"
+2018-07-24/10:08:03 - 2018-07-24/10:12:33,  90.0, margall(EVA)," PSBL, Bz reversal, earthward flow, strong E, waves"
+2018-07-24/10:12:33 - 2018-07-24/10:17:13,  90.0, margall(EVA)," PSBL, Bz reversal, earthward flow, strong E, waves"
+2018-07-24/16:58:23 - 2018-07-24/17:02:53, 110.0, margall(EVA)," DPF, earthward flow surrounded by tailward flows, strong J"
+2018-07-24/17:02:53 - 2018-07-24/17:07:23, 110.0, margall(EVA)," DPF, earthward flow surrounded by tailward flows, strong J"
+2018-07-24/17:07:23 - 2018-07-24/17:11:53, 110.0, margall(EVA)," DPF, earthward flow surrounded by tailward flows, strong J"
+2018-07-24/17:43:53 - 2018-07-24/17:48:13, 110.0, margall(EVA)," Partial CS crossing, Bz enhancements, strong E, J, earthward flow"
+2018-07-24/17:48:13 - 2018-07-24/17:52:33, 110.0, margall(EVA)," Partial CS crossing, Bz enhancements, strong E, J, earthward flow"
+2018-07-24/18:17:43 - 2018-07-24/18:24:13, 110.0, margall(EVA)," Partial CS crossing, earthward flow, strong E, J, waves"
+2018-07-24/21:21:53 - 2018-07-24/21:25:13,  80.0, margall(EVA)," PSBL, cold ions, earthward flow"
+2018-07-24/21:25:13 - 2018-07-24/21:28:43,  80.0, margall(EVA)," PSBL, cold ions, earthward flow"
+2018-07-24/21:28:43 - 2018-07-24/21:32:03,  80.0, margall(EVA)," PSBL, cold ions, earthward flow"
+2018-07-25/02:19:53 - 2018-07-25/02:24:23,  40.0, margall(EVA)," PSBL, earthward flow, weak E, J"
+2018-07-25/02:24:23 - 2018-07-25/02:28:53,  40.0, margall(EVA)," PSBL, earthward flow, weak E, J"
+2018-07-25/02:28:53 - 2018-07-25/02:33:23,  40.0, margall(EVA)," PSBL, earthward flow, weak E, J"
+2018-07-25/02:33:23 - 2018-07-25/02:37:53,  40.0, margall(EVA)," PSBL, earthward flow, weak E, J"

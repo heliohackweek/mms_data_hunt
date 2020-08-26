@@ -1,0 +1,79 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-11-28/16:19:13 - 2017-11-28/16:24:13,  90.0, hbreuillard(EVA),   Low-shear MP crossing with possible jet
+2017-11-28/16:24:13 - 2017-11-28/16:26:23,  90.0, hbreuillard(EVA),  Low-shear MP crossing with possible jet
+2017-11-28/16:26:23 - 2017-11-28/16:28:23,  90.0, hbreuillard(EVA),  Low-shear MP crossing with possible jet
+2017-11-28/16:28:23 - 2017-11-28/16:30:33,  90.0, hbreuillard(EVA),  Low-shear MP crossing with possible jet
+2017-11-28/16:30:33 - 2017-11-28/16:32:43,  90.0, hbreuillard(EVA),  Low-shear MP crossing with possible jet
+2017-11-28/17:17:33 - 2017-11-28/17:19:53,  85.0, hbreuillard(EVA),  MSH current sheet with possible ion and electron heating
+2017-11-28/17:57:53 - 2017-11-28/18:02:23,  90.0, hbreuillard(EVA),  Low-shear quasi-perpendicular shock crossing with E&B waves
+2017-11-28/18:24:43 - 2017-11-28/18:29:43, 100.0, hbreuillard(EVA),  Foreshock with reflected ions and E&B waves
+2017-11-28/18:35:43 - 2017-11-28/18:36:23, 100.0, hbreuillard(EVA),  SW current sheet
+2017-11-28/18:41:23 - 2017-11-28/18:43:53, 110.0, hbreuillard(EVA),  SW current sheet with E&B waves and possible jet
+2017-11-28/18:55:53 - 2017-11-28/19:00:53, 100.0, hbreuillard(EVA),  Foreshock with reflected ions
+2017-11-28/19:03:33 - 2017-11-28/19:06:13, 110.0, hbreuillard(EVA),  SW current sheet with possible jet and E&B waves
+2017-11-28/19:10:53 - 2017-11-28/19:12:13, 100.0, hbreuillard(EVA),  SW current sheet
+2017-11-28/19:15:23 - 2017-11-28/19:16:33, 100.0, hbreuillard(EVA),  SW current sheet with E waves
+2017-11-28/19:21:23 - 2017-11-28/19:23:43, 100.0, hbreuillard(EVA),  SW current sheet
+2017-11-28/19:36:03 - 2017-11-28/19:36:43, 105.0, hbreuillard(EVA),  SW current sheet with E&B waves and possible jet
+2017-11-28/19:45:23 - 2017-11-28/19:49:53, 110.0, hbreuillard(EVA),  Pristine solar wind
+2017-11-28/19:49:53 - 2017-11-28/19:52:13, 110.0, hbreuillard(EVA),  Pristine solar wind
+2017-11-28/19:52:13 - 2017-11-28/19:54:33, 110.0, hbreuillard(EVA),  Pristine solar wind
+2017-11-28/19:54:33 - 2017-11-28/19:57:03, 110.0, hbreuillard(EVA),  Pristine solar wind
+2017-11-28/19:57:03 - 2017-11-28/19:59:23, 110.0, hbreuillard(EVA),  Pristine solar wind
+2017-11-28/19:59:23 - 2017-11-28/20:01:43, 110.0, hbreuillard(EVA),  Pristine solar wind
+2017-11-28/20:01:43 - 2017-11-28/20:04:03, 110.0, hbreuillard(EVA),  Pristine solar wind
+2017-11-28/20:04:03 - 2017-11-28/20:06:33, 110.0, hbreuillard(EVA),  Pristine solar wind
+2017-11-28/20:06:33 - 2017-11-28/20:08:53, 110.0, hbreuillard(EVA),  Pristine solar wind
+2017-11-28/20:08:53 - 2017-11-28/20:11:13, 110.0, hbreuillard(EVA),  Pristine solar wind
+2017-11-28/20:11:13 - 2017-11-28/20:13:43, 110.0, hbreuillard(EVA),  Pristine solar wind
+2017-11-28/20:13:43 - 2017-11-28/20:16:03, 110.0, hbreuillard(EVA),  Pristine solar wind
+2017-11-28/20:27:43 - 2017-11-28/20:32:43, 110.0, hbreuillard(EVA),  SW current sheet with energetic electrons and HF waves
+2017-11-28/20:32:43 - 2017-11-28/20:37:13, 110.0, hbreuillard(EVA),  SW current sheet with energetic electrons and HF waves
+2017-11-28/20:44:13 - 2017-11-28/20:45:43, 110.0, hbreuillard(EVA),  SW current sheet with E&B waves and possible jet
+2017-11-28/20:47:03 - 2017-11-28/20:49:53, 110.0, hbreuillard(EVA),"  SW current sheets with E&B waves, possible jets and electron heating"
+2017-11-28/21:14:23 - 2017-11-28/21:19:23, 110.0, hbreuillard(EVA),  SW current sheet with E&B waves and possible electron heating
+2017-11-28/21:23:43 - 2017-11-28/21:25:53, 100.0, hbreuillard(EVA), SW energetic ions and E&B waves
+2017-11-28/21:44:23 - 2017-11-28/21:45:13, 100.0, hbreuillard(EVA),  SW current sheet
+2017-11-28/21:47:43 - 2017-11-28/21:49:53, 110.0, hbreuillard(EVA),  SW current sheets with E&B waves and possible jets
+2017-11-28/22:13:23 - 2017-11-28/22:14:03, 110.0, hbreuillard(EVA),  SW current sheet with possible jet and electron heating
+2017-11-28/22:14:03 - 2017-11-28/22:16:03, 100.0, hbreuillard(EVA),  SW field-aligned ion beams
+2017-11-28/22:16:03 - 2017-11-28/22:18:13, 100.0, hbreuillard(EVA),  SW field-aligned ion beams
+2017-11-28/22:18:13 - 2017-11-28/22:20:13, 100.0, hbreuillard(EVA),  SW field-aligned ion beams
+2017-11-28/22:20:13 - 2017-11-28/22:22:23, 100.0, hbreuillard(EVA),  SW field-aligned ion beams
+2017-11-28/22:22:23 - 2017-11-28/22:25:13,  90.0, hbreuillard(EVA),  Energetic ions
+2017-11-28/22:54:33 - 2017-11-28/22:59:33, 110.0, hbreuillard(EVA),  SW current sheets with energetic ions and electrons
+2017-11-28/23:06:33 - 2017-11-28/23:08:53, 110.0, hbreuillard(EVA),  SW current sheet with possible electron heating
+2017-11-28/23:12:33 - 2017-11-28/23:14:43, 110.0, hbreuillard(EVA),  SW current sheet with possible electron heating
+2017-11-28/23:38:43 - 2017-11-28/23:42:03, 105.0, hbreuillard(EVA),  SW current sheet with possible jet
+2017-11-28/23:42:03 - 2017-11-28/23:42:33, 100.0, hbreuillard(EVA),  SW hole
+2017-11-28/23:49:13 - 2017-11-28/23:49:53, 100.0, hbreuillard(EVA),  SW hole
+2017-11-28/23:50:13 - 2017-11-28/23:51:13, 100.0, hbreuillard(EVA),  Train of SW holes
+2017-11-29/15:28:03 - 2017-11-29/15:33:03, 110.0, hbreuillard(EVA),  SW current sheets with E&B waves and possible jets
+2017-11-29/15:45:23 - 2017-11-29/15:50:13, 110.0, hbreuillard(EVA),  SW current sheets with possible jets and energetic ions
+2017-11-29/15:56:03 - 2017-11-29/15:57:43, 100.0, hbreuillard(EVA),  SW current sheet
+2017-11-29/15:58:33 - 2017-11-29/16:02:33, 110.0, hbreuillard(EVA),"  SW current sheets with energetic ions, field-aligned electrons, possible jets and E&B waves"
+2017-11-29/16:12:53 - 2017-11-29/16:14:13, 110.0, hbreuillard(EVA),  SW current sheet with E&B waves and possible jet
+2017-11-29/16:36:03 - 2017-11-29/16:36:33, 100.0, hbreuillard(EVA),  SW current sheet
+2017-11-29/16:38:53 - 2017-11-29/16:41:03, 110.0, hbreuillard(EVA),  SW current sheets with E waves and possible jet
+2017-11-29/17:00:33 - 2017-11-29/17:02:03, 105.0, hbreuillard(EVA),  SW current sheet with possible jet
+2017-11-29/17:23:43 - 2017-11-29/17:26:03, 105.0, hbreuillard(EVA),  SW current sheet with possible jet and possible electron-scale magnetic structure
+2017-11-29/17:38:13 - 2017-11-29/17:39:13, 110.0, hbreuillard(EVA),"  SW current sheet with possible jet, E&B waves and possible magnetic hole"
+2017-11-29/17:39:53 - 2017-11-29/17:41:53, 110.0, hbreuillard(EVA),  SW current sheets with possible jets and possible electron-scale magnetic structure
+2017-11-30/15:14:53 - 2017-11-30/15:15:33, 110.0, margall(EVA)," SW current sheet, E&B waves"
+2017-11-30/15:20:13 - 2017-11-30/15:21:03, 100.0, margall(EVA)," SW current sheet, electron heating"
+2017-11-30/15:32:23 - 2017-11-30/15:33:33, 100.0, margall(EVA), SW current sheet
+2017-11-30/15:35:03 - 2017-11-30/15:42:33, 100.0, margall(EVA), Foreshock reflected ions (beginning)
+2017-11-30/15:58:33 - 2017-11-30/16:04:23, 100.0, margall(EVA), foreshock reflected ions (end)
+2017-11-30/16:16:33 - 2017-11-30/16:18:03, 110.0, margall(EVA),"  SW current sheet, electron heating"
+2017-11-30/16:21:43 - 2017-11-30/16:24:33,  60.0, margall(EVA), quasi-perpendicular bow shock
+2017-11-30/17:48:53 - 2017-11-30/17:53:03, 100.0, margall(EVA), magnetosheath turbulence
+2017-11-30/22:57:33 - 2017-11-30/22:59:33,  60.0, margall(EVA), Low shear partial MP crossing
+2017-11-30/23:02:43 - 2017-11-30/23:04:33,  60.0, margall(EVA), partial MP crossing
+2017-11-30/23:09:03 - 2017-11-30/23:11:33,  80.0, margall(EVA), low-shear MP crossing
+2017-11-30/23:17:33 - 2017-11-30/23:21:33,  80.0, margall(EVA), Low shear MP crossing
+2017-11-30/23:22:33 - 2017-11-30/23:26:33,  60.0, margall(EVA), Several low-shear partial MP crossings
+2017-11-30/23:34:23 - 2017-11-30/23:39:33, 125.0, margall(EVA)," Boundary layer + low shear MP crossings, two flow reversal"
+2017-11-30/23:39:33 - 2017-11-30/23:41:03, 100.0, margall(EVA), low-shear MP crossing
+2017-11-30/23:43:43 - 2017-11-30/23:45:33, 125.0, margall(EVA)," Two low-shear MP crossings, flow reversal"
+2017-11-30/23:49:13 - 2017-11-30/23:52:33, 124.0, margall(EVA)," Two low-shear MP crossings, ion jet reversal in BL"
+2017-11-30/23:55:33 - 2017-11-30/23:56:23, 110.0, margall(EVA), FTE

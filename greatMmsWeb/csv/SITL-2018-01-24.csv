@@ -1,0 +1,80 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-01-24/01:18:33 - 2018-01-24/01:20:53, 105.0, dturner(EVA), Partial magnetopause crossings
+2018-01-24/01:20:53 - 2018-01-24/01:23:23, 145.0, dturner(EVA)," Partial magnetopause crossing, Vz jet reversal, magnetic null"
+2018-01-24/01:23:23 - 2018-01-24/01:25:43, 105.0, dturner(EVA), Partial magnetopause crossings
+2018-01-24/01:25:43 - 2018-01-24/01:28:13, 105.0, dturner(EVA), Partial magnetopause crossings
+2018-01-24/01:37:33 - 2018-01-24/01:39:53, 100.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/01:39:53 - 2018-01-24/01:42:23, 100.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/01:42:23 - 2018-01-24/01:44:43, 100.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/01:44:43 - 2018-01-24/01:47:03,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/01:47:03 - 2018-01-24/01:49:33,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/01:49:33 - 2018-01-24/01:51:53,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/01:51:53 - 2018-01-24/01:54:13,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/01:54:13 - 2018-01-24/01:56:43,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/01:56:43 - 2018-01-24/01:59:03,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/01:59:03 - 2018-01-24/02:01:23,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/02:01:23 - 2018-01-24/02:03:53,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/02:03:53 - 2018-01-24/02:06:13,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/02:06:13 - 2018-01-24/02:08:43,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/02:08:43 - 2018-01-24/02:11:03,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/02:11:03 - 2018-01-24/02:13:23,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/02:13:23 - 2018-01-24/02:15:53,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/02:15:53 - 2018-01-24/02:18:13,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/02:18:13 - 2018-01-24/02:20:33,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/02:20:33 - 2018-01-24/02:23:03,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/02:23:03 - 2018-01-24/02:25:23,  60.0, dturner(EVA), Magnetopause crossing into prolonged boundary layer traversal
+2018-01-24/03:29:13 - 2018-01-24/03:31:13, 130.0, dturner(EVA), Current sheets in the magnetosheath and deep magnetic nulls
+2018-01-24/03:31:53 - 2018-01-24/03:32:53,  85.0, dturner(EVA), High speed jet in the magnetosheath
+2018-01-24/03:34:33 - 2018-01-24/03:36:43,  85.0, dturner(EVA), High speed jet in the magnetosheath
+2018-01-24/03:38:53 - 2018-01-24/03:40:03,  85.0, dturner(EVA), High speed jet in the magnetosheath
+2018-01-24/03:51:53 - 2018-01-24/03:53:23,  85.0, dturner(EVA), High speed jet in the magnetosheath
+2018-01-24/03:55:23 - 2018-01-24/03:56:43,  85.0, dturner(EVA), High speed jet in the magnetosheath
+2018-01-24/03:56:43 - 2018-01-24/03:57:33,  75.0, dturner(EVA), Flux rope in the magnetosheath?  All three components rotate
+2018-01-24/03:59:33 - 2018-01-24/04:01:23, 105.0, dturner(EVA)," Quasi-perpendicular bow shock crossing, very clean"
+2018-01-24/04:01:23 - 2018-01-24/04:03:13, 105.0, dturner(EVA)," Quasi-perpendicular bow shock crossing, very clean"
+2018-01-24/04:04:43 - 2018-01-24/04:06:33,  85.0, dturner(EVA), Quasi-perpendicular bow shock crossing with strong wave activity > 1 kHz
+2018-01-24/04:06:33 - 2018-01-24/04:08:23,  85.0, dturner(EVA), Quasi-perpendicular bow shock crossing with strong wave activity > 1 kHz
+2018-01-24/04:16:43 - 2018-01-24/04:18:23,  75.0, dturner(EVA), Quasi-perpendicular bow shock crossing
+2018-01-24/04:18:23 - 2018-01-24/04:20:13,  75.0, dturner(EVA), Quasi-perpendicular bow shock crossing
+2018-01-24/04:22:33 - 2018-01-24/04:24:13,  85.0, dturner(EVA), Bow shock crossing and energetic ions
+2018-01-24/04:24:13 - 2018-01-24/04:26:03,  85.0, dturner(EVA), Bow shock crossing and energetic ions
+2018-01-24/04:35:53 - 2018-01-24/04:37:33,  75.0, dturner(EVA), Bow shock crossing
+2018-01-24/04:37:33 - 2018-01-24/04:39:13,  75.0, dturner(EVA), Bow shock crossing
+2018-01-24/05:17:13 - 2018-01-24/05:17:53,  65.0, dturner(EVA), Weak HFA
+2018-01-24/05:22:53 - 2018-01-24/05:23:53, 125.0, dturner(EVA), Small HFA or FB
+2018-01-24/06:48:53 - 2018-01-24/06:51:13,  80.0, dturner(EVA),  Pristine solar wind under steady IMF conditions
+2018-01-24/06:51:13 - 2018-01-24/06:53:33,  80.0, dturner(EVA),  Pristine solar wind under steady IMF conditions
+2018-01-24/06:53:33 - 2018-01-24/06:56:03,  80.0, dturner(EVA),  Pristine solar wind under steady IMF conditions
+2018-01-24/06:56:03 - 2018-01-24/06:58:23,  80.0, dturner(EVA),  Pristine solar wind under steady IMF conditions
+2018-01-24/06:58:23 - 2018-01-24/07:00:23,  80.0, dturner(EVA),  Pristine solar wind under steady IMF conditions
+2018-01-24/07:00:23 - 2018-01-24/07:02:33,  80.0, dturner(EVA),  Pristine solar wind under steady IMF conditions
+2018-01-24/07:02:33 - 2018-01-24/07:04:33,  80.0, dturner(EVA),  Pristine solar wind under steady IMF conditions
+2018-01-24/07:04:33 - 2018-01-24/07:06:33,  80.0, dturner(EVA),  Pristine solar wind under steady IMF conditions
+2018-01-25/03:33:13 - 2018-01-25/03:34:03,  75.0, dturner(EVA), IMF current sheet
+2018-01-25/05:46:43 - 2018-01-25/05:47:13,  75.0, dturner(EVA), IMF current sheet
+2018-01-25/06:58:53 - 2018-01-25/06:59:53,  75.0, dturner(EVA), IMF current sheet
+2018-01-26/06:43:13 - 2018-01-26/06:44:03,  75.0, dturner(EVA), IMF current sheet
+2018-01-26/07:03:13 - 2018-01-26/07:04:33, 125.0, dturner(EVA), IMF discontinuity and young HFA
+2018-01-26/07:53:13 - 2018-01-26/07:55:03,  95.0, dturner(EVA), SLAMS and quasi-parallel bow shock
+2018-01-26/07:55:03 - 2018-01-26/07:56:53,  95.0, dturner(EVA), SLAMS and quasi-parallel bow shock
+2018-01-26/08:01:13 - 2018-01-26/08:03:13,  75.0, dturner(EVA), Quasi-perpendicular bow shock crossing
+2018-01-26/08:18:43 - 2018-01-26/08:21:23,  75.0, dturner(EVA), Quasi-parallel bow shock crossing
+2018-01-26/08:22:43 - 2018-01-26/08:25:03, 135.0, dturner(EVA)," Series of foreshock transients (HFAs, FBs, and/or SLAMS) and quasi-parallel bow shock activity"
+2018-01-26/08:25:03 - 2018-01-26/08:27:13, 150.0, dturner(EVA)," Intense current sheet during series of foreshock transients (HFAs, FBs, and/or SLAMS) and quasi-parallel bow shock activity"
+2018-01-26/08:27:13 - 2018-01-26/08:29:33, 135.0, dturner(EVA)," Series of foreshock transients (HFAs, FBs, and/or SLAMS) and quasi-parallel bow shock activity"
+2018-01-26/09:24:13 - 2018-01-26/09:26:33, 145.0, dturner(EVA), Turbulent current sheets in the magnetosheath
+2018-01-26/09:26:33 - 2018-01-26/09:28:53, 145.0, dturner(EVA), Turbulent current sheets in the magnetosheath
+2018-01-26/09:28:53 - 2018-01-26/09:31:13, 145.0, dturner(EVA), Turbulent current sheets in the magnetosheath
+2018-01-26/09:33:03 - 2018-01-26/09:35:13, 145.0, dturner(EVA), Current sheets in the magnetosheath and deep magnetic nulls
+2018-01-26/09:35:13 - 2018-01-26/09:37:13, 145.0, dturner(EVA), Current sheets in the magnetosheath and deep magnetic nulls
+2018-01-26/09:37:13 - 2018-01-26/09:39:23, 145.0, dturner(EVA), Current sheets in the magnetosheath and deep magnetic nulls
+2018-01-26/09:39:23 - 2018-01-26/09:41:23, 145.0, dturner(EVA), Current sheets in the magnetosheath and deep magnetic nulls
+2018-01-26/09:47:33 - 2018-01-26/09:49:23, 130.0, dturner(EVA), Deep magnetic nulls and magnetosheath turbulence
+2018-01-26/09:59:23 - 2018-01-26/09:59:53, 130.0, dturner(EVA), Deep magnetic null in the magnetosheath
+2018-01-26/10:14:23 - 2018-01-26/10:16:43,  75.0, dturner(EVA)," Magnetopause, low shear"
+2018-01-26/10:16:43 - 2018-01-26/10:19:03,  75.0, dturner(EVA)," Magnetopause, low shear"
+2018-01-26/10:19:03 - 2018-01-26/10:21:23,  75.0, dturner(EVA)," Magnetopause, low shear"
+2018-01-26/10:21:23 - 2018-01-26/10:23:53,  75.0, dturner(EVA)," Magnetopause, low shear"
+2018-01-26/10:23:53 - 2018-01-26/10:26:13,  75.0, dturner(EVA)," Magnetopause, low shear"
+2018-01-26/10:26:13 - 2018-01-26/10:28:33,  75.0, dturner(EVA)," Magnetopause, low shear"
+2018-01-26/10:28:33 - 2018-01-26/10:30:53,  75.0, dturner(EVA)," Magnetopause, low shear"

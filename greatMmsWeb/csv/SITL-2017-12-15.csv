@@ -1,0 +1,69 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-12-15/12:37:23 - 2017-12-15/12:39:43, 110.0, lavanov(EVA),  Two complete MP crossings with Vz jets and B minimum
+2017-12-15/12:39:43 - 2017-12-15/12:42:13, 110.0, lavanov(EVA),  Two complete MP crossings with Vz jets and B minimum
+2017-12-15/12:42:13 - 2017-12-15/12:44:33, 110.0, lavanov(EVA),  Two complete MP crossings with Vz jets and B minimum
+2017-12-15/12:44:33 - 2017-12-15/12:47:03, 110.0, lavanov(EVA),  Two complete MP crossings with Vz jets and B minimum
+2017-12-15/12:47:03 - 2017-12-15/12:49:23, 110.0, lavanov(EVA),  Two complete MP crossings with Vz jets and B minimum
+2017-12-15/13:03:03 - 2017-12-15/13:05:23, 155.0, lavanov(EVA),"  High shear MP crossings with jet, possible EDR, B null"
+2017-12-15/13:05:23 - 2017-12-15/13:07:13, 155.0, lavanov(EVA),"  High shear MP crossings with jet, possible EDR, B null"
+2017-12-15/13:07:13 - 2017-12-15/13:08:53, 155.0, lavanov(EVA),"  High shear MP crossings with jet, possible EDR, B null"
+2017-12-15/14:07:03 - 2017-12-15/14:07:33,   2.0, lavanov(EVA)," Turbulent MSheath prior to Qpar bow shock,  Qpar bow shock"
+2017-12-15/14:07:33 - 2017-12-15/14:10:23,  85.0, lavanov(EVA)," Turbulent MSheath prior to Qpar bow shock, Qpar bow shock "
+2017-12-15/14:10:23 - 2017-12-15/14:13:23,  85.0, lavanov(EVA)," Turbulent MSheath prior to Qpar bow shock, Qpar bow shock "
+2017-12-15/14:13:23 - 2017-12-15/14:17:03,  90.0, lavanov(EVA), Qpar Bow Shock 
+2017-12-15/14:17:03 - 2017-12-15/14:19:13,  85.0, lavanov(EVA), Qpar Bow shock 
+2017-12-15/14:19:13 - 2017-12-15/14:21:43,  85.0, lavanov(EVA), Qpar Bow shock 
+2017-12-15/14:21:43 - 2017-12-15/14:24:03, 125.0, lavanov(EVA), Well developed Hot Flow Anomaly 
+2017-12-15/14:24:03 - 2017-12-15/14:26:13, 100.0, lavanov(EVA), HFA 
+2017-12-15/14:56:13 - 2017-12-15/14:56:53, 120.0, lavanov(EVA)," Small scale SW CSheet, significant increase in diffB current "
+2017-12-15/15:02:13 - 2017-12-15/15:04:15,  99.0, lavanov(EVA), Qpar bow shock 
+2017-12-15/15:13:43 - 2017-12-15/15:14:43, 120.0, lavanov(EVA)," Magnetosheath CS with number density  increase up to 100, significant enhancement in bdiffB current "
+2017-12-15/16:02:23 - 2017-12-15/16:03:53,  95.0, lavanov(EVA),  Small scale CS with Bz reversal
+2017-12-15/16:03:53 - 2017-12-15/16:04:33, 100.0, lavanov(EVA),  Solar wind magnetic hole
+2017-12-15/16:04:43 - 2017-12-15/16:05:53,  85.0, lavanov(EVA), Shock related turbulence
+2017-12-15/16:06:43 - 2017-12-15/16:09:43, 100.0, lavanov(EVA)," Turbulent MSheath, skimming bow shock (?)"
+2017-12-15/16:12:53 - 2017-12-15/16:14:13,  95.0, lavanov(EVA),  Long solar wind magnetic hole
+2017-12-15/16:14:13 - 2017-12-15/16:15:13, 110.0, lavanov(EVA), Bow shock related CS Bz reversal
+2017-12-15/16:48:33 - 2017-12-15/16:51:43, 110.0, lavanov(EVA),  Qpar Bopw shock witj large current
+2017-12-15/17:23:43 - 2017-12-15/17:24:23, 150.0, lavanov(EVA), Solar wind current sheet with strong diffB current
+2017-12-15/17:30:33 - 2017-12-15/17:31:53, 110.0, lavanov(EVA), Solar Wind magnetic hole with Null (almost)
+2017-12-15/17:40:23 - 2017-12-15/17:41:23, 100.0, lavanov(EVA), Two small-scale Sowlar Wind CS with  significant current
+2017-12-15/19:40:03 - 2017-12-15/19:43:13,  80.0, lavanov(EVA),  SW large scale CS
+2017-12-15/20:18:13 - 2017-12-15/20:19:23, 110.0, lavanov(EVA)," SW CS  Bx, By rotation"
+2017-12-16/15:52:23 - 2017-12-16/15:55:13,  85.0, lavanov(EVA), Turbulent SW transition from high to low frequency fluctuations 
+2017-12-16/15:55:13 - 2017-12-16/15:58:13,  85.0, lavanov(EVA), Turbulent SW transition from high to low frequency fluctuations 
+2017-12-16/15:58:13 - 2017-12-16/16:01:03,  85.0, lavanov(EVA), Turbulent SW transition from high to low frequency fluctuations 
+2017-12-16/17:43:53 - 2017-12-16/17:47:13, 100.0, lavanov(EVA), Turbulent solar wind  
+2017-12-16/17:47:13 - 2017-12-16/17:50:23, 100.0, lavanov(EVA), Turbulent solar wind  
+2017-12-16/17:50:23 - 2017-12-16/17:53:43, 100.0, lavanov(EVA), Turbulent solar wind  
+2017-12-16/17:53:43 - 2017-12-16/17:56:53, 100.0, lavanov(EVA), Turbulent solar wind  
+2017-12-16/17:56:53 - 2017-12-16/18:00:03, 100.0, lavanov(EVA), Turbulent solar wind  
+2017-12-16/18:00:03 - 2017-12-16/18:03:03, 100.0, lavanov(EVA), Turbulent solar wind  
+2017-12-16/18:03:03 - 2017-12-16/18:06:13, 100.0, lavanov(EVA), Turbulent solar wind  
+2017-12-16/18:06:13 - 2017-12-16/18:09:23, 100.0, lavanov(EVA), Turbulent solar wind  
+2017-12-16/18:09:23 - 2017-12-16/18:12:33, 100.0, lavanov(EVA), Turbulent solar wind  
+2017-12-16/18:12:33 - 2017-12-16/18:15:33,  90.0, lavanov(EVA), Turbulent solar wind with increased diffdB current
+2017-12-16/18:15:33 - 2017-12-16/18:18:23,  90.0, lavanov(EVA), Turbulent solar wind with increased diffdB current
+2017-12-16/18:18:23 - 2017-12-16/18:21:23,  90.0, lavanov(EVA), Turbulent solar wind with increased diffdB current
+2017-12-16/18:21:23 - 2017-12-16/18:24:13,  90.0, lavanov(EVA), Turbulent solar wind with increased diffdB current
+2017-12-16/18:24:13 - 2017-12-16/18:27:13,  90.0, lavanov(EVA), Turbulent solar wind with increased diffdB current
+2017-12-16/19:03:33 - 2017-12-16/19:06:03, 105.0, lavanov(EVA)," CS in the SW, high diffB current "
+2017-12-17/17:52:23 - 2017-12-17/17:53:53, 145.0, lavanov(EVA),"  Strong Interplanetary shock, number density sharp increase, magnetic field rotation, magnitude of the field in the trailing edge ~35 nT of the "
+2017-12-17/17:58:03 - 2017-12-17/17:59:03, 145.0, lavanov(EVA),  Large scale CS in the solar wind
+2017-12-17/18:11:03 - 2017-12-17/18:12:03, 110.0, lavanov(EVA), SW thin CS with large current 
+2017-12-17/18:24:13 - 2017-12-17/18:26:23,  95.0, lavanov(EVA), Turbulent Solar wind
+2017-12-17/18:26:23 - 2017-12-17/18:28:43,  95.0, lavanov(EVA), Turbulent Solar wind
+2017-12-17/18:32:43 - 2017-12-17/18:33:13, 110.0, lavanov(EVA),  Small scale solar wind CS (magnetic field rotation) significant increase in diffB current
+2017-12-17/18:44:33 - 2017-12-17/18:45:23, 110.0, lavanov(EVA),  CS in the solar wind
+2017-12-17/18:49:13 - 2017-12-17/18:50:43, 145.0, lavanov(EVA),  Small scale CS with large current
+2017-12-17/19:18:43 - 2017-12-17/19:21:33, 120.0, lavanov(EVA), Qperp bow shock  accelerated ions in front.
+2017-12-17/19:42:53 - 2017-12-17/19:45:23, 105.0, lavanov(EVA),  Turbulent MShetah with energetic ions
+2017-12-17/19:45:23 - 2017-12-17/19:47:43, 105.0, lavanov(EVA),  Turbulent MShetah with energetic ions
+2017-12-17/19:47:43 - 2017-12-17/19:50:13, 105.0, lavanov(EVA),  Turbulent MShetah with energetic ions
+2017-12-17/20:42:03 - 2017-12-17/20:42:43, 100.0, lavanov(EVA),  Solar wind magnetic hole
+2017-12-17/22:40:33 - 2017-12-17/22:42:33,  85.9, ABS,  
+2017-12-17/22:45:43 - 2017-12-17/22:48:23, 155.0, lavanov(EVA),"  High shear MP, with significant diffB current, B null"
+2017-12-17/22:51:53 - 2017-12-17/22:53:13, 125.0, lavanov(EVA),  FTE with jet 
+2017-12-17/22:56:53 - 2017-12-17/22:58:03, 125.0, lavanov(EVA), FTE with jet 
+2017-12-17/23:01:03 - 2017-12-17/23:02:33, 110.0, lavanov(EVA), Active FTE 
+2017-12-17/23:13:23 - 2017-12-17/23:15:03, 110.0, lavanov(EVA),  Active FTE

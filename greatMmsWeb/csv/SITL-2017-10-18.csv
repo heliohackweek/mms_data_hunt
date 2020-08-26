@@ -1,0 +1,106 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-10-18/00:07:13 - 2017-10-18/00:09:53,  85.0, svines(EVA)," Sheath current sheet/discontinuity, energetic particle enhancements"
+2017-10-18/00:25:13 - 2017-10-18/00:28:33, 120.0, svines(EVA)," 2 bow shocks, foreshock "
+2017-10-18/00:45:03 - 2017-10-18/00:49:23,  68.0, svines(EVA), Downstream turbulent sheath 
+2017-10-18/00:49:23 - 2017-10-18/00:51:23,  86.0, svines(EVA), Bow shock and foreshock 
+2017-10-18/00:51:23 - 2017-10-18/00:54:53, 120.0, svines(EVA), Bow shock and foreshock 
+2017-10-18/00:54:53 - 2017-10-18/00:57:13,  86.0, svines(EVA), Bow shock and foreshock 
+2017-10-18/00:57:13 - 2017-10-18/00:59:33,  52.0, svines(EVA), Bow shock and foreshock 
+2017-10-18/00:59:33 - 2017-10-18/01:02:53,  52.0, svines(EVA), Foreshock interval 
+2017-10-18/01:02:53 - 2017-10-18/01:06:03,  52.0, svines(EVA)," Foreshock interval, upstream context "
+2017-10-18/01:06:03 - 2017-10-18/01:09:13,  58.0, svines(EVA), Foreshock interval 
+2017-10-18/01:09:13 - 2017-10-18/01:13:43, 125.0, svines(EVA)," Quasi-||, low Mach number Bow shock, foreshock and foreshock bubble"
+2017-10-18/01:22:13 - 2017-10-18/01:26:03, 125.0, svines(EVA), Bow shock and foreshock 
+2017-10-18/01:26:03 - 2017-10-18/01:29:23,  74.0, svines(EVA), Foreshock 
+2017-10-18/01:29:33 - 2017-10-18/01:30:13, 101.0, svines(EVA), Interplanetary current sheet (with density increase) 
+2017-10-18/01:35:13 - 2017-10-18/01:38:33,  75.0, svines(EVA)," Foreshock (higher energy, dispersed ion beam, but little energetic ions)  "
+2017-10-18/01:38:33 - 2017-10-18/01:41:43, 130.0, svines(EVA), Bow shock 
+2017-10-18/04:30:03 - 2017-10-18/04:32:13,  72.0, svines(EVA)," Discontinuity/current sheet in sheath, bow shock"
+2017-10-18/04:32:13 - 2017-10-18/04:34:43, 130.0, svines(EVA)," Discontinuity/current sheet in sheath, bow shock"
+2017-10-18/04:38:43 - 2017-10-18/04:40:33, 123.0, svines(EVA), HFA (weak/small one) 
+2017-10-18/04:55:33 - 2017-10-18/04:56:33,  64.0, svines(EVA), Foreshock transient 
+2017-10-18/05:08:53 - 2017-10-18/05:12:53, 125.0, svines(EVA)," Bow shock (quasi-||), foreshock with energetic ions "
+2017-10-18/05:12:53 - 2017-10-18/05:15:23, 115.0, svines(EVA), Foreshock with energetic ions 
+2017-10-18/05:15:23 - 2017-10-18/05:16:43,  97.0, svines(EVA), Foreshock and transient (bubble?)
+2017-10-18/05:16:43 - 2017-10-18/05:18:03,  85.0, svines(EVA), Foreshock upstream of series of bow shock crossings 
+2017-10-18/05:18:03 - 2017-10-18/05:21:13, 130.0, svines(EVA)," Brief/partial bow shock crossings, intense ion beams upstream"
+2017-10-18/05:27:43 - 2017-10-18/05:29:53, 130.0, svines(EVA)," Series of bow shock crossings, energetic particles "
+2017-10-18/05:29:53 - 2017-10-18/05:32:23, 130.0, svines(EVA)," Series of bow shock crossings, energetic particles "
+2017-10-18/05:32:23 - 2017-10-18/05:34:03,  84.0, svines(EVA)," Series of bow shock crossings, energetic particles "
+2017-10-18/05:43:53 - 2017-10-18/05:47:33, 126.0, svines(EVA)," Quasi=|| bow shock, foreshock interval with SLAMS"
+2017-10-18/05:47:33 - 2017-10-18/05:51:53,  73.0, svines(EVA)," Foreshock interval, some energetic ion enhancements "
+2017-10-18/06:06:13 - 2017-10-18/06:08:43, 115.0, svines(EVA), Bow shock 
+2017-10-18/06:08:43 - 2017-10-18/06:11:13, 115.0, svines(EVA), Bow shock 
+2017-10-18/06:19:03 - 2017-10-18/06:20:43,  74.0, svines(EVA), Embedded current sheet in sheath 
+2017-10-18/06:41:43 - 2017-10-18/06:43:53, 130.0, svines(EVA), Bow shock (with some kind of transient embedded?)
+2017-10-18/07:07:13 - 2017-10-18/07:09:53,  55.0, svines(EVA), Sequence of magnetic holes 
+2017-10-18/07:16:23 - 2017-10-18/07:18:53, 135.0, svines(EVA), Quasi-perp bow shock 
+2017-10-18/07:31:23 - 2017-10-18/07:34:03, 125.0, svines(EVA), Bow shock and foreshock 
+2017-10-18/07:34:03 - 2017-10-18/07:36:13,  85.0, svines(EVA), Foreshock with interesting ion beams 
+2017-10-18/07:36:13 - 2017-10-18/07:39:03, 135.0, svines(EVA), Quasi-perp bow shock with interesting higher-energy ion beam
+2017-10-18/07:51:33 - 2017-10-18/07:55:13, 105.0, svines(EVA), Bow shock and foreshock 
+2017-10-18/09:19:33 - 2017-10-18/09:22:13, 130.0, svines(EVA)," Bow shock, quasi-perp with low Mach number "
+2017-10-18/09:22:13 - 2017-10-18/09:23:53,  72.0, svines(EVA)," Downstream turbulent sheath, energetic ion enhancements, embedded current sheet "
+2017-10-18/09:23:53 - 2017-10-18/09:25:43,  65.0, svines(EVA)," Downstream turbulent sheath, energetic ion enhancements "
+2017-10-18/09:25:43 - 2017-10-18/09:27:23,  65.0, svines(EVA)," Downstream turbulent sheath, energetic ion enhancements "
+2017-10-18/09:32:33 - 2017-10-18/09:35:13, 125.0, svines(EVA)," Bow shock, quasi-||"
+2017-10-18/10:20:53 - 2017-10-18/10:22:03,  70.0, svines(EVA), Interplanetary current sheet 
+2017-10-18/10:25:03 - 2017-10-18/10:27:33,  85.0, svines(EVA)," Pristine solar wind, steady IMF, no energetic particles or much wave activity "
+2017-10-18/10:27:33 - 2017-10-18/10:30:03,  85.0, svines(EVA)," Pristine solar wind, steady IMF, no energetic particles or much wave activity "
+2017-10-18/10:30:03 - 2017-10-18/10:32:33,  85.0, svines(EVA)," Pristine solar wind, steady IMF, no energetic particles or much wave activity "
+2017-10-18/10:32:33 - 2017-10-18/10:35:03,  85.0, svines(EVA)," Pristine solar wind, steady IMF, no energetic particles or much wave activity "
+2017-10-18/10:35:03 - 2017-10-18/10:37:33,  85.0, svines(EVA)," Pristine solar wind, steady IMF, no energetic particles or much wave activity "
+2017-10-18/10:37:33 - 2017-10-18/10:40:03,  85.0, svines(EVA)," Pristine solar wind, steady IMF, no energetic particles or much wave activity "
+2017-10-18/10:40:03 - 2017-10-18/10:42:33,  85.0, svines(EVA)," Pristine solar wind, steady IMF, no energetic particles or much wave activity "
+2017-10-18/10:42:33 - 2017-10-18/10:45:03,  85.0, svines(EVA)," Pristine solar wind, steady IMF, no energetic particles or much wave activity "
+2017-10-18/11:06:33 - 2017-10-18/11:08:33, 100.0, svines(EVA), Interplanetary current sheet and foreshock (quasi-||) 
+2017-10-18/11:08:33 - 2017-10-18/11:10:33, 100.0, svines(EVA), Interplanetary current sheet and foreshock (quasi-||) 
+2017-10-18/11:10:33 - 2017-10-18/11:12:33, 100.0, svines(EVA), Interplanetary current sheet and foreshock (quasi-||) 
+2017-10-18/11:27:03 - 2017-10-18/11:28:23, 105.0, svines(EVA), Interplanetary current sheet with localized e- heating
+2017-10-18/12:46:13 - 2017-10-18/12:51:03, 120.0, svines(EVA)," Bow shock, quasi-perp "
+2017-10-18/12:51:03 - 2017-10-18/12:55:43,  60.0, svines(EVA)," Turbulent downstream sheath, lots of wave activity "
+2017-10-18/13:16:23 - 2017-10-18/13:20:33, 125.0, svines(EVA), Bow shock (oblique to quasi-perp
+2017-10-18/14:10:33 - 2017-10-18/14:12:53,  77.0, svines(EVA)," Interesting signature in IMF, enhancements in ion fluxes (current sheet or transient-HFA?) "
+2017-10-18/14:35:13 - 2017-10-18/14:35:53,  90.0, svines(EVA)," Interplanetary current sheet with magnetic ""hole"" "
+2017-10-19/00:46:03 - 2017-10-19/00:46:53,  70.0, svines(EVA)," Interesting IMF signatures, current sheet"
+2017-10-19/00:49:03 - 2017-10-19/00:50:23,  75.0, svines(EVA), Interplanetary current sheet
+2017-10-19/00:51:13 - 2017-10-19/00:51:43,  55.0, svines(EVA), Current sheet? 
+2017-10-19/00:56:03 - 2017-10-19/00:57:53, 120.0, svines(EVA)," Bow shock, quasi-perp, lower Mach number "
+2017-10-19/01:28:53 - 2017-10-19/01:31:23, 100.0, svines(EVA)," Interesting fluctuations in B and changes in density, embedded current sheet "
+2017-10-19/01:31:23 - 2017-10-19/01:32:53,  60.0, svines(EVA)," Interesting fluctuations in B and changes in density, embedded current sheet "
+2017-10-19/03:16:53 - 2017-10-19/03:19:23,  78.0, svines(EVA)," Interesting, highly fluctuating B-field and density changes, current enhancment "
+2017-10-19/03:24:53 - 2017-10-19/03:26:13,  60.0, svines(EVA), Current sheet in the sheath 
+2017-10-19/04:05:43 - 2017-10-19/04:07:23,  60.0, svines(EVA), Current sheet in sheath 
+2017-10-19/04:11:43 - 2017-10-19/04:13:13,  60.0, svines(EVA), Current sheet in sheath 
+2017-10-19/09:25:33 - 2017-10-19/09:27:23,  75.0, svines(EVA)," Current sheet in sheath, interesting changes in ions "
+2017-10-19/09:27:23 - 2017-10-19/09:29:23,  95.0, svines(EVA)," Current sheet in sheath, deep B-minima, interesting changes in ions - flux rope?"
+2017-10-19/09:29:23 - 2017-10-19/09:31:13,  75.0, svines(EVA)," Current sheet in sheath, interesting changes in ions "
+2017-10-19/12:42:23 - 2017-10-19/12:44:43, 145.0, svines(EVA), Low shear MP crossings into boundary layers 
+2017-10-19/12:51:23 - 2017-10-19/12:52:43, 140.0, svines(EVA), Low shear MP crossing into boundary layer 
+2017-10-19/12:53:53 - 2017-10-19/12:55:33, 155.0, svines(EVA)," Low shear MP crossing, Vy reversals"
+2017-10-19/12:56:03 - 2017-10-19/12:57:33, 150.0, svines(EVA), Low shear MP crossing into boundary layer 
+2017-10-19/13:09:33 - 2017-10-19/13:11:43, 160.0, svines(EVA), Lower shear MP crossing 
+2017-10-19/13:21:03 - 2017-10-19/13:22:13, 150.0, svines(EVA)," Low shear MP crossing, no clear Rx signatures"
+2017-10-19/13:44:53 - 2017-10-19/13:46:03, 160.0, svines(EVA)," Start of periodic partial MP crossings (KHI likely), possible jets? "
+2017-10-19/13:50:23 - 2017-10-19/13:52:03, 165.0, svines(EVA)," Part of periodic MP crossings in and out of boundary layers, small Vz jets "
+2017-10-19/13:52:03 - 2017-10-19/13:53:43, 165.0, svines(EVA)," Part of series of MP crossings, small jets, but higher local shear "
+2017-10-19/13:57:03 - 2017-10-19/13:58:03, 175.0, svines(EVA)," Deep B-minima, jets, with Vz null near B null during periodic partial MP crossings (KHI likely) "
+2017-10-19/13:58:03 - 2017-10-19/14:00:23, 140.0, svines(EVA), Periodic partial MP crossings in and out of boundary layers (KHI?) 
+2017-10-19/14:00:23 - 2017-10-19/14:02:13, 140.0, svines(EVA), Periodic partial MP crossings in and out of boundary layers (KHI?) 
+2017-10-19/14:02:13 - 2017-10-19/14:04:13, 160.0, svines(EVA), Periodic partial MP crossings in and out of boundary layers (KHI?) 
+2017-10-19/14:05:53 - 2017-10-19/14:07:23, 160.0, svines(EVA)," Part of periodic MP crossings, small jet, longer crossing but higher shear and deep B-minimum "
+2017-10-19/14:07:23 - 2017-10-19/14:09:23, 150.0, svines(EVA)," Periodic partial MP crossings, possible jets? "
+2017-10-19/14:09:23 - 2017-10-19/14:10:43, 150.0, svines(EVA)," Periodic partial MP crossings, possible jets? "
+2017-10-19/14:12:53 - 2017-10-19/14:14:53, 155.0, svines(EVA)," Part of periodic MP crossings in and out of boundary layer (KHI, flux rope?( "
+2017-10-19/14:14:53 - 2017-10-19/14:16:33, 140.0, svines(EVA), Partial MP crossings in and out of boundary layers (KHI?) 
+2017-10-19/14:19:03 - 2017-10-19/14:20:23, 105.0, svines(EVA)," Periodic partial MP crossings into and out of boundary layers, KHI "
+2017-10-19/14:20:23 - 2017-10-19/14:23:23, 135.0, svines(EVA)," Periodic partial MP crossings into and out of boundary layers, KHI "
+2017-10-19/14:23:23 - 2017-10-19/14:24:33, 100.0, svines(EVA)," Periodic partial MP crossings and fluctuations, KHI "
+2017-10-19/14:26:53 - 2017-10-19/14:31:23, 135.0, svines(EVA)," Periodic partial MP crossings into and out of boundary layers, KHI "
+2017-10-19/14:31:23 - 2017-10-19/14:32:43,  90.0, svines(EVA)," Periodic partial MP crossings in and out of boundary layer, KHI "
+2017-10-19/14:32:43 - 2017-10-19/14:35:43, 135.0, svines(EVA)," Periodic partial MP crossings into and out of boundary layers, KHI "
+2017-10-19/14:35:43 - 2017-10-19/14:40:13, 125.0, svines(EVA)," Periodic partial MP crossings into and out of boundary layers, KHI "
+2017-10-19/14:40:13 - 2017-10-19/14:42:23,  90.0, svines(EVA)," Periodic partial MP crossings in and out of boundary layers, KHI "
+2017-10-19/14:42:23 - 2017-10-19/14:45:03, 115.0, svines(EVA)," Periodic partial MP crossings into and out of boundary layers, KHI "
+2017-10-19/14:45:03 - 2017-10-19/14:48:23, 165.0, svines(EVA)," Periodic MP crossings into and out of boundary layers, KHI "
+2017-10-19/14:48:23 - 2017-10-19/14:49:43, 120.0, svines(EVA)," Lower shear traversal from boundary layers to magnetosphere, enhanced Vz "

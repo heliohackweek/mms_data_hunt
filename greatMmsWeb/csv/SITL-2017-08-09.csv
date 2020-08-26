@@ -1,0 +1,59 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-08-09/00:43:43 - 2017-08-09/00:46:03, 105.0, dturner(EVA), Small dipolarization front with a weak +Vx flow
+2017-08-09/00:46:03 - 2017-08-09/00:48:33, 105.0, dturner(EVA), Small dipolarization front with a weak +Vx flow
+2017-08-09/00:48:33 - 2017-08-09/00:51:03, 105.0, dturner(EVA), Small dipolarization front with a weak +Vx flow
+2017-08-09/00:51:03 - 2017-08-09/00:53:33, 105.0, dturner(EVA), Small dipolarization front with a weak +Vx flow
+2017-08-09/00:53:33 - 2017-08-09/00:55:53, 105.0, dturner(EVA), Small dipolarization front with a weak +Vx flow
+2017-08-09/00:55:53 - 2017-08-09/00:58:23, 105.0, dturner(EVA), Small dipolarization front with a weak +Vx flow
+2017-08-09/00:58:23 - 2017-08-09/01:00:53, 105.0, dturner(EVA), Small dipolarization front with a weak +Vx flow
+2017-08-09/06:41:43 - 2017-08-09/06:44:03, 149.0, dturner(EVA)," Deep magnetic nulls, strong bipolar ExB signatures, Bz zero-crossing, weak or no ion flows "
+2017-08-09/06:44:03 - 2017-08-09/06:46:23, 149.0, dturner(EVA)," Deep magnetic nulls, strong bipolar ExB signatures, Bz zero-crossing, weak or no ion flows "
+2017-08-09/07:57:13 - 2017-08-09/07:59:03, 149.0, dturner(EVA)," Bz reversal, bipolar Vx and Vy signatures, strong current spike, wave activity "
+2017-08-09/07:59:03 - 2017-08-09/08:00:43, 149.0, dturner(EVA)," Bz reversal, bipolar Vx and Vy signatures, strong current spike, wave activity "
+2017-08-09/08:00:43 - 2017-08-09/08:02:33, 149.0, dturner(EVA)," Bz reversal, bipolar Vx and Vy signatures, strong current spike, wave activity "
+2017-08-09/08:05:53 - 2017-08-09/08:08:03,  90.0, dturner(EVA)," Null in Bz following a sharp spike, local minima in Btot, weak ion flows, some wave activity"
+2017-08-09/08:08:03 - 2017-08-09/08:10:13,  90.0, dturner(EVA)," Null in Bz following a sharp spike, local minima in Btot, weak ion flows, some wave activity"
+2017-08-09/08:10:13 - 2017-08-09/08:12:23,  90.0, dturner(EVA)," Null in Bz following a sharp spike, local minima in Btot, weak ion flows, some wave activity"
+2017-08-09/14:23:53 - 2017-08-09/14:26:23, 100.0, dturner(EVA)," BBF (Vx and Vy enhancements), multiple Bz reversals"
+2017-08-09/14:26:23 - 2017-08-09/14:28:53, 100.0, dturner(EVA)," BBF (Vx and Vy enhancements), multiple Bz reversals"
+2017-08-09/16:33:33 - 2017-08-09/16:35:23, 125.0, dturner(EVA)," Dipolarization front, bipolar Bz signature, Vx enhancement and negative Vy, "
+2017-08-09/16:36:23 - 2017-08-09/16:37:23, 125.0, dturner(EVA)," Deep magnetic null, strong ExB, Bz reversal"
+2017-08-09/16:41:33 - 2017-08-09/16:42:23, 125.0, dturner(EVA)," Deep magnetic null, ExB flow, bipolar Bz"
+2017-08-09/16:42:43 - 2017-08-09/16:44:03, 125.0, dturner(EVA)," Series of magnetic nulls, multiple Bz and E-field reversals, ExB flows "
+2017-08-09/16:44:03 - 2017-08-09/16:45:23, 125.0, dturner(EVA)," Series of magnetic nulls, multiple Bz and E-field reversals, ExB flows "
+2017-08-09/16:48:43 - 2017-08-09/16:50:43, 125.0, dturner(EVA)," Series of magnetic nulls, Bx and Bz reversals, ExB enhancements, all embedded in a BBF (strong Vx)"
+2017-08-09/16:50:43 - 2017-08-09/16:52:43, 125.0, dturner(EVA)," Series of magnetic nulls, Bx and Bz reversals, ExB enhancements, all embedded in a BBF (strong Vx)"
+2017-08-09/16:55:33 - 2017-08-09/16:57:43, 125.0, dturner(EVA)," Dipolarization front, Bz dip and enhancement, strong Vy flow"
+2017-08-09/17:35:13 - 2017-08-09/17:36:13,  90.0, dturner(EVA)," ExB enhancement and strong wave activity, associated current enhancements"
+2017-08-09/17:36:13 - 2017-08-09/17:37:03, 149.0, dturner(EVA)," Deep magnetic null, bipolar (ExB)x, symmetric (ExB)y and z variations"
+2017-08-09/17:38:13 - 2017-08-09/17:40:03, 100.0, dturner(EVA)," Multiple Bz reversals, ExB enhancements, Vx reversal, wave activity"
+2017-08-09/19:16:03 - 2017-08-09/19:18:13, 125.0, dturner(EVA), Dipolarization front and BBF 
+2017-08-09/19:18:13 - 2017-08-09/19:20:33, 125.0, dturner(EVA), Dipolarization front and BBF 
+2017-08-09/19:20:33 - 2017-08-09/19:22:43,  75.0, dturner(EVA), Context for dipolarization front and BBF 
+2017-08-09/19:22:43 - 2017-08-09/19:25:03,  75.0, dturner(EVA), Context for dipolarization front and BBF 
+2017-08-09/20:13:53 - 2017-08-09/20:15:53,  99.0, dturner(EVA)," Vx flow reversal and multiple Bz reversals, and Bx reversal (current sheet crossing "
+2017-08-09/20:15:53 - 2017-08-09/20:17:53,  99.0, dturner(EVA)," Vx flow reversal and multiple Bz reversals, and Bx reversal (current sheet crossing "
+2017-08-09/20:17:53 - 2017-08-09/20:20:03,  99.0, dturner(EVA)," Vx flow reversal and multiple Bz reversals, and Bx reversal (current sheet crossing "
+2017-08-09/20:20:03 - 2017-08-09/20:22:03,  99.0, dturner(EVA)," Vx flow reversal and multiple Bz reversals, and Bx reversal (current sheet crossing "
+2017-08-09/20:22:53 - 2017-08-09/20:25:13, 125.0, dturner(EVA)," Bz and Bx reversals, strong ExB spikes, -Vx enhancement, temperature enhancements, wave activity"
+2017-08-09/22:13:13 - 2017-08-09/22:14:33,  49.0, dturner(EVA)," Field reorientation, Vy enhancement, small spike in EDP and wave activity"
+2017-08-09/22:14:33 - 2017-08-09/22:15:53,  49.0, dturner(EVA)," Field reorientation, Vy enhancement, small spike in EDP and wave activity"
+2017-08-09/22:16:03 - 2017-08-09/22:17:33, 100.0, dturner(EVA)," Dipolarization (Bz enhancement), By and Bx reversals, BBF (Vx enhancement), strong ExB spikes"
+2017-08-09/22:17:33 - 2017-08-09/22:19:03, 100.0, dturner(EVA)," Dipolarization (Bz enhancement), BBF (Vx enhancement), strong ExB spikes"
+2017-08-09/22:37:43 - 2017-08-09/22:39:33,  50.0, dturner(EVA), Vx flow burst
+2017-08-09/22:40:33 - 2017-08-09/22:42:23,  50.0, dturner(EVA), Vx burst and plasma sheet boundary layer
+2017-08-09/22:42:23 - 2017-08-09/22:44:23,  50.0, dturner(EVA), Vx burst and plasma sheet boundary layer
+2017-08-09/23:13:43 - 2017-08-09/23:15:43, 125.0, dturner(EVA), Dipolarization front and BBF
+2017-08-09/23:15:43 - 2017-08-09/23:17:33, 125.0, dturner(EVA), Dipolarization front and BBF
+2017-08-09/23:17:33 - 2017-08-09/23:19:33, 125.0, dturner(EVA), Dipolarization front and BBF
+2017-08-09/23:32:43 - 2017-08-09/23:35:03, 100.0, dturner(EVA), Dipolarization and Vx flow burst (BBF)
+2017-08-09/23:35:03 - 2017-08-09/23:37:23, 100.0, dturner(EVA), Dipolarization and Vx flow burst (BBF)
+2017-08-10/00:15:23 - 2017-08-10/00:17:53,  99.0, dturner(EVA), Slow dipolarization of B-field and Vx and Vy flow bursts
+2017-08-10/00:21:13 - 2017-08-10/00:22:53,  99.0, dturner(EVA)," Bx and By reversals, dip in Btotal, Vy and -Vx enhancements, change in electron temperature"
+2017-08-10/00:48:23 - 2017-08-10/00:49:43, 125.0, dturner(EVA), Dipolarization front and BBF
+2017-08-10/00:49:43 - 2017-08-10/00:51:03, 125.0, dturner(EVA), Dipolarization front and BBF
+2017-08-10/00:51:53 - 2017-08-10/00:54:03, 100.0, dturner(EVA), Two dipolarizations and BBF (Vx enhancement) followed by Vx reversal 
+2017-08-10/00:54:03 - 2017-08-10/00:56:13, 100.0, dturner(EVA), Two dipolarizations and BBF (Vx enhancement) followed by Vx reversal 
+2017-08-10/00:58:03 - 2017-08-10/00:59:43, 100.0, dturner(EVA), Dipolarizations (Bz enhancements) during -Vx enhancement
+2017-08-10/00:59:43 - 2017-08-10/01:01:23, 100.0, dturner(EVA), Dipolarizations (Bz enhancements) during -Vx enhancement
+2017-08-10/12:17:33 - 2017-08-10/12:19:53, 155.0, rtorbert(EVA),"  Vx reversal, Bz reveral, zero B "

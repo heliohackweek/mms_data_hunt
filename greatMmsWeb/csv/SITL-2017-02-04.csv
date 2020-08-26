@@ -1,0 +1,39 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-02-04/22:51:23 - 2017-02-04/22:53:33, 150.0, fwilder(EVA), Moderate Shear Full MP With Jet
+2017-02-04/22:53:33 - 2017-02-04/22:55:43, 150.0, fwilder(EVA), Moderate Shear Full MP With Jet
+2017-02-04/22:55:43 - 2017-02-04/22:57:53, 150.0, fwilder(EVA), Moderate Shear Full MP With Jet
+2017-02-04/22:57:53 - 2017-02-04/23:00:03, 150.0, fwilder(EVA), Moderate Shear Full MP With Jet
+2017-02-04/23:00:03 - 2017-02-04/23:02:13, 150.0, fwilder(EVA), Moderate Shear Full MP With Jet
+2017-02-04/23:05:13 - 2017-02-04/23:07:13, 100.0, fwilder(EVA), Moderate Shear Partial MP With Jet.
+2017-02-05/03:09:03 - 2017-02-05/03:09:33,  75.0, fwilder(EVA),  Magnetosheath Flux Rope
+2017-02-05/10:03:43 - 2017-02-05/10:06:13, 150.0, fwilder(EVA),  Low Shear Magnetopause
+2017-02-05/10:06:13 - 2017-02-05/10:08:33, 150.0, fwilder(EVA),  Low Shear Magnetopause
+2017-02-05/10:08:33 - 2017-02-05/10:11:03, 150.0, fwilder(EVA),  Low Shear Magnetopause
+2017-02-05/10:11:03 - 2017-02-05/10:13:33, 150.0, fwilder(EVA),  Low Shear Magnetopause
+2017-02-05/10:13:33 - 2017-02-05/10:15:53, 150.0, fwilder(EVA),  Low Shear Magnetopause
+2017-02-05/10:15:53 - 2017-02-05/10:18:23, 150.0, fwilder(EVA),  Low Shear Magnetopause
+2017-02-05/10:30:53 - 2017-02-05/10:33:03, 150.0, fwilder(EVA),  Low Shear Double MP Crossing
+2017-02-05/10:33:03 - 2017-02-05/10:35:13, 150.0, fwilder(EVA),  Low Shear Double MP Crossing
+2017-02-05/10:35:13 - 2017-02-05/10:37:23, 150.0, fwilder(EVA),  Low Shear Double MP Crossing
+2017-02-05/10:37:53 - 2017-02-05/10:41:03, 150.0, fwilder(EVA),  Moderate Shear MP
+2017-02-05/10:45:53 - 2017-02-05/10:47:23, 150.0, fwilder(EVA),  Moderate Shear MP
+2017-02-05/10:47:23 - 2017-02-05/10:49:03, 150.0, fwilder(EVA),  Moderate Shear MP
+2017-02-05/10:50:03 - 2017-02-05/10:51:33, 150.0, fwilder(EVA),  Moderate Shear MP
+2017-02-05/10:51:33 - 2017-02-05/10:53:03, 150.0, fwilder(EVA),  Moderate Shear MP
+2017-02-05/10:54:33 - 2017-02-05/10:56:53, 145.0, fwilder(EVA),  Partial MP With Jet Reversal
+2017-02-05/10:56:53 - 2017-02-05/10:59:03, 145.0, fwilder(EVA),  Partial MP With Jet Reversal
+2017-02-05/10:59:03 - 2017-02-05/11:01:23, 145.0, fwilder(EVA),  Partial MP With Jet Reversal
+2017-02-05/11:01:23 - 2017-02-05/11:03:33, 145.0, fwilder(EVA),  Partial MP With Jet Reversal
+2017-02-05/11:03:33 - 2017-02-05/11:05:43, 145.0, fwilder(EVA),  Partial MP With Jet Reversal
+2017-02-05/11:08:33 - 2017-02-05/11:10:33, 150.0, fwilder(EVA), Possible Full MP With Null and Vz Reversal
+2017-02-05/11:10:33 - 2017-02-05/11:12:33, 150.0, fwilder(EVA), Possible Full MP With Null and Vz Reversal
+2017-02-05/11:12:33 - 2017-02-05/11:14:33, 150.0, fwilder(EVA), Possible Full MP With Null and Vz Reversal
+2017-02-05/11:14:33 - 2017-02-05/11:15:53, 100.0, fwilder(EVA), Partial MPs With Jet
+2017-02-05/11:15:53 - 2017-02-05/11:17:23, 100.0, fwilder(EVA), Partial MPs With Jet
+2017-02-05/11:19:03 - 2017-02-05/11:21:13, 160.0, fwilder(EVA),  Two full MPs with Jets and B Minima
+2017-02-05/11:21:13 - 2017-02-05/11:23:23, 160.0, fwilder(EVA),  Two full MPs with Jets and B Minima
+2017-02-05/11:23:23 - 2017-02-05/11:25:33, 160.0, fwilder(EVA),  Two full MPs with Jets and B Minima
+2017-02-05/11:25:33 - 2017-02-05/11:27:43, 160.0, fwilder(EVA),  Two full MPs with Jets and B Minima
+2017-02-05/11:27:43 - 2017-02-05/11:29:53, 160.0, fwilder(EVA),  Two full MPs with Jets and B Minima
+2017-02-05/11:32:23 - 2017-02-05/11:33:43, 110.0, fwilder(EVA),  Partial MP With Jet
+2017-02-05/11:37:43 - 2017-02-05/11:39:53, 110.0, fwilder(EVA),  Partial MP With Jet

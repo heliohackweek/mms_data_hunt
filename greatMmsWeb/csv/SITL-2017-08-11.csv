@@ -1,0 +1,77 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-08-11/15:26:03 - 2017-08-11/15:28:03,  90.0, tleonard(EVA)," Magnetic null, Bz crossing, weak Vx and Vy ion jets, and ExB spikes"
+2017-08-11/15:28:03 - 2017-08-11/15:30:03,  90.0, tleonard(EVA)," Magnetic null, Bz crossing, weak Vx and Vy ion jets, and ExB spikes"
+2017-08-11/15:30:03 - 2017-08-11/15:32:03,  90.0, tleonard(EVA)," Magnetic null, Bz crossing, weak Vx and Vy ion jets, and ExB spikes"
+2017-08-11/15:48:03 - 2017-08-11/15:50:33,  80.0, tleonard(EVA)," Deep magnetic nulls, ExBy spikes, weak Vx and Vy jets, interesting osciallating Vx and Vy over long time interval"
+2017-08-11/15:50:33 - 2017-08-11/15:53:03,  80.0, tleonard(EVA)," Deep magnetic nulls, ExBy spikes, weak Vx and Vy jets, interesting osciallating Vx and Vy over long time interval"
+2017-08-11/18:48:03 - 2017-08-11/18:50:23, 120.0, tleonard(EVA)," Bx crossing, Bz dip, weak Vx and Vy jets with Vx, Vy, and Vz reversals"
+2017-08-11/18:50:23 - 2017-08-11/18:52:43, 120.0, tleonard(EVA)," Bx crossing, Bz dip, weak Vx and Vy jets with Vx, Vy, and Vz reversals"
+2017-08-11/18:52:43 - 2017-08-11/18:55:03, 120.0, tleonard(EVA)," Bx crossing, Bz dip, weak Vx and Vy jets with Vx, Vy, and Vz reversals"
+2017-08-11/19:14:03 - 2017-08-11/19:16:03,  70.0, tleonard(EVA),"  Current spike, localized B minima, Vx, Vy, and Vz reversals"
+2017-08-11/19:16:03 - 2017-08-11/19:18:03,  70.0, tleonard(EVA),"  Current spike, localized B minima, Vx, Vy, and Vz reversals"
+2017-08-11/19:18:03 - 2017-08-11/19:20:03,  70.0, tleonard(EVA),"  Current spike, localized B minima, Vx, Vy, and Vz reversals"
+2017-08-11/20:27:03 - 2017-08-11/20:29:33, 140.0, tleonard(EVA)," Beginning of dipolarization with ion density enhancement, Bz enhancement, Jtot spike"
+2017-08-11/20:29:33 - 2017-08-11/20:32:03, 150.0, tleonard(EVA)," Vx reversal, Bz reversal and Bz By crossing, start of ion jet"
+2017-08-11/20:32:03 - 2017-08-11/20:34:33, 125.0, tleonard(EVA), Continuration of dipolarization event with Bz reversals and Vx Vy jet peaks
+2017-08-11/20:34:33 - 2017-08-11/20:37:03,  90.0, tleonard(EVA), Context: Captures lobe through dipolarization (note spintone in electric field)
+2017-08-11/20:37:03 - 2017-08-11/20:39:33, 190.0, tleonard(EVA)," 203824UT reversal in Bx and By with magnetic null Bz near zero, Vx ion jet near 300km/s and then going to near 0km/s, ExB enhancements with multiple reversals of all components at null"
+2017-08-11/20:39:33 - 2017-08-11/20:42:03,  90.0, tleonard(EVA), Context: Captures lobe through dipolarization (note spintone in electric field)
+2017-08-11/20:50:33 - 2017-08-11/20:52:03, 150.0, tleonard(EVA)," Deep B minima, weak Vx jet, strong ExB spikes >1500km/s"
+2017-08-11/20:52:03 - 2017-08-11/20:53:33, 150.0, tleonard(EVA)," Deep B minima, weak Vx jet, strong ExB spikes >1500km/s"
+2017-08-11/21:02:03 - 2017-08-11/21:04:03,  70.0, tleonard(EVA), B minima with small ExB spike
+2017-08-12/01:40:03 - 2017-08-12/01:42:23, 125.0, tleonard(EVA)," Current sheet crossing, Bz reversals, ion jets, strong current, ExB spikes"
+2017-08-12/01:42:23 - 2017-08-12/01:44:43, 125.0, tleonard(EVA)," Current sheet crossing, Bz reversals, ion jets, strong current, ExB spikes"
+2017-08-12/01:44:43 - 2017-08-12/01:47:03, 125.0, tleonard(EVA)," Current sheet crossing, Bz reversals, ion jets, strong current, ExB spikes"
+2017-08-12/03:47:03 - 2017-08-12/03:49:33, 110.0, tleonard(EVA)," Bz reversal, weak negative Vx jet, ExB and current spikes, and wave activity"
+2017-08-12/03:49:33 - 2017-08-12/03:52:03, 110.0, tleonard(EVA)," Bz reversal, weak negative Vx jet, ExB and current spikes, and wave activity"
+2017-08-12/05:20:03 - 2017-08-12/05:22:13, 140.0, tleonard(EVA)," Strong negative Vx jet, deep B min, Bz reversals, strong current, ExB spikes >1000km/s"
+2017-08-12/05:22:13 - 2017-08-12/05:24:23, 140.0, tleonard(EVA)," Strong negative Vx jet, deep B min, Bz reversals, strong current, ExB spikes >1000km/s, wave activity"
+2017-08-12/05:24:23 - 2017-08-12/05:26:33, 140.0, tleonard(EVA)," Strong negative Vx jet, deep B min, Bz reversals, strong current, ExB spikes >1000km/s, wave activity"
+2017-08-12/05:41:03 - 2017-08-12/05:43:33,  50.0, tleonard(EVA),"  Negative Vx jet, Bz reversals, current spikes, wave activity"
+2017-08-12/05:43:33 - 2017-08-12/05:46:03,  50.0, tleonard(EVA),"  Negative Vx jet, Bz reversals, current spikes, wave activity"
+2017-08-12/06:05:33 - 2017-08-12/06:07:43, 140.0, tleonard(EVA)," Strong negative Vx, Bz and Bx reversals, deep magnetic minima, ExB jets >500km/s, current spikes, wave activity"
+2017-08-12/06:07:43 - 2017-08-12/06:10:03, 140.0, tleonard(EVA)," Strong negative Vx, Bz and Bx reversals, deep magnetic minima, ExB jets >500km/s, current spikes, wave activity"
+2017-08-12/06:15:03 - 2017-08-12/06:17:33, 130.0, tleonard(EVA)," Current sheet crossing with ExB jets, ExBx>1000km/s, B minima"
+2017-08-12/06:20:03 - 2017-08-12/06:22:03, 130.0, tleonard(EVA)," Current sheet crossing, B minima, Bx reversal, strong negative ExB"
+2017-08-12/06:24:33 - 2017-08-12/06:26:03,  90.0, tleonard(EVA), Current sheet flapping
+2017-08-12/06:26:03 - 2017-08-12/06:27:33,  90.0, tleonard(EVA), Current sheet flapping
+2017-08-12/06:37:03 - 2017-08-12/06:38:33,  80.0, tleonard(EVA), Context for deep B minima (suggested by R.Torbert)
+2017-08-12/06:38:33 - 2017-08-12/06:40:03,  80.0, tleonard(EVA), Context for deep B minima (suggested by R.Torbert)
+2017-08-12/06:40:03 - 2017-08-12/06:42:03, 175.0, tleonard(EVA)," Very symmetric deep B minima, symmetric bipolar Vz ion jets, very strong ExBx and ExBz, current spikes"
+2017-08-12/06:42:03 - 2017-08-12/06:44:03, 175.0, tleonard(EVA)," Very symmetric deep B minima, symmetric bipolar Vz ion jets, very strong ExBx and ExBz, current spikes"
+2017-08-12/08:22:03 - 2017-08-12/08:24:03,  40.0, tleonard(EVA), Weak bipolar Vy jet with wave activity
+2017-08-12/08:24:03 - 2017-08-12/08:26:03,  40.0, tleonard(EVA), Weak bipolar Vy jet with wave activity
+2017-08-12/08:26:03 - 2017-08-12/08:28:03,  40.0, tleonard(EVA), Weak bipolar Vy jet with wave activity
+2017-08-12/08:28:03 - 2017-08-12/08:30:03,  40.0, tleonard(EVA), Weak bipolar Vy jet with wave activity
+2017-08-12/10:44:03 - 2017-08-12/10:46:13,  40.0, tleonard(EVA), Weak Vx and Vy jets with wave activity and FEEPS enhancement
+2017-08-12/10:46:13 - 2017-08-12/10:48:23,  40.0, tleonard(EVA), Weak Vx and Vy jets with wave activity and FEEPS enhancement
+2017-08-12/20:05:03 - 2017-08-12/20:07:03,  40.0, tleonard(EVA), -20mV/m Ez spike with EIS and FPI enhancments
+2017-08-12/20:12:03 - 2017-08-12/20:15:03,  50.0, tleonard(EVA), BBF
+2017-08-12/20:26:03 - 2017-08-12/20:28:03,  50.0, tleonard(EVA), BBF
+2017-08-12/20:30:43 - 2017-08-12/20:33:03,  50.0, tleonard(EVA), BBF
+2017-08-12/20:33:43 - 2017-08-12/20:35:33, 150.0, tleonard(EVA), Deep B minima with ExB >+/-1500km/s
+2017-08-12/20:35:33 - 2017-08-12/20:37:13, 150.0, tleonard(EVA), Deep B minima with ExB >+/-1500km/s
+2017-08-12/20:37:13 - 2017-08-12/20:39:03, 110.0, tleonard(EVA), Deep B minima with ExB >+/-1500km/s
+2017-08-12/20:40:03 - 2017-08-12/20:42:03,  80.0, tleonard(EVA), Strong EDP signature +/-20mV/m with bipolar ion Vx
+2017-08-12/20:42:03 - 2017-08-12/20:44:03,  80.0, tleonard(EVA), Strong EDP signature +/-20mV/m with bipolar ion Vx
+2017-08-12/20:44:03 - 2017-08-12/20:46:03,  80.0, tleonard(EVA), Strong EDP signature +/-20mV/m with bipolar ion Vx
+2017-08-12/23:29:33 - 2017-08-12/23:34:33,  50.0, tleonard(EVA), BBF
+2017-08-12/23:49:33 - 2017-08-12/23:51:33,  50.0, tleonard(EVA), BBF
+2017-08-12/23:52:03 - 2017-08-12/23:54:03,  50.0, tleonard(EVA), BBF
+2017-08-12/23:54:03 - 2017-08-12/23:56:03,  50.0, tleonard(EVA), BBF
+2017-08-13/00:04:43 - 2017-08-13/00:06:43,  50.0, tleonard(EVA), BBF
+2017-08-13/00:06:43 - 2017-08-13/00:08:43,  50.0, tleonard(EVA), BBF
+2017-08-13/00:08:43 - 2017-08-13/00:10:43,  50.0, tleonard(EVA), BBF
+2017-08-13/00:56:03 - 2017-08-13/00:57:43, 100.0, tleonard(EVA), Ion Vx spike >1000km/s
+2017-08-13/00:57:43 - 2017-08-13/00:59:33, 100.0, tleonard(EVA), Ion Vx spike >1000km/s
+2017-08-13/04:07:33 - 2017-08-13/04:10:03,  50.0, tleonard(EVA), BBF with large ion Vx
+2017-08-13/04:10:03 - 2017-08-13/04:12:33,  50.0, tleonard(EVA), BBF with large ion Vx
+2017-08-13/04:12:33 - 2017-08-13/04:15:03,  50.0, tleonard(EVA), BBF with large ion Vx
+2017-08-13/04:15:03 - 2017-08-13/04:17:33,  50.0, tleonard(EVA), BBF with large ion Vx
+2017-08-13/04:17:33 - 2017-08-13/04:20:03,  50.0, tleonard(EVA), BBF with large ion Vx
+2017-08-13/05:56:33 - 2017-08-13/05:58:03,  50.0, tleonard(EVA), BBF with negative Vx
+2017-08-13/05:58:03 - 2017-08-13/05:59:33,  50.0, tleonard(EVA), BBF with negative Vx
+2017-08-13/06:19:03 - 2017-08-13/06:21:13,  50.0, tleonard(EVA), BBF
+2017-08-13/06:21:13 - 2017-08-13/06:23:23,  50.0, tleonard(EVA), BBF
+2017-08-13/06:23:23 - 2017-08-13/06:25:33,  50.0, tleonard(EVA), BBF
+2017-08-13/06:32:33 - 2017-08-13/06:35:03,  70.0, tleonard(EVA), Dipolarization front

@@ -1,0 +1,147 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-09-25/02:29:03 - 2017-09-25/02:31:13, 160.0, cnorgren(EVA)," full MP crossing, Bz reversal"
+2017-09-25/02:31:13 - 2017-09-25/02:32:33, 150.0, cnorgren(EVA)," MP, Bz reversal"
+2017-09-25/02:32:33 - 2017-09-25/02:34:33, 150.0, cnorgren(EVA)," MP crossing, large J"
+2017-09-25/02:34:33 - 2017-09-25/02:36:33, 120.0, cnorgren(EVA), MP
+2017-09-25/02:41:23 - 2017-09-25/02:42:23, 105.0, cnorgren(EVA),  partial MP
+2017-09-25/02:48:13 - 2017-09-25/02:50:23, 150.0, cnorgren(EVA)," MP crossing, FTE?"
+2017-09-25/02:50:23 - 2017-09-25/02:52:23, 150.0, cnorgren(EVA)," MP crossing, FTE?"
+2017-09-25/02:52:23 - 2017-09-25/02:54:33, 150.0, cnorgren(EVA)," MP crossing, FTE?"
+2017-09-25/03:01:23 - 2017-09-25/03:03:23, 105.0, cnorgren(EVA), partial MP
+2017-09-25/03:03:23 - 2017-09-25/03:05:23, 105.0, cnorgren(EVA), partial MP
+2017-09-25/03:10:23 - 2017-09-25/03:12:03, 105.0, cnorgren(EVA), partial MP
+2017-09-25/03:19:33 - 2017-09-25/03:20:53, 130.0, cnorgren(EVA), Slow partial/partial MP crossing with finite gyroradius radius e-
+2017-09-25/03:29:53 - 2017-09-25/03:32:23, 130.0, cnorgren(EVA), slow MP crossing
+2017-09-25/03:32:23 - 2017-09-25/03:34:43,  95.0, cnorgren(EVA), slow magnetopause crossing / boundary layer
+2017-09-25/03:34:43 - 2017-09-25/03:37:13,  95.0, cnorgren(EVA), slow magnetopause crossing / boundary layer
+2017-09-25/03:37:13 - 2017-09-25/03:39:33,  95.0, cnorgren(EVA), slow magnetopause crossing / boundary layer
+2017-09-25/03:39:33 - 2017-09-25/03:42:03,  95.0, cnorgren(EVA), slow magnetopause crossing / boundary layer
+2017-09-25/03:42:03 - 2017-09-25/03:44:23,  95.0, cnorgren(EVA), slow magnetopause crossing / boundary layer
+2017-09-25/03:44:23 - 2017-09-25/03:46:13, 150.0, cnorgren(EVA)," Partial (or full) MP crossing, large J"
+2017-09-25/03:48:23 - 2017-09-25/03:49:33,  95.0, cnorgren(EVA), MSH side of boundary layer 
+2017-09-25/03:51:23 - 2017-09-25/03:53:23, 100.0, cnorgren(EVA)," boundary layer, high freq waves"
+2017-09-25/03:53:23 - 2017-09-25/03:54:33,  80.0, cnorgren(EVA), boundary layer
+2017-09-25/03:56:13 - 2017-09-25/03:58:33, 120.0, cnorgren(EVA)," partial MP rossing, large J"
+2017-09-25/03:58:33 - 2017-09-25/04:00:53, 110.0, cnorgren(EVA)," partial MP crossing, large J"
+2017-09-25/04:01:33 - 2017-09-25/04:03:03, 110.0, cnorgren(EVA)," low shear MP crossing, high freq waves"
+2017-09-25/04:03:03 - 2017-09-25/04:04:53, 120.0, cnorgren(EVA), partial MP crossings
+2017-09-25/04:04:53 - 2017-09-25/04:06:53, 120.0, cnorgren(EVA), partial MP crossings
+2017-09-25/04:14:43 - 2017-09-25/04:17:03, 110.0, cnorgren(EVA), no shear boundary layer
+2017-09-25/04:17:03 - 2017-09-25/04:19:13, 110.0, cnorgren(EVA), no shear boundary layer
+2017-09-25/04:19:13 - 2017-09-25/04:21:33, 110.0, cnorgren(EVA), no shear boundary layer
+2017-09-25/04:21:33 - 2017-09-25/04:22:53, 150.0, cnorgren(EVA), MP crossing low shear
+2017-09-25/04:28:13 - 2017-09-25/04:30:03, 120.0, cnorgren(EVA), MP boundary layer crossing
+2017-09-25/04:30:03 - 2017-09-25/04:32:03, 120.0, cnorgren(EVA), MP boundary layer crossing
+2017-09-25/04:39:03 - 2017-09-25/04:40:23, 135.0, cnorgren(EVA)," MP crossing, low shear"
+2017-09-25/04:40:23 - 2017-09-25/04:42:23,  90.0, cnorgren(EVA), slow crossing / boundary layer
+2017-09-25/04:42:23 - 2017-09-25/04:44:13,  90.0, cnorgren(EVA), slow crossing / boundary layer
+2017-09-25/04:44:13 - 2017-09-25/04:46:13,  90.0, cnorgren(EVA), slow crossing / boundary layer
+2017-09-25/05:28:33 - 2017-09-25/05:30:53, 150.0, cnorgren(EVA)," MP crossing, high shear"
+2017-09-25/05:30:53 - 2017-09-25/05:33:13, 140.0, cnorgren(EVA)," partial MP crossings with Bz reversals, large J"
+2017-09-25/05:33:13 - 2017-09-25/05:35:43, 140.0, cnorgren(EVA)," partial MP crossings with Bz reversals, large J"
+2017-09-25/05:35:43 - 2017-09-25/05:38:03, 140.0, cnorgren(EVA)," partial MP crossings with Bz reversals, large J"
+2017-09-25/05:38:03 - 2017-09-25/05:40:33, 140.0, cnorgren(EVA)," partial MP crossings with Bz reversals, large J"
+2017-09-25/05:40:33 - 2017-09-25/05:42:53, 140.0, cnorgren(EVA)," partial MP crossings with Bz reversals, large J"
+2017-09-25/05:42:53 - 2017-09-25/05:45:23, 140.0, cnorgren(EVA)," partial MP crossings with Bz reversals, large J"
+2017-09-25/05:45:23 - 2017-09-25/05:47:43, 140.0, cnorgren(EVA)," partial MP crossings with Bz reversals, large J"
+2017-09-25/05:47:43 - 2017-09-25/05:48:23, 110.0, cnorgren(EVA), boundary layer on MSH side of MP
+2017-09-25/05:48:23 - 2017-09-25/05:50:33, 110.0, cnorgren(EVA), boundary layer on MSH side of MP
+2017-09-25/05:50:33 - 2017-09-25/05:52:23, 110.0, cnorgren(EVA)," MP crossing, low shear"
+2017-09-25/05:52:23 - 2017-09-25/05:54:13, 110.0, cnorgren(EVA)," MP crossing, low shear"
+2017-09-25/06:02:03 - 2017-09-25/06:05:53, 120.0, cnorgren(EVA), partial MP
+2017-09-25/06:21:03 - 2017-09-25/06:23:53, 105.0, cnorgren(EVA), partial MP
+2017-09-25/09:42:33 - 2017-09-25/09:43:53, 110.0, seriksson(EVA), Partial low-shear MP (KH related?) 
+2017-09-25/09:43:53 - 2017-09-25/09:44:53,  85.0, seriksson(EVA),  Fill (KH related?)
+2017-09-25/09:44:53 - 2017-09-25/09:46:33, 110.0, seriksson(EVA),  Bx fluctuations (KH related?)
+2017-09-25/09:46:33 - 2017-09-25/09:48:03,  85.0, seriksson(EVA),  Fill (KH related?)
+2017-09-25/09:48:03 - 2017-09-25/09:49:53, 110.0, seriksson(EVA), Partial MP crossing
+2017-09-25/10:10:13 - 2017-09-25/10:12:23, 100.0, seriksson(EVA)," Partial MP crossing, low shear"
+2017-09-25/10:24:43 - 2017-09-25/10:26:03, 100.0, cnorgren(EVA), partial MP crossing 
+2017-09-25/10:26:03 - 2017-09-25/10:27:33, 100.0, cnorgren(EVA), partial MP crossing 
+2017-09-25/10:37:53 - 2017-09-25/10:39:23, 100.0, seriksson(EVA),  Partial MP with sharp Bxy gradients
+2017-09-25/10:47:33 - 2017-09-25/10:49:53, 100.0, seriksson(EVA), Two Partial crossings
+2017-09-25/10:49:53 - 2017-09-25/10:52:23, 100.0, seriksson(EVA), Two Partial crossings
+2017-09-25/10:58:53 - 2017-09-25/11:02:13, 105.0, seriksson(EVA), partial MP with sharp By gradient
+2017-09-25/11:02:13 - 2017-09-25/11:04:13,  80.0, cnorgren(EVA), boundary layer with some waves
+2017-09-25/11:04:13 - 2017-09-25/11:06:13,  80.0, cnorgren(EVA), boundary layer with some waves
+2017-09-25/11:19:13 - 2017-09-25/11:20:43, 110.0, seriksson(EVA),  Low-shear partial MP
+2017-09-25/11:25:43 - 2017-09-25/11:27:53, 110.0, cnorgren(EVA), partial MP crossing
+2017-09-25/11:27:53 - 2017-09-25/11:30:03, 110.0, cnorgren(EVA), partial MP crossing
+2017-09-25/11:30:03 - 2017-09-25/11:32:13, 110.0, cnorgren(EVA), partial MP crossing
+2017-09-25/11:32:13 - 2017-09-25/11:34:23, 110.0, cnorgren(EVA), partial MP crossing
+2017-09-25/11:34:23 - 2017-09-25/11:36:33, 110.0, cnorgren(EVA), partial MP crossing
+2017-09-25/11:36:33 - 2017-09-25/11:38:43, 110.0, cnorgren(EVA), partial MP crossing
+2017-09-25/11:41:53 - 2017-09-25/11:44:03, 105.0, seriksson(EVA)," partial MP, low shear"
+2017-09-25/11:52:03 - 2017-09-25/11:53:13, 100.0, seriksson(EVA),  Partial MP
+2017-09-25/11:57:13 - 2017-09-25/11:59:43, 110.0, cnorgren(EVA), partial MP crossing
+2017-09-25/12:21:33 - 2017-09-25/12:23:13, 100.0, seriksson(EVA),  Two partial MP with possible Vx jet
+2017-09-25/12:49:43 - 2017-09-25/12:52:33, 120.0, seriksson(EVA)," Partial MP, FTE?"
+2017-09-25/13:14:03 - 2017-09-25/13:16:13, 110.0, seriksson(EVA),  Sharp magnetosheath Bz current sheets
+2017-09-25/14:07:53 - 2017-09-25/14:09:03,  80.0, seriksson(EVA),  possible Vz jet and partial MP
+2017-09-25/14:26:23 - 2017-09-25/14:29:23, 110.0, seriksson(EVA), partial MP crossing with Vz jet
+2017-09-25/14:39:53 - 2017-09-25/14:41:53,  95.0, seriksson(EVA),  Partial MP with Bz rotation
+2017-09-25/14:51:03 - 2017-09-25/14:53:03,  90.0, seriksson(EVA),  Sharp boundary layer Bz current sheet
+2017-09-25/15:33:43 - 2017-09-25/15:35:43,  90.0, seriksson(EVA), Large J and possible Vy jet
+2017-09-25/16:07:43 - 2017-09-25/16:08:43,  95.0, seriksson(EVA),  Magnetosheath Bz current sheet
+2017-09-25/19:50:03 - 2017-09-25/19:50:53,  70.0, seriksson(EVA), Two magnetosheath By rotations near bow shock
+2017-09-25/23:52:53 - 2017-09-25/23:54:33,  70.0, cnorgren(EVA), MSH rotation
+2017-09-26/04:09:33 - 2017-09-26/04:13:43, 150.0, cnorgren(EVA), MP crossing
+2017-09-26/04:22:33 - 2017-09-26/04:23:53, 100.0, cnorgren(EVA), B rotation
+2017-09-26/04:38:33 - 2017-09-26/04:40:13, 100.0, cnorgren(EVA)," MSH Byz rotation, small density enhancement, high freq waves"
+2017-09-26/04:49:53 - 2017-09-26/04:50:43, 100.0, cnorgren(EVA), partial faint MP 
+2017-09-26/04:55:03 - 2017-09-26/04:56:53, 130.0, cnorgren(EVA), 2 sharp Bz reversals
+2017-09-26/04:57:53 - 2017-09-26/05:01:13,  90.0, cnorgren(EVA), MSH B rotations
+2017-09-26/05:47:03 - 2017-09-26/05:49:03, 150.0, cnorgren(EVA), MP crossing
+2017-09-26/05:49:03 - 2017-09-26/05:51:03, 120.0, cnorgren(EVA), boundary layer between two MP crossings
+2017-09-26/05:51:03 - 2017-09-26/05:52:43, 160.0, cnorgren(EVA)," MP crossing, B null"
+2017-09-26/09:23:23 - 2017-09-26/09:25:33, 130.0, cnorgren(EVA)," By, density increase, with open field lines at mid energies?"
+2017-09-26/09:26:33 - 2017-09-26/09:28:33, 110.0, cnorgren(EVA), Partial MP crossing?
+2017-09-26/09:29:13 - 2017-09-26/09:32:33, 140.0, cnorgren(EVA), 2 partial MP crossings
+2017-09-26/09:41:43 - 2017-09-26/09:44:33, 130.0, cnorgren(EVA)," B rotation, density increase"
+2017-09-26/09:48:53 - 2017-09-26/09:49:33,  80.0, seriksson(EVA), By reversal
+2017-09-26/09:59:53 - 2017-09-26/10:00:43,  90.0, seriksson(EVA),  Magnetosheath Bz rotation
+2017-09-26/16:31:33 - 2017-09-26/16:33:43, 130.0, cnorgren(EVA), KH?
+2017-09-26/16:56:23 - 2017-09-26/16:58:43, 120.0, cnorgren(EVA)," KH, high freq waves"
+2017-09-26/16:58:43 - 2017-09-26/17:00:53,  90.0, cnorgren(EVA), KH?
+2017-09-26/17:00:53 - 2017-09-26/17:03:13,  90.0, cnorgren(EVA), KH?
+2017-09-26/17:03:13 - 2017-09-26/17:05:33, 150.0, cnorgren(EVA)," KH, 2 B min"
+2017-09-26/17:05:33 - 2017-09-26/17:07:43, 110.0, cnorgren(EVA)," KH, waves"
+2017-09-26/17:07:43 - 2017-09-26/17:10:03,  90.0, cnorgren(EVA), KH?
+2017-09-26/17:10:03 - 2017-09-26/17:12:13,  90.0, cnorgren(EVA), KH?
+2017-09-26/17:12:13 - 2017-09-26/17:14:33,  90.0, cnorgren(EVA), KH?
+2017-09-26/17:14:33 - 2017-09-26/17:16:43,  90.0, cnorgren(EVA), KH?
+2017-09-26/17:16:43 - 2017-09-26/17:19:03,  90.0, cnorgren(EVA), KH?
+2017-09-26/17:27:03 - 2017-09-26/17:29:03, 100.0, cnorgren(EVA), KH
+2017-09-26/17:29:03 - 2017-09-26/17:31:03, 100.0, cnorgren(EVA), KH
+2017-09-26/17:31:03 - 2017-09-26/17:33:03, 100.0, cnorgren(EVA), KH
+2017-09-26/17:33:03 - 2017-09-26/17:34:33, 150.0, cnorgren(EVA)," KH, strong J"
+2017-09-26/17:34:33 - 2017-09-26/17:36:43, 120.0, cnorgren(EVA), KH 
+2017-09-26/17:36:43 - 2017-09-26/17:38:53,  80.0, cnorgren(EVA), KH 
+2017-09-26/17:38:53 - 2017-09-26/17:41:13,  80.0, cnorgren(EVA), KH 
+2017-09-26/17:41:13 - 2017-09-26/17:43:23,  80.0, cnorgren(EVA), KH 
+2017-09-26/17:53:53 - 2017-09-26/17:55:03, 140.0, cnorgren(EVA), KH large J
+2017-09-26/17:58:03 - 2017-09-26/17:59:33, 150.0, cnorgren(EVA)," KH, 2 large J "
+2017-09-26/17:59:33 - 2017-09-26/18:01:03, 150.0, cnorgren(EVA)," KH, 2 large J "
+2017-09-26/18:06:33 - 2017-09-26/18:08:33, 110.0, cnorgren(EVA), KH
+2017-09-26/18:08:33 - 2017-09-26/18:10:33, 110.0, cnorgren(EVA), KH
+2017-09-26/18:10:33 - 2017-09-26/18:12:43, 110.0, cnorgren(EVA), KH
+2017-09-26/18:12:43 - 2017-09-26/18:14:43, 110.0, cnorgren(EVA), KH
+2017-09-26/18:14:43 - 2017-09-26/18:16:43,  50.0, cnorgren(EVA), KH fill
+2017-09-26/18:16:43 - 2017-09-26/18:17:43, 150.0, cnorgren(EVA)," KH, large J"
+2017-09-26/18:17:43 - 2017-09-26/18:19:33,  60.0, cnorgren(EVA), KH fill
+2017-09-26/18:19:33 - 2017-09-26/18:20:53, 150.0, cnorgren(EVA)," KH, large J"
+2017-09-26/18:36:43 - 2017-09-26/18:38:03, 155.0, cnorgren(EVA)," KH, large E, J spike"
+2017-09-26/18:38:03 - 2017-09-26/18:39:03, 130.0, cnorgren(EVA)," 2 KH, large E?"
+2017-09-26/18:39:03 - 2017-09-26/18:41:13, 130.0, cnorgren(EVA)," 2 KH, large E?"
+2017-09-26/18:41:13 - 2017-09-26/18:42:23, 100.0, cnorgren(EVA)," KH, large E"
+2017-09-26/18:44:03 - 2017-09-26/18:45:23, 140.0, cnorgren(EVA)," KH, E activity on edge"
+2017-09-26/18:45:23 - 2017-09-26/18:46:13,  60.0, cnorgren(EVA), KH fill
+2017-09-26/18:46:13 - 2017-09-26/18:47:23, 155.0, cnorgren(EVA)," KH, E, J"
+2017-09-26/18:49:33 - 2017-09-26/18:51:43, 120.0, cnorgren(EVA), KH
+2017-09-26/18:51:43 - 2017-09-26/18:53:53,  90.0, cnorgren(EVA), KH related
+2017-09-26/18:53:53 - 2017-09-26/18:56:13,  60.0, cnorgren(EVA), KH related
+2017-09-26/18:56:13 - 2017-09-26/18:58:13, 150.0, cnorgren(EVA)," KH, large J"
+2017-09-26/18:58:13 - 2017-09-26/19:00:23,  90.0, cnorgren(EVA), KH related
+2017-09-26/19:00:23 - 2017-09-26/19:02:33,  90.0, cnorgren(EVA), KH related
+2017-09-26/19:02:33 - 2017-09-26/19:04:43, 150.0, cnorgren(EVA)," KH, ve"
+2017-09-26/19:04:43 - 2017-09-26/19:07:03, 150.0, cnorgren(EVA)," KH, ve"

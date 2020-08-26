@@ -1,0 +1,59 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-10-14/11:23:04 - 2016-10-14/11:25:14, 115.0, spetrinec(EVA), Low shear partial MP crossings with slow Vz reversals
+2016-10-14/11:25:14 - 2016-10-14/11:27:34, 115.0, spetrinec(EVA), Low shear partial MP crossings with slow Vz reversals
+2016-10-14/11:27:34 - 2016-10-14/11:29:44, 115.0, spetrinec(EVA), Low shear partial MP crossings with slow Vz reversals
+2016-10-14/11:29:44 - 2016-10-14/11:32:04, 115.0, spetrinec(EVA), Low shear partial MP crossings with slow Vz reversals
+2016-10-14/12:23:24 - 2016-10-14/12:25:44,  40.0, spetrinec(EVA), Long boundary layer encounter with brief full MP crossings
+2016-10-14/12:25:44 - 2016-10-14/12:28:14,  40.0, spetrinec(EVA), Long boundary layer encounter with brief full MP crossings
+2016-10-14/12:28:14 - 2016-10-14/12:30:34,  60.0, spetrinec(EVA), Long boundary layer encounter with brief full MP crossings
+2016-10-14/12:30:34 - 2016-10-14/12:33:04,  70.0, spetrinec(EVA), Long boundary layer encounter with brief full MP crossings
+2016-10-14/12:33:04 - 2016-10-14/12:35:24, 155.0, spetrinec(EVA), Long boundary layer encounter with brief full MP crossings
+2016-10-14/12:35:24 - 2016-10-14/12:37:54, 155.0, spetrinec(EVA), Long boundary layer encounter with brief full MP crossings
+2016-10-14/12:37:54 - 2016-10-14/12:40:14, 120.0, spetrinec(EVA), Long boundary layer encounter with brief full MP crossings
+2016-10-14/12:40:14 - 2016-10-14/12:42:44, 120.0, spetrinec(EVA), Long boundary layer encounter with brief full MP crossings
+2016-10-14/12:42:44 - 2016-10-14/12:45:04,  70.0, spetrinec(EVA), Long boundary layer encounter with brief full MP crossings
+2016-10-14/12:52:14 - 2016-10-14/12:54:24, 110.0, spetrinec(EVA), Low shear partial MP crossings with Bx reversals
+2016-10-14/12:54:24 - 2016-10-14/12:56:24, 110.0, spetrinec(EVA), Low shear partial MP crossings with Bx reversals
+2016-10-14/12:56:24 - 2016-10-14/12:58:34, 110.0, spetrinec(EVA), Low shear partial MP crossings with Bx reversals
+2016-10-14/12:58:34 - 2016-10-14/13:00:54,  40.0, spetrinec(EVA), fill
+2016-10-14/13:00:54 - 2016-10-14/13:03:04, 110.0, spetrinec(EVA)," Low shear partial MP crossings with Bx reversals and Vx, Vy reversals"
+2016-10-14/13:03:04 - 2016-10-14/13:05:14, 110.0, spetrinec(EVA)," Low shear partial MP crossings with Bx reversals and Vx, Vy reversals"
+2016-10-14/13:05:14 - 2016-10-14/13:07:54, 110.0, spetrinec(EVA)," Low shear partial MP crossings with Bx reversals and Vx, Vy reversals"
+2016-10-14/13:07:54 - 2016-10-14/13:10:44,  80.0, spetrinec(EVA), Low shear partial MP crossings
+2016-10-14/13:45:44 - 2016-10-14/13:48:04,  80.0, spetrinec(EVA), Boundary layer or partial MP crossings with Bx and Vz reversals
+2016-10-14/13:48:04 - 2016-10-14/13:50:14,  80.0, spetrinec(EVA), Boundary layer or partial MP crossings with Bx and Vz reversals
+2016-10-14/13:50:14 - 2016-10-14/13:52:44,  80.0, spetrinec(EVA), Boundary layer or partial MP crossings with Bx and Vz reversals
+2016-10-14/13:52:44 - 2016-10-14/13:55:24,  80.0, spetrinec(EVA), Boundary layer or low shear partial MP crossings with Bx and Vel reversals
+2016-10-14/13:55:24 - 2016-10-14/13:57:34,  80.0, spetrinec(EVA), Boundary layer or low shear partial MP crossings with Bx and Vel reversals
+2016-10-14/13:57:34 - 2016-10-14/13:59:54,  80.0, spetrinec(EVA), Boundary layer or low shear partial MP crossings with Bx and Vel reversals
+2016-10-14/14:06:34 - 2016-10-14/14:08:34,  80.0, spetrinec(EVA), LLBL encounter with Bx and Vy reversals
+2016-10-14/14:56:34 - 2016-10-14/14:58:44, 100.0, spetrinec(EVA), LLBL encounter or FTE with Bx and Vz reversals
+2016-10-14/14:58:44 - 2016-10-14/15:00:44, 120.0, spetrinec(EVA), LLBL encounter or FTE with Bx and Vz reversals
+2016-10-14/15:00:44 - 2016-10-14/15:02:54, 120.0, spetrinec(EVA), LLBL encounter or FTE with Bx and Vz reversals
+2016-10-14/15:02:54 - 2016-10-14/15:05:04, 100.0, spetrinec(EVA), LLBL encounter or FTE with Bx and Vz reversals
+2016-10-14/15:36:44 - 2016-10-14/15:39:04,  80.0, spetrinec(EVA), LLBL encounter with Vz reversals and large Vy
+2016-10-14/15:39:04 - 2016-10-14/15:41:24, 100.0, spetrinec(EVA), LLBL encounter with Vz reversals and lage Vy
+2016-10-14/15:41:24 - 2016-10-14/15:43:34, 100.0, spetrinec(EVA), LLBL encounter with Vz reversals and large Vy
+2016-10-14/15:43:34 - 2016-10-14/15:45:54, 100.0, spetrinec(EVA), LLBL encounter with Vz reversals and llarge Vy
+2016-10-14/15:45:54 - 2016-10-14/15:48:14,  80.0, spetrinec(EVA), LLBL encounter with Vz reversals and large Vy
+2016-10-14/15:49:54 - 2016-10-14/15:52:14,  60.0, spetrinec(EVA), LLBL encounter with southward Vz jet
+2016-10-14/15:52:14 - 2016-10-14/15:54:24,  60.0, spetrinec(EVA), LLBL encounter with southward Vz jet
+2016-10-14/15:54:24 - 2016-10-14/15:56:44,  60.0, spetrinec(EVA), LLBL encounter with southward Vz jet
+2016-10-14/20:26:24 - 2016-10-14/20:28:44,  60.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/20:28:44 - 2016-10-14/20:31:14,  60.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/20:31:14 - 2016-10-14/20:33:34,  60.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/20:33:34 - 2016-10-14/20:35:54,  60.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/20:35:54 - 2016-10-14/20:38:14,  60.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/20:38:14 - 2016-10-14/20:40:44,  60.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/20:40:44 - 2016-10-14/20:43:04,  60.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/20:43:04 - 2016-10-14/20:45:24,  60.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/20:45:24 - 2016-10-14/20:47:44,  60.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/20:47:44 - 2016-10-14/20:50:14,  60.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/20:50:14 - 2016-10-14/20:52:34,  60.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/20:52:34 - 2016-10-14/20:54:54,  61.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/20:54:54 - 2016-10-14/20:57:24,  61.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/20:57:24 - 2016-10-14/20:59:44,  61.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/20:59:44 - 2016-10-14/21:02:04,  60.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/21:02:04 - 2016-10-14/21:04:24,  60.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/21:04:24 - 2016-10-14/21:06:54,  60.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"
+2016-10-14/21:06:54 - 2016-10-14/21:09:14,  60.0, spetrinec(EVA)," Sinusoidal Vel of increasing amplitude w assoc var in Bt, ni - KH?"

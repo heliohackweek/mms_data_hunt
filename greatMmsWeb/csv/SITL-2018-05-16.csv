@@ -1,0 +1,100 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-05-16/14:13:23 - 2018-05-16/14:17:43,  40.0, musanova(EVA), Harmonic waves
+2018-05-16/17:19:03 - 2018-05-16/17:21:13,  40.0, musanova(EVA), Flow reversals
+2018-05-16/17:21:13 - 2018-05-16/17:23:23,  40.0, musanova(EVA), Flow reversals
+2018-05-16/17:23:23 - 2018-05-16/17:25:33,  40.0, musanova(EVA), Flow reversals
+2018-05-16/18:18:13 - 2018-05-16/18:20:33,  55.0, musanova(EVA), BL crossing w flow reversals
+2018-05-16/18:20:33 - 2018-05-16/18:22:43,  55.0, musanova(EVA), BL crossing w flow reversals
+2018-05-16/18:22:43 - 2018-05-16/18:25:03,  55.0, musanova(EVA), BL crossing w flow reversals
+2018-05-16/18:25:03 - 2018-05-16/18:27:23,  55.0, musanova(EVA), BL crossing w flow reversals
+2018-05-16/18:27:43 - 2018-05-16/18:29:53,  55.0, musanova(EVA), BL crossing w flow reversals
+2018-05-16/18:29:53 - 2018-05-16/18:32:13,  55.0, musanova(EVA), BL crossing w flow reversals
+2018-05-16/18:32:13 - 2018-05-16/18:34:23,  55.0, musanova(EVA), BL crossing w flow reversals
+2018-05-16/18:40:33 - 2018-05-16/18:42:43,  55.0, musanova(EVA), BL crossing w flow reversals
+2018-05-16/18:42:43 - 2018-05-16/18:45:03,  55.0, musanova(EVA), BL crossing w flow reversals
+2018-05-16/18:45:03 - 2018-05-16/18:47:13,  55.0, musanova(EVA), BL crossing w flow reversals
+2018-05-16/18:47:13 - 2018-05-16/18:49:33,  55.0, musanova(EVA), BL crossing w flow reversals
+2018-05-16/19:15:23 - 2018-05-16/19:17:23,  40.0, musanova(EVA), Flow reversals
+2018-05-16/19:17:23 - 2018-05-16/19:19:23,  40.0, musanova(EVA), Flow reversals
+2018-05-16/19:19:23 - 2018-05-16/19:21:33,  40.0, musanova(EVA), Flow reversals
+2018-05-16/19:21:33 - 2018-05-16/19:23:33,  40.0, musanova(EVA), Flow reversals
+2018-05-16/19:23:33 - 2018-05-16/19:25:33,  40.0, musanova(EVA), Flow reversals
+2018-05-17/02:24:03 - 2018-05-17/02:25:43,  55.0, musanova(EVA), BL crossing
+2018-05-17/02:25:43 - 2018-05-17/02:27:33,  55.0, musanova(EVA), BL crossing
+2018-05-17/02:27:33 - 2018-05-17/02:29:13,  55.0, musanova(EVA), BL crossing
+2018-05-17/02:57:53 - 2018-05-17/02:59:53,  55.0, musanova(EVA), BL crossing 
+2018-05-17/02:59:53 - 2018-05-17/03:02:03,  55.0, musanova(EVA), BL crossing 
+2018-05-17/03:02:03 - 2018-05-17/03:04:03,  55.0, musanova(EVA), BL crossing 
+2018-05-17/03:19:53 - 2018-05-17/03:22:03,  60.0, musanova(EVA)," BL crossing, B rotation, flow reversals "
+2018-05-17/03:22:03 - 2018-05-17/03:24:23,  60.0, musanova(EVA)," BL crossing, B rotation, flow reversals "
+2018-05-17/03:24:23 - 2018-05-17/03:26:33,  60.0, musanova(EVA)," BL crossing, B rotation, flow reversals "
+2018-05-17/03:57:13 - 2018-05-17/03:59:23,  60.0, musanova(EVA)," Bl Crossing, flow reversals, waves"
+2018-05-17/03:59:23 - 2018-05-17/04:01:33,  60.0, musanova(EVA)," Bl Crossing, flow reversals, waves"
+2018-05-17/04:01:33 - 2018-05-17/04:03:53,  60.0, musanova(EVA)," Bl Crossing, flow reversals, waves"
+2018-05-17/04:03:53 - 2018-05-17/04:06:03,  60.0, musanova(EVA)," Bl Crossing, flow reversals, waves"
+2018-05-17/04:29:23 - 2018-05-17/04:31:13,  55.0, musanova(EVA)," BL crossing, flow reversals, waves"
+2018-05-17/04:31:13 - 2018-05-17/04:33:13,  55.0, musanova(EVA)," BL crossing, flow reversals, waves"
+2018-05-17/04:33:13 - 2018-05-17/04:35:03,  55.0, musanova(EVA)," BL crossing, flow reversals, waves"
+2018-05-17/04:35:03 - 2018-05-17/04:37:03,  55.0, musanova(EVA)," BL crossing, flow reversals, waves"
+2018-05-17/04:46:13 - 2018-05-17/04:48:03,  80.0, musanova(EVA), MP crossing
+2018-05-17/04:55:43 - 2018-05-17/04:58:53,  80.0, musanova(EVA), Partial MP crossing
+2018-05-17/05:03:43 - 2018-05-17/05:07:13,  80.0, musanova(EVA), Partial MP ccrossing
+2018-05-17/05:07:53 - 2018-05-17/05:10:13,  80.0, musanova(EVA), Multiple MP crossings
+2018-05-17/05:10:13 - 2018-05-17/05:12:23,  80.0, musanova(EVA), Multiple MP crossings
+2018-05-17/05:12:23 - 2018-05-17/05:14:43,  80.0, musanova(EVA), Multiple MP crossings
+2018-05-17/05:14:43 - 2018-05-17/05:17:03,  80.0, musanova(EVA), Multiple MP crossings
+2018-05-17/05:18:43 - 2018-05-17/05:20:33,  80.0, musanova(EVA), Multiple MP crossings 
+2018-05-17/05:20:33 - 2018-05-17/05:22:23,  80.0, musanova(EVA), Multiple MP crossings 
+2018-05-17/05:22:23 - 2018-05-17/05:24:13,  80.0, musanova(EVA), Multiple MP crossings 
+2018-05-17/05:30:43 - 2018-05-17/05:32:43,  80.0, musanova(EVA), MP crossig w flows
+2018-05-17/05:32:43 - 2018-05-17/05:34:43,  80.0, musanova(EVA), MP crossig w flows
+2018-05-17/05:34:43 - 2018-05-17/05:36:53,  80.0, musanova(EVA), MP crossig w flows
+2018-05-17/05:36:53 - 2018-05-17/05:38:53,  80.0, musanova(EVA), MP crossig w flows
+2018-05-17/05:43:53 - 2018-05-17/05:46:03,  80.0, musanova(EVA), Partial MP crossing 
+2018-05-17/05:52:23 - 2018-05-17/05:57:03,  80.0, musanova(EVA), Multiple MP crossings
+2018-05-17/06:07:53 - 2018-05-17/06:09:53,  80.0, musanova(EVA), MP crossing 
+2018-05-17/06:16:33 - 2018-05-17/06:19:23,  80.0, musanova(EVA), MP crossing 
+2018-05-17/06:22:03 - 2018-05-17/06:23:33,  80.0, musanova(EVA), MP crossing
+2018-05-17/06:58:33 - 2018-05-17/07:00:23,  75.0, musanova(EVA), Partial MP crossing 
+2018-05-17/07:07:13 - 2018-05-17/07:10:43,  75.0, musanova(EVA), Partial MP crossing 
+2018-05-17/07:28:33 - 2018-05-17/07:31:03, 100.0, musanova(EVA)," MP crossing, B rotaion"
+2018-05-17/07:35:33 - 2018-05-17/07:37:13, 110.0, musanova(EVA)," MP crossing, B null, flows"
+2018-05-17/07:37:13 - 2018-05-17/07:39:03, 110.0, musanova(EVA)," MP crossing, B null, flows"
+2018-05-17/07:39:03 - 2018-05-17/07:40:43, 110.0, musanova(EVA)," MP crossing, B null, flows"
+2018-05-17/08:36:13 - 2018-05-17/08:37:53, 110.0, musanova(EVA)," MP crossing, B null, flows"
+2018-05-17/08:37:53 - 2018-05-17/08:39:43, 110.0, musanova(EVA)," MP crossing, B null, flows"
+2018-05-17/08:39:43 - 2018-05-17/08:41:23, 110.0, musanova(EVA)," MP crossing, B null, flows"
+2018-05-17/09:42:23 - 2018-05-17/09:44:33,  60.0, musanova(EVA), Rotation in B
+2018-05-17/10:00:03 - 2018-05-17/10:04:23, 100.0, musanova(EVA)," MP crossing, rotaion in B"
+2018-05-17/10:31:33 - 2018-05-17/10:35:43,  90.0, musanova(EVA), MP crossing 
+2018-05-17/10:47:03 - 2018-05-17/10:49:53, 100.0, musanova(EVA)," MP crossing, rotation in B"
+2018-05-17/12:02:13 - 2018-05-17/12:05:33,  80.0, musanova(EVA)," BL crossing, flow reversals, rotation in B "
+2018-05-17/12:14:53 - 2018-05-17/12:18:03,  70.0, musanova(EVA)," B reversal, magnetic null"
+2018-05-17/12:34:13 - 2018-05-17/12:37:33,  60.0, musanova(EVA)," Density depression, enhancement in B "
+2018-05-17/12:43:13 - 2018-05-17/12:45:43,  60.0, musanova(EVA)," Density depression, magnetic null, B rotation"
+2018-05-17/13:45:53 - 2018-05-17/13:48:03,  60.0, musanova(EVA)," Rotation in B, energetic electron and ion boundary"
+2018-05-17/20:02:03 - 2018-05-17/20:04:13, 100.0, musanova(EVA), MP boundary crossing 
+2018-05-17/20:04:13 - 2018-05-17/20:06:33, 100.0, musanova(EVA), MP boundary crossing 
+2018-05-17/20:06:33 - 2018-05-17/20:08:43, 100.0, musanova(EVA), MP boundary crossing 
+2018-05-17/20:15:03 - 2018-05-17/20:16:53, 100.0, musanova(EVA), MP boundary crossing 
+2018-05-17/20:16:53 - 2018-05-17/20:18:43, 100.0, musanova(EVA), MP boundary crossing 
+2018-05-17/20:18:43 - 2018-05-17/20:20:33, 100.0, musanova(EVA), MP boundary crossing 
+2018-05-17/22:48:43 - 2018-05-17/22:52:03, 110.0, musanova(EVA)," MP boundary crossing, mag null, flow reversal"
+2018-05-17/23:06:53 - 2018-05-17/23:10:03, 110.0, musanova(EVA)," MP crossing, mag null, flow reversal "
+2018-05-17/23:13:03 - 2018-05-17/23:15:03, 110.0, musanova(EVA)," MP crossing, mag nulls, flow reversal "
+2018-05-17/23:15:03 - 2018-05-17/23:17:13, 110.0, musanova(EVA)," MP crossing, mag nulls, flow reversal "
+2018-05-17/23:17:13 - 2018-05-17/23:19:13, 110.0, musanova(EVA)," MP crossing, mag nulls, flow reversal "
+2018-05-17/23:22:43 - 2018-05-17/23:24:43, 100.0, musanova(EVA)," MP crossing, rotation in B"
+2018-05-17/23:24:43 - 2018-05-17/23:26:43, 100.0, musanova(EVA)," MP crossing, rotation in B"
+2018-05-17/23:32:33 - 2018-05-17/23:34:23, 100.0, musanova(EVA), MP crossing
+2018-05-17/23:34:23 - 2018-05-17/23:36:03, 100.0, musanova(EVA), MP crossing
+2018-05-17/23:36:03 - 2018-05-17/23:37:53, 100.0, musanova(EVA), MP crossing
+2018-05-18/03:16:23 - 2018-05-18/03:20:43, 100.0, musanova(EVA), MP crossing 
+2018-05-18/03:31:33 - 2018-05-18/03:35:53, 100.0, musanova(EVA), MP crossing 
+2018-05-18/13:17:53 - 2018-05-18/13:20:23,  80.0, musanova(EVA), Partial MP crossing  
+2018-05-18/14:01:33 - 2018-05-18/14:03:43,  70.0, musanova(EVA), Magnetosheath CS
+2018-05-18/15:02:03 - 2018-05-18/15:05:03,  80.0, musanova(EVA), Partial MP crossing 
+2018-05-18/15:22:43 - 2018-05-18/15:27:03,  80.0, musanova(EVA), MP crossing 
+2018-05-18/17:43:13 - 2018-05-18/17:46:53,  80.0, musanova(EVA), MP crossing 
+2018-05-18/17:52:43 - 2018-05-18/17:55:03,  60.0, musanova(EVA), BL crossing 
+2018-05-18/18:48:23 - 2018-05-18/18:50:13,  60.0, musanova(EVA), BL crossing 

@@ -1,0 +1,75 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-11-06/08:39:34 - 2016-11-06/08:41:44, 120.0, hhiroshi(EVA)," high-shear partial MP with intense current, -Vz jet & B min"
+2016-11-06/08:41:44 - 2016-11-06/08:44:14, 120.0, hhiroshi(EVA)," high-shear partial MP with intense current, -Vz jet & B min"
+2016-11-06/08:44:14 - 2016-11-06/08:46:34, 115.0, hhiroshi(EVA), high-shear partial MP with -Vz jet & B min
+2016-11-06/08:46:34 - 2016-11-06/08:49:04, 115.0, hhiroshi(EVA), high-shear partial MP
+2016-11-06/08:49:04 - 2016-11-06/08:51:54, 165.0, hhiroshi(EVA), high-shear full MP with -Vz jet & B min
+2016-11-06/08:51:54 - 2016-11-06/08:54:24, 175.0, hhiroshi(EVA)," high-shear full MP with intense current, -Vz & B min"
+2016-11-06/08:54:24 - 2016-11-06/08:56:54, 125.0, hhiroshi(EVA), partial MP with -Vz jet
+2016-11-06/09:05:24 - 2016-11-06/09:07:04, 115.0, hhiroshi(EVA), high-shear partial MP with -Vz jet
+2016-11-06/09:07:04 - 2016-11-06/09:08:44, 115.0, hhiroshi(EVA), high-shear partial MP with -Vz jet
+2016-11-06/09:08:44 - 2016-11-06/09:10:34, 115.0, hhiroshi(EVA), high-shear partial MP with -Vz jet
+2016-11-06/09:10:34 - 2016-11-06/09:12:24, 115.0, hhiroshi(EVA), high-shear partial MP with -Vz jet
+2016-11-06/09:12:24 - 2016-11-06/09:14:14, 125.0, hhiroshi(EVA), FTE with -Vz jet
+2016-11-06/09:14:14 - 2016-11-06/09:15:44, 165.0, hhiroshi(EVA), full MP with -Vz jet
+2016-11-06/09:15:44 - 2016-11-06/09:17:04,  80.0, hhiroshi(EVA), full MP wing
+2016-11-06/12:26:34 - 2016-11-06/12:28:44, 155.0, hhiroshi(EVA), low-shear full MP
+2016-11-06/12:29:54 - 2016-11-06/12:32:34, 115.0, hhiroshi(EVA), low-shear partial MP with +Vz flow
+2016-11-06/12:32:34 - 2016-11-06/12:34:04, 120.0, hhiroshi(EVA), high-shear partial MP
+2016-11-06/12:38:14 - 2016-11-06/12:40:04, 160.0, hhiroshi(EVA), full MP with B min
+2016-11-06/12:40:04 - 2016-11-06/12:42:04, 110.0, hhiroshi(EVA), full MP wing with B min
+2016-11-06/12:50:34 - 2016-11-06/12:52:14, 110.0, hhiroshi(EVA), low-shear partial MP
+2016-11-06/12:55:14 - 2016-11-06/12:57:24, 120.0, hhiroshi(EVA), high-shear partial MP
+2016-11-06/12:57:24 - 2016-11-06/12:59:14,  80.0, hhiroshi(EVA), high-shear partial MP wing
+2016-11-06/12:59:14 - 2016-11-06/13:01:04,  60.0, hhiroshi(EVA), high-shear partial MP wing
+2016-11-06/13:36:04 - 2016-11-06/13:37:24, 155.0, hhiroshi(EVA), low-shear full MP
+2016-11-06/13:48:14 - 2016-11-06/13:49:54,  60.0, hhiroshi(EVA), full MP wing with BL
+2016-11-06/13:49:54 - 2016-11-06/13:51:04, 165.0, hhiroshi(EVA), full MP with -Vz jet
+2016-11-06/13:54:54 - 2016-11-06/13:56:24,  80.0, hhiroshi(EVA), possible separatrix
+2016-11-06/14:07:04 - 2016-11-06/14:09:24, 105.0, hhiroshi(EVA), high-shear partial MP with -Vz jet
+2016-11-06/14:11:14 - 2016-11-06/14:12:54,  40.0, hhiroshi(EVA), sheath BL with -Vz flow
+2016-11-06/14:17:44 - 2016-11-06/14:19:44,  40.0, hhiroshi(EVA), partial MP wing with sheath BL
+2016-11-06/14:19:44 - 2016-11-06/14:21:54,  60.0, hhiroshi(EVA), partial MP wing with sheath BL
+2016-11-06/14:21:54 - 2016-11-06/14:23:54,  75.0, hhiroshi(EVA), partial MP wing with sheath BL
+2016-11-06/14:23:54 - 2016-11-06/14:25:34, 110.0, hhiroshi(EVA), partial MP with -Vz jet
+2016-11-06/14:25:34 - 2016-11-06/14:27:24,  60.0, hhiroshi(EVA), partial MP wing with BL
+2016-11-06/14:27:24 - 2016-11-06/14:29:24,  40.0, hhiroshi(EVA), partial MP wing with BL
+2016-11-06/15:12:04 - 2016-11-06/15:13:24, 155.0, hhiroshi(EVA), full MP with B min
+2016-11-06/15:13:24 - 2016-11-06/15:14:54,  60.0, hhiroshi(EVA), full MP wing with BL
+2016-11-06/15:14:54 - 2016-11-06/15:16:34,  60.0, hhiroshi(EVA), full MP wing with BL
+2016-11-06/15:24:04 - 2016-11-06/15:25:54, 110.0, hhiroshi(EVA), low-shear partial MP with current peak
+2016-11-06/15:25:54 - 2016-11-06/15:27:04, 105.0, hhiroshi(EVA), low-shear partial MP with -Vz jet
+2016-11-06/15:28:34 - 2016-11-06/15:30:34, 105.0, hhiroshi(EVA), low-shear partial MP
+2016-11-06/15:30:54 - 2016-11-06/15:32:44, 125.0, hhiroshi(EVA), partial MP with intense current & -Vz flow
+2016-11-06/15:32:44 - 2016-11-06/15:34:44, 125.0, hhiroshi(EVA), high-shear partial MP with -Vz jet
+2016-11-06/15:52:54 - 2016-11-06/15:54:24, 105.0, hhiroshi(EVA), low-shear partial MP
+2016-11-06/16:11:54 - 2016-11-06/16:13:14, 160.0, hhiroshi(EVA), high-shear MP
+2016-11-06/16:15:34 - 2016-11-06/16:17:34, 120.0, hhiroshi(EVA), partial MP with B min
+2016-11-06/16:17:34 - 2016-11-06/16:19:14, 160.0, hhiroshi(EVA), high-shear full MP with -Vz jet
+2016-11-06/16:19:34 - 2016-11-06/16:21:34, 110.0, hhiroshi(EVA), high-shear partial MP
+2016-11-06/16:21:34 - 2016-11-06/16:23:24, 110.0, hhiroshi(EVA), high-shear partial MP
+2016-11-06/16:24:04 - 2016-11-06/16:25:44, 105.0, hhiroshi(EVA), low-shear partial MP
+2016-11-06/16:25:44 - 2016-11-06/16:27:24, 110.0, hhiroshi(EVA), partial MP with -Vz jet & B min
+2016-11-06/16:30:44 - 2016-11-06/16:31:24,  40.0, hhiroshi(EVA), BL with possible FTE
+2016-11-06/16:32:44 - 2016-11-06/16:33:44, 105.0, hhiroshi(EVA), partial MP with weak Vz reversal
+2016-11-06/16:34:24 - 2016-11-06/16:34:54, 105.0, hhiroshi(EVA), partial MP with B min
+2016-11-06/16:35:14 - 2016-11-06/16:36:04,  40.0, hhiroshi(EVA), BL with possible FTE
+2016-11-06/16:36:54 - 2016-11-06/16:39:04,  40.0, hhiroshi(EVA), BL with possible FTE
+2016-11-06/16:41:04 - 2016-11-06/16:42:04,  40.0, hhiroshi(EVA), BL with possible FTE
+2016-11-06/16:49:44 - 2016-11-06/16:50:24,  40.0, hhiroshi(EVA), BL with possible FTE
+2016-11-06/16:52:34 - 2016-11-06/16:53:44, 105.0, hhiroshi(EVA), partial MP with possible FTE
+2016-11-06/16:54:44 - 2016-11-06/16:55:34,  40.0, hhiroshi(EVA), BL with Vy reversal
+2016-11-06/17:01:34 - 2016-11-06/17:02:44,  40.0, hhiroshi(EVA), BL with possible FTE
+2016-11-06/17:07:44 - 2016-11-06/17:09:24,  40.0, hhiroshi(EVA), BL with Vz reversal
+2016-11-06/17:09:24 - 2016-11-06/17:11:14,  40.0, hhiroshi(EVA), BL with Vz reversal
+2016-11-06/17:12:14 - 2016-11-06/17:14:34,  40.0, hhiroshi(EVA), BL with possible FTE
+2016-11-06/17:16:44 - 2016-11-06/17:17:54,  40.0, hhiroshi(EVA), BL with possible FTE
+2016-11-06/17:21:04 - 2016-11-06/17:22:04,  40.0, hhiroshi(EVA), BL with possible FTE
+2016-11-06/17:25:44 - 2016-11-06/17:27:44,  40.0, hhiroshi(EVA), BL with possible FTE
+2016-11-06/17:33:44 - 2016-11-06/17:34:44,  40.0, hhiroshi(EVA), BL with possible FTE
+2016-11-06/17:43:04 - 2016-11-06/17:44:34, 105.0, hhiroshi(EVA), low-shear partial MP
+2016-11-06/17:44:34 - 2016-11-06/17:46:14, 105.0, hhiroshi(EVA), low-shear partial MP
+2016-11-06/17:47:44 - 2016-11-06/17:48:54,  40.0, hhiroshi(EVA), BL with possible FTE
+2016-11-06/17:50:14 - 2016-11-06/17:51:34,  40.0, hhiroshi(EVA), BL with possible FTE
+2016-11-06/18:00:04 - 2016-11-06/18:01:24,  40.0, hhiroshi(EVA), BL with possible FTE
+2016-11-06/18:08:24 - 2016-11-06/18:10:04,  40.0, hhiroshi(EVA), BL with possible FTE signature

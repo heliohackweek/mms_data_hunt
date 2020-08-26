@@ -1,0 +1,68 @@
+DATETIME,FOM,ID,DISCUSSION
+2020-04-27/23:16:03 - 2020-04-27/23:18:23,  90.0, rkieokaew(EVA),  Foreshock boundary with velocity signatures 
+2020-04-28/03:49:13 - 2020-04-28/03:51:33,  80.0, rkieokaew(EVA),  upstream waves at Q-perp shock
+2020-04-28/03:51:33 - 2020-04-28/03:53:53,  80.0, rkieokaew(EVA),  upstream waves at Q-perp shock
+2020-04-28/03:53:53 - 2020-04-28/03:56:13,  80.0, rkieokaew(EVA),  upstream waves at Q-perp shock
+2020-04-28/03:56:13 - 2020-04-28/03:58:33,  80.0, rkieokaew(EVA),  upstream waves at Q-perp shock
+2020-04-28/03:58:33 - 2020-04-28/04:00:53,  80.0, rkieokaew(EVA),  upstream waves at Q-perp shock
+2020-04-28/04:00:53 - 2020-04-28/04:03:13,  80.0, rkieokaew(EVA),  upstream waves at Q-perp shock
+2020-04-28/04:03:13 - 2020-04-28/04:05:33,  80.0, rkieokaew(EVA),  upstream waves at Q-perp shock
+2020-04-28/04:05:33 - 2020-04-28/04:08:03, 100.0, rkieokaew(EVA), Q-perp shocks
+2020-04-28/04:08:03 - 2020-04-28/04:10:33, 100.0, rkieokaew(EVA), Q-perp shocks
+2020-04-28/04:10:33 - 2020-04-28/04:13:03, 100.0, rkieokaew(EVA), Q-perp shocks
+2020-04-28/04:13:03 - 2020-04-28/04:15:33, 100.0, rkieokaew(EVA), Q-perp shocks
+2020-04-28/04:15:33 - 2020-04-28/04:18:03, 100.0, rkieokaew(EVA), Q-perp shocks
+2020-04-28/04:18:03 - 2020-04-28/04:20:33, 100.0, rkieokaew(EVA), Q-perp shocks
+2020-04-28/04:20:33 - 2020-04-28/04:23:03, 100.0, rkieokaew(EVA), Q-perp shocks
+2020-04-28/04:23:03 - 2020-04-28/04:25:33, 100.0, rkieokaew(EVA), Q-perp shocks
+2020-04-28/04:25:33 - 2020-04-28/04:28:03, 100.0, rkieokaew(EVA), Q-perp shocks
+2020-04-28/04:48:13 - 2020-04-28/04:50:23,  95.0, rkieokaew(EVA),  Msheath discontinuity & magnetic hole 
+2020-04-28/04:50:23 - 2020-04-28/04:52:43,  95.0, rkieokaew(EVA),  Msheath discontinuity & magnetic hole 
+2020-04-28/04:52:43 - 2020-04-28/04:54:53,  95.0, rkieokaew(EVA),  Msheath discontinuity & magnetic hole 
+2020-04-28/04:54:53 - 2020-04-28/04:57:13,  95.0, rkieokaew(EVA),  Msheath discontinuity & magnetic hole 
+2020-04-28/04:57:13 - 2020-04-28/04:59:23, 100.0, rkieokaew(EVA),  Q-perp shock
+2020-04-28/04:59:23 - 2020-04-28/05:01:43, 100.0, rkieokaew(EVA),  Q-perp shock
+2020-04-28/05:01:43 - 2020-04-28/05:03:53, 100.0, rkieokaew(EVA),  Q-perp shock
+2020-04-28/05:03:53 - 2020-04-28/05:06:13, 100.0, rkieokaew(EVA),  Q-perp shock
+2020-04-28/05:17:33 - 2020-04-28/05:19:53,  80.0, rkieokaew(EVA),  Msheath CS & magnetic hole 
+2020-04-28/05:19:53 - 2020-04-28/05:22:23,  80.0, rkieokaew(EVA),  Msheath CS & magnetic hole 
+2020-04-28/05:22:23 - 2020-04-28/05:24:43,  80.0, rkieokaew(EVA),  Msheath CS & magnetic hole 
+2020-04-28/05:24:43 - 2020-04-28/05:27:13,  80.0, rkieokaew(EVA),  Msheath CS & magnetic hole 
+2020-04-28/05:27:13 - 2020-04-28/05:29:33, 100.0, rkieokaew(EVA),  Mixed Q-perp and Q-parallel shocks 
+2020-04-28/05:29:33 - 2020-04-28/05:32:03, 100.0, rkieokaew(EVA),  Mixed Q-perp and Q-parallel shocks 
+2020-04-28/05:32:03 - 2020-04-28/05:34:23, 100.0, rkieokaew(EVA),  Mixed Q-perp and Q-parallel shocks 
+2020-04-28/05:34:23 - 2020-04-28/05:36:43, 100.0, rkieokaew(EVA),  Mixed Q-perp and Q-parallel shocks 
+2020-04-28/05:36:43 - 2020-04-28/05:39:03, 100.0, rkieokaew(EVA),  Mixed Q-perp and Q-parallel shocks 
+2020-04-28/05:39:03 - 2020-04-28/05:41:33, 100.0, rkieokaew(EVA),  Mixed Q-perp and Q-parallel shocks 
+2020-04-28/05:41:33 - 2020-04-28/05:43:53, 100.0, rkieokaew(EVA),  Mixed Q-perp and Q-parallel shocks 
+2020-04-28/05:43:53 - 2020-04-28/05:46:13, 100.0, rkieokaew(EVA),  Mixed Q-perp and Q-parallel shocks 
+2020-04-28/05:46:13 - 2020-04-28/05:48:43, 100.0, rkieokaew(EVA),  Mixed Q-perp and Q-parallel shocks 
+2020-04-28/05:48:43 - 2020-04-28/05:51:03, 100.0, rkieokaew(EVA),  Mixed Q-perp and Q-parallel shocks 
+2020-04-28/06:07:43 - 2020-04-28/06:09:53,  80.0, rkieokaew(EVA),  Msheath jet
+2020-04-28/07:11:13 - 2020-04-28/07:13:23,  80.0, rkieokaew(EVA),  Msheath jet
+2020-04-28/09:44:33 - 2020-04-28/09:46:33, 120.0, rkieokaew(EVA),  Partial MP crossings
+2020-04-28/09:46:33 - 2020-04-28/09:48:33, 120.0, rkieokaew(EVA),  Partial MP crossings
+2020-04-28/09:48:33 - 2020-04-28/09:50:43, 120.0, rkieokaew(EVA),  Partial MP crossings
+2020-04-28/09:50:43 - 2020-04-28/09:52:43, 120.0, rkieokaew(EVA),  Partial MP crossings
+2020-04-28/10:05:23 - 2020-04-28/10:07:43, 120.0, rkieokaew(EVA),  Partial MP crossings
+2020-04-28/10:07:43 - 2020-04-28/10:10:13, 120.0, rkieokaew(EVA),  Partial MP crossings
+2020-04-28/10:10:13 - 2020-04-28/10:12:33, 120.0, rkieokaew(EVA),  Partial MP crossings
+2020-04-28/10:12:33 - 2020-04-28/10:15:03, 120.0, rkieokaew(EVA),  Partial MP crossings
+2020-04-28/10:15:03 - 2020-04-28/10:17:23, 120.0, rkieokaew(EVA),  Partial MP crossings
+2020-04-28/10:17:23 - 2020-04-28/10:19:53, 120.0, rkieokaew(EVA),  Partial MP crossings
+2020-04-28/10:19:53 - 2020-04-28/10:22:13, 120.0, rkieokaew(EVA),  Partial MP crossings
+2020-04-28/10:22:13 - 2020-04-28/10:24:33,  80.0, rkieokaew(EVA),  Magnetic holes in Msheath just outside MP
+2020-04-28/10:24:33 - 2020-04-28/10:26:53,  80.0, rkieokaew(EVA),  Magnetic holes in Msheath just outside MP
+2020-04-28/10:26:53 - 2020-04-28/10:29:03,  80.0, rkieokaew(EVA),  Magnetic holes in Msheath just outside MP
+2020-04-28/10:29:03 - 2020-04-28/10:31:23,  80.0, rkieokaew(EVA),  Magnetic holes in Msheath just outside MP
+2020-04-28/10:31:23 - 2020-04-28/10:33:43,  80.0, rkieokaew(EVA),  Magnetic holes in Msheath just outside MP
+2020-04-28/10:33:43 - 2020-04-28/10:36:13, 150.0, rkieokaew(EVA),  Full low-shear MP crossing
+2020-04-28/10:36:13 - 2020-04-28/10:38:33, 150.0, rkieokaew(EVA),  Full low-shear MP crossing
+2020-04-28/10:38:33 - 2020-04-28/10:41:03, 150.0, rkieokaew(EVA),  Full low-shear MP crossing
+2020-04-28/10:41:03 - 2020-04-28/10:43:23, 150.0, rkieokaew(EVA),  Full low-shear MP crossing
+2020-04-28/10:43:23 - 2020-04-28/10:45:53, 150.0, rkieokaew(EVA),  Full low-shear MP crossing
+2020-04-28/10:45:53 - 2020-04-28/10:48:13, 150.0, rkieokaew(EVA),  Full low-shear MP crossing
+2020-04-28/10:48:13 - 2020-04-28/10:50:43, 150.0, rkieokaew(EVA),  Full low-shear MP crossing
+2020-04-28/11:17:03 - 2020-04-28/11:18:43, 120.0, rkieokaew(EVA),  Separatrice at low-shear MP 
+2020-04-28/11:18:43 - 2020-04-28/11:20:33, 120.0, rkieokaew(EVA),  Separatrice at low-shear MP 
+2020-04-28/11:20:33 - 2020-04-28/11:22:13, 120.0, rkieokaew(EVA),  Separatrice at low-shear MP 

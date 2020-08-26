@@ -1,0 +1,37 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-12-05/04:55:24 - 2016-12-05/04:57:54,  75.0, tphan(EVA),  unusual extended MP/LLBL in subsolar region
+2016-12-05/04:57:54 - 2016-12-05/05:00:14,  75.0, tphan(EVA),  unusual extended MP/LLBL in subsolar region
+2016-12-05/05:00:14 - 2016-12-05/05:02:44,  75.0, tphan(EVA),  unusual extended MP/LLBL in subsolar region
+2016-12-05/05:02:44 - 2016-12-05/05:05:14,  75.0, tphan(EVA),  unusual extended MP/LLBL in subsolar region
+2016-12-05/05:05:14 - 2016-12-05/05:07:44,  75.0, tphan(EVA),  unusual extended MP/LLBL in subsolar region
+2016-12-05/05:07:44 - 2016-12-05/05:10:04,  75.0, tphan(EVA),  unusual extended MP/LLBL in subsolar region
+2016-12-05/05:10:04 - 2016-12-05/05:12:34,  75.0, tphan(EVA),  unusual extended MP/LLBL in subsolar region
+2016-12-05/05:12:34 - 2016-12-05/05:15:04,  75.0, tphan(EVA),  unusual extended MP/LLBL in subsolar region
+2016-12-05/05:15:04 - 2016-12-05/05:17:34,  75.0, tphan(EVA),  unusual extended MP/LLBL in subsolar region
+2016-12-05/05:17:34 - 2016-12-05/05:19:54,  75.0, tphan(EVA),  unusual extended MP/LLBL in subsolar region
+2016-12-05/05:19:54 - 2016-12-05/05:22:24,  75.0, tphan(EVA),  unusual extended MP/LLBL in subsolar region
+2016-12-05/05:22:24 - 2016-12-05/05:24:54,  75.0, tphan(EVA),  unusual extended MP/LLBL in subsolar region
+2016-12-05/05:24:54 - 2016-12-05/05:27:24,  75.0, tphan(EVA),  unusual extended MP/LLBL in subsolar region
+2016-12-05/05:27:24 - 2016-12-05/05:29:44,  75.0, tphan(EVA),  unusual extended MP/LLBL in subsolar region
+2016-12-05/05:29:44 - 2016-12-05/05:32:14,  75.0, tphan(EVA),  unusual extended MP/LLBL in subsolar region
+2016-12-05/05:32:24 - 2016-12-05/05:34:24, 175.0, tphan(EVA),  nearly complete MP with jet
+2016-12-05/12:44:44 - 2016-12-05/12:46:44, 199.0, tphan(EVA),  bow shock (high FOM to investigate burst buffer overflows)
+2016-12-05/12:46:44 - 2016-12-05/12:48:54,  75.0, tphan(EVA),  bow shock
+2016-12-05/12:48:54 - 2016-12-05/12:51:14,  60.0, tphan(EVA),  Solar wind just upstream of shock for context and for SW studies
+2016-12-05/12:51:14 - 2016-12-05/12:53:44,  75.0, tphan(EVA),  Solar wind just upstream of shock for context and for SW studies
+2016-12-05/12:53:44 - 2016-12-05/12:56:04,  60.0, tphan(EVA),  Solar wind just upstream of shock for context and for SW studies
+2016-12-05/12:56:04 - 2016-12-05/12:57:44,  60.0, tphan(EVA),  part of shock crossing
+2016-12-05/12:57:44 - 2016-12-05/12:59:54, 199.0, tphan(EVA),  partial crossing of a shock (high FOM to investigate burst buffer overflows)
+2016-12-05/12:59:54 - 2016-12-05/13:01:54,  60.0, tphan(EVA),  partial crossing of a thick shock
+2016-12-05/13:06:14 - 2016-12-05/13:08:24,  60.0, tphan(EVA),  partial crossing of shock
+2016-12-05/13:08:24 - 2016-12-05/13:10:34,  60.0, tphan(EVA),  partial crossing of shock
+2016-12-05/13:10:34 - 2016-12-05/13:12:44,  60.0, tphan(EVA),  partial crossing of shock
+2016-12-05/13:12:44 - 2016-12-05/13:14:54,  60.0, tphan(EVA),  partial crossing of shock
+2016-12-05/13:15:04 - 2016-12-05/13:17:04,  60.0, tphan(EVA),  shock
+2016-12-05/13:17:04 - 2016-12-05/13:19:04,  60.0, tphan(EVA),  shock
+2016-12-05/13:19:04 - 2016-12-05/13:21:14,  60.0, tphan(EVA),  shock
+2016-12-05/13:21:14 - 2016-12-05/13:23:14,  60.0, tphan(EVA),  shock
+2016-12-05/17:25:24 - 2016-12-05/17:29:34, 175.0, tphan(EVA),  complete MP
+2016-12-05/17:29:34 - 2016-12-05/17:31:34,  75.0, tphan(EVA),  LLBL
+2016-12-05/17:31:34 - 2016-12-05/17:33:44,  75.0, tphan(EVA),  LLBL
+2016-12-05/17:33:44 - 2016-12-05/17:35:44,  75.0, tphan(EVA),  LLBL

@@ -1,0 +1,35 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-01-14/01:22:43 - 2017-01-14/01:24:23, 100.0, fwilder(EVA),  Partial MP
+2017-01-14/01:32:13 - 2017-01-14/01:33:03, 120.0, fwilder(EVA), Partial MP With Jet
+2017-01-14/01:36:13 - 2017-01-14/01:38:03, 175.0, fwilder(EVA),  Full high shear MP with possible jet reversal
+2017-01-14/01:38:03 - 2017-01-14/01:40:03, 175.0, fwilder(EVA),  Full high shear MP with possible jet reversal
+2017-01-14/01:40:03 - 2017-01-14/01:41:53, 175.0, fwilder(EVA),  Full high shear MP with possible jet reversal
+2017-01-14/05:50:03 - 2017-01-14/05:52:03, 100.0, fwilder(EVA),"  Strange possible partial MP crossing, but very close to shock"
+2017-01-14/05:52:03 - 2017-01-14/05:54:03, 100.0, fwilder(EVA),"  Strange possible partial MP crossing, but very close to shock"
+2017-01-14/05:54:03 - 2017-01-14/05:56:13, 100.0, fwilder(EVA),"  Strange possible partial MP crossing, but very close to shock"
+2017-01-14/05:56:13 - 2017-01-14/05:58:13, 100.0, fwilder(EVA),"  Strange possible partial MP crossing, but very close to shock"
+2017-01-14/06:01:53 - 2017-01-14/06:03:43,  75.0, fwilder(EVA), Bow Shock
+2017-01-14/06:03:43 - 2017-01-14/06:05:23,  75.0, fwilder(EVA), Bow Shock
+2017-01-14/06:05:23 - 2017-01-14/06:07:13,  75.0, fwilder(EVA), Bow Shock
+2017-01-14/06:15:23 - 2017-01-14/06:17:33,  55.0, fwilder(EVA), Partial Bow Shock Crossing
+2017-01-14/06:17:33 - 2017-01-14/06:19:43,  55.0, fwilder(EVA), Partial Bow Shock Crossing
+2017-01-14/06:19:43 - 2017-01-14/06:21:53,  55.0, fwilder(EVA), Partial Bow Shock Crossing
+2017-01-14/06:47:43 - 2017-01-14/06:49:03,  75.0, fwilder(EVA),  Bow Shock
+2017-01-14/06:49:03 - 2017-01-14/06:50:33,  90.0, fwilder(EVA),  Bow Shock with interesting tripolar magnetic signature and possible HFA (need burst to confirm)
+2017-01-14/06:52:23 - 2017-01-14/06:53:53,  75.0, fwilder(EVA),  Bow Shock
+2017-01-14/06:53:53 - 2017-01-14/06:55:33,  75.0, fwilder(EVA),  Bow Shock
+2017-01-14/07:02:43 - 2017-01-14/07:03:23, 150.0, fwilder(EVA), Sheath CS with Vz jet.
+2017-01-14/07:25:13 - 2017-01-14/07:25:53, 125.0, fwilder(EVA),  Sheath cs with null and strong curlB currents
+2017-01-14/08:24:53 - 2017-01-14/08:26:53,  60.0, fwilder(EVA),  Sheath turbulence with strong currents
+2017-01-14/08:26:53 - 2017-01-14/08:28:53,  60.0, fwilder(EVA),  Sheath turbulence with strong currents
+2017-01-14/08:52:53 - 2017-01-14/08:55:33,  50.0, fwilder(EVA), Partial Bow Shock Crossing
+2017-01-14/12:33:43 - 2017-01-14/12:35:43, 160.0, fwilder(EVA),  Full MP
+2017-01-14/12:35:43 - 2017-01-14/12:37:33, 160.0, fwilder(EVA),  Full MP
+2017-01-14/12:37:33 - 2017-01-14/12:39:33, 160.0, fwilder(EVA),  Full MP
+2017-01-14/12:41:33 - 2017-01-14/12:43:43, 175.0, fwilder(EVA),  Full MP With Null and strong currents.
+2017-01-14/12:43:43 - 2017-01-14/12:46:03, 175.0, fwilder(EVA),  Full MP With Null and strong currents.
+2017-01-14/12:49:03 - 2017-01-14/12:51:13, 160.0, fwilder(EVA), Full MP With null
+2017-01-14/12:51:13 - 2017-01-14/12:53:23, 160.0, fwilder(EVA), Full MP With null
+2017-01-14/13:02:13 - 2017-01-14/13:04:13, 125.0, fwilder(EVA), Partial MP With Null
+2017-01-14/13:04:13 - 2017-01-14/13:06:03, 125.0, fwilder(EVA), Partial MP With Null
+2017-01-14/13:06:03 - 2017-01-14/13:08:03, 125.0, fwilder(EVA), Partial MP With Null

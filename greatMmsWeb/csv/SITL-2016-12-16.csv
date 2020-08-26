@@ -1,0 +1,27 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-12-16/05:41:04 - 2016-12-16/05:42:54, 120.0, ykhotyaintsev(EVA),  partial MP
+2016-12-16/05:42:54 - 2016-12-16/05:44:14, 175.0, ykhotyaintsev(EVA),"  Full MP, Vz<0, Vy>0"
+2016-12-16/05:44:14 - 2016-12-16/05:45:34,  70.0, ykhotyaintsev(EVA),  MSHBL
+2016-12-16/05:45:34 - 2016-12-16/05:47:04,  49.0, ykhotyaintsev(EVA),  fill
+2016-12-16/05:47:04 - 2016-12-16/05:48:44, 120.0, ykhotyaintsev(EVA),"  Partial MP, Vz<0, Vy>0"
+2016-12-16/05:48:44 - 2016-12-16/05:50:34, 120.0, ykhotyaintsev(EVA),"  Partial MP, Vz<0, Vy>0"
+2016-12-16/05:50:34 - 2016-12-16/05:52:14, 120.0, ykhotyaintsev(EVA),"  Partial MP, Vz<0, Vy>0"
+2016-12-16/06:00:54 - 2016-12-16/06:02:54,  65.0, ykhotyaintsev(EVA),  BL jet
+2016-12-16/06:02:54 - 2016-12-16/06:04:24,  40.0, ykhotyaintsev(EVA),  fill
+2016-12-16/06:04:24 - 2016-12-16/06:06:14,  65.0, ykhotyaintsev(EVA),  BL jet
+2016-12-16/06:10:24 - 2016-12-16/06:11:24,  55.0, ykhotyaintsev(EVA),  BL jet
+2016-12-16/06:14:44 - 2016-12-16/06:17:24,  40.0, ykhotyaintsev(EVA),  BL
+2016-12-16/06:30:54 - 2016-12-16/06:34:24,  40.0, ykhotyaintsev(EVA),  BL
+2016-12-16/06:40:34 - 2016-12-16/06:45:14,  65.0, ykhotyaintsev(EVA),  BL jet
+2016-12-16/10:44:14 - 2016-12-16/10:47:34,  70.0, ykhotyaintsev(EVA),  MSH jet
+2016-12-16/12:04:44 - 2016-12-16/12:08:14,  75.0, ykhotyaintsev(EVA),  MSH jet
+2016-12-16/12:08:14 - 2016-12-16/12:10:14,  40.0, ykhotyaintsev(EVA),  fill
+2016-12-16/12:10:14 - 2016-12-16/12:13:04,  75.0, ykhotyaintsev(EVA),  MSH jet
+2016-12-16/12:56:04 - 2016-12-16/12:57:04,  80.0, ykhotyaintsev(EVA),"  MSH CS, Vz<0"
+2016-12-16/13:31:24 - 2016-12-16/13:35:34,  45.0, ykhotyaintsev(EVA),  MSHBL
+2016-12-16/13:35:34 - 2016-12-16/13:37:14, 155.0, ykhotyaintsev(EVA),"  Full MP, low shear"
+2016-12-16/13:37:14 - 2016-12-16/13:37:54,  40.0, ykhotyaintsev(EVA),  fill
+2016-12-16/13:37:54 - 2016-12-16/13:40:34, 160.0, ykhotyaintsev(EVA),"  Full MP, low shear, Vz<0"
+2016-12-16/13:57:14 - 2016-12-16/13:59:14, 105.0, ykhotyaintsev(EVA),"  Partial MP, low shear"
+2016-12-16/14:13:54 - 2016-12-16/14:15:14,  65.0, ykhotyaintsev(EVA),  FTE
+2016-12-16/14:46:34 - 2016-12-16/14:48:04,  60.0, ykhotyaintsev(EVA),  BL w cold plasma jet

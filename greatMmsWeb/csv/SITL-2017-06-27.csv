@@ -1,0 +1,137 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-06-27/15:00:53 - 2017-06-27/15:03:03, 100.0, dozturk(EVA),"  Multiple Bz reversals, flow reversal"
+2017-06-27/15:03:03 - 2017-06-27/15:05:13, 100.0, dozturk(EVA),"  Multiple Bz reversals, flow reversal"
+2017-06-27/15:05:13 - 2017-06-27/15:07:13, 100.0, dozturk(EVA),"  Multiple Bz reversals, flow reversal"
+2017-06-27/15:07:13 - 2017-06-27/15:09:23, 100.0, dozturk(EVA),"  Multiple Bz reversals, flow reversal"
+2017-06-27/15:09:23 - 2017-06-27/15:11:33, 100.0, dozturk(EVA),"  Multiple Bz reversals, flow reversal"
+2017-06-27/17:59:03 - 2017-06-27/18:00:03, 100.0, dozturk(EVA),  Bz reversal
+2017-06-27/18:22:53 - 2017-06-27/18:24:13, 100.0, dozturk(EVA),  Flow burst in -x direction
+2017-06-27/18:34:43 - 2017-06-27/18:35:23, 120.0, dozturk(EVA),  Dipolarization front
+2017-06-27/18:35:23 - 2017-06-27/18:36:03,  80.0, dozturk(EVA),  Dipolarized flux bundle
+2017-06-27/18:37:53 - 2017-06-27/18:38:43, 100.0, dozturk(EVA),  Bz reversal
+2017-06-27/18:41:03 - 2017-06-27/18:44:43, 100.0, dozturk(EVA),"  Flow reversals, dipolarization fronts"
+2017-06-27/18:56:23 - 2017-06-27/18:57:23, 100.0, dozturk(EVA),  Bz reversal
+2017-06-27/19:28:33 - 2017-06-27/19:30:03, 100.0, dozturk(EVA),  Bz reversal
+2017-06-27/19:37:53 - 2017-06-27/19:39:33,  80.0, dozturk(EVA)," Flow enhancements in -x direction, multiple minor Bz reversals"
+2017-06-27/19:39:33 - 2017-06-27/19:41:23,  80.0, dozturk(EVA)," Flow enhancements in -x direction, multiple minor Bz reversals"
+2017-06-27/19:41:23 - 2017-06-27/19:43:03,  80.0, dozturk(EVA)," Flow enhancements in -x direction, multiple minor Bz reversals"
+2017-06-27/19:46:03 - 2017-06-27/19:49:43,  80.0, dozturk(EVA),  Flow enhancement in -x direction
+2017-06-27/19:53:43 - 2017-06-27/19:57:13, 140.0, dozturk(EVA),"  Flow reversal, Bz reversal"
+2017-06-27/19:59:23 - 2017-06-27/20:03:23, 120.0, dozturk(EVA),"  Flow enhancement, Bz reversal"
+2017-06-27/20:29:53 - 2017-06-27/20:32:03, 100.0, dozturk(EVA),"  Flow reversals, Bz reversals"
+2017-06-27/20:32:03 - 2017-06-27/20:34:23, 100.0, dozturk(EVA),"  Flow reversals, Bz reversals"
+2017-06-27/20:34:23 - 2017-06-27/20:36:33, 100.0, dozturk(EVA),"  Flow reversals, Bz reversals"
+2017-06-27/20:40:13 - 2017-06-27/20:42:23, 100.0, dozturk(EVA),"  Flow enhancement, Bz reversal"
+2017-06-27/20:42:23 - 2017-06-27/20:44:33, 100.0, dozturk(EVA),"  Flow enhancement, Bz reversal"
+2017-06-27/20:44:33 - 2017-06-27/20:46:43, 100.0, dozturk(EVA),"  Flow enhancement, Bz reversal"
+2017-06-27/20:52:43 - 2017-06-27/20:57:33,  80.0, dozturk(EVA),"  Flow enhancemnets, Bz reversals"
+2017-06-27/21:00:23 - 2017-06-27/21:02:13,  80.0, dozturk(EVA),"  Multiple Bz reversals, flow enhancement"
+2017-06-27/21:02:13 - 2017-06-27/21:04:03,  80.0, dozturk(EVA),"  Multiple Bz reversals, flow enhancement"
+2017-06-27/21:04:03 - 2017-06-27/21:05:53,  80.0, dozturk(EVA),"  Multiple Bz reversals, flow enhancement"
+2017-06-27/22:00:43 - 2017-06-27/22:04:03,  80.0, dozturk(EVA),  Current sheet crossing
+2017-06-27/22:13:13 - 2017-06-27/22:15:13, 100.0, dozturk(EVA),"  Flow reversal, multiple current sheet crossings, Bz reversal"
+2017-06-27/22:15:13 - 2017-06-27/22:17:03, 100.0, dozturk(EVA),"  Flow reversal, multiple current sheet crossings, Bz reversal"
+2017-06-27/22:17:03 - 2017-06-27/22:19:03, 100.0, dozturk(EVA),"  Flow reversal, multiple current sheet crossings, Bz reversal"
+2017-06-27/22:19:03 - 2017-06-27/22:21:03, 100.0, dozturk(EVA),"  Flow reversal, multiple current sheet crossings, Bz reversal"
+2017-06-27/22:38:53 - 2017-06-27/22:41:23, 100.0, dozturk(EVA),"  Multiple crossings, flow enhancements, Bz reversals"
+2017-06-27/22:41:23 - 2017-06-27/22:43:43, 100.0, dozturk(EVA),"  Multiple crossings, flow enhancements, Bz reversals"
+2017-06-27/22:43:43 - 2017-06-27/22:46:13, 100.0, dozturk(EVA),"  Multiple crossings, flow enhancements, Bz reversals"
+2017-06-27/22:46:13 - 2017-06-27/22:48:43, 100.0, dozturk(EVA),"  Multiple crossings, flow enhancements, Bz reversals"
+2017-06-27/22:48:43 - 2017-06-27/22:51:13, 100.0, dozturk(EVA),"  Multiple crossings, flow enhancements, Bz reversals"
+2017-06-27/22:51:13 - 2017-06-27/22:53:33, 100.0, dozturk(EVA),"  Multiple crossings, flow enhancements, Bz reversals"
+2017-06-27/22:53:33 - 2017-06-27/22:56:03, 100.0, dozturk(EVA),"  Multiple crossings, flow enhancements, Bz reversals"
+2017-06-27/22:56:53 - 2017-06-27/22:58:13,  80.0, dozturk(EVA),  TCR
+2017-06-27/23:01:43 - 2017-06-27/23:02:33, 120.0, dozturk(EVA),"  Bz reversal, flow reversal"
+2017-06-27/23:10:53 - 2017-06-27/23:13:23, 100.0, dozturk(EVA),"  Flow enhancement, multiple Bz reversals"
+2017-06-27/23:13:23 - 2017-06-27/23:15:53, 100.0, dozturk(EVA),"  Flow enhancement, multiple Bz reversals"
+2017-06-27/23:15:53 - 2017-06-27/23:18:23, 100.0, dozturk(EVA),"  Flow enhancement, multiple Bz reversals"
+2017-06-27/23:38:33 - 2017-06-27/23:40:13,  80.0, dozturk(EVA),  Current sheet crossing
+2017-06-27/23:55:33 - 2017-06-27/23:57:13,  80.0, dozturk(EVA),  Current sheet crossing
+2017-06-27/23:58:53 - 2017-06-27/23:59:43,  80.0, dozturk(EVA),  Current sheet crossing
+2017-06-28/00:40:33 - 2017-06-28/00:42:43,  80.0, dozturk(EVA),  Extended current sheet encounter
+2017-06-28/00:42:43 - 2017-06-28/00:44:43,  80.0, dozturk(EVA),  Extended current sheet encounter
+2017-06-28/00:44:43 - 2017-06-28/00:46:53,  80.0, dozturk(EVA),  Extended current sheet encounter
+2017-06-28/00:46:53 - 2017-06-28/00:49:03,  80.0, dozturk(EVA),  Extended current sheet encounter
+2017-06-28/01:05:43 - 2017-06-28/01:06:23, 140.0, dozturk(EVA),  Dipolarization front
+2017-06-28/01:06:23 - 2017-06-28/01:08:23,  80.0, dozturk(EVA),  Dipolarized flux bundle
+2017-06-28/01:08:23 - 2017-06-28/01:09:23, 140.0, dozturk(EVA),  Dipolarization front
+2017-06-28/01:09:23 - 2017-06-28/01:10:43,  80.0, dozturk(EVA),  Dipolarized flux bundle
+2017-06-28/01:15:33 - 2017-06-28/01:16:13, 140.0, dozturk(EVA),  Dipolarization front
+2017-06-28/01:16:13 - 2017-06-28/01:18:43,  80.0, dozturk(EVA),  Dipolarized flux bundle
+2017-06-28/01:40:13 - 2017-06-28/01:41:43, 140.0, dozturk(EVA),"  Dipolarization front, flow enhancement"
+2017-06-28/01:41:43 - 2017-06-28/01:46:33,  80.0, dozturk(EVA),  Dipolarized flux bundle
+2017-06-28/02:35:03 - 2017-06-28/02:38:43, 100.0, dozturk(EVA)," Flow enhancements in -x direction, Bz reversal"
+2017-06-28/02:44:53 - 2017-06-28/02:47:23, 140.0, dozturk(EVA),  Flow enhancement in -x direction
+2017-06-28/03:17:33 - 2017-06-28/03:21:53, 100.0, dozturk(EVA), Flow enhancement in +x direction
+2017-06-28/03:40:33 - 2017-06-28/03:43:13, 100.0, dozturk(EVA),  Flow enhancement in +x direction
+2017-06-28/08:04:23 - 2017-06-28/08:06:13, 140.0, dozturk(EVA), Dipolarization front 
+2017-06-28/08:06:13 - 2017-06-28/08:08:23,  80.0, dozturk(EVA),  Dipolarized flux bundle
+2017-06-28/08:19:23 - 2017-06-28/08:23:53, 140.0, dozturk(EVA), Multiple dipolarization fronts 
+2017-06-28/08:52:23 - 2017-06-28/08:55:23, 100.0, dozturk(EVA)," Possible flux rope, TCR"
+2017-06-28/08:57:43 - 2017-06-28/08:58:13, 100.0, dozturk(EVA),"  Bz reversal, flow enhancement in -x direction"
+2017-06-28/09:12:53 - 2017-06-28/09:14:03, 140.0, dozturk(EVA),  Dipolarization front
+2017-06-28/09:14:03 - 2017-06-28/09:16:03, 100.0, dozturk(EVA),"  Dipolarized flux bundle, flow enhancement"
+2017-06-28/09:16:03 - 2017-06-28/09:18:13, 100.0, dozturk(EVA),"  Dipolarized flux bundle, flow enhancement"
+2017-06-28/09:18:13 - 2017-06-28/09:20:13, 100.0, dozturk(EVA),"  Dipolarized flux bundle, flow enhancement"
+2017-06-28/10:09:43 - 2017-06-28/10:10:33, 100.0, dozturk(EVA),"  Possible flux rope, TCR"
+2017-06-28/10:33:23 - 2017-06-28/10:35:43, 100.0, dozturk(EVA),"  Possible TCR, Bz reversal, flow enhancement in +x direction, Btotal drop"
+2017-06-28/10:35:43 - 2017-06-28/10:38:13, 100.0, dozturk(EVA),"  Possible TCR, Bz reversal, flow enhancement in +x direction, Btotal drop"
+2017-06-28/10:38:13 - 2017-06-28/10:40:33, 100.0, dozturk(EVA),"  Possible TCR, Bz reversal, flow enhancement in +x direction, Btotal drop"
+2017-06-28/11:01:03 - 2017-06-28/11:01:33, 140.0, dozturk(EVA),"  Possible dipolarization front, Bz reversal"
+2017-06-28/11:01:33 - 2017-06-28/11:02:53, 100.0, dozturk(EVA),"  Flux bundle, enhnced flow in +x direction"
+2017-06-28/11:06:43 - 2017-06-28/11:10:03, 100.0, dozturk(EVA),"  Flow enhancement, Bz reversal, Bx drop"
+2017-06-28/11:16:13 - 2017-06-28/11:19:03, 120.0, dozturk(EVA),  Flow reversal
+2017-06-28/14:31:03 - 2017-06-28/14:33:23, 100.0, dozturk(EVA),  Bz reversal
+2017-06-28/14:33:23 - 2017-06-28/14:35:23, 120.0, dozturk(EVA), Flow reversal
+2017-06-28/14:35:23 - 2017-06-28/14:37:23, 120.0, dozturk(EVA), Flow reversal
+2017-06-28/14:37:23 - 2017-06-28/14:39:23, 120.0, dozturk(EVA), Flow reversal
+2017-06-28/14:39:23 - 2017-06-28/14:41:03, 100.0, dozturk(EVA),"  Flow enhancement, flux bundle"
+2017-06-28/14:41:03 - 2017-06-28/14:42:53, 100.0, dozturk(EVA),"  Flow enhancement, flux bundle"
+2017-06-28/14:42:53 - 2017-06-28/14:44:33, 100.0, dozturk(EVA),"  Flow enhancement, flux bundle"
+2017-06-28/15:01:23 - 2017-06-28/15:02:33, 100.0, dozturk(EVA),"  Bz reversal, flow enhancement, possible TCR"
+2017-06-28/15:22:13 - 2017-06-28/15:26:53, 100.0, dozturk(EVA),  Flow reversal with multiple Bz reversals
+2017-06-28/15:47:43 - 2017-06-28/15:50:03, 140.0, dozturk(EVA),"  PlMultiple Bz reversals in plasma sheet, flow enhancement in +x direction of about 400 km/s"
+2017-06-28/15:50:03 - 2017-06-28/15:52:33, 140.0, dozturk(EVA),"  PlMultiple Bz reversals in plasma sheet, flow enhancement in +x direction of about 400 km/s"
+2017-06-28/15:52:33 - 2017-06-28/15:54:53, 140.0, dozturk(EVA),"  PlMultiple Bz reversals in plasma sheet, flow enhancement in +x direction of about 400 km/s"
+2017-06-28/15:54:53 - 2017-06-28/15:57:23, 140.0, dozturk(EVA),"  PlMultiple Bz reversals in plasma sheet, flow enhancement in +x direction of about 400 km/s"
+2017-06-28/15:57:23 - 2017-06-28/15:59:43, 140.0, dozturk(EVA),"  PlMultiple Bz reversals in plasma sheet, flow enhancement in +x direction of about 400 km/s"
+2017-06-28/16:09:53 - 2017-06-28/16:11:43, 140.0, dozturk(EVA)," Central plasma sheet with possible flux ropes, Bz reversal, flow enhancements"
+2017-06-28/16:11:43 - 2017-06-28/16:13:43, 140.0, dozturk(EVA)," Central plasma sheet with possible flux ropes, Bz reversal, flow enhancements"
+2017-06-28/16:13:43 - 2017-06-28/16:15:33, 140.0, dozturk(EVA)," Central plasma sheet with possible flux ropes, Bz reversal, flow enhancements"
+2017-06-28/16:15:33 - 2017-06-28/16:17:33, 140.0, dozturk(EVA)," Central plasma sheet with possible flux ropes, Bz reversal, flow enhancements"
+2017-06-28/16:17:33 - 2017-06-28/16:19:03, 100.0, dozturk(EVA),  Filler region
+2017-06-28/16:19:03 - 2017-06-28/16:21:03, 140.0, dozturk(EVA),"  Central plasma sheet, flow enhancement, possible dipolarization fronts"
+2017-06-28/16:27:43 - 2017-06-28/16:30:03, 140.0, dozturk(EVA),"  Sequential flow enhancements up to 1000 km/s, multiple dipolarization fronts"
+2017-06-28/16:30:03 - 2017-06-28/16:32:33, 140.0, dozturk(EVA),"  Sequential flow enhancements up to 1000 km/s, multiple dipolarization fronts"
+2017-06-28/16:33:13 - 2017-06-28/16:33:43, 140.0, dozturk(EVA),  Dipolarization front
+2017-06-28/16:33:43 - 2017-06-28/16:35:03, 100.0, dozturk(EVA),  Flow bursts up to 1000 km/s
+2017-06-28/16:35:03 - 2017-06-28/16:37:23, 100.0, dozturk(EVA),  Flow enhancement
+2017-06-28/16:37:23 - 2017-06-28/16:37:53, 130.0, dozturk(EVA),"  Possible flux rope, Bz reversal, flow enhancement"
+2017-06-28/16:37:53 - 2017-06-28/16:40:03, 100.0, dozturk(EVA),  Flow enhancement
+2017-06-28/16:40:03 - 2017-06-28/16:42:13, 100.0, dozturk(EVA),  Flow enhancement
+2017-06-28/16:42:13 - 2017-06-28/16:44:33, 100.0, dozturk(EVA),  Flow enhancement
+2017-06-28/16:52:43 - 2017-06-28/16:53:33, 140.0, dozturk(EVA),  Dipolarization front
+2017-06-28/16:53:33 - 2017-06-28/16:54:23, 100.0, dozturk(EVA),"  Dipolarized flux bundle, flow enhancement"
+2017-06-28/16:54:23 - 2017-06-28/16:54:53, 140.0, dozturk(EVA),  Dipolarization front
+2017-06-28/16:54:53 - 2017-06-28/16:58:03, 100.0, dozturk(EVA),"  Dipolarized flux bundle, flow enhancement"
+2017-06-28/17:04:13 - 2017-06-28/17:04:53, 140.0, dozturk(EVA),  Dipolarization front
+2017-06-28/17:04:53 - 2017-06-28/17:07:53, 100.0, dozturk(EVA),  Dipolarized flux bundle
+2017-06-28/17:08:43 - 2017-06-28/17:09:23, 140.0, dozturk(EVA),  Dipolarization front
+2017-06-28/17:09:23 - 2017-06-28/17:11:03, 100.0, dozturk(EVA),  Dipolarized flux bundle
+2017-06-28/17:16:23 - 2017-06-28/17:16:53, 140.0, dozturk(EVA),  Dipolarization front
+2017-06-28/17:16:53 - 2017-06-28/17:20:13, 100.0, dozturk(EVA), Dipolarized flux bundle 
+2017-06-28/17:38:43 - 2017-06-28/17:41:43,  80.0, dozturk(EVA),  Current sheet crossing
+2017-06-28/17:44:23 - 2017-06-28/17:45:53,  80.0, dozturk(EVA),  Current sheet crossing
+2017-06-28/17:49:43 - 2017-06-28/17:51:03,  80.0, dozturk(EVA),  Current sheet crossing
+2017-06-29/07:15:43 - 2017-06-29/07:16:43, 140.0, dozturk(EVA), Possible dipolarization front
+2017-06-29/07:16:43 - 2017-06-29/07:18:03,  80.0, dozturk(EVA),  Dipolarized flux bundle
+2017-06-29/07:19:43 - 2017-06-29/07:20:13, 140.0, dozturk(EVA),  Possible dipolarization front
+2017-06-29/07:20:13 - 2017-06-29/07:21:33,  80.0, dozturk(EVA),"  Flow enhancement, possible dipolarized flux bundle"
+2017-06-29/07:27:03 - 2017-06-29/07:27:33, 140.0, dozturk(EVA), Possible dipolarization front
+2017-06-29/07:27:33 - 2017-06-29/07:28:23,  80.0, dozturk(EVA),"  Possible dipolarized flux bundle, enhanced flow in +x direction"
+2017-06-29/07:57:13 - 2017-06-29/08:00:13,  80.0, dozturk(EVA),  Flow enhancement in the +x direction
+2017-06-29/08:06:53 - 2017-06-29/08:07:33, 140.0, dozturk(EVA),  Possible dipolarization front
+2017-06-29/08:07:33 - 2017-06-29/08:08:03,  80.0, dozturk(EVA),  Dipolarized flux bundle
+2017-06-29/08:12:53 - 2017-06-29/08:13:23, 140.0, dozturk(EVA)," Bz reversal, flow enhancement in the -x direction"
+2017-06-29/08:21:13 - 2017-06-29/08:21:43, 100.0, dozturk(EVA),  Bz reversal
+2017-06-29/08:33:23 - 2017-06-29/08:33:53, 100.0, dozturk(EVA), Bz reversal

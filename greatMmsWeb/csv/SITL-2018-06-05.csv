@@ -1,0 +1,79 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-06-05/09:59:13 - 2018-06-05/10:03:33, 150.0, pgangkai(EVA), Fast Flow with current density enhancement
+2018-06-05/10:08:43 - 2018-06-05/10:11:23, 150.0, pgangkai(EVA), Fast flow associated with Dipolarization Front
+2018-06-05/10:28:23 - 2018-06-05/10:29:13, 150.0, pgangkai(EVA), Possible Dipolarization Front/Flux rope with current density enhancement
+2018-06-05/10:29:13 - 2018-06-05/10:30:23, 100.0, pgangkai(EVA), DFB
+2018-06-05/11:04:43 - 2018-06-05/11:06:53, 120.0, pgangkai(EVA)," DF, flow burst, current density enhancement"
+2018-06-05/11:06:53 - 2018-06-05/11:09:03, 120.0, pgangkai(EVA)," DF, flow burst, current density enhancement"
+2018-06-05/11:09:03 - 2018-06-05/11:11:13, 120.0, pgangkai(EVA)," DF, flow burst, current density enhancement"
+2018-06-05/11:16:23 - 2018-06-05/11:20:03, 120.0, pgangkai(EVA)," DF, flow burst, current enhancement"
+2018-06-05/11:22:03 - 2018-06-05/11:23:33, 120.0, pgangkai(EVA)," DF, flow burst, current density enhancment"
+2018-06-05/11:25:43 - 2018-06-05/11:28:03, 120.0, pgangkai(EVA)," DF, flow burst, current density enhancement"
+2018-06-05/11:59:43 - 2018-06-05/12:04:03, 150.0, pgangkai(EVA)," flow burst, multiple DFs, current density enhancement"
+2018-06-05/17:24:43 - 2018-06-05/17:28:23, 140.0, pgangkai(EVA)," Vx and Vz enhancement, E-field enhancements, plasma waves activities"
+2018-06-05/17:28:23 - 2018-06-05/17:30:43, 150.0, pgangkai(EVA), DFs
+2018-06-05/17:30:43 - 2018-06-05/17:33:13, 160.0, pgangkai(EVA), Flow reversal in the Vx direction
+2018-06-05/17:33:13 - 2018-06-05/17:37:53,  80.0, pgangkai(EVA), DFB
+2018-06-05/17:37:53 - 2018-06-05/17:42:43, 150.0, pgangkai(EVA), ion flow enhancements and current density enhancements associated with DFs
+2018-06-05/18:35:13 - 2018-06-05/18:36:43, 120.0, pgangkai(EVA), flow enhancement associated with DF
+2018-06-05/18:40:03 - 2018-06-05/18:42:43, 120.0, pgangkai(EVA), ion flow enhancements
+2018-06-05/19:08:03 - 2018-06-05/19:10:33, 150.0, pgangkai(EVA), Vx flow reversal 
+2018-06-05/19:10:33 - 2018-06-05/19:12:53, 150.0, pgangkai(EVA), Vx flow reversal 
+2018-06-05/19:12:53 - 2018-06-05/19:15:23, 150.0, pgangkai(EVA), Vx flow reversal 
+2018-06-06/16:29:43 - 2018-06-06/16:31:53, 120.0, pgangkai(EVA), Possible Nightside Magnetopause crossing
+2018-06-06/16:31:53 - 2018-06-06/16:33:53, 120.0, pgangkai(EVA), Possible Nightside Magnetopause crossing
+2018-06-06/16:33:53 - 2018-06-06/16:36:03, 120.0, pgangkai(EVA), Possible Nightside Magnetopause crossing
+2018-06-06/16:41:03 - 2018-06-06/16:43:03, 150.0, pgangkai(EVA)," Possible Nightside Magnetopause Crossing, Possible nightside FTEs"
+2018-06-06/16:43:03 - 2018-06-06/16:44:53, 150.0, pgangkai(EVA)," Possible Nightside Magnetopause Crossing, Possible nightside FTEs"
+2018-06-06/16:44:53 - 2018-06-06/16:46:53, 150.0, pgangkai(EVA)," Possible Nightside Magnetopause Crossing, Possible nightside FTEs"
+2018-06-06/16:46:53 - 2018-06-06/16:48:53, 150.0, pgangkai(EVA)," Possible Nightside Magnetopause Crossing, Possible nightside FTEs"
+2018-06-06/16:56:43 - 2018-06-06/16:58:43, 150.0, pgangkai(EVA)," Possible Nightside Magnetopause Crossing, Possible nightside FTEs "
+2018-06-06/16:58:43 - 2018-06-06/17:00:53, 150.0, pgangkai(EVA)," Possible Nightside Magnetopause Crossing, Possible nightside FTEs "
+2018-06-06/17:05:33 - 2018-06-06/17:07:13, 120.0, pgangkai(EVA), Possible Nightside Magnetopause Crossing
+2018-06-06/17:07:13 - 2018-06-06/17:08:03, 100.0, pgangkai(EVA), buffer
+2018-06-06/17:08:03 - 2018-06-06/17:09:13, 120.0, pgangkai(EVA), Possible Nightside Magnetopause Crossing
+2018-06-06/17:12:03 - 2018-06-06/17:13:53, 150.0, pgangkai(EVA)," Possible Nightside Magnetopause Crossing, Possible nightside FTEs"
+2018-06-06/17:13:53 - 2018-06-06/17:15:43, 150.0, pgangkai(EVA)," Possible Nightside Magnetopause Crossing, Possible nightside FTEs"
+2018-06-06/17:15:43 - 2018-06-06/17:17:33, 150.0, pgangkai(EVA)," Possible Nightside Magnetopause Crossing, Possible nightside FTEs"
+2018-06-06/18:39:53 - 2018-06-06/18:42:13, 140.0, pgangkai(EVA), multiple nightside magnetopause crossings
+2018-06-06/18:42:13 - 2018-06-06/18:44:43, 140.0, pgangkai(EVA), multiple nightside magnetopause crossings
+2018-06-06/18:44:43 - 2018-06-06/18:47:03, 140.0, pgangkai(EVA), multiple nightside magnetopause crossings
+2018-06-06/18:47:03 - 2018-06-06/18:49:33, 140.0, pgangkai(EVA), multiple nightside magnetopause crossings
+2018-06-06/18:49:33 - 2018-06-06/18:51:53, 140.0, pgangkai(EVA), multiple nightside magnetopause crossings
+2018-06-06/18:51:53 - 2018-06-06/18:54:23, 140.0, pgangkai(EVA), multiple nightside magnetopause crossings
+2018-06-06/18:54:23 - 2018-06-06/18:56:43, 140.0, pgangkai(EVA), multiple nightside magnetopause crossings
+2018-06-06/18:56:43 - 2018-06-06/18:59:13, 140.0, pgangkai(EVA), multiple nightside magnetopause crossings
+2018-06-06/20:10:23 - 2018-06-06/20:12:53, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:12:53 - 2018-06-06/20:15:13, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:15:13 - 2018-06-06/20:17:43, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:17:43 - 2018-06-06/20:20:13, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:20:13 - 2018-06-06/20:22:33, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:22:33 - 2018-06-06/20:25:03, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:25:03 - 2018-06-06/20:27:33, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:27:33 - 2018-06-06/20:29:53, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:29:53 - 2018-06-06/20:32:23, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:32:23 - 2018-06-06/20:34:53, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:34:53 - 2018-06-06/20:37:13, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:37:13 - 2018-06-06/20:39:43, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:39:43 - 2018-06-06/20:42:13, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:42:13 - 2018-06-06/20:44:33, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:44:33 - 2018-06-06/20:47:03, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:47:03 - 2018-06-06/20:49:33, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:49:33 - 2018-06-06/20:51:53, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:51:53 - 2018-06-06/20:54:23, 120.0, pgangkai(EVA), Mulitple Crossing of nightside magnetopause
+2018-06-06/20:57:23 - 2018-06-06/20:58:13, 140.0, pgangkai(EVA), Nightside FTE?
+2018-06-07/01:57:23 - 2018-06-07/01:59:53, 120.0, pgangkai(EVA), Possible Nightside Magnetopause Crossing
+2018-06-07/01:59:53 - 2018-06-07/02:02:23, 120.0, pgangkai(EVA), Possible Nightside Magnetopause Crossing
+2018-06-07/02:02:23 - 2018-06-07/02:04:53, 120.0, pgangkai(EVA), Possible Nightside Magnetopause Crossing
+2018-06-07/02:04:53 - 2018-06-07/02:07:23, 120.0, pgangkai(EVA), Possible Nightside Magnetopause Crossing
+2018-06-07/02:07:23 - 2018-06-07/02:09:53, 120.0, pgangkai(EVA), Possible Nightside Magnetopause Crossing
+2018-06-07/02:09:53 - 2018-06-07/02:12:03,  90.0, pgangkai(EVA), buffer
+2018-06-07/02:12:03 - 2018-06-07/02:14:03,  90.0, pgangkai(EVA), buffer
+2018-06-07/02:14:03 - 2018-06-07/02:16:13,  90.0, pgangkai(EVA), buffer
+2018-06-07/02:16:13 - 2018-06-07/02:18:43, 120.0, pgangkai(EVA), Possible Nightside Magnetopause Crossing
+2018-06-07/02:18:43 - 2018-06-07/02:21:03, 120.0, pgangkai(EVA), Possible Nightside Magnetopause Crossing
+2018-06-07/02:21:03 - 2018-06-07/02:23:33, 120.0, pgangkai(EVA), Possible Nightside Magnetopause Crossing
+2018-06-07/05:45:13 - 2018-06-07/05:47:13, 150.0, pgangkai(EVA)," Sharp density enhancemen, flow reversal in X-direction, Bz reversal"
+2018-06-07/05:47:13 - 2018-06-07/05:49:03, 150.0, pgangkai(EVA)," Sharp density enhancemen, flow reversal in X-direction, Bz reversal"
+2018-06-07/05:49:03 - 2018-06-07/05:51:03, 150.0, pgangkai(EVA)," Sharp density enhancemen, flow reversal in X-direction, Bz reversal"
+2018-06-07/05:51:03 - 2018-06-07/05:53:03, 150.0, pgangkai(EVA)," Sharp density enhancemen, flow reversal in X-direction, Bz reversal"

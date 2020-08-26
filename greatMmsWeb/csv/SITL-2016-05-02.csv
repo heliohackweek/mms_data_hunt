@@ -1,0 +1,47 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-05-02/09:47:34 - 2016-05-02/09:50:04, 10.0, margall(EVA),"  PS exit, flow enhancement, e-field waves"
+2016-05-02/09:50:04 - 2016-05-02/09:52:24, 10.0, margall(EVA),"  PS exit, flow enhancement, e-field waves"
+2016-05-02/09:52:24 - 2016-05-02/09:54:54, 10.0, margall(EVA),"  PS exit, flow enhancement, e-field waves"
+2016-05-02/10:34:44 - 2016-05-02/10:38:14, 10.0, margall(EVA)," PS, Flow reversal, e-field waves"
+2016-05-02/10:53:34 - 2016-05-02/10:55:34, 30.0, margall(EVA),"  PS entry, strong flow w/reversal, e-field turbulence"
+2016-05-02/10:55:34 - 2016-05-02/10:57:24, 30.0, margall(EVA),"  PS entry, strong flow w/reversal, e-field turbulence"
+2016-05-02/10:57:24 - 2016-05-02/10:59:24, 30.0, margall(EVA),"  PS entry, strong flow w/reversal, e-field turbulence"
+2016-05-02/10:59:24 - 2016-05-02/11:01:24, 30.0, margall(EVA),"  PS entry, strong flow w/reversal, e-field turbulence"
+2016-05-02/13:06:24 - 2016-05-02/13:08:44, 10.0, margall(EVA),"  PS exit, flow enhancement"
+2016-05-02/13:08:44 - 2016-05-02/13:11:04, 10.0, margall(EVA),"  PS exit, flow enhancement"
+2016-05-02/13:11:04 - 2016-05-02/13:13:14, 10.0, margall(EVA),"  PS exit, flow enhancement"
+2016-05-02/13:13:14 - 2016-05-02/13:15:34, 10.0, margall(EVA),"  PS exit, flow enhancement"
+2016-05-02/13:15:34 - 2016-05-02/13:17:54, 10.0, margall(EVA),"  PS exit, flow enhancement"
+2016-05-02/13:45:44 - 2016-05-02/13:48:04, 20.0, margall(EVA),"  PSBL, waves, flow enhancements"
+2016-05-02/13:48:04 - 2016-05-02/13:50:34, 20.0, margall(EVA),"  PSBL, waves, flow enhancements"
+2016-05-02/13:50:34 - 2016-05-02/13:52:54, 20.0, margall(EVA),"  PSBL, waves, flow enhancements"
+2016-05-02/13:52:54 - 2016-05-02/13:55:24, 20.0, margall(EVA),"  PSBL, waves, flow enhancements"
+2016-05-02/13:55:24 - 2016-05-02/13:57:44, 20.0, margall(EVA),"  PSBL, waves, flow enhancements"
+2016-05-02/13:57:44 - 2016-05-02/14:00:14, 20.0, margall(EVA),"  PSBL, waves, flow enhancements"
+2016-05-02/14:10:24 - 2016-05-02/14:11:24, 10.0, margall(EVA),  SCPot oscillations (EDI beam interference?)
+2016-05-02/14:29:54 - 2016-05-02/14:32:04, 20.0, margall(EVA),"  PS boundary w/transients, flow enhancements"
+2016-05-02/14:32:04 - 2016-05-02/14:34:24, 20.0, margall(EVA),"  PS boundary w/transients, flow enhancements"
+2016-05-02/14:34:24 - 2016-05-02/14:36:34, 20.0, margall(EVA),"  PS boundary w/transients, flow enhancements"
+2016-05-02/15:11:04 - 2016-05-02/15:13:04, 20.0, margall(EVA),"  PS flow enhancement, energetiic electrons"
+2016-05-02/15:13:04 - 2016-05-02/15:14:54, 20.0, margall(EVA),"  PS flow enhancement, energetiic electrons"
+2016-05-02/15:14:54 - 2016-05-02/15:16:54, 20.0, margall(EVA),"  PS flow enhancement, energetiic electrons"
+2016-05-02/16:15:44 - 2016-05-02/16:20:24, 20.0, margall(EVA),"  PS entry, flow reversal"
+2016-05-02/16:42:04 - 2016-05-02/16:43:44, 20.0, margall(EVA),"  Flow enhancement, energitic electrons"
+2016-05-02/16:43:44 - 2016-05-02/16:45:34, 20.0, margall(EVA),"  Flow enhancement, energitic electrons"
+2016-05-02/16:45:34 - 2016-05-02/16:47:14, 20.0, margall(EVA),"  Flow enhancement, energitic electrons"
+2016-05-02/16:52:44 - 2016-05-02/16:54:24, 10.0, margall(EVA),"  PS, Flow enhancement"
+2016-05-02/17:58:14 - 2016-05-02/18:01:14, 20.0, margall(EVA),"  PS boundary, flow enhancement"
+2016-05-02/19:47:24 - 2016-05-02/19:51:04, 20.0, margall(EVA),"  energetic particles, e-field turbulence"
+2016-05-02/20:26:04 - 2016-05-02/20:28:14, 20.0, margall(EVA),"  PS boundary, e-field turbulence"
+2016-05-02/20:58:14 - 2016-05-02/21:01:14, 20.0, margall(EVA),"  PSBL, energetic particles"
+2016-05-02/21:29:14 - 2016-05-02/21:33:44, 20.0, margall(EVA),"  PSBL, e-field turbulence, energetic particles"
+2016-05-02/22:02:34 - 2016-05-02/22:06:44, 20.0, margall(EVA)," boundary crossing, E-field waves"
+2016-05-02/22:16:44 - 2016-05-02/22:19:54, 20.0, margall(EVA)," Boundary crossing, energetic electrons"
+2016-05-02/22:54:24 - 2016-05-02/22:56:44, 25.0, margall(EVA),  chorus waves
+2016-05-02/22:56:44 - 2016-05-02/22:58:54, 25.0, margall(EVA),  chorus waves
+2016-05-02/22:58:54 - 2016-05-02/23:01:14, 25.0, margall(EVA),  chorus waves
+2016-05-02/23:01:14 - 2016-05-02/23:03:34, 25.0, margall(EVA),  chorus waves
+2016-05-02/23:05:44 - 2016-05-02/23:09:44, 25.0, margall(EVA),  chorus waves
+2016-05-02/23:17:34 - 2016-05-02/23:21:44, 25.0, margall(EVA),  Chorus waves
+2016-05-02/23:27:34 - 2016-05-02/23:28:24, 25.0, margall(EVA), chorus waves
+2016-05-02/23:30:24 - 2016-05-02/23:33:24, 25.0, margall(EVA),  chorus waves

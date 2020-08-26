@@ -1,0 +1,53 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-07-28/23:56:54 - 2016-07-28/23:58:44, 10.0, plindqvist(EVA),"  waves, ne depletion"
+2016-07-28/23:58:44 - 2016-07-29/00:00:24, 10.0, plindqvist(EVA),"  waves, ne depletion"
+2016-07-29/00:00:24 - 2016-07-29/00:02:14, 10.0, plindqvist(EVA),"  waves, ne depletion"
+2016-07-29/00:41:24 - 2016-07-29/00:43:44, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/00:43:44 - 2016-07-29/00:46:04, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/00:46:04 - 2016-07-29/00:48:14, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/00:48:14 - 2016-07-29/00:50:34, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/00:50:34 - 2016-07-29/00:52:54, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/00:52:54 - 2016-07-29/00:55:14, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/00:55:14 - 2016-07-29/00:57:24, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/00:57:24 - 2016-07-29/00:59:44, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/00:59:44 - 2016-07-29/01:02:04, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/01:02:04 - 2016-07-29/01:04:34, 10.0, plindqvist(EVA),  waves
+2016-07-29/01:04:34 - 2016-07-29/01:07:04, 10.0, plindqvist(EVA),  waves
+2016-07-29/01:07:04 - 2016-07-29/01:09:34, 10.0, plindqvist(EVA),  waves
+2016-07-29/01:09:34 - 2016-07-29/01:12:04, 10.0, plindqvist(EVA),  waves
+2016-07-29/03:44:24 - 2016-07-29/03:46:34, 15.0, plindqvist(EVA),"  waves, injection, AE rise 50-450nT"
+2016-07-29/03:46:34 - 2016-07-29/03:48:54, 15.0, plindqvist(EVA),"  waves, injection, AE rise 50-450nT"
+2016-07-29/03:48:54 - 2016-07-29/03:51:04, 15.0, plindqvist(EVA),"  waves, injection, AE rise 50-450nT"
+2016-07-29/03:51:04 - 2016-07-29/03:53:14, 15.0, plindqvist(EVA),"  waves, injection, AE rise 50-450nT"
+2016-07-29/03:53:14 - 2016-07-29/03:55:24, 15.0, plindqvist(EVA),"  waves, injection, AE rise 50-450nT"
+2016-07-29/03:55:24 - 2016-07-29/03:57:44, 15.0, plindqvist(EVA),"  waves, injection, AE rise 50-450nT"
+2016-07-29/03:57:44 - 2016-07-29/03:59:54, 15.0, plindqvist(EVA),"  waves, injection, AE rise 50-450nT"
+2016-07-29/04:21:04 - 2016-07-29/04:23:24, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/04:23:24 - 2016-07-29/04:25:54, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/04:25:54 - 2016-07-29/04:28:14, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/04:28:14 - 2016-07-29/04:30:44, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/04:30:44 - 2016-07-29/04:33:04, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/04:33:04 - 2016-07-29/04:35:34, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/04:35:34 - 2016-07-29/04:37:54, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/05:09:04 - 2016-07-29/05:11:24, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/05:11:24 - 2016-07-29/05:13:54, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/05:13:54 - 2016-07-29/05:16:14, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/05:16:14 - 2016-07-29/05:18:34, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/05:18:34 - 2016-07-29/05:21:04, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/05:21:04 - 2016-07-29/05:23:24, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/05:23:24 - 2016-07-29/05:25:54, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/05:25:54 - 2016-07-29/05:28:14, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/08:36:44 - 2016-07-29/08:38:54, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/08:38:54 - 2016-07-29/08:41:14, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/08:41:14 - 2016-07-29/08:43:24, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/08:43:24 - 2016-07-29/08:45:34, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/08:45:34 - 2016-07-29/08:47:54, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/08:47:54 - 2016-07-29/08:50:04, 15.0, plindqvist(EVA),"  waves, injection"
+2016-07-29/08:50:04 - 2016-07-29/08:51:54, 5.0, plindqvist(EVA),  fill
+2016-07-29/08:51:54 - 2016-07-29/08:53:54, 5.0, plindqvist(EVA),  fill
+2016-07-29/08:53:54 - 2016-07-29/08:55:44, 5.0, plindqvist(EVA),  fill
+2016-07-29/08:55:44 - 2016-07-29/08:58:04, 20.0, plindqvist(EVA),"  waves, dipolarization"
+2016-07-29/08:58:04 - 2016-07-29/09:01:04, 5.0, plindqvist(EVA),  fill
+2016-07-29/09:01:04 - 2016-07-29/09:02:54, 10.0, plindqvist(EVA),  waves
+2016-07-29/09:16:14 - 2016-07-29/09:21:14, 20.0, plindqvist(EVA),"  waves, dipolarization"
+2016-07-29/11:15:04 - 2016-07-29/11:17:04, 10.0, plindqvist(EVA),  strong E-waves 3kHz

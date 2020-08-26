@@ -1,0 +1,88 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-11-01/03:36:33 - 2017-11-01/03:40:23,   0.1, ABS,  
+2017-11-01/04:48:03 - 2017-11-01/04:50:53, 130.0, lavanov(EVA),  Solar wind CS Bz and Bx rotations
+2017-11-01/04:50:53 - 2017-11-01/04:53:43, 130.0, lavanov(EVA),  Solar wind CS Bz and Bx rotations
+2017-11-01/04:56:13 - 2017-11-01/04:59:53, 120.0, lavanov(EVA), Bz reversal B magnitude depression 
+2017-11-01/05:06:33 - 2017-11-01/05:09:33, 135.0, lavanov(EVA)," CS in solar wind, B magnitude deprssion "
+2017-11-01/05:14:43 - 2017-11-01/05:18:33, 130.0, lavanov(EVA)," CS in the SW, Bz and enhanced diffB current "
+2017-11-01/05:51:03 - 2017-11-01/05:53:33,  70.0, lavanov(EVA),  Pristine solar wind (S. Fuselier request)
+2017-11-01/05:53:33 - 2017-11-01/05:56:03,  70.0, lavanov(EVA),  Pristine solar wind (S. Fuselier request)
+2017-11-01/06:16:53 - 2017-11-01/06:19:13, 140.0, lavanov(EVA),"  Oscillating SW current sheet, notable increase in diffB current, possible ion heating (Stfan suggestion foreshock related)"
+2017-11-01/06:19:13 - 2017-11-01/06:21:43, 140.0, lavanov(EVA),"  Oscillating SW current sheet, notable increase in diffB current, possible ion heating (Stfan suggestion foreshock related)"
+2017-11-01/06:21:43 - 2017-11-01/06:24:03, 140.0, lavanov(EVA),"  Oscillating SW current sheet, notable increase in diffB current, possible ion heating (Stfan suggestion foreshock related)"
+2017-11-01/06:54:43 - 2017-11-01/06:55:13,  90.0, lavanov(EVA),  CS in the solar wind Bz reversal
+2017-11-01/07:12:33 - 2017-11-01/07:15:23, 125.0, lavanov(EVA),  CS with cB field rotation
+2017-11-01/07:38:33 - 2017-11-01/07:41:13, 140.0, lavanov(EVA), Solar wind interval with Bz reversal 
+2017-11-01/09:03:43 - 2017-11-01/09:04:53, 125.0, lavanov(EVA), Solar wind CS with with significant enhancement in the diffB current in trailing edge
+2017-11-01/10:11:23 - 2017-11-01/10:14:03, 150.0, lavanov(EVA)," CS in the solar wind with B mininumal, number density enhanced, sharp increase in diffB current"
+2017-11-01/10:26:23 - 2017-11-01/10:27:13, 110.0, lavanov(EVA),  Double CS Bx and Bz polarity changes
+2017-11-01/10:31:03 - 2017-11-01/10:31:43, 110.0, lavanov(EVA)," Thin CS in the solar wind, Bz rotation and dip in the Btotal "
+2017-11-01/10:35:23 - 2017-11-01/10:37:03, 110.0, lavanov(EVA)," Two SW current sheets, Bz rotations "
+2017-11-01/12:32:13 - 2017-11-01/12:33:33, 150.0, lavanov(EVA), Bz reversal and Btotal dip 
+2017-11-01/12:36:53 - 2017-11-01/12:38:23, 120.0, lavanov(EVA),  CS in the solar wind Bz reversal 
+2017-11-01/12:39:53 - 2017-11-01/12:42:03, 150.0, lavanov(EVA)," CS in the solar wind, Bz reversal "
+2017-11-01/13:03:23 - 2017-11-01/13:04:03, 100.0, lavanov(EVA),  Solar wind CS Bz rotation
+2017-11-01/14:25:23 - 2017-11-01/14:27:53, 120.0, lavanov(EVA), Set of solar wind current sheets Bz 
+2017-11-01/14:44:53 - 2017-11-01/14:47:43, 140.0, lavanov(EVA), Solar wind CS with notable dip in B total 
+2017-11-01/16:58:43 - 2017-11-01/17:00:03, 130.0, lavanov(EVA)," Interesting CS, Bx and By reversal "
+2017-11-01/18:48:13 - 2017-11-01/18:49:43, 140.0, lavanov(EVA), SW CS with B total dip 
+2017-11-01/21:23:03 - 2017-11-01/21:24:23, 100.0, lavanov(EVA), Solar wind Bz rotation 
+2017-11-01/21:44:13 - 2017-11-01/21:45:53, 130.0, lavanov(EVA)," Solar wind Bz reversal signature, possible plasma heating"
+2017-11-01/21:55:23 - 2017-11-01/21:55:53,  70.0, lavanov(EVA), Periodic magnetic structure in the solar wind 
+2017-11-01/22:07:03 - 2017-11-01/22:07:43, 100.0, lavanov(EVA)," Solar wind CS dip in B total, Bz sign change "
+2017-11-01/22:09:13 - 2017-11-01/22:09:53, 100.0, lavanov(EVA), CS in the solar wind. Sharp dip in B total 
+2017-11-01/22:40:23 - 2017-11-01/22:42:23, 150.0, lavanov(EVA)," CS in solar wind, Bz reversal,  B null, electron and ion heating. Good reconnection candidate"
+2017-11-02/02:41:13 - 2017-11-02/02:43:03, 110.0, lavanov(EVA), Interesting time interval in highly turbulent soalr wind with Bz reversals. Ion heating
+2017-11-02/02:49:13 - 2017-11-02/02:52:23, 100.0, lavanov(EVA),"  INteresting turbulent time interval with associated ion heating, Bz reversal "
+2017-11-02/03:45:03 - 2017-11-02/03:47:53,  90.0, lavanov(EVA),  Foreshock-related low frequency oscilations. Bz reversal. Heated ions
+2017-11-02/03:47:53 - 2017-11-02/03:50:53,  90.0, lavanov(EVA),  Foreshock-related low frequency oscilations. Heated ions
+2017-11-02/03:50:53 - 2017-11-02/03:52:23,  90.0, lavanov(EVA),  Foreshock-related low frequency oscilations. Heated ions
+2017-11-02/03:52:23 - 2017-11-02/03:55:03, 150.0, lavanov(EVA)," Highly tutbulent solar wind with strong Bz reversal, B minimum. Possible reconnection candidate "
+2017-11-02/03:55:03 - 2017-11-02/03:57:03, 100.0, lavanov(EVA)," High frequency oscil;ations, Bz reversals"
+2017-11-02/03:57:03 - 2017-11-02/03:59:03, 100.0, lavanov(EVA)," High frequency oscil;ations, Bz reversals"
+2017-11-02/04:26:23 - 2017-11-02/04:27:33,  99.0, lavanov(EVA)," Strong Qperp bow shock, significant current, ion dispersion nsignature prior to abrupt magnetic field change. Steady state SW"
+2017-11-02/05:46:13 - 2017-11-02/05:47:33,  90.0, lavanov(EVA)," Current sheet in MSH, dip in Btital "
+2017-11-02/06:03:33 - 2017-11-02/06:05:53,  90.0, lavanov(EVA),"  Qpar bow shock, significant compression from the sheath side"
+2017-11-02/06:25:03 - 2017-11-02/06:26:33,  40.0, lavanov(EVA)," Bz reversal, ion heating in the end "
+2017-11-02/07:23:03 - 2017-11-02/07:23:33, 150.0, lavanov(EVA)," CS in the solar wind, Bz rotation and significant dip in Btot, plasma compression (seen in number density increase)) "
+2017-11-02/07:45:33 - 2017-11-02/07:46:03,  80.0, lavanov(EVA), Transition in solar wind from steady state to high frequency oscilation region 
+2017-11-02/07:46:03 - 2017-11-02/07:46:43,  80.0, lavanov(EVA), Foreshock high frequency turbulence
+2017-11-02/07:48:13 - 2017-11-02/07:48:43,  60.0, lavanov(EVA), Interesting interval of high frequency variations with possible embeded CS (Bz +/-) 
+2017-11-02/07:54:03 - 2017-11-02/07:54:43,  80.0, lavanov(EVA), Transition from steady state solar wind to highly turbulent statee 
+2017-11-02/07:55:13 - 2017-11-02/07:56:33,  80.0, lavanov(EVA),"  High frequency solar wind oscillations, plasma heating"
+2017-11-02/07:58:23 - 2017-11-02/07:58:53,  80.0, lavanov(EVA), Sharp Bz reversal in turbulent solar wind 
+2017-11-02/08:09:23 - 2017-11-02/08:10:23,  80.0, lavanov(EVA)," Sharp Bz reversal, some depression in B total "
+2017-11-02/08:11:23 - 2017-11-02/08:12:13, 140.0, lavanov(EVA)," Solar wind CS with Bz reversal, compression in the middle of CS"
+2017-11-02/08:13:13 - 2017-11-02/08:13:53, 100.0, lavanov(EVA), Very sharp Bz reversal in the solar wind 
+2017-11-02/08:28:43 - 2017-11-02/08:31:03,  90.0, lavanov(EVA), Interesting Qpar bow shock with strong turbulence prior to the shock and high frequency oscilations in the MSH adjacent to BS. 
+2017-11-02/11:28:13 - 2017-11-02/11:30:13, 150.0, lavanov(EVA),"  Sharp magnetic field rotation, thein CS (?)"
+2017-11-02/12:55:13 - 2017-11-02/12:57:43, 145.0, lavanov(EVA), Sharp Bz reversal  
+2017-11-02/13:09:13 - 2017-11-02/13:12:53, 150.0, lavanov(EVA), sharp BZ reversal in the sheath. Density increase 
+2017-11-02/13:51:03 - 2017-11-02/13:53:03, 150.0, lavanov(EVA), Possible reconnection event in the magnetosheath. Sharp deperssion of the Btotal and field rotation. Density bump
+2017-11-02/14:02:43 - 2017-11-02/14:04:23, 150.0, lavanov(EVA)," CS in the magnetosheath, Bz reversal and B minimal, possible MSheath reconnection "
+2017-11-02/14:06:03 - 2017-11-02/14:07:33, 140.0, lavanov(EVA), Periodic magnetic field structure with B minimal 
+2017-11-02/14:18:03 - 2017-11-02/14:20:33,  80.0, lavanov(EVA),  Periodic structure in MSheath
+2017-11-02/14:20:33 - 2017-11-02/14:23:03,  80.0, lavanov(EVA),  Periodic structure in MSheath
+2017-11-02/15:48:23 - 2017-11-02/15:49:23, 150.0, lavanov(EVA)," Sharp CS in the MSheath, possible active MSheath FTE, density increase "
+2017-11-02/16:35:43 - 2017-11-02/16:38:53, 145.0, lavanov(EVA),"  MSheath CS, field rotation, number density bump"
+2017-11-02/16:38:53 - 2017-11-02/16:42:13, 145.0, lavanov(EVA),"  MSheath CS, field rotation, number density bump"
+2017-11-02/17:28:43 - 2017-11-02/17:31:03, 100.0, lavanov(EVA), Partial MP crossings 
+2017-11-02/17:31:03 - 2017-11-02/17:33:13, 120.0, lavanov(EVA)," Partial MP crossings, typical flank MP flapping for Northward IMF, could be KH wave "
+2017-11-02/17:33:13 - 2017-11-02/17:35:03, 120.0, lavanov(EVA)," Partial MP crossings, typical flank MP flapping for Northward IMF, could be KH wave "
+2017-11-02/17:35:03 - 2017-11-02/17:37:03, 120.0, lavanov(EVA)," Partial MP crossings, typical flank MP flapping for Northward IMF, could be KH wave "
+2017-11-02/17:40:33 - 2017-11-02/17:43:33,  95.0, lavanov(EVA), Long low shear MP crossings.
+2017-11-02/17:43:33 - 2017-11-02/17:45:23,  95.0, lavanov(EVA), Long low shear MP crossings.
+2017-11-02/17:45:23 - 2017-11-02/17:47:13,  95.0, lavanov(EVA), Long low shear MP crossings.
+2017-11-02/17:47:13 - 2017-11-02/17:49:23,  95.0, lavanov(EVA)," Low shear MP crossings, skimming MP (?) "
+2017-11-02/17:49:23 - 2017-11-02/17:51:33,  95.0, lavanov(EVA)," Low shear MP crossings, skimming MP (?) "
+2017-11-02/17:51:33 - 2017-11-02/17:54:03, 130.0, lavanov(EVA)," Low shear MP, possible KH waves, periodic magnetic field oscillation clearly seen in Bx and By "
+2017-11-02/17:54:03 - 2017-11-02/17:56:23, 130.0, lavanov(EVA)," Low shear MP, possible KH waves, periodic magnetic field oscillation clearly seen in Bx and By "
+2017-11-02/17:56:23 - 2017-11-02/17:59:23, 130.0, lavanov(EVA)," Low shear MP, possible KH waves, periodic magnetic field oscillation clearly seen in Bx and By "
+2017-11-02/17:59:23 - 2017-11-02/18:02:23, 130.0, lavanov(EVA)," Low shear MP, possible KH waves, periodic magnetic field oscillation clearly seen in Bx and By "
+2017-11-02/18:02:23 - 2017-11-02/18:04:13, 100.0, lavanov(EVA)," Skiming MP, KH waves (?)"
+2017-11-02/18:04:13 - 2017-11-02/18:06:03, 100.0, lavanov(EVA)," Skiming MP, KH waves (?)"
+2017-11-02/18:06:03 - 2017-11-02/18:07:13, 100.0, lavanov(EVA), Low shear MP crossings 
+2017-11-02/18:11:03 - 2017-11-02/18:13:23,  90.0, lavanov(EVA), Final entry to MSPhere 
+2017-11-02/18:13:23 - 2017-11-02/18:15:03,  90.0, lavanov(EVA), Final entry to MSPhere 
+2017-11-02/18:15:03 - 2017-11-02/18:16:53,  90.0, lavanov(EVA), Final entry to MSPhere 
+2017-11-02/18:36:23 - 2017-11-02/18:40:23,  70.0, lavanov(EVA),  Inactive FTE (remnant?)

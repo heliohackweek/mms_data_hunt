@@ -1,0 +1,75 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-01-29/15:13:43 - 2018-01-29/15:15:53, 120.0, nahmadi(EVA), Partial low shear MP crossing w/Vz jets and EM wave activities
+2018-01-29/15:15:53 - 2018-01-29/15:18:13, 120.0, nahmadi(EVA), Partial low shear MP crossing w/Vz jets and EM wave activities
+2018-01-29/15:18:13 - 2018-01-29/15:20:23, 120.0, nahmadi(EVA), Partial low shear MP crossing w/Vz jets and EM wave activities
+2018-01-29/15:20:23 - 2018-01-29/15:22:43, 120.0, nahmadi(EVA), Partial low shear MP crossing w/Vz jets and EM wave activities
+2018-01-29/15:22:43 - 2018-01-29/15:24:53, 125.0, nahmadi(EVA), Deep magnetic null
+2018-01-29/15:30:23 - 2018-01-29/15:33:13, 110.0, nahmadi(EVA), Magnetosheath CS
+2018-01-29/16:28:53 - 2018-01-29/16:30:53, 110.0, nahmadi(EVA), Magnetosheath CS 
+2018-01-29/17:10:23 - 2018-01-29/17:12:33,  40.0, nahmadi(EVA), Magnetosheath mirror waves 
+2018-01-29/17:12:33 - 2018-01-29/17:14:43,  40.0, nahmadi(EVA), Magnetosheath mirror waves 
+2018-01-29/17:53:43 - 2018-01-29/17:56:03, 100.0, nahmadi(EVA), Magnetosheath CS
+2018-01-29/17:57:53 - 2018-01-29/17:58:33, 130.0, nahmadi(EVA), Magnetosheath CS w/deep magnetic nulls and flow reversal
+2018-01-29/18:08:33 - 2018-01-29/18:09:23, 105.0, nahmadi(EVA), Magnetosheath CS
+2018-01-29/18:14:03 - 2018-01-29/18:16:13,  75.0, nahmadi(EVA), Quasi-perpendicular Bow Shock crossing 
+2018-01-29/18:29:13 - 2018-01-29/18:30:03, 100.0, nahmadi(EVA), Young HFA
+2018-01-29/18:34:03 - 2018-01-29/18:35:53, 110.0, nahmadi(EVA), HFA
+2018-01-29/18:36:43 - 2018-01-29/18:38:13,  70.0, nahmadi(EVA), IMF CS
+2018-01-29/18:57:33 - 2018-01-29/18:58:23,  70.0, nahmadi(EVA), IMF CS
+2018-01-29/19:19:03 - 2018-01-29/19:20:33,  70.0, nahmadi(EVA), IMF CS
+2018-01-29/20:19:53 - 2018-01-29/20:21:13,  70.0, nahmadi(EVA), IMF CS
+2018-01-29/20:35:13 - 2018-01-29/20:36:53,  70.0, nahmadi(EVA), IMF CS
+2018-01-29/21:11:53 - 2018-01-29/21:14:13,  70.0, nahmadi(EVA), Multiple IMF CSs
+2018-01-29/21:14:13 - 2018-01-29/21:16:33,  70.0, nahmadi(EVA), Multiple IMF CSs
+2018-01-29/21:23:13 - 2018-01-29/21:24:23, 100.0, nahmadi(EVA), Solar Wind deep magnetic null
+2018-01-29/22:25:13 - 2018-01-29/22:28:13,  70.0, nahmadi(EVA), IMF rotation
+2018-01-29/22:29:43 - 2018-01-29/22:31:33,  70.0, nahmadi(EVA), IMF CS 
+2018-01-30/22:37:53 - 2018-01-30/22:39:43,  70.0, nahmadi(EVA), IMF CS
+2018-01-30/23:15:33 - 2018-01-30/23:18:13,  70.0, nahmadi(EVA), IMF CS
+2018-01-31/01:48:53 - 2018-01-31/01:50:33, 105.0, nahmadi(EVA), Solar Wind magnetic null
+2018-01-31/01:51:23 - 2018-01-31/01:52:23, 105.0, nahmadi(EVA), Solar Wind magnetic null
+2018-01-31/02:35:33 - 2018-01-31/02:37:23, 105.0, nahmadi(EVA), Solar Wind magnetic nulls
+2018-01-31/02:41:23 - 2018-01-31/02:42:23, 105.0, nahmadi(EVA), Solar Wind magnetic null
+2018-01-31/19:37:03 - 2018-01-31/19:39:23,  80.0, nahmadi(EVA), Pristine Solar Wind 
+2018-01-31/19:39:23 - 2018-01-31/19:41:43,  80.0, nahmadi(EVA), Pristine Solar Wind 
+2018-01-31/19:41:43 - 2018-01-31/19:44:03,  80.0, nahmadi(EVA), Pristine Solar Wind 
+2018-01-31/19:44:03 - 2018-01-31/19:46:23,  80.0, nahmadi(EVA), Pristine Solar Wind 
+2018-01-31/19:46:23 - 2018-01-31/19:48:43,  80.0, nahmadi(EVA), Pristine Solar Wind 
+2018-01-31/19:48:43 - 2018-01-31/19:51:03,  80.0, nahmadi(EVA), Pristine Solar Wind 
+2018-01-31/19:51:03 - 2018-01-31/19:53:23,  80.0, nahmadi(EVA), Pristine Solar Wind 
+2018-01-31/20:01:53 - 2018-01-31/20:02:53,  75.0, nahmadi(EVA), IMF CS
+2018-01-31/20:26:53 - 2018-01-31/20:27:33,  70.0, nahmadi(EVA), IMF CS
+2018-01-31/20:30:43 - 2018-01-31/20:32:43,  70.0, nahmadi(EVA), IMF rotations
+2018-01-31/20:32:43 - 2018-01-31/20:34:43,  70.0, nahmadi(EVA), IMF rotations
+2018-01-31/22:01:33 - 2018-01-31/22:02:23,  70.0, nahmadi(EVA), IMF rotation 
+2018-01-31/22:45:43 - 2018-01-31/22:48:13,  75.0, nahmadi(EVA),  IMF CS
+2018-01-31/23:06:23 - 2018-01-31/23:08:53, 120.0, nahmadi(EVA), HFAs
+2018-01-31/23:15:43 - 2018-01-31/23:17:23, 110.0, nahmadi(EVA)," IMF rotations, magnetic nulls and jets"
+2018-01-31/23:17:23 - 2018-01-31/23:19:03, 110.0, nahmadi(EVA)," IMF rotations, magnetic nulls and jets"
+2018-01-31/23:21:03 - 2018-01-31/23:22:23,  60.0, nahmadi(EVA), Possible SLAMs 
+2018-01-31/23:22:23 - 2018-01-31/23:23:43,  60.0, nahmadi(EVA), Possible SLAMs 
+2018-01-31/23:29:13 - 2018-01-31/23:30:03,  75.0, nahmadi(EVA), Quasi-perpendicular Bow Shock crossing
+2018-01-31/23:30:23 - 2018-01-31/23:30:53, 105.0, nahmadi(EVA), Magnetosheath magnetic null
+2018-01-31/23:34:43 - 2018-01-31/23:35:43, 105.0, nahmadi(EVA), Magnetosheath magnetic nulls and IMF rotation
+2018-01-31/23:36:23 - 2018-01-31/23:37:33, 110.0, nahmadi(EVA), Magnetic null and current sheet
+2018-01-31/23:38:13 - 2018-01-31/23:39:03, 100.0, nahmadi(EVA), Magnetosheath CS
+2018-01-31/23:40:43 - 2018-01-31/23:41:23, 100.0, nahmadi(EVA), Magnetosheath CS
+2018-01-31/23:42:53 - 2018-01-31/23:43:53, 105.0, nahmadi(EVA), Magnetosheath CS and magnetic null
+2018-01-31/23:51:13 - 2018-01-31/23:53:33, 110.0, nahmadi(EVA), Magnetic nulls
+2018-01-31/23:54:03 - 2018-01-31/23:56:33, 105.0, nahmadi(EVA), Magnetic nulls
+2018-01-31/23:57:03 - 2018-01-31/23:57:43, 105.0, nahmadi(EVA), Magnetic null
+2018-02-01/00:02:43 - 2018-02-01/00:04:23, 105.0, nahmadi(EVA), Magnetic nulls
+2018-02-01/00:04:33 - 2018-02-01/00:05:43, 100.0, nahmadi(EVA), Magnetosheath CS
+2018-02-01/00:06:13 - 2018-02-01/00:07:33, 100.0, nahmadi(EVA), Magnetosheath CS
+2018-02-01/00:07:33 - 2018-02-01/00:09:33, 120.0, nahmadi(EVA), Partial MP crossing
+2018-02-01/00:10:33 - 2018-02-01/00:13:23, 120.0, nahmadi(EVA), Partial MP crossing 
+2018-02-01/00:13:23 - 2018-02-01/00:14:03, 105.0, nahmadi(EVA), Magnetic null 
+2018-02-01/00:17:13 - 2018-02-01/00:18:43, 105.0, nahmadi(EVA), Magnetic nulls
+2018-02-01/00:21:13 - 2018-02-01/00:24:53, 110.0, nahmadi(EVA), Magnetosheath CS and magnetic nulls w/vz jet 
+2018-02-01/00:56:03 - 2018-02-01/00:57:53,  40.0, nahmadi(EVA), Magnetosheath mirror waves 
+2018-02-01/00:57:53 - 2018-02-01/00:59:33,  40.0, nahmadi(EVA), Magnetosheath mirror waves 
+2018-02-01/00:59:33 - 2018-02-01/01:01:23,  40.0, nahmadi(EVA), Magnetosheath mirror waves 
+2018-02-01/01:02:33 - 2018-02-01/01:05:33, 120.0, nahmadi(EVA), Partial low shear magnetopause crossing
+2018-02-01/01:10:33 - 2018-02-01/01:11:43, 120.0, nahmadi(EVA), Partial low shear MP crossing 
+2018-02-01/01:14:03 - 2018-02-01/01:15:53, 130.0, nahmadi(EVA), Partial low shear MP crossing w/jets
+2018-02-01/01:23:53 - 2018-02-01/01:26:13, 130.0, nahmadi(EVA), MP crossing w/jet reversal 

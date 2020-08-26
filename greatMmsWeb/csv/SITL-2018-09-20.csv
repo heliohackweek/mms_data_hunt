@@ -1,0 +1,93 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-09-20/17:53:03 - 2018-09-20/17:55:13,  99.0, dturner(EVA)," OFI, TCW: Large-amplitude wave activity in the tail flank, 37 s wave period, and fluctuations seen in density"
+2018-09-20/17:55:13 - 2018-09-20/17:57:23,  99.0, dturner(EVA)," OFI, TCW: Large-amplitude wave activity in the tail flank, 37 s wave period, and fluctuations seen in density"
+2018-09-20/17:57:23 - 2018-09-20/17:59:33,  99.0, dturner(EVA)," OFI, TCW: Large-amplitude wave activity in the tail flank, 37 s wave period, and fluctuations seen in density"
+2018-09-21/01:55:43 - 2018-09-21/01:57:53,  75.0, icohen(EVA)," OFI,CS,FRV: Bx,Bz reversal; moderate current with jet; Vx reversal; increased wave activity"
+2018-09-21/01:57:53 - 2018-09-21/02:00:13,  75.0, icohen(EVA)," OFI,CS,FRV: Bx,Bz reversal; moderate current with jet; Vx reversal; increased wave activity"
+2018-09-21/03:51:43 - 2018-09-21/03:53:43, 100.0, icohen(EVA)," KHI: KH vortex, possible current sheets"
+2018-09-21/03:53:43 - 2018-09-21/03:55:33, 100.0, icohen(EVA)," KHI: KH vortex, possible current sheets"
+2018-09-21/03:55:33 - 2018-09-21/03:57:33, 100.0, icohen(EVA)," KHI: KH vortex, possible current sheets"
+2018-09-21/04:02:43 - 2018-09-21/04:05:13, 125.0, icohen(EVA)," KHI,CS: KH vortex, multiple CS"
+2018-09-21/04:05:13 - 2018-09-21/04:07:33, 125.0, icohen(EVA)," KHI,CS: KH vortex, multiple CS"
+2018-09-21/04:07:33 - 2018-09-21/04:10:03, 125.0, icohen(EVA)," KHI,CS: KH vortex, multiple CS"
+2018-09-21/04:10:03 - 2018-09-21/04:12:33, 125.0, icohen(EVA)," KHI,CS: KH vortex, multiple CS"
+2018-09-21/04:28:43 - 2018-09-21/04:31:03, 175.0, icohen(EVA)," FMPX,EDR: Two full MP crossings; possible EDR candidate; Vz jet reversal; current spike"
+2018-09-21/04:31:03 - 2018-09-21/04:32:13, 145.0, icohen(EVA), FMPX: Two full MP crossings
+2018-09-21/04:32:13 - 2018-09-21/04:33:53, 145.0, icohen(EVA), FMPX: Two full MP crossings
+2018-09-21/05:41:53 - 2018-09-21/05:43:33, 110.0, dturner(EVA)," KHI,PMPX,CS: partial MP crossing, possible KH, CS spikes "
+2018-09-21/05:43:33 - 2018-09-21/05:45:13, 110.0, dturner(EVA)," KHI,PMPX,CS: partial MP crossing, possible KH, CS spikes "
+2018-09-21/06:37:53 - 2018-09-21/06:40:23,  70.0, icohen(EVA), KHI: KHI active period context
+2018-09-21/06:40:23 - 2018-09-21/06:42:43,  70.0, icohen(EVA), KHI: KHI active period context
+2018-09-21/06:42:43 - 2018-09-21/06:44:53,  70.0, icohen(EVA), KHI: KHI active period context
+2018-09-21/06:44:53 - 2018-09-21/06:47:03, 100.0, icohen(EVA)," KHI,CS: KHI active period context; CS spike"
+2018-09-21/06:47:03 - 2018-09-21/06:49:23, 125.0, icohen(EVA)," KHI,CS: KHI active period context; strong CS spikes; increased wave activity"
+2018-09-21/06:49:23 - 2018-09-21/06:51:33,  70.0, icohen(EVA), KHI: KHI active period context
+2018-09-21/07:11:53 - 2018-09-21/07:14:03, 145.0, icohen(EVA)," PMPX,CS: Partial MP crossing, moderate current spike, significant HF wave activity"
+2018-09-21/07:14:03 - 2018-09-21/07:16:13, 145.0, icohen(EVA)," PMPX,CS: Partial MP crossing, moderate current spike, significant HF wave activity"
+2018-09-21/07:16:13 - 2018-09-21/07:18:23, 145.0, icohen(EVA)," PMPX,CS: Partial MP crossing, moderate current spike, significant HF wave activity"
+2018-09-21/07:49:33 - 2018-09-21/07:51:13,  75.0, icohen(EVA)," BL,CS: BL encounter, enhanced HF wave activity, moderate current spike"
+2018-09-21/07:51:13 - 2018-09-21/07:53:03,  75.0, icohen(EVA)," BL,CS: BL encounter, enhanced HF wave activity, moderate current spike"
+2018-09-21/07:53:03 - 2018-09-21/07:54:43,  75.0, icohen(EVA)," BL,CS: BL encounter, enhanced HF wave activity, moderate current spike"
+2018-09-21/08:13:43 - 2018-09-21/08:15:33, 125.0, icohen(EVA)," PMPX,CS,KHI: Partial MP crossing, strong current spikes, enhanced HF wave activity"
+2018-09-21/08:15:33 - 2018-09-21/08:17:23, 125.0, icohen(EVA)," PMPX,CS,KHI: Partial MP crossing, strong current spikes, enhanced HF wave activity"
+2018-09-21/09:29:43 - 2018-09-21/09:31:23, 100.0, dturner(EVA), PMPX: Multiple partial MP crossings
+2018-09-21/09:31:23 - 2018-09-21/09:33:13, 100.0, dturner(EVA), PMPX: Multiple partial MP crossings
+2018-09-21/09:33:13 - 2018-09-21/09:34:53, 100.0, dturner(EVA), PMPX: Multiple partial MP crossings
+2018-09-21/09:36:03 - 2018-09-21/09:38:03, 100.0, dturner(EVA), PMPX: Multiple partial MP crossings
+2018-09-21/09:38:03 - 2018-09-21/09:40:13, 100.0, dturner(EVA), PMPX: Multiple partial MP crossings
+2018-09-21/09:41:53 - 2018-09-21/09:44:13, 100.0, icohen(EVA), PMPX: Multiple partial MP crossings
+2018-09-21/09:46:33 - 2018-09-21/09:48:53, 100.0, icohen(EVA), PMPX: Multiple partial MP crossings
+2018-09-21/09:48:53 - 2018-09-21/09:51:13, 100.0, icohen(EVA), PMPX: Multiple partial MP crossings
+2018-09-21/09:53:33 - 2018-09-21/09:55:53, 100.0, icohen(EVA), PMPX: Multiple partial MP crossings
+2018-09-21/09:58:13 - 2018-09-21/10:00:33, 100.0, icohen(EVA), PMPX: Multiple partial MP crossings
+2018-09-21/10:00:33 - 2018-09-21/10:02:53, 100.0, icohen(EVA), PMPX: Multiple partial MP crossings
+2018-09-21/12:56:03 - 2018-09-21/12:57:23, 130.0, dturner(EVA)," BL, CS: Boundary layer current sheet with strong ExB flows, Bx, By, and Bz reversals"
+2018-09-21/12:57:23 - 2018-09-21/12:58:43, 130.0, dturner(EVA)," BL, CS: Boundary layer current sheet with strong ExB flows, Bx, By, and Bz reversals"
+2018-09-21/13:03:03 - 2018-09-21/13:05:13, 125.0, dturner(EVA)," BL, CS: Boundary layer current sheet with strong Jtot, Bx and By reversals, and fast ion flows"
+2018-09-21/13:28:43 - 2018-09-21/13:30:53, 115.0, dturner(EVA)," PMPX, BL: Partial MP crossing from boundary layer, strong current spike, Bx reversal "
+2018-09-21/13:33:43 - 2018-09-21/13:35:43, 115.0, dturner(EVA)," PMPX, BL: Partial MP crossing from boundary layer, current spike, Bx and By reversals"
+2018-09-21/13:38:33 - 2018-09-21/13:41:03, 130.0, dturner(EVA)," PMPX, BL: Partial MP crossing from the BL, Bz near zero, current spike, fast ion flows with possible reverals in Vy and Vz"
+2018-09-21/13:55:53 - 2018-09-21/13:57:23, 130.0, dturner(EVA)," PMPX, BL, CS: Current sheet, magnetic null with strong ExB flows, Bx, By, and Bz reversals"
+2018-09-21/13:57:23 - 2018-09-21/13:59:03, 130.0, dturner(EVA)," PMPX, BL, CS: Current sheet, magnetic null with strong ExB flows, Bx, By, and Bz reversals"
+2018-09-21/14:35:23 - 2018-09-21/14:37:23,  90.0, dturner(EVA)," OFI: ExB and ion velocity flow reversals, Bwaves, moderate currents"
+2018-09-21/14:37:23 - 2018-09-21/14:39:33,  90.0, dturner(EVA)," OFI: ExB and ion velocity flow reversals, Bwaves, moderate currents"
+2018-09-21/15:03:23 - 2018-09-21/15:05:53, 125.0, dturner(EVA)," BL, CS: Boundary layer activity with strong (ExB)z flow reversal, current sheets, ion Vz reversals   "
+2018-09-21/15:09:33 - 2018-09-21/15:11:33, 115.0, dturner(EVA),"  PMPX, CS: Partial MP crossing with current sheet"
+2018-09-21/15:18:23 - 2018-09-21/15:20:53, 125.0, dturner(EVA)," PMPX, CS: Partial MP crossing with strong current sheets"
+2018-09-21/15:21:43 - 2018-09-21/15:23:53, 125.0, dturner(EVA)," PMPX, CS: Partial MP crossing with current sheets and Bx, By, and Bz reversals"
+2018-09-21/15:26:13 - 2018-09-21/15:27:53, 125.0, dturner(EVA)," PMPX: Partial MP crossing from boundary layer, current spikes"
+2018-09-21/15:27:53 - 2018-09-21/15:29:43, 125.0, dturner(EVA)," PMPX: Partial MP crossing from boundary layer, current spikes"
+2018-09-21/15:29:43 - 2018-09-21/15:31:33, 125.0, dturner(EVA)," PMPX: Partial MP crossing from boundary layer, current spikes"
+2018-09-21/15:36:23 - 2018-09-21/15:38:23, 175.0, dturner(EVA)," FMPX, BZR: Full MP crossing with Bz reversal and strong ExB enhancements and current spikes"
+2018-09-21/15:38:23 - 2018-09-21/15:40:33, 175.0, dturner(EVA)," FMPX, BZR: Full MP crossing with Bz reversal and strong ExB enhancements and current spikes"
+2018-09-21/15:48:13 - 2018-09-21/15:50:13, 115.0, dturner(EVA), MSCS: Magnetosheath current sheets
+2018-09-21/15:53:03 - 2018-09-21/15:55:23, 115.0, dturner(EVA), MSCS: Magnetosheath current sheets
+2018-09-21/15:55:23 - 2018-09-21/15:57:43, 115.0, dturner(EVA), MSCS: Magnetosheath current sheets
+2018-09-21/18:06:53 - 2018-09-21/18:09:23, 145.0, dturner(EVA), MSCS: Magnetosheath CS with Bz reversal and ExB reversals (y and x)
+2018-09-21/19:47:53 - 2018-09-21/19:50:03, 140.0, dturner(EVA), MSCS: Magnetosheath CS with Bz reversal
+2018-09-21/21:50:33 - 2018-09-21/21:52:33, 125.0, dturner(EVA)," PMPX, BL: Partial MP crossing or MS boundary layer with Bz reversal and current spike"
+2018-09-21/22:46:13 - 2018-09-21/22:48:33,  40.0, dturner(EVA)," MSCS: Magnetosheath CS, ExB oscillations"
+2018-09-22/00:01:23 - 2018-09-22/00:03:43, 155.0, dturner(EVA)," FMPX, BZRV: Full MP crossing, Bz reversal, current spikesion +Vz and +Vy jet"
+2018-09-22/00:03:43 - 2018-09-22/00:05:53, 155.0, dturner(EVA)," FMPX, BZRV: Full MP crossing, Bz reversal, current spikesion +Vz and +Vy jet"
+2018-09-22/00:05:53 - 2018-09-22/00:08:13, 155.0, dturner(EVA)," FMPX, BZRV: Full MP crossing, Bz reversal, current spikesion +Vz and +Vy jet"
+2018-09-22/00:08:13 - 2018-09-22/00:10:23, 155.0, dturner(EVA)," FMPX, BZRV: Full MP crossing, Bz reversal, current spikesion +Vz and +Vy jet"
+2018-09-22/00:10:23 - 2018-09-22/00:12:43, 155.0, dturner(EVA)," FMPX, BZRV: Full MP crossing, Bz reversal, current spikesion +Vz and +Vy jet"
+2018-09-22/03:49:03 - 2018-09-22/03:51:33,  99.0, dturner(EVA)," OFI, NLW: Nonlinear whistler mode waves"
+2018-09-22/03:51:33 - 2018-09-22/03:54:03,  99.0, dturner(EVA)," OFI, NLW: Nonlinear whistler mode waves"
+2018-09-22/05:30:13 - 2018-09-22/05:32:33, 145.0, dturner(EVA)," CPSX: Central plasma sheet crossing, multiple Bx reversals, Bz reversals, ExB and current spikes"
+2018-09-22/05:32:33 - 2018-09-22/05:34:43, 145.0, dturner(EVA)," CPSX: Central plasma sheet crossing, multiple Bx reversals, Bz reversals, ExB and current spikes"
+2018-09-22/05:34:43 - 2018-09-22/05:36:53, 145.0, dturner(EVA)," CPSX: Central plasma sheet crossing, multiple Bx reversals, Bz reversals, ExB and current spikes"
+2018-09-22/05:36:53 - 2018-09-22/05:39:03, 145.0, dturner(EVA)," CPSX: Central plasma sheet crossing, multiple Bx reversals, Bz reversals, ExB and current spikes"
+2018-09-22/05:41:23 - 2018-09-22/05:43:33, 145.0, dturner(EVA)," CPSX: Central plasma sheet crossing, multiple Bx reversals, Bz reversals, ExB and current spikes"
+2018-09-22/06:28:23 - 2018-09-22/06:30:13,  90.0, dturner(EVA)," CPSX: Central plasma sheet crossing, current spike, no fast flows"
+2018-09-22/06:30:13 - 2018-09-22/06:32:13,  90.0, dturner(EVA)," CPSX: Central plasma sheet crossing, current spike, no fast flows"
+2018-09-22/06:32:13 - 2018-09-22/06:34:03,  90.0, dturner(EVA)," CPSX: Central plasma sheet crossing, current spike, no fast flows"
+2018-09-22/06:36:23 - 2018-09-22/06:38:43, 175.0, dturner(EVA)," CPSX: Central plasma sheet crossings, multiple Bz reversals, multiple Vx flow reversals, strong ExB flows, current sheets"
+2018-09-22/06:38:43 - 2018-09-22/06:41:13, 175.0, dturner(EVA)," CPSX: Central plasma sheet crossings, multiple Bz reversals, multiple Vx flow reversals, strong ExB flows, current sheets"
+2018-09-22/06:41:13 - 2018-09-22/06:43:33, 175.0, dturner(EVA)," CPSX: Central plasma sheet crossings, multiple Bz reversals, multiple Vx flow reversals, strong ExB flows, current sheets"
+2018-09-22/08:22:03 - 2018-09-22/08:24:13, 155.0, dturner(EVA)," CPSX: Central plasma sheet crossing, current spikes, ExB flow reversals, ion Vz and Vx flow reversals"
+2018-09-22/08:24:13 - 2018-09-22/08:26:23, 155.0, dturner(EVA)," CPSX: Central plasma sheet crossing, current spikes, ExB flow reversals, ion Vz and Vx flow reversals"
+2018-09-22/08:26:23 - 2018-09-22/08:28:33, 155.0, dturner(EVA)," CPSX: Central plasma sheet crossing, current spikes, ExB flow reversals, ion Vz and Vx flow reversals"
+2018-09-22/08:28:33 - 2018-09-22/08:30:43, 155.0, dturner(EVA)," CPSX: Central plasma sheet crossing, current spikes, ExB flow reversals, ion Vz and Vx flow reversals"
+2018-09-22/08:30:43 - 2018-09-22/08:32:53, 155.0, dturner(EVA)," CPSX: Central plasma sheet crossing, current spikes, ExB flow reversals, ion Vz and Vx flow reversals"
+2018-09-22/08:32:53 - 2018-09-22/08:35:03, 155.0, dturner(EVA)," CPSX: Central plasma sheet crossing, current spikes, ExB flow reversals, ion Vz and Vx flow reversals"

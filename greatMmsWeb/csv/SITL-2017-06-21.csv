@@ -1,0 +1,157 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-06-21/20:06:13 - 2017-06-21/20:07:43, 120.0, pgangkai(EVA)," Dipolarization Event, BBF with flow speed of ~ 200 km/s"
+2017-06-21/20:07:43 - 2017-06-21/20:09:23, 120.0, pgangkai(EVA)," Dipolarization Event, BBF with flow speed of ~ 200 km/s"
+2017-06-21/23:24:13 - 2017-06-21/23:25:53, 120.0, pgangkai(EVA), Flow burst of ~ 400 km/s; dipolarization 
+2017-06-21/23:26:13 - 2017-06-21/23:28:53, 120.0, pgangkai(EVA), Dipolarization; flow burst
+2017-06-22/00:15:53 - 2017-06-22/00:18:23, 120.0, pgangkai(EVA), DF; flow enhancement
+2017-06-22/00:18:23 - 2017-06-22/00:20:23,  80.0, pgangkai(EVA), Dipolarizing flux bundle; Vx reversal
+2017-06-22/00:20:23 - 2017-06-22/00:22:33,  80.0, pgangkai(EVA), Dipolarizing flux bundle; Vx reversal
+2017-06-22/00:22:33 - 2017-06-22/00:24:33,  80.0, pgangkai(EVA), Dipolarizing flux bundle; Vx reversal
+2017-06-22/00:24:33 - 2017-06-22/00:26:33, 120.0, pgangkai(EVA), flow enhancement; DF
+2017-06-22/00:26:33 - 2017-06-22/00:28:33, 150.0, pgangkai(EVA), Bz reversal; possibly x-line
+2017-06-22/00:28:33 - 2017-06-22/00:30:33, 100.0, pgangkai(EVA), Vx reversal
+2017-06-22/00:30:33 - 2017-06-22/00:32:23, 100.0, pgangkai(EVA), Vx reversal
+2017-06-22/00:32:23 - 2017-06-22/00:34:23, 100.0, pgangkai(EVA), Vx reversal
+2017-06-22/01:42:23 - 2017-06-22/01:44:23,  80.0, pgangkai(EVA), Waves activity before DF
+2017-06-22/01:44:23 - 2017-06-22/01:46:23,  80.0, pgangkai(EVA), Waves activity before DF
+2017-06-22/01:46:23 - 2017-06-22/01:48:33,  80.0, pgangkai(EVA), Waves activity before DF
+2017-06-22/01:48:33 - 2017-06-22/01:50:33,  80.0, pgangkai(EVA), Waves activity before DF
+2017-06-22/01:50:33 - 2017-06-22/01:52:13, 120.0, pgangkai(EVA), Small flow enhancement; DF
+2017-06-22/01:52:13 - 2017-06-22/01:53:53, 120.0, pgangkai(EVA), Small flow enhancement; DF
+2017-06-22/01:53:53 - 2017-06-22/01:56:03,  80.0, pgangkai(EVA), Dipolarizing flux bundle
+2017-06-22/01:56:03 - 2017-06-22/01:58:23,  80.0, pgangkai(EVA), Dipolarizing flux bundle
+2017-06-22/02:32:53 - 2017-06-22/02:33:23, 120.0, pgangkai(EVA), DF; flow enhancement
+2017-06-22/02:33:23 - 2017-06-22/02:34:53,  80.0, pgangkai(EVA), Flow enhancement; dipolarizing flux bundle
+2017-06-22/02:47:33 - 2017-06-22/02:48:13, 120.0, pgangkai(EVA), DF; flow enhancement
+2017-06-22/02:48:13 - 2017-06-22/02:49:43,  80.0, pgangkai(EVA), flow enhancement; dipolarizing flux bundle
+2017-06-22/03:01:03 - 2017-06-22/03:01:43, 120.0, pgangkai(EVA), DF; flow enhancement
+2017-06-22/03:01:43 - 2017-06-22/03:03:53,  80.0, pgangkai(EVA), Dipolarizing flux bundle; Vx reversal
+2017-06-22/03:17:03 - 2017-06-22/03:19:03,  80.0, pgangkai(EVA), E-field fluctuation; B nulls
+2017-06-22/03:19:03 - 2017-06-22/03:21:03,  80.0, pgangkai(EVA), E-field fluctuation; B nulls
+2017-06-22/03:21:03 - 2017-06-22/03:23:03,  80.0, pgangkai(EVA), E-field fluctuation; B nulls
+2017-06-22/03:23:03 - 2017-06-22/03:25:03,  80.0, pgangkai(EVA), E-field fluctuation; B nulls
+2017-06-22/03:25:03 - 2017-06-22/03:26:33, 100.0, pgangkai(EVA), Vx reversal
+2017-06-22/03:26:33 - 2017-06-22/03:28:03, 100.0, pgangkai(EVA), Vx reversal
+2017-06-22/03:37:13 - 2017-06-22/03:39:43,  80.0, pgangkai(EVA), Wave activities
+2017-06-22/03:39:43 - 2017-06-22/03:42:03,  80.0, pgangkai(EVA), Wave activities
+2017-06-22/03:42:03 - 2017-06-22/03:44:33,  80.0, pgangkai(EVA), Wave activities
+2017-06-22/03:44:33 - 2017-06-22/03:47:03,  80.0, pgangkai(EVA), Wave activities
+2017-06-22/03:47:03 - 2017-06-22/03:47:43, 120.0, pgangkai(EVA), Flow enhancement; DF
+2017-06-22/03:47:43 - 2017-06-22/03:49:13,  80.0, pgangkai(EVA), Flow enhancement; Dipolarizing flux bundle
+2017-06-22/04:19:13 - 2017-06-22/04:22:23, 120.0, pgangkai(EVA), DF; flow enhancement
+2017-06-22/04:22:23 - 2017-06-22/04:24:33,  80.0, pgangkai(EVA), Magnetic field fluctuations; some Vx reversals
+2017-06-22/04:24:33 - 2017-06-22/04:26:53,  80.0, pgangkai(EVA), Magnetic field fluctuations; some Vx reversals
+2017-06-22/04:26:53 - 2017-06-22/04:29:03,  80.0, pgangkai(EVA), Magnetic field fluctuations; some Vx reversals
+2017-06-22/04:29:03 - 2017-06-22/04:31:23,  80.0, pgangkai(EVA), Magnetic field fluctuations; some Vx reversals
+2017-06-22/05:26:03 - 2017-06-22/05:28:13, 120.0, pgangkai(EVA), Dipolarization Front; flow enhancements
+2017-06-22/05:28:13 - 2017-06-22/05:30:13, 120.0, pgangkai(EVA), Dipolarization Front; flow enhancements
+2017-06-22/05:30:13 - 2017-06-22/05:32:23, 120.0, pgangkai(EVA), Dipolarization Front; flow enhancements
+2017-06-22/05:32:23 - 2017-06-22/05:34:33, 120.0, pgangkai(EVA), Dipolarization Front; flow enhancements
+2017-06-22/05:38:33 - 2017-06-22/05:41:23, 120.0, pgangkai(EVA), Dipolarization Front; flow enhancements
+2017-06-22/05:41:23 - 2017-06-22/05:43:23, 120.0, pgangkai(EVA), Dipolarization Front; flow enhancements
+2017-06-22/05:43:23 - 2017-06-22/05:47:03,  80.0, pgangkai(EVA), E-field fluctuation
+2017-06-22/05:48:43 - 2017-06-22/05:50:53, 100.0, pgangkai(EVA), Vx and Vy out-of-phase reversal; possibly vortices 
+2017-06-22/05:50:53 - 2017-06-22/05:53:13, 100.0, pgangkai(EVA), Vx and Vy out-of-phase reversal; possibly vortices 
+2017-06-22/05:53:13 - 2017-06-22/05:55:23, 100.0, pgangkai(EVA), Vx and Vy out-of-phase reversal; possibly vortices 
+2017-06-22/05:55:23 - 2017-06-22/05:57:43, 100.0, pgangkai(EVA), Vx and Vy out-of-phase reversal; possibly vortices 
+2017-06-22/06:02:03 - 2017-06-22/06:03:53, 100.0, pgangkai(EVA), Vx and Vy out-of-phase reversal; possibly vortices 
+2017-06-22/06:03:53 - 2017-06-22/06:05:33, 100.0, pgangkai(EVA), Vx and Vy out-of-phase reversal; possibly vortices 
+2017-06-22/06:05:33 - 2017-06-22/06:07:23, 100.0, pgangkai(EVA), Vx and Vy out-of-phase reversal; possibly vortices 
+2017-06-22/06:09:43 - 2017-06-22/06:11:13, 150.0, pgangkai(EVA), Vx flow reversal associated with B minima
+2017-06-22/06:11:13 - 2017-06-22/06:12:53, 150.0, pgangkai(EVA), Vx flow reversal associated with B minima
+2017-06-22/06:18:53 - 2017-06-22/06:20:53, 100.0, pgangkai(EVA), Vx and Vy out-of-phase reversal; possibly vortices 
+2017-06-22/06:20:53 - 2017-06-22/06:22:53, 100.0, pgangkai(EVA), Vx and Vy out-of-phase reversal; possibly vortices 
+2017-06-22/06:22:53 - 2017-06-22/06:25:03, 100.0, pgangkai(EVA), Vx and Vy out-of-phase reversal; possibly vortices 
+2017-06-22/06:25:03 - 2017-06-22/06:27:03, 100.0, pgangkai(EVA), Vx and Vy out-of-phase reversal; possibly vortices 
+2017-06-22/06:32:53 - 2017-06-22/06:35:03,  80.0, pgangkai(EVA), wave activity
+2017-06-22/06:35:03 - 2017-06-22/06:37:23,  80.0, pgangkai(EVA), wave activity
+2017-06-22/06:37:23 - 2017-06-22/06:39:53, 120.0, pgangkai(EVA), Vx flow enhancement; DF
+2017-06-22/06:39:53 - 2017-06-22/06:42:13, 120.0, pgangkai(EVA), Vx flow enhancement; DF
+2017-06-22/06:42:13 - 2017-06-22/06:44:43, 120.0, pgangkai(EVA), Vx flow enhancement; DF
+2017-06-22/06:57:43 - 2017-06-22/06:59:43, 120.0, pgangkai(EVA), Flow enhancement; DF
+2017-06-22/06:59:43 - 2017-06-22/07:01:43, 120.0, pgangkai(EVA), Flow enhancement; DF
+2017-06-22/07:01:43 - 2017-06-22/07:03:43, 120.0, pgangkai(EVA), Flow enhancement; DF
+2017-06-22/07:11:33 - 2017-06-22/07:13:43, 120.0, pgangkai(EVA), Flow enhancement; multiple DF
+2017-06-22/07:13:43 - 2017-06-22/07:14:23, 100.0, pgangkai(EVA),  Bz reversal
+2017-06-22/07:19:33 - 2017-06-22/07:21:33, 120.0, pgangkai(EVA), flow enhancement; DF
+2017-06-22/07:21:33 - 2017-06-22/07:23:33, 120.0, pgangkai(EVA), flow enhancement; DF
+2017-06-22/07:23:33 - 2017-06-22/07:25:33, 120.0, pgangkai(EVA), flow enhancement; DF
+2017-06-22/07:35:23 - 2017-06-22/07:37:33, 120.0, pgangkai(EVA), Flow enhancement; DF
+2017-06-22/07:37:33 - 2017-06-22/07:39:43, 120.0, pgangkai(EVA), Flow enhancement; DF
+2017-06-22/07:39:43 - 2017-06-22/07:41:53, 120.0, pgangkai(EVA), Flow enhancement; DF
+2017-06-22/07:49:53 - 2017-06-22/07:51:43, 120.0, pgangkai(EVA), Flow enhancement; multiple DF
+2017-06-22/07:51:43 - 2017-06-22/07:53:43, 120.0, pgangkai(EVA), Flow enhancement; multiple DF
+2017-06-22/07:53:43 - 2017-06-22/07:55:33, 120.0, pgangkai(EVA), Flow enhancement; multiple DF
+2017-06-22/07:55:33 - 2017-06-22/07:57:33, 120.0, pgangkai(EVA), Flow enhancement; multiple DF
+2017-06-22/08:03:03 - 2017-06-22/08:05:13, 120.0, pgangkai(EVA), flow enhancement; DF
+2017-06-22/08:05:13 - 2017-06-22/08:07:23, 120.0, pgangkai(EVA), flow enhancement; DF
+2017-06-22/08:17:23 - 2017-06-22/08:19:33, 120.0, pgangkai(EVA), Dipolarization Front; FLow enhancements
+2017-06-22/08:19:33 - 2017-06-22/08:21:43, 120.0, pgangkai(EVA), Dipolarization Front; FLow enhancements
+2017-06-22/08:21:43 - 2017-06-22/08:24:03, 120.0, pgangkai(EVA), Dipolarization Front; FLow enhancements
+2017-06-22/08:24:03 - 2017-06-22/08:26:13, 120.0, pgangkai(EVA), Dipolarization Front; FLow enhancements
+2017-06-22/08:36:43 - 2017-06-22/08:38:03, 120.0, pgangkai(EVA), Dipolarization Front
+2017-06-22/08:38:03 - 2017-06-22/08:38:43, 100.0, pgangkai(EVA), Flow enhancements
+2017-06-22/08:38:43 - 2017-06-22/08:41:03, 120.0, pgangkai(EVA)," Vx flow reversal, current sheet crossing"
+2017-06-22/08:41:03 - 2017-06-22/08:43:33, 120.0, pgangkai(EVA)," Vx flow reversal, current sheet crossing"
+2017-06-22/08:49:33 - 2017-06-22/08:51:13, 120.0, pgangkai(EVA), Flow enhancements; DF
+2017-06-22/08:51:13 - 2017-06-22/08:52:03, 140.0, pgangkai(EVA),  Negative Bz; Possible X-Line; flow enhancement at ~ 600km/s
+2017-06-22/08:52:03 - 2017-06-22/08:53:23, 120.0, pgangkai(EVA), Flow enhancements; DF
+2017-06-22/08:59:03 - 2017-06-22/09:00:53, 120.0, pgangkai(EVA), Flow enhancements; DF
+2017-06-22/09:00:53 - 2017-06-22/09:02:43, 120.0, pgangkai(EVA), Flow enhancements; DF
+2017-06-22/09:02:43 - 2017-06-22/09:04:33, 120.0, pgangkai(EVA), Flow enhancements; DF
+2017-06-22/09:11:23 - 2017-06-22/09:13:33, 120.0, pgangkai(EVA), Flow enhancements; Possible multiple DF
+2017-06-22/09:13:33 - 2017-06-22/09:15:43, 120.0, pgangkai(EVA), Flow enhancements; Possible multiple DF
+2017-06-22/09:15:43 - 2017-06-22/09:17:53, 120.0, pgangkai(EVA), Flow enhancements; Possible multiple DF
+2017-06-22/09:17:53 - 2017-06-22/09:20:03, 120.0, pgangkai(EVA), Flow enhancements; Possible multiple DF
+2017-06-22/09:20:03 - 2017-06-22/09:21:13, 150.0, pgangkai(EVA),  Negative Bz; possbile X-Line
+2017-06-22/09:21:13 - 2017-06-22/09:23:03, 140.0, pgangkai(EVA)," flow reversal, B nulls"
+2017-06-22/09:23:03 - 2017-06-22/09:25:03, 140.0, pgangkai(EVA)," flow reversal, B nulls"
+2017-06-22/09:41:03 - 2017-06-22/09:43:23, 150.0, pgangkai(EVA), Negative Bz; possible X-line; flow enhancement
+2017-06-22/09:43:23 - 2017-06-22/09:45:33, 120.0, pgangkai(EVA), Multiple DF; Flow enhancements
+2017-06-22/09:45:33 - 2017-06-22/09:47:33, 120.0, pgangkai(EVA), Multiple DF; Flow enhancements
+2017-06-22/09:47:33 - 2017-06-22/09:49:43, 120.0, pgangkai(EVA), Multiple DF; Flow enhancements
+2017-06-22/09:54:53 - 2017-06-22/09:56:53, 120.0, pgangkai(EVA), Flow enhancements; multiple DF
+2017-06-22/09:56:53 - 2017-06-22/09:59:03, 120.0, pgangkai(EVA), Flow enhancements; multiple DF
+2017-06-22/09:59:03 - 2017-06-22/10:01:03, 120.0, pgangkai(EVA), Flow enhancements; multiple DF
+2017-06-22/10:01:03 - 2017-06-22/10:03:13,  80.0, pgangkai(EVA), Dipolarizing flux bundle
+2017-06-22/10:03:13 - 2017-06-22/10:05:13,  80.0, pgangkai(EVA), Dipolarizing flux bundle
+2017-06-22/10:05:13 - 2017-06-22/10:07:23,  80.0, pgangkai(EVA), Dipolarizing flux bundle
+2017-06-22/10:22:23 - 2017-06-22/10:24:53, 120.0, pgangkai(EVA), flow enhancement; multiple DF
+2017-06-22/10:24:53 - 2017-06-22/10:27:13, 120.0, pgangkai(EVA), flow enhancement; multiple DF
+2017-06-22/10:27:13 - 2017-06-22/10:29:43, 120.0, pgangkai(EVA), flow enhancement; multiple DF
+2017-06-22/10:29:43 - 2017-06-22/10:32:13, 120.0, pgangkai(EVA), flow enhancement; multiple DF
+2017-06-22/10:32:13 - 2017-06-22/10:34:43, 140.0, pgangkai(EVA), Vx flow reversal; possible magnetic null; enhanced electron temperature
+2017-06-22/10:34:43 - 2017-06-22/10:37:13, 140.0, pgangkai(EVA), Vx flow reversal; possible magnetic null; enhanced electron temperature
+2017-06-22/10:37:13 - 2017-06-22/10:39:43, 140.0, pgangkai(EVA), Vx flow reversal; possible magnetic null; enhanced electron temperature
+2017-06-22/10:39:43 - 2017-06-22/10:42:13, 140.0, pgangkai(EVA), Vx flow reversal; possible magnetic null; enhanced electron temperature
+2017-06-22/10:59:33 - 2017-06-22/11:01:33, 120.0, pgangkai(EVA), Flow enhancement; DF
+2017-06-22/11:01:33 - 2017-06-22/11:03:43, 120.0, pgangkai(EVA), Flow enhancement; DF
+2017-06-22/11:03:43 - 2017-06-22/11:05:43, 120.0, pgangkai(EVA), Flow enhancement; DF
+2017-06-22/11:23:23 - 2017-06-22/11:24:53, 120.0, pgangkai(EVA), DF; flow enhancement
+2017-06-22/11:24:53 - 2017-06-22/11:27:13,  80.0, pgangkai(EVA), Dipolarizing flux bundle
+2017-06-22/11:30:33 - 2017-06-22/11:31:13, 120.0, pgangkai(EVA), DF; flow enhancement
+2017-06-22/11:31:13 - 2017-06-22/11:33:03,  80.0, pgangkai(EVA), Dipolarizing flux bundle
+2017-06-22/11:46:13 - 2017-06-22/11:48:23, 100.0, pgangkai(EVA), DF
+2017-06-22/11:48:23 - 2017-06-22/11:50:43, 100.0, pgangkai(EVA), DF
+2017-06-22/11:50:43 - 2017-06-22/11:53:13,  80.0, pgangkai(EVA), flow enhancement; dipolarizing flux bundle
+2017-06-22/18:43:43 - 2017-06-22/18:45:03, 120.0, pgangkai(EVA), Bz reversal
+2017-06-22/18:45:03 - 2017-06-22/18:46:33, 120.0, pgangkai(EVA), Bz reversal
+2017-06-22/18:46:53 - 2017-06-22/18:49:03, 120.0, pgangkai(EVA), Flow burst; Bz reversal
+2017-06-22/18:49:03 - 2017-06-22/18:51:03, 120.0, pgangkai(EVA), Flow burst; Bz reversal
+2017-06-22/18:51:03 - 2017-06-22/18:53:13, 120.0, pgangkai(EVA), Flow burst; Bz reversal
+2017-06-22/19:04:23 - 2017-06-22/19:04:53, 150.0, pgangkai(EVA), DF
+2017-06-22/19:04:53 - 2017-06-22/19:06:03,  80.0, pgangkai(EVA), Dipolarizing flux bundle
+2017-06-22/19:06:03 - 2017-06-22/19:06:43, 150.0, pgangkai(EVA), DF; flow enhancement
+2017-06-22/19:06:43 - 2017-06-22/19:07:43,  80.0, pgangkai(EVA), Dipolarizing flux bundle
+2017-06-22/19:07:43 - 2017-06-22/19:08:13, 150.0, pgangkai(EVA), DF; flow enhancement
+2017-06-22/19:08:13 - 2017-06-22/19:09:33,  80.0, pgangkai(EVA),  Dipolarizing flux bundle
+2017-06-22/19:28:13 - 2017-06-22/19:30:13, 140.0, pgangkai(EVA), Possible earthward flux rope
+2017-06-22/22:43:43 - 2017-06-22/22:47:13, 100.0, pgangkai(EVA), current sheet crossing
+2017-06-23/00:37:53 - 2017-06-23/00:40:03, 100.0, pgangkai(EVA), magnetic nulls with Vx greater than 0
+2017-06-23/00:40:03 - 2017-06-23/00:42:23, 100.0, pgangkai(EVA), magnetic nulls with Vx greater than 0
+2017-06-23/00:42:23 - 2017-06-23/00:44:33, 100.0, pgangkai(EVA), magnetic nulls with Vx greater than 0
+2017-06-23/05:07:03 - 2017-06-23/05:09:53, 120.0, pgangkai(EVA), DF; flow enhancement
+2017-06-23/05:09:53 - 2017-06-23/05:11:53,  80.0, pgangkai(EVA), Dipolarizing flux bundle; Vx flow enhancement
+2017-06-23/05:11:53 - 2017-06-23/05:13:53,  80.0, pgangkai(EVA), Dipolarizing flux bundle; Vx flow enhancement
+2017-06-23/05:13:53 - 2017-06-23/05:16:03,  80.0, pgangkai(EVA), Dipolarizing flux bundle; Vx flow enhancement
+2017-06-23/05:16:03 - 2017-06-23/05:18:03,  80.0, pgangkai(EVA), Dipolarizing flux bundle; Vx flow enhancement

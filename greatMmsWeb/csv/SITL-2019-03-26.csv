@@ -1,0 +1,54 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-03-26/14:58:53 - 2019-03-26/15:01:33, 150.0, lavanov(EVA), Partial MP with jet reversal 
+2019-03-26/15:01:33 - 2019-03-26/15:04:23, 150.0, lavanov(EVA), Partial MP
+2019-03-26/15:10:53 - 2019-03-26/15:13:53,  75.0, lavanov(EVA),  Two partial MP/BL
+2019-03-26/15:13:53 - 2019-03-26/15:16:53,  75.0, lavanov(EVA),  Two partial MP with southward flow
+2019-03-26/15:18:03 - 2019-03-26/15:21:03, 130.0, lavanov(EVA), Partial MP 
+2019-03-26/15:21:23 - 2019-03-26/15:24:53, 130.0, lavanov(EVA), Partaial MP  
+2019-03-26/15:24:53 - 2019-03-26/15:25:53,  75.0, lavanov(EVA),  Bounday layer (fill)
+2019-03-26/15:25:53 - 2019-03-26/15:26:53, 120.0, lavanov(EVA), Partial MP 
+2019-03-26/15:26:53 - 2019-03-26/15:29:03, 120.0, lavanov(EVA),  Partial MP
+2019-03-26/15:29:03 - 2019-03-26/15:32:23, 150.0, lavanov(EVA),  Long complete MP crossing
+2019-03-26/15:32:23 - 2019-03-26/15:35:43, 150.0, lavanov(EVA),  Long complete MP crossing
+2019-03-26/15:35:43 - 2019-03-26/15:39:03, 150.0, lavanov(EVA),  Long complete MP crossing
+2019-03-26/15:39:03 - 2019-03-26/15:42:23, 150.0, lavanov(EVA),  Long complete MP crossing
+2019-03-26/15:42:23 - 2019-03-26/15:45:43, 150.0, lavanov(EVA),  Long complete MP crossing
+2019-03-26/15:45:43 - 2019-03-26/15:48:53, 150.0, lavanov(EVA),  Long complete MP crossing
+2019-03-26/15:48:53 - 2019-03-26/15:52:13, 150.0, lavanov(EVA),  Long complete MP crossing
+2019-03-26/15:52:13 - 2019-03-26/15:55:33, 150.0, lavanov(EVA),  Long complete MP crossing
+2019-03-26/15:55:33 - 2019-03-26/15:58:53, 150.0, lavanov(EVA),  Long complete MP crossing
+2019-03-26/15:58:53 - 2019-03-26/16:02:13, 150.0, lavanov(EVA),  Long complete MP crossing
+2019-03-26/16:02:13 - 2019-03-26/16:05:33, 150.0, lavanov(EVA),  Long complete MP crossing
+2019-03-26/16:05:33 - 2019-03-26/16:07:43, 110.0, lavanov(EVA),  Two partial MPs
+2019-03-26/16:07:43 - 2019-03-26/16:10:23, 110.0, lavanov(EVA),  Two partial MPs
+2019-03-26/20:48:13 - 2019-03-26/20:52:13, 105.0, lavanov(EVA),  Qpar BS with turbulent MSheath downstream
+2019-03-26/21:40:33 - 2019-03-26/21:41:03, 105.0, lavanov(EVA), Solar wind CS with Bz reversal 
+2019-03-26/21:46:13 - 2019-03-26/21:47:53, 105.0, lavanov(EVA),  Qpar BS with turbulent MSheath downstream
+2019-03-26/21:51:53 - 2019-03-26/21:53:43, 110.0, lavanov(EVA),  Qpar BS with turbulent layer in MSheath
+2019-03-26/22:06:33 - 2019-03-26/22:08:33, 105.0, lavanov(EVA), Qpar BS 
+2019-03-26/22:11:33 - 2019-03-26/22:14:03,  90.0, lavanov(EVA), Long BS transition 
+2019-03-26/22:14:03 - 2019-03-26/22:16:43,  90.0, lavanov(EVA), Long BS transition 
+2019-03-26/22:19:43 - 2019-03-26/22:22:43, 105.0, lavanov(EVA), Foreshock transient 
+2019-03-26/22:27:33 - 2019-03-26/22:29:23, 105.0, lavanov(EVA), Qpar BS 
+2019-03-26/22:34:23 - 2019-03-26/22:37:53, 105.0, lavanov(EVA), Qpar BS 
+2019-03-26/23:28:43 - 2019-03-26/23:30:03, 105.0, lavanov(EVA),  Solar wind CS
+2019-03-26/23:44:13 - 2019-03-26/23:46:43, 100.0, lavanov(EVA),  Solar wind CS
+2019-03-28/02:14:33 - 2019-03-28/02:15:43, 110.0, lavanov(EVA),  Solar wind CS with bipolar BZ variation
+2019-03-28/02:41:03 - 2019-03-28/02:41:43, 110.0, lavanov(EVA), Solar CS 
+2019-03-28/03:07:53 - 2019-03-28/03:09:43,  90.0, lavanov(EVA), Solar wind CS 
+2019-03-28/03:29:03 - 2019-03-28/03:29:33, 110.0, lavanov(EVA), Solar wind CS 
+2019-03-28/04:13:53 - 2019-03-28/04:15:03, 110.0, lavanov(EVA), Solar wind CS 
+2019-03-28/04:45:33 - 2019-03-28/04:46:43, 110.0, lavanov(EVA), Solar wind CS 
+2019-03-29/11:20:13 - 2019-03-29/11:24:33, 110.0, lavanov(EVA),  Bshock
+2019-03-29/11:26:03 - 2019-03-29/11:28:33, 110.0, lavanov(EVA), Q par BS 
+2019-03-29/11:38:13 - 2019-03-29/11:39:53, 120.0, lavanov(EVA),  HFA 
+2019-03-29/11:46:53 - 2019-03-29/11:49:03, 130.0, lavanov(EVA), Q par BShock with interesting Bz reversal 
+2019-03-29/11:57:53 - 2019-03-29/12:00:33, 125.0, lavanov(EVA), Q par BShock
+2019-03-29/12:59:23 - 2019-03-29/13:01:43, 175.0, lavanov(EVA), Hoigh shear MP 
+2019-03-29/13:03:43 - 2019-03-29/13:05:23, 150.0, lavanov(EVA),  Partial MP
+2019-03-29/13:05:23 - 2019-03-29/13:05:53, 100.0, lavanov(EVA), BL 
+2019-03-29/13:05:53 - 2019-03-29/13:06:53, 150.0, lavanov(EVA),  Partial MP
+2019-03-29/13:09:03 - 2019-03-29/13:10:03, 150.0, lavanov(EVA),  Two partial MPs
+2019-03-29/13:11:23 - 2019-03-29/13:14:03, 150.0, lavanov(EVA),"  Two partial MPs, southward jet"
+2019-03-29/13:14:03 - 2019-03-29/13:17:23, 175.0, lavanov(EVA), Complete high shear MP
+2019-03-29/13:19:33 - 2019-03-29/13:24:03, 175.0, lavanov(EVA),"  Three high sheat MPs, southward jets"

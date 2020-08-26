@@ -1,0 +1,111 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-09-23/14:35:43 - 2018-09-23/14:38:23,  70.0, lavanov(EVA),  Partial MP crossings
+2018-09-23/14:41:53 - 2018-09-23/14:45:13, 100.0, lavanov(EVA),  FTE bipolar mfield variation
+2018-09-23/15:03:53 - 2018-09-23/15:05:43, 100.0, lavanov(EVA),"  FTE/Flux Rope, Vx reversal"
+2018-09-23/15:17:53 - 2018-09-23/15:19:13,  80.0, lavanov(EVA), Low shear partial MP crossings
+2018-09-23/15:20:13 - 2018-09-23/15:21:43, 100.0, lavanov(EVA),"  FTE, flow reversal"
+2018-09-23/15:30:13 - 2018-09-23/15:32:33,  90.0, lavanov(EVA), Partial low shear MP crossings 
+2018-09-23/15:32:33 - 2018-09-23/15:35:03,  90.0, lavanov(EVA), Partial low shear MP crossings 
+2018-09-23/16:05:53 - 2018-09-23/16:07:43,  75.0, lavanov(EVA), Multiple partial MP crossings 
+2018-09-23/16:07:43 - 2018-09-23/16:09:33,  75.0, lavanov(EVA), Multiple partial MP crossings 
+2018-09-23/16:09:33 - 2018-09-23/16:10:03,  55.0, lavanov(EVA), Fill  
+2018-09-23/16:10:03 - 2018-09-23/16:12:13,  80.0, lavanov(EVA),  Low shear multiple MP crossings
+2018-09-23/16:12:13 - 2018-09-23/16:14:33,  80.0, lavanov(EVA),  Low shear multiple MP crossings
+2018-09-23/16:14:33 - 2018-09-23/16:16:03,  60.0, lavanov(EVA), Fiil between MP crossings 
+2018-09-23/16:16:03 - 2018-09-23/16:19:13,  80.0, lavanov(EVA), Low shear long magnetopause crossing 
+2018-09-23/16:19:13 - 2018-09-23/16:22:23,  80.0, lavanov(EVA), Low shear long magnetopause crossing 
+2018-09-23/16:22:23 - 2018-09-23/16:25:33,  80.0, lavanov(EVA), Low shear long magnetopause crossing 
+2018-09-23/16:32:33 - 2018-09-23/16:37:33,  85.0, lavanov(EVA),  ICW waves in the magnetosheath
+2018-09-23/16:51:13 - 2018-09-23/16:52:13,  95.0, lavanov(EVA),  Low frequency whisytler mode in the magnetosheath
+2018-09-23/17:02:23 - 2018-09-23/17:05:53,  80.0, lavanov(EVA), Multiple MP crossings 
+2018-09-23/17:05:53 - 2018-09-23/17:08:53,  80.0, lavanov(EVA), Multiple MP crossings 
+2018-09-23/17:08:53 - 2018-09-23/17:12:13,  80.0, lavanov(EVA), Multiple MP crossings 
+2018-09-23/22:10:13 - 2018-09-23/22:11:33,  90.0, lavanov(EVA), Partial MP crossing 
+2018-09-23/22:11:33 - 2018-09-23/22:13:23,  90.0, lavanov(EVA),  BL/MP crossinsgs 
+2018-09-23/22:13:23 - 2018-09-23/22:15:23,  90.0, lavanov(EVA),  BL/MP crossinsgs 
+2018-09-23/22:29:53 - 2018-09-23/22:31:23,  80.0, lavanov(EVA)," CS/BL, By reversal "
+2018-09-23/22:35:23 - 2018-09-23/22:37:43,  90.0, lavanov(EVA),"  Boundary layer/partial MP crossing, By reversa"
+2018-09-23/22:40:53 - 2018-09-23/22:42:53, 100.0, lavanov(EVA)," Partial magnetopause crossings, By reversal. "
+2018-09-23/22:42:53 - 2018-09-23/22:44:53, 100.0, lavanov(EVA)," Partial magnetopause crossings, By reversal. "
+2018-09-24/00:33:13 - 2018-09-24/00:35:13, 110.0, lavanov(EVA),"  BL/MP Crossing, Vz reversal"
+2018-09-24/00:35:13 - 2018-09-24/00:37:13, 110.0, lavanov(EVA),"  BL/MP Crossing, Vz reversal"
+2018-09-24/00:37:13 - 2018-09-24/00:39:13, 110.0, lavanov(EVA),"  BL/MP Crossing, Vz reversal"
+2018-09-24/00:39:13 - 2018-09-24/00:41:13, 110.0, lavanov(EVA),"  BL/MP Crossing, Vz reversal"
+2018-09-24/01:29:33 - 2018-09-24/01:30:53, 120.0, lavanov(EVA)," High shear MP crossing, BZ reversals "
+2018-09-24/02:34:43 - 2018-09-24/02:36:23, 120.0, lavanov(EVA)," Two high shear MP crosssins,  "
+2018-09-24/03:01:23 - 2018-09-24/03:03:53, 100.0, lavanov(EVA)," CS,  strong deprssion of number density, high energy protons"
+2018-09-24/03:09:53 - 2018-09-24/03:13:03, 100.0, lavanov(EVA)," CS in Boundary layer, magnetic nulls  "
+2018-09-24/03:16:53 - 2018-09-24/03:20:03, 100.0, lavanov(EVA), Boundary Layer/CS magnetic field rotation 
+2018-09-24/03:39:43 - 2018-09-24/03:41:43, 110.0, lavanov(EVA), Multiple high shear MP crossings. 
+2018-09-24/03:41:43 - 2018-09-24/03:43:33, 110.0, lavanov(EVA), Multiple high shear MP crossings. 
+2018-09-24/03:43:33 - 2018-09-24/03:45:33, 110.0, lavanov(EVA), Multiple high shear MP crossings. 
+2018-09-24/03:45:33 - 2018-09-24/03:48:53,  90.0, lavanov(EVA), Boundary between two MP crossings 
+2018-09-24/03:48:53 - 2018-09-24/03:52:43, 150.0, lavanov(EVA), Complete MP crossing with magetic null 
+2018-09-24/03:57:53 - 2018-09-24/03:59:43, 120.0, lavanov(EVA), Multiple MP crossings with full magnetic field roatation 
+2018-09-24/03:59:43 - 2018-09-24/04:01:43, 120.0, lavanov(EVA), Multiple MP crossings with full magnetic field roatation 
+2018-09-24/04:01:43 - 2018-09-24/04:03:33, 120.0, lavanov(EVA), Multiple MP crossings with full magnetic field roatation 
+2018-09-24/07:25:33 - 2018-09-24/07:27:43,  90.0, lavanov(EVA),  Periodic Multiple MP crossings 
+2018-09-24/07:27:43 - 2018-09-24/07:29:53,  90.0, lavanov(EVA),  Periodic Multiple MP crossings 
+2018-09-24/07:29:53 - 2018-09-24/07:32:13,  90.0, lavanov(EVA),  Periodic Multiple MP crossings 
+2018-09-24/07:32:13 - 2018-09-24/07:34:23,  90.0, lavanov(EVA),  Periodic Multiple MP crossings 
+2018-09-24/08:46:13 - 2018-09-24/08:47:53, 145.0, lavanov(EVA), Flux rope/FTE null B in the center of it 
+2018-09-24/08:47:53 - 2018-09-24/08:49:43, 145.0, lavanov(EVA), Flux rope/FTE null B in the center of it 
+2018-09-24/09:11:53 - 2018-09-24/09:13:43, 100.0, lavanov(EVA), BL/Partial magnetopause crossing 
+2018-09-24/09:13:43 - 2018-09-24/09:15:23, 130.0, lavanov(EVA),  Partial MP crossing
+2018-09-24/09:15:23 - 2018-09-24/09:17:33, 130.0, lavanov(EVA),  Partial MP crossing
+2018-09-24/09:26:13 - 2018-09-24/09:28:03,  99.0, lavanov(EVA), high shear magetopause crossing. look likes fapping motio og the MP 
+2018-09-24/09:28:03 - 2018-09-24/09:29:43,  99.0, lavanov(EVA), high shear magetopause crossing. look likes fapping motio og the MP 
+2018-09-24/09:29:43 - 2018-09-24/09:31:33,  99.0, lavanov(EVA), high shear magetopause crossing. look likes fapping motio og the MP 
+2018-09-24/09:31:33 - 2018-09-24/09:33:43, 130.0, lavanov(EVA), Complete MP crossing 
+2018-09-24/09:33:43 - 2018-09-24/09:35:53, 130.0, lavanov(EVA), Complete MP crossing 
+2018-09-24/11:22:43 - 2018-09-24/11:24:33, 130.0, lavanov(EVA),"  Short high shear MP crossings with signficant field rotation, plasama jet with Vy negativ and Vvx negative vz "
+2018-09-24/11:24:33 - 2018-09-24/11:26:23, 130.0, lavanov(EVA),"  Short high shear MP crossings with signficant field rotation, plasama jet with Vy negativ and Vvx negative vz "
+2018-09-24/11:26:23 - 2018-09-24/11:27:53,  60.0, lavanov(EVA),  Fiil the gap between two current sheets
+2018-09-24/11:27:53 - 2018-09-24/11:28:53, 129.0, lavanov(EVA),  Thin CS with field rotation and possible -Vx jet
+2018-09-24/11:44:33 - 2018-09-24/11:48:53, 120.0, lavanov(EVA), Full MP crossings with field rotation 
+2018-09-24/12:22:13 - 2018-09-24/12:24:03, 110.0, lavanov(EVA),"  Partial Magnetopause crossings, firld rotation"
+2018-09-24/12:24:03 - 2018-09-24/12:25:53, 110.0, lavanov(EVA),"  Partial Magnetopause crossings, firld rotation"
+2018-09-24/12:35:43 - 2018-09-24/12:38:33, 105.0, lavanov(EVA)," Dusk Flank FTE, Bx and Bxbipolar variations "
+2018-09-24/12:38:33 - 2018-09-24/12:40:33,  90.0, lavanov(EVA), Boundary /Magtopause interface 
+2018-09-24/12:40:33 - 2018-09-24/12:42:33,  90.0, lavanov(EVA), Boundary /Magtopause interface 
+2018-09-24/12:47:13 - 2018-09-24/12:49:23, 106.0, lavanov(EVA),"  MP crossing, Bx reversal"
+2018-09-24/12:49:23 - 2018-09-24/12:51:43, 106.0, lavanov(EVA),"  MP crossing, Bx reversal"
+2018-09-24/12:56:03 - 2018-09-24/12:58:23, 110.0, lavanov(EVA)," Dusk Flank FTE, bipolar variation of both By and Bz "
+2018-09-24/12:58:23 - 2018-09-24/13:00:53, 110.0, lavanov(EVA)," Dusk Flank FTE, bipolar variation of both By and Bz "
+2018-09-24/13:42:23 - 2018-09-24/13:44:43, 150.0, lavanov(EVA), Sharp high shear MP crossing 
+2018-09-24/13:44:43 - 2018-09-24/13:46:53, 150.0, lavanov(EVA), Sharp high shear MP crossing 
+2018-09-24/13:46:53 - 2018-09-24/13:49:13, 150.0, lavanov(EVA), Sharp high shear MP crossing 
+2018-09-24/13:49:13 - 2018-09-24/13:51:23, 150.0, lavanov(EVA), Sharp high shear MP crossing 
+2018-09-24/13:51:23 - 2018-09-24/13:53:43, 150.0, lavanov(EVA), Sharp high shear MP crossing 
+2018-09-24/13:53:43 - 2018-09-24/13:55:53, 150.0, lavanov(EVA), Sharp high shear MP crossing 
+2018-09-24/13:55:53 - 2018-09-24/13:58:13, 150.0, lavanov(EVA), Sharp high shear MP crossing 
+2018-09-24/14:11:53 - 2018-09-24/14:14:13, 100.0, lavanov(EVA),  Multiple MP crossings with some null
+2018-09-24/14:14:13 - 2018-09-24/14:16:23, 100.0, lavanov(EVA),  Multiple MP crossings with some null
+2018-09-24/14:16:23 - 2018-09-24/14:18:43, 100.0, lavanov(EVA),  Multiple MP crossings with some null
+2018-09-24/14:18:43 - 2018-09-24/14:20:53, 100.0, lavanov(EVA),  Multiple MP crossings with some null
+2018-09-24/14:20:53 - 2018-09-24/14:23:13, 100.0, lavanov(EVA),  Multiple MP crossings with some null
+2018-09-24/14:38:43 - 2018-09-24/14:41:13,  90.0, lavanov(EVA)," KHI, CSs "
+2018-09-24/14:41:13 - 2018-09-24/14:43:43,  90.0, lavanov(EVA)," KHI, CSs "
+2018-09-24/14:43:43 - 2018-09-24/14:46:13,  90.0, lavanov(EVA)," KHI, CSs "
+2018-09-24/14:46:13 - 2018-09-24/14:48:43,  90.0, lavanov(EVA)," KHI, CSs "
+2018-09-24/14:48:43 - 2018-09-24/14:51:13,  90.0, lavanov(EVA)," KHI, CSs "
+2018-09-24/14:51:13 - 2018-09-24/14:53:43,  90.0, lavanov(EVA)," KHI, CSs "
+2018-09-24/14:53:43 - 2018-09-24/14:56:13,  90.0, lavanov(EVA)," KHI, CSs "
+2018-09-24/14:56:13 - 2018-09-24/14:58:43,  90.0, lavanov(EVA)," KHI, CSs "
+2018-09-24/14:58:43 - 2018-09-24/15:01:13,  90.0, lavanov(EVA)," KHI, CSs "
+2018-09-24/15:01:13 - 2018-09-24/15:03:43,  90.0, lavanov(EVA)," KHI, CSs "
+2018-09-24/15:03:43 - 2018-09-24/15:06:13,  90.0, lavanov(EVA)," KHI, CSs "
+2018-09-24/15:06:13 - 2018-09-24/15:08:43,  90.0, lavanov(EVA)," KHI, CSs "
+2018-09-24/15:15:33 - 2018-09-24/15:18:03,  90.0, lavanov(EVA),  KHI with strong periodicity in the field
+2018-09-24/15:53:33 - 2018-09-24/15:55:53,  65.0, lavanov(EVA),  LLBL with B minimal
+2018-09-24/15:55:53 - 2018-09-24/15:58:13,  65.0, lavanov(EVA),  LLBL with B minimal
+2018-09-24/15:58:13 - 2018-09-24/16:00:33,  65.0, lavanov(EVA),  LLBL with B minimal
+2018-09-24/16:00:33 - 2018-09-24/16:02:53,  65.0, lavanov(EVA),  LLBL with B minimal
+2018-09-25/03:47:03 - 2018-09-25/03:49:13, 130.0, lavanov(EVA)," CS crossimg, Bx and Vx reversal "
+2018-09-25/03:49:13 - 2018-09-25/03:51:23, 130.0, lavanov(EVA)," CS crossimg, Bx and Vx reversal "
+2018-09-25/03:51:23 - 2018-09-25/03:53:23, 130.0, lavanov(EVA)," CS crossimg, Bx and Vx reversal "
+2018-09-25/03:53:23 - 2018-09-25/03:55:33, 130.0, lavanov(EVA)," CS crossimg, Bx and Vx reversal "
+2018-09-25/03:55:33 - 2018-09-25/03:57:43, 130.0, lavanov(EVA)," CS crossimg, Bx and Vx reversal "
+2018-09-25/05:29:23 - 2018-09-25/05:31:53, 140.0, lavanov(EVA),"  CS crossing, null B, Bx and Bz reversal"
+2018-09-25/05:31:53 - 2018-09-25/05:34:23, 140.0, lavanov(EVA),"  CS crossing, null B, Bx and Bz reversal"
+2018-09-25/12:18:33 - 2018-09-25/12:22:23, 120.0, lavanov(EVA), Strong DF 

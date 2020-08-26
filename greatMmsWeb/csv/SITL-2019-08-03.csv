@@ -1,0 +1,148 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-08-03/03:06:33 - 2019-08-03/03:08:43,  40.0, wpaterson(EVA),  dipolarization signature in Bz and dipolar Vz reversal
+2019-08-03/03:08:43 - 2019-08-03/03:10:43,  40.0, wpaterson(EVA),  dipolarization signature in Bz and dipolar Vz reversal
+2019-08-03/03:10:43 - 2019-08-03/03:12:53,  40.0, wpaterson(EVA),  dipolarization signature in Bz and dipolar Vz reversal
+2019-08-03/03:12:53 - 2019-08-03/03:15:03,  40.0, wpaterson(EVA),  dipolarization signature in Bz and dipolar Vz reversal
+2019-08-03/04:26:23 - 2019-08-03/04:28:43,  40.0, wpaterson(EVA),"  Vz flow +100 km/s, lobe to ps, Vx reversal -20 to +20 km/s"
+2019-08-03/04:28:43 - 2019-08-03/04:31:03,  40.0, wpaterson(EVA),"  Vz flow +100 km/s, lobe to ps, Vx reversal -20 to +20 km/s"
+2019-08-03/04:31:03 - 2019-08-03/04:33:23,  40.0, wpaterson(EVA),"  Vz flow +100 km/s, lobe to ps, Vx reversal -20 to +20 km/s"
+2019-08-03/08:07:33 - 2019-08-03/08:10:03,  80.0, wpaterson(EVA),  fluctuating Bz and Vx -50 km/s flow burst
+2019-08-03/08:10:03 - 2019-08-03/08:12:33,  80.0, wpaterson(EVA),  fluctuating Bz and Vx reversal -50 to +100 km/s flow burst
+2019-08-03/08:12:33 - 2019-08-03/08:15:03,  60.0, wpaterson(EVA),"  continuation, fluctuating Bz and Vx 100 km/s flow burst"
+2019-08-03/10:24:43 - 2019-08-03/10:27:03,  90.0, wpaterson(EVA),"  Possible turbulent Bz with small reversal, weak flow burst Vx -80, Vz +90 km/s"
+2019-08-03/10:27:03 - 2019-08-03/10:29:13,  90.0, wpaterson(EVA),"  Possible turbulent Bz with small reversal, weak flow burst Vx -80, Vz +90 km/s"
+2019-08-03/10:29:13 - 2019-08-03/10:31:33,  90.0, wpaterson(EVA),"  Possible turbulent Bz with small reversal, weak flow burst Vx -80, Vz +90 km/s"
+2019-08-03/10:31:33 - 2019-08-03/10:33:53,  90.0, wpaterson(EVA),"  Possible turbulent Bz with small reversal, weak flow burst Vx -80, Vz +90 km/s"
+2019-08-03/10:33:53 - 2019-08-03/10:36:03,  90.0, wpaterson(EVA),"  Possible turbulent Bz with small reversal, weak flow burst Vx -80, Vz +90 km/s"
+2019-08-03/10:36:03 - 2019-08-03/10:38:23,  90.0, wpaterson(EVA),"  Possible turbulent Bz with small reversal, weak flow burst Vx -80, Vz +90 km/s"
+2019-08-03/18:13:43 - 2019-08-03/18:15:43, 110.0, wpaterson(EVA),"  possible separatrix, cold ios w/ heating, Vx + 200 km/s"
+2019-08-03/18:15:43 - 2019-08-03/18:17:43, 110.0, wpaterson(EVA),"  possible separatrix, cold ios w/ heating, Vx + 200 km/s"
+2019-08-03/18:26:53 - 2019-08-03/18:28:33, 110.0, wpaterson(EVA),"  lobe to ps, Vx +100 km/s, possible separatrix, cold ion acceleration and heating"
+2019-08-03/18:28:33 - 2019-08-03/18:30:23, 110.0, wpaterson(EVA),"  lobe to ps, Vx +100 km/s, possible separatrix, cold ion acceleration and heating"
+2019-08-03/18:34:43 - 2019-08-03/18:37:13, 110.0, wpaterson(EVA),"  ps to lobe, flow burst, possible separatrix, cold ions"
+2019-08-03/18:41:03 - 2019-08-03/18:43:23,  60.0, wpaterson(EVA),  lobe to ps w/ cold ions
+2019-08-03/18:43:23 - 2019-08-03/18:45:33, 130.0, wpaterson(EVA),"  Ion flow reversal, cold ions w/ heating, energetic alphas & oxygen"
+2019-08-03/18:45:33 - 2019-08-03/18:47:33, 130.0, wpaterson(EVA),"  Ion flow reversal, cold ions w/ heating, energetic alphas & oxygen"
+2019-08-03/18:47:33 - 2019-08-03/18:49:43, 130.0, wpaterson(EVA),"  Ion flow reversal, cold ions w/ heating, energetic alphas & oxygen"
+2019-08-03/18:49:43 - 2019-08-03/18:51:43, 101.0, wpaterson(EVA)," possible separatrix, context, plasma sheet"
+2019-08-03/18:51:43 - 2019-08-03/18:53:33, 101.0, wpaterson(EVA)," possible separatrix, context, plasma sheet"
+2019-08-03/18:53:33 - 2019-08-03/18:55:33, 101.0, wpaterson(EVA)," possible separatrix, context, plasma sheet"
+2019-08-03/18:55:33 - 2019-08-03/18:57:53, 180.0, wpaterson(EVA),"  Ion flow reversal, null B, negative Bz adjacent to lobe, energetic alphas & oxygen"
+2019-08-03/18:57:53 - 2019-08-03/19:00:13, 180.0, wpaterson(EVA),"  Ion flow reversal, null B, negative Bz adjacent to lobe, energetic alphas & oxygen"
+2019-08-03/19:00:13 - 2019-08-03/19:02:33,  40.0, wpaterson(EVA),  weak flow reversals in psbl
+2019-08-03/19:02:33 - 2019-08-03/19:05:03,  40.0, wpaterson(EVA),  weak flow reversals in psbl
+2019-08-03/19:05:03 - 2019-08-03/19:07:23,  40.0, wpaterson(EVA),  weak flow reversals in psbl
+2019-08-03/19:07:23 - 2019-08-03/19:09:53,  40.0, wpaterson(EVA),  weak flow reversals in psbl
+2019-08-03/19:09:53 - 2019-08-03/19:12:13,  40.0, wpaterson(EVA),  weak flow reversals in psbl
+2019-08-03/19:12:13 - 2019-08-03/19:14:43,  40.0, wpaterson(EVA),  weak flow reversals in psbl
+2019-08-03/19:14:43 - 2019-08-03/19:17:03,  40.0, wpaterson(EVA),  weak flow reversals in psbl
+2019-08-03/19:17:03 - 2019-08-03/19:19:33,  40.0, wpaterson(EVA),  weak flow reversals in psbl
+2019-08-03/19:19:33 - 2019-08-03/19:21:53,  40.0, wpaterson(EVA),  weak flow reversals in psbl
+2019-08-03/19:21:53 - 2019-08-03/19:24:23,  40.0, wpaterson(EVA),  weak flow reversals in psbl
+2019-08-03/19:24:23 - 2019-08-03/19:26:43,  40.0, wpaterson(EVA),  weak flow reversals in psbl
+2019-08-04/16:05:43 - 2019-08-04/16:07:13, 140.0, wpaterson(EVA),"  leading segment of dipolarization, cold ions, Vx spike ~10 s prior to diploarization"
+2019-08-04/16:07:13 - 2019-08-04/16:09:03, 140.0, wpaterson(EVA)," dipolarization, flow rotation from Vy,Vx to Vx, Vz"
+2019-08-04/16:09:03 - 2019-08-04/16:10:23, 140.0, wpaterson(EVA),  continuation of dipolarization event w/ some cold ions
+2019-08-04/16:10:23 - 2019-08-04/16:11:53, 140.0, wpaterson(EVA),  continuation of dipolarization event w/ some cold ions
+2019-08-04/16:11:53 - 2019-08-04/16:14:13, 110.0, wpaterson(EVA),"  trailing segment, ps to lobe, includes cold ions"
+2019-08-04/16:51:43 - 2019-08-04/16:53:23,  75.0, wpaterson(EVA),  tcr
+2019-08-04/16:55:23 - 2019-08-04/16:57:13, 120.0, wpaterson(EVA),  ps entry from lobe w/ psbl beam
+2019-08-04/16:57:13 - 2019-08-04/16:59:13, 120.0, wpaterson(EVA),  ps entry from lobe w/ psbl beam
+2019-08-04/16:59:13 - 2019-08-04/17:00:23,  40.0, wpaterson(EVA),  fill
+2019-08-04/17:00:23 - 2019-08-04/17:02:33,  75.0, wpaterson(EVA),"  turbulent Bz, Earthward flow"
+2019-08-04/17:02:33 - 2019-08-04/17:04:43,  75.0, wpaterson(EVA),"  turbulent Bz, Earthward flow"
+2019-08-04/17:04:43 - 2019-08-04/17:06:43,  40.0, wpaterson(EVA),  context/fill
+2019-08-04/17:06:43 - 2019-08-04/17:08:33,  40.0, wpaterson(EVA),  context/fill
+2019-08-04/17:08:33 - 2019-08-04/17:10:33,  40.0, wpaterson(EVA),  context/fill
+2019-08-04/17:10:33 - 2019-08-04/17:12:43,  75.0, wpaterson(EVA), slow ps and psbl to lobe w/ cold ions
+2019-08-04/17:12:43 - 2019-08-04/17:14:53,  75.0, wpaterson(EVA), slow ps and psbl to lobe w/ cold ions
+2019-08-04/17:14:53 - 2019-08-04/17:17:13,  75.0, wpaterson(EVA), slow ps and psbl to lobe w/ cold ions
+2019-08-04/17:17:13 - 2019-08-04/17:19:23,  75.0, wpaterson(EVA), slow ps and psbl to lobe w/ cold ions
+2019-08-04/17:19:23 - 2019-08-04/17:22:23,  40.0, wpaterson(EVA),"  context, cold ions in lobe"
+2019-08-04/17:22:23 - 2019-08-04/17:24:23,  75.0, wpaterson(EVA),  lobe to psbl and ps w/ cold ions
+2019-08-04/17:24:23 - 2019-08-04/17:26:33,  75.0, wpaterson(EVA),  lobe to psbl and ps w/ cold ions
+2019-08-04/17:26:43 - 2019-08-04/17:29:03,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/17:29:03 - 2019-08-04/17:31:33,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/17:31:33 - 2019-08-04/17:33:53,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/17:33:53 - 2019-08-04/17:36:23,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/17:36:23 - 2019-08-04/17:38:43,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/17:38:43 - 2019-08-04/17:41:13,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/17:41:13 - 2019-08-04/17:43:33,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/17:43:33 - 2019-08-04/17:46:03,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/17:46:03 - 2019-08-04/17:48:23,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/17:48:23 - 2019-08-04/17:50:53,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/17:50:53 - 2019-08-04/17:53:13,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/17:53:13 - 2019-08-04/17:55:43,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/17:55:43 - 2019-08-04/17:58:03,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/17:58:03 - 2019-08-04/18:00:33,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/18:00:33 - 2019-08-04/18:02:53,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/18:02:53 - 2019-08-04/18:05:23,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/18:05:23 - 2019-08-04/18:07:43,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/18:07:43 - 2019-08-04/18:10:13,  40.0, wpaterson(EVA),  quasi-periodic velocity oscillations in ps
+2019-08-04/18:59:03 - 2019-08-04/19:01:13,  75.0, wpaterson(EVA),  dipolarization and flow burst
+2019-08-04/19:01:13 - 2019-08-04/19:03:33,  75.0, wpaterson(EVA),"  dipolarization and flow burst, possible flux rope"
+2019-08-04/19:03:33 - 2019-08-04/19:05:43,  75.0, wpaterson(EVA),"  dipolarization and flow burst, possible flux rope"
+2019-08-04/19:05:43 - 2019-08-04/19:08:03,  75.0, wpaterson(EVA),  dipolarization and flow burst
+2019-08-04/19:28:03 - 2019-08-04/19:30:23,  75.0, wpaterson(EVA),  flow burst
+2019-08-04/19:30:23 - 2019-08-04/19:32:43,  75.0, wpaterson(EVA),  flow burst
+2019-08-04/19:32:43 - 2019-08-04/19:34:53,  75.0, wpaterson(EVA),  flow burst
+2019-08-04/19:34:53 - 2019-08-04/19:37:13,  75.0, wpaterson(EVA),  flow burst
+2019-08-04/19:37:13 - 2019-08-04/19:39:33,  75.0, wpaterson(EVA),  flow burst
+2019-08-04/20:07:13 - 2019-08-04/20:09:43,  75.0, wpaterson(EVA),"  flow bursts, psbl"
+2019-08-04/20:09:43 - 2019-08-04/20:12:13,  75.0, wpaterson(EVA),"  flow bursts, psbl"
+2019-08-04/20:12:13 - 2019-08-04/20:14:33,  75.0, wpaterson(EVA),"  flow bursts, psbl"
+2019-08-04/20:14:33 - 2019-08-04/20:17:03,  75.0, wpaterson(EVA),"  flow bursts, psbl"
+2019-08-04/20:17:03 - 2019-08-04/20:19:33,  75.0, wpaterson(EVA),"  flow bursts, psbl"
+2019-08-04/20:19:33 - 2019-08-04/20:22:03,  75.0, wpaterson(EVA),"  flow bursts, psbl"
+2019-08-04/20:22:03 - 2019-08-04/20:24:23,  75.0, wpaterson(EVA),"  flow bursts, psbl"
+2019-08-04/20:24:23 - 2019-08-04/20:26:53,  75.0, wpaterson(EVA),"  flow bursts, psbl"
+2019-08-04/20:26:53 - 2019-08-04/20:29:23,  75.0, wpaterson(EVA),"  flow bursts, psbl"
+2019-08-04/20:29:23 - 2019-08-04/20:31:43, 110.0, wpaterson(EVA),  dipolarization and flow burst
+2019-08-04/20:31:43 - 2019-08-04/20:34:03, 110.0, wpaterson(EVA),  dipolarization and flow burst
+2019-08-04/20:34:03 - 2019-08-04/20:36:23, 110.0, wpaterson(EVA),  dipolarization and flow burst
+2019-08-04/20:36:23 - 2019-08-04/20:38:43, 110.0, wpaterson(EVA),  dipolarization and flow burst
+2019-08-04/20:38:43 - 2019-08-04/20:41:03, 110.0, wpaterson(EVA),  dipolarization and flow burst
+2019-08-04/20:41:03 - 2019-08-04/20:43:23, 110.0, wpaterson(EVA),  dipolarization and flow burst
+2019-08-05/12:22:53 - 2019-08-05/12:25:13, 170.0, wpaterson(EVA),"  lobe to ps, Earthward flow burst w/ cold ions in lobe and in ps"
+2019-08-05/12:25:13 - 2019-08-05/12:27:33, 170.0, wpaterson(EVA),"  lobe to ps, Earthward flow burst w/ cold ions in lobe and in ps"
+2019-08-05/12:27:33 - 2019-08-05/12:30:03, 170.0, wpaterson(EVA),"  lobe to ps, Earthward flow burst w/ cold ions in lobe and in ps"
+2019-08-05/12:30:03 - 2019-08-05/12:32:23, 170.0, wpaterson(EVA),"  lobe to ps, Earthward flow burst w/ cold ions in lobe and in ps"
+2019-08-05/12:32:23 - 2019-08-05/12:34:33,  40.0, wpaterson(EVA),  plasma sheet flow
+2019-08-05/12:34:33 - 2019-08-05/12:36:43,  40.0, wpaterson(EVA),  plasma sheet flow
+2019-08-05/12:36:43 - 2019-08-05/12:39:03,  40.0, wpaterson(EVA),  plasma sheet flow
+2019-08-05/12:39:03 - 2019-08-05/12:41:13,  40.0, wpaterson(EVA),  plasma sheet flow
+2019-08-05/12:41:13 - 2019-08-05/12:43:23,  40.0, wpaterson(EVA),  plasma sheet flow
+2019-08-05/12:43:23 - 2019-08-05/12:45:33,  40.0, wpaterson(EVA),  plasma sheet flow
+2019-08-05/12:45:33 - 2019-08-05/12:47:53,  40.0, wpaterson(EVA),  plasma sheet flow
+2019-08-05/12:47:53 - 2019-08-05/12:50:03,  40.0, wpaterson(EVA),  plasma sheet flow
+2019-08-05/15:11:43 - 2019-08-05/15:14:03,  40.0, wpaterson(EVA),  Bx and Bz reversals w/ small flow tailward and duskward
+2019-08-05/15:14:03 - 2019-08-05/15:16:23,  40.0, wpaterson(EVA),  Bx and Bz reversals w/ small flow tailward and duskward
+2019-08-05/15:16:23 - 2019-08-05/15:18:43,  40.0, wpaterson(EVA),  Bx and Bz reversals w/ small flow tailward and duskward
+2019-08-05/15:18:43 - 2019-08-05/15:21:03,  40.0, wpaterson(EVA),  Bx and Bz reversals w/ small flow tailward and duskward
+2019-08-05/15:21:03 - 2019-08-05/15:23:23,  40.0, wpaterson(EVA),  Bx and Bz reversals w/ small flow tailward and duskward
+2019-08-05/15:23:23 - 2019-08-05/15:25:43,  40.0, wpaterson(EVA),  Bx and Bz reversals w/ small flow tailward and duskward
+2019-08-05/15:35:43 - 2019-08-05/15:37:43, 170.0, wpaterson(EVA),  current sheet encounter with tailward flow
+2019-08-05/15:37:43 - 2019-08-05/15:39:53, 170.0, wpaterson(EVA),  current sheet encounter with tailward flow
+2019-08-05/15:39:53 - 2019-08-05/15:41:53, 170.0, wpaterson(EVA),  current sheet encounter with tailward flow
+2019-08-05/15:41:53 - 2019-08-05/15:44:03,  60.0, wpaterson(EVA),"  Bx reversal S to N, no flow, context"
+2019-08-05/15:44:03 - 2019-08-05/15:46:03,  60.0, wpaterson(EVA),"  Bx reversal S to N, no flow, context"
+2019-08-05/15:46:03 - 2019-08-05/15:48:13,  60.0, wpaterson(EVA),"  Bx reversal S to N, no flow, context"
+2019-08-05/15:48:13 - 2019-08-05/15:50:23, 190.0, wpaterson(EVA),"  Bx reversal N to S, brief Bz reversal, tailward flow burst ~1000 km/s"
+2019-08-05/15:50:23 - 2019-08-05/15:52:23, 190.0, wpaterson(EVA),"  Bx reversal N to S, brief Bz reversal, tailward flow burst ~1000 km/s"
+2019-08-05/15:52:23 - 2019-08-05/15:54:33, 190.0, wpaterson(EVA),"  Bx reversal N to S, brief Bz reversal, tailward flow burst ~1000 km/s"
+2019-08-05/16:17:33 - 2019-08-05/16:19:23, 170.0, wpaterson(EVA),  south lobe to ps with Earthward flow burst
+2019-08-05/16:19:23 - 2019-08-05/16:21:23, 170.0, wpaterson(EVA),  south lobe to ps with Earthward flow burst
+2019-08-05/16:21:23 - 2019-08-05/16:23:13, 170.0, wpaterson(EVA),  south lobe to ps with Earthward flow burst
+2019-08-05/16:23:13 - 2019-08-05/16:25:13, 170.0, wpaterson(EVA),  south lobe to ps with Earthward flow burst
+2019-08-05/21:15:23 - 2019-08-05/21:17:43, 180.0, wpaterson(EVA),"  800 km/s Earthward flow burst, -200 km/s Vz occurrences, very hot ions"
+2019-08-05/21:17:43 - 2019-08-05/21:19:53, 180.0, wpaterson(EVA),"  800 km/s Earthward flow burst, -200 km/s Vz occurrences, very hot ions"
+2019-08-05/21:19:53 - 2019-08-05/21:22:13, 180.0, wpaterson(EVA),"  800 km/s Earthward flow burst, -200 km/s Vz occurrences, very hot ions"
+2019-08-05/21:22:13 - 2019-08-05/21:24:33, 180.0, wpaterson(EVA),"  800 km/s Earthward flow burst, -200 km/s Vz occurrences, very hot ions"
+2019-08-05/21:24:33 - 2019-08-05/21:26:23, 150.0, wpaterson(EVA),  400 km/s earthward flow burst just prior to B null
+2019-08-05/21:26:23 - 2019-08-05/21:28:23, 150.0, wpaterson(EVA),  400 km/s earthward flow burst just prior to B null
+2019-08-05/22:18:13 - 2019-08-05/22:20:03, 120.0, wpaterson(EVA),  Earthward flow burst
+2019-08-05/22:20:03 - 2019-08-05/22:21:53, 120.0, wpaterson(EVA),  Earthward flow burst
+2019-08-05/23:22:53 - 2019-08-05/23:25:13,  40.0, wpaterson(EVA),"  weak flow, tailward and duskward"
+2019-08-05/23:25:13 - 2019-08-05/23:27:33,  40.0, wpaterson(EVA),"  weak flow, tailward and duskward"
+2019-08-05/23:27:33 - 2019-08-05/23:30:03,  40.0, wpaterson(EVA),"  weak flow, tailward and duskward"
+2019-08-05/23:30:03 - 2019-08-05/23:32:23,  40.0, wpaterson(EVA),"  weak flow, tailward and duskward"

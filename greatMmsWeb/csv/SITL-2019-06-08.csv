@@ -1,0 +1,51 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-06-08/14:33:43 - 2019-06-08/14:36:03, 150.0, fwilder(EVA), MP
+2019-06-08/14:36:03 - 2019-06-08/14:38:33, 150.0, fwilder(EVA), MP
+2019-06-08/14:38:33 - 2019-06-08/14:40:53, 150.0, fwilder(EVA), MP
+2019-06-08/14:40:53 - 2019-06-08/14:43:13, 150.0, fwilder(EVA), MP
+2019-06-08/14:43:13 - 2019-06-08/14:45:43, 150.0, fwilder(EVA), MP
+2019-06-08/14:45:43 - 2019-06-08/14:48:03, 150.0, fwilder(EVA), MP
+2019-06-08/15:29:13 - 2019-06-08/15:30:43, 150.0, fwilder(EVA), MP
+2019-06-08/15:30:43 - 2019-06-08/15:32:13, 150.0, fwilder(EVA), MP
+2019-06-08/15:53:23 - 2019-06-08/15:55:33, 155.0, fwilder(EVA), MP with large current
+2019-06-08/15:55:33 - 2019-06-08/15:57:33, 155.0, fwilder(EVA), MP with large current
+2019-06-08/15:57:33 - 2019-06-08/15:59:43, 155.0, fwilder(EVA), MP with large current
+2019-06-08/15:59:43 - 2019-06-08/16:01:53, 155.0, fwilder(EVA), MP with large current
+2019-06-08/16:09:43 - 2019-06-08/16:13:53, 150.0, fwilder(EVA), Low shear MP
+2019-06-08/16:36:23 - 2019-06-08/16:37:03, 100.0, fwilder(EVA), Turbulent current sheet
+2019-06-08/16:42:13 - 2019-06-08/16:44:33, 100.0, fwilder(EVA), Turbulent current sheets
+2019-06-08/17:04:03 - 2019-06-08/17:05:43, 150.0, fwilder(EVA), Low shear MP
+2019-06-08/17:23:53 - 2019-06-08/17:25:43, 100.0, hhiroshi(EVA), partial MP
+2019-06-08/17:30:03 - 2019-06-08/17:31:33, 150.0, fwilder(EVA),  Low shear MP
+2019-06-08/17:51:03 - 2019-06-08/17:51:33, 160.0, fwilder(EVA), SW CS
+2019-06-08/18:35:33 - 2019-06-08/18:36:33,  90.0, fwilder(EVA),  Bow shock?
+2019-06-08/18:38:13 - 2019-06-08/18:39:53,  90.0, fwilder(EVA), Bow shock
+2019-06-08/18:39:53 - 2019-06-08/18:41:43,  90.0, fwilder(EVA), Bow shock
+2019-06-08/20:02:03 - 2019-06-08/20:04:03, 100.0, fwilder(EVA),"  Bifurcated current structure, maybe a shock or partial MP?"
+2019-06-08/20:04:03 - 2019-06-08/20:06:03, 100.0, hhiroshi(EVA)," Bifurcated current structure, maybe a shock or partial MP?"
+2019-06-08/20:06:03 - 2019-06-08/20:08:13, 100.0, fwilder(EVA),"  Bifurcated current structure, maybe a shock or partial MP?"
+2019-06-08/20:08:13 - 2019-06-08/20:10:13, 100.0, fwilder(EVA),"  Bifurcated current structure, maybe a shock or partial MP?"
+2019-06-08/21:30:33 - 2019-06-08/21:31:23, 165.0, fwilder(EVA), Sheath RXN candidate
+2019-06-08/21:58:13 - 2019-06-08/21:59:03, 160.0, fwilder(EVA), Sheath RXN candidate
+2019-06-08/22:43:23 - 2019-06-08/22:44:13, 165.0, fwilder(EVA), Sheath RXN candidate
+2019-06-09/01:52:23 - 2019-06-09/01:54:13, 150.0, hhiroshi(EVA), full MP
+2019-06-09/01:54:13 - 2019-06-09/01:56:03, 150.0, hhiroshi(EVA), full MP
+2019-06-09/01:57:53 - 2019-06-09/01:59:23, 150.0, hhiroshi(EVA), full MP
+2019-06-09/01:59:23 - 2019-06-09/02:01:03, 150.0, hhiroshi(EVA), full MP
+2019-06-09/04:37:23 - 2019-06-09/04:37:53, 165.0, fwilder(EVA), Sheath RXN candidate
+2019-06-09/06:49:03 - 2019-06-09/06:51:03, 150.0, fwilder(EVA), MP
+2019-06-09/06:55:23 - 2019-06-09/06:58:13, 150.0, fwilder(EVA), MP
+2019-06-09/08:06:13 - 2019-06-09/08:06:53, 165.0, fwilder(EVA), Sheath RXN candidate
+2019-06-10/14:23:13 - 2019-06-10/14:25:03, 150.0, hhiroshi(EVA), full MP
+2019-06-10/14:25:03 - 2019-06-10/14:27:03, 150.0, hhiroshi(EVA), full MP
+2019-06-10/14:27:03 - 2019-06-10/14:28:53, 150.0, hhiroshi(EVA), full MP
+2019-06-10/14:47:53 - 2019-06-10/14:49:23, 100.0, hhiroshi(EVA), partial MP
+2019-06-10/14:49:23 - 2019-06-10/14:51:03, 100.0, hhiroshi(EVA), partial MP
+2019-06-10/15:00:03 - 2019-06-10/15:02:13, 120.0, hhiroshi(EVA), partial MP
+2019-06-10/15:04:33 - 2019-06-10/15:06:43, 160.0, hhiroshi(EVA), full MP with B min
+2019-06-10/15:30:43 - 2019-06-10/15:33:13, 150.0, hhiroshi(EVA), full low-shear MP
+2019-06-10/15:33:13 - 2019-06-10/15:35:43, 150.0, hhiroshi(EVA), full low-shear MP
+2019-06-10/15:35:43 - 2019-06-10/15:38:13, 150.0, hhiroshi(EVA), full MP
+2019-06-10/18:13:43 - 2019-06-10/18:15:23, 100.0, hhiroshi(EVA), partial MP
+2019-06-10/18:15:23 - 2019-06-10/18:17:03, 100.0, hhiroshi(EVA), partial MP
+2019-06-10/19:38:03 - 2019-06-10/19:40:03, 100.0, hhiroshi(EVA), partial MP

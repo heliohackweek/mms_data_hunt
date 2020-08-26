@@ -1,0 +1,88 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-09-19/15:03:14 - 2016-09-19/15:05:14,  20.0, hhiroshi(EVA), boundary layer traversal
+2016-09-19/15:18:44 - 2016-09-19/15:20:04,  20.0, hhiroshi(EVA), boundary layer traversal
+2016-09-19/15:51:44 - 2016-09-19/15:53:44,  10.0, hhiroshi(EVA), possible FTE
+2016-09-19/16:10:24 - 2016-09-19/16:12:44,  25.0, hhiroshi(EVA), partial MP with E waves
+2016-09-19/16:24:34 - 2016-09-19/16:26:44,  20.0, hhiroshi(EVA), boundary layer with B waves
+2016-09-19/16:26:44 - 2016-09-19/16:28:54,  20.0, hhiroshi(EVA), boundary layer with B waves
+2016-09-19/16:28:54 - 2016-09-19/16:30:54,  20.0, hhiroshi(EVA), boundary layer with B waves
+2016-09-19/16:30:54 - 2016-09-19/16:33:04,  20.0, hhiroshi(EVA), boundary layer with B waves
+2016-09-19/16:33:04 - 2016-09-19/16:35:14,  20.0, hhiroshi(EVA), boundary layer with B waves
+2016-09-19/16:35:14 - 2016-09-19/16:37:24,  20.0, hhiroshi(EVA), boundary layer with B waves
+2016-09-19/16:38:24 - 2016-09-19/16:40:24,  20.0, hhiroshi(EVA), boundary layer with B waves
+2016-09-19/16:40:24 - 2016-09-19/16:42:24,  20.0, hhiroshi(EVA), boundary layer with B waves
+2016-09-19/16:42:24 - 2016-09-19/16:44:34,  20.0, hhiroshi(EVA), boundary layer with B waves
+2016-09-19/16:57:54 - 2016-09-19/16:59:44,  20.0, hhiroshi(EVA), partial MP
+2016-09-19/16:59:44 - 2016-09-19/17:01:44,  20.0, hhiroshi(EVA), partial MP
+2016-09-19/17:01:44 - 2016-09-19/17:03:44,  20.0, hhiroshi(EVA), partial MP
+2016-09-19/17:03:44 - 2016-09-19/17:05:54,  20.0, hhiroshi(EVA), partial MP
+2016-09-19/17:07:14 - 2016-09-19/17:07:54,  30.0, hhiroshi(EVA), partial MP with intense current
+2016-09-19/17:09:54 - 2016-09-19/17:10:44,  25.0, hhiroshi(EVA), partial MP
+2016-09-19/17:11:34 - 2016-09-19/17:12:44,  45.0, hhiroshi(EVA), full MP with intense current
+2016-09-19/17:13:04 - 2016-09-19/17:13:34,  35.0, hhiroshi(EVA), sheath B min
+2016-09-19/17:14:24 - 2016-09-19/17:15:44,  35.0, hhiroshi(EVA), possible FTE
+2016-09-19/17:15:44 - 2016-09-19/17:18:04,  30.0, hhiroshi(EVA), partial sheath MP with energetic particles
+2016-09-19/17:18:04 - 2016-09-19/17:20:34,  30.0, hhiroshi(EVA), partial sheath MP with energetic particles
+2016-09-19/17:22:24 - 2016-09-19/17:23:34,  25.0, hhiroshi(EVA), partial sheath MP
+2016-09-19/17:29:54 - 2016-09-19/17:31:34,  40.0, hhiroshi(EVA), full MP
+2016-09-19/17:38:04 - 2016-09-19/17:40:24,  25.0, hhiroshi(EVA), partial MP
+2016-09-19/17:40:24 - 2016-09-19/17:42:54,  45.0, hhiroshi(EVA), full MP with intense current
+2016-09-19/17:42:54 - 2016-09-19/17:44:34,  45.0, hhiroshi(EVA), partial MP due to KHI with intense current
+2016-09-19/17:44:34 - 2016-09-19/17:46:44,  40.0, hhiroshi(EVA), partial MP due to KHI with current sheets
+2016-09-19/17:46:44 - 2016-09-19/17:48:44,  40.0, hhiroshi(EVA), partial MP due to KHI with current sheets
+2016-09-19/17:48:44 - 2016-09-19/17:50:54,  40.0, hhiroshi(EVA), partial MP due to KHI with current sheets
+2016-09-19/17:50:54 - 2016-09-19/17:52:54,  45.0, hhiroshi(EVA), partial MP due to KHI with intense current
+2016-09-19/17:52:54 - 2016-09-19/17:54:54,  40.0, hhiroshi(EVA), partial MP due to KHI
+2016-09-19/17:54:54 - 2016-09-19/17:57:04,  40.0, hhiroshi(EVA), partial MP due to KHI
+2016-09-19/17:57:04 - 2016-09-19/17:59:54,  45.0, hhiroshi(EVA), partial MP due to KHI with intense current
+2016-09-19/17:59:54 - 2016-09-19/18:02:04,  40.0, hhiroshi(EVA), partial MP due to KHI with current sheets
+2016-09-19/18:02:04 - 2016-09-19/18:04:24,  40.0, hhiroshi(EVA), partial MP due to KHI with current sheets
+2016-09-19/18:04:24 - 2016-09-19/18:05:34,  45.0, hhiroshi(EVA), partial MP due to KHI with intense current
+2016-09-19/18:05:34 - 2016-09-19/18:07:44,  40.0, hhiroshi(EVA), partial MP due to KHI with current sheets
+2016-09-19/18:07:44 - 2016-09-19/18:09:44,  40.0, hhiroshi(EVA), partial MP due to KHI with current sheets
+2016-09-19/18:09:44 - 2016-09-19/18:11:54,  40.0, hhiroshi(EVA), partial MP due to KHI with current sheets
+2016-09-19/18:15:44 - 2016-09-19/18:17:54,  25.0, hhiroshi(EVA), partial MP with current sheets
+2016-09-19/18:17:54 - 2016-09-19/18:19:54,  25.0, hhiroshi(EVA), partial MP with current sheets
+2016-09-19/18:19:54 - 2016-09-19/18:22:04,  25.0, hhiroshi(EVA), partial MP with current sheets
+2016-09-19/18:22:04 - 2016-09-19/18:25:04,  45.0, hhiroshi(EVA), full MP with current sheet
+2016-09-19/18:25:04 - 2016-09-19/18:28:14,  45.0, hhiroshi(EVA), full MP
+2016-09-19/18:28:14 - 2016-09-19/18:30:34,  25.0, hhiroshi(EVA), partial MP
+2016-09-19/18:30:34 - 2016-09-19/18:33:04,  25.0, hhiroshi(EVA), partial MP
+2016-09-19/18:33:04 - 2016-09-19/18:35:44,  45.0, hhiroshi(EVA), full MP with intense current
+2016-09-19/18:35:44 - 2016-09-19/18:37:34,  45.0, hhiroshi(EVA), full MP with current sheet
+2016-09-19/18:37:34 - 2016-09-19/18:39:34,  25.0, hhiroshi(EVA), partial MP with current sheet
+2016-09-19/18:39:34 - 2016-09-19/18:41:24,  25.0, hhiroshi(EVA), partial MP
+2016-09-19/18:43:24 - 2016-09-19/18:46:24,  25.0, hhiroshi(EVA), partial MP
+2016-09-19/18:46:24 - 2016-09-19/18:48:34,  25.0, hhiroshi(EVA), partial MP
+2016-09-19/18:49:14 - 2016-09-19/18:52:04,  40.0, hhiroshi(EVA), partial MP due to KHI with current sheets
+2016-09-19/18:52:04 - 2016-09-19/18:54:44,  40.0, hhiroshi(EVA), partial MP with intense current
+2016-09-19/18:54:44 - 2016-09-19/18:58:04,  45.0, hhiroshi(EVA), full MP with low B shear
+2016-09-19/18:58:04 - 2016-09-19/18:59:24,  25.0, hhiroshi(EVA), partial MP with current sheets
+2016-09-19/18:59:24 - 2016-09-19/19:00:24,  40.0, hhiroshi(EVA), partial MP with intense current
+2016-09-19/19:00:24 - 2016-09-19/19:02:24,  25.0, hhiroshi(EVA), partial MP with current sheets
+2016-09-19/19:02:24 - 2016-09-19/19:04:34,  25.0, hhiroshi(EVA), partial MP with current sheets
+2016-09-19/19:04:34 - 2016-09-19/19:06:54,  25.0, hhiroshi(EVA), partial MP
+2016-09-19/19:10:54 - 2016-09-19/19:13:04,  45.0, hhiroshi(EVA), full MP with current sheet
+2016-09-19/19:13:04 - 2016-09-19/19:15:34,  25.0, hhiroshi(EVA), partial MP
+2016-09-19/19:16:04 - 2016-09-19/19:17:34,  45.0, hhiroshi(EVA), full MP with intense current
+2016-09-19/19:19:24 - 2016-09-19/19:20:54,  25.0, hhiroshi(EVA), partial sheath MP
+2016-09-19/19:31:24 - 2016-09-19/19:32:24,  25.0, hhiroshi(EVA), partial sheath MP
+2016-09-19/19:44:14 - 2016-09-19/19:45:24,  25.0, hhiroshi(EVA), partial sheath MP
+2016-09-19/19:51:44 - 2016-09-19/19:54:24,  25.0, hhiroshi(EVA), partial MP
+2016-09-19/19:54:24 - 2016-09-19/19:55:24,  45.0, hhiroshi(EVA), partial sheath MP with intense current
+2016-09-19/19:55:24 - 2016-09-19/19:57:14,  25.0, hhiroshi(EVA), partial MP
+2016-09-19/19:57:14 - 2016-09-19/19:59:14,  25.0, hhiroshi(EVA), partial MP
+2016-09-19/19:59:14 - 2016-09-19/20:01:04,  25.0, hhiroshi(EVA), partial MP
+2016-09-19/20:07:44 - 2016-09-19/20:10:04,  25.0, hhiroshi(EVA), partial sheath MP
+2016-09-19/21:20:14 - 2016-09-19/21:22:54,  45.0, hhiroshi(EVA), full MP with intense current
+2016-09-19/21:23:54 - 2016-09-19/21:25:44,  30.0, hhiroshi(EVA), partial MP with E waves
+2016-09-19/21:25:44 - 2016-09-19/21:27:34,  30.0, hhiroshi(EVA), partial MP with E waves
+2016-09-19/21:27:34 - 2016-09-19/21:29:24,  30.0, hhiroshi(EVA), partial MP with E waves
+2016-09-19/21:35:34 - 2016-09-19/21:37:44,  25.0, hhiroshi(EVA), partial MP
+2016-09-19/21:39:04 - 2016-09-19/21:41:24,  30.0, hhiroshi(EVA), partial MP with E waves
+2016-09-19/21:41:24 - 2016-09-19/21:43:44,  30.0, hhiroshi(EVA), partial MP with E waves
+2016-09-19/21:43:44 - 2016-09-19/21:46:04,  30.0, hhiroshi(EVA), partial MP with E waves
+2016-09-20/00:56:04 - 2016-09-20/00:58:24,  15.0, hhiroshi(EVA), weak earthward & dawnward flow with possible dipolarization
+2016-09-20/00:58:24 - 2016-09-20/01:00:44,  15.0, hhiroshi(EVA), weak earthward & dawnward flow with possible dipolarization
+2016-09-20/01:00:44 - 2016-09-20/01:03:14,  15.0, hhiroshi(EVA), weak earthward & dawnward flow with possible dipolarization
+2016-09-20/01:03:14 - 2016-09-20/01:05:34,  15.0, hhiroshi(EVA), weak earthward & dawnward flow with possible dipolarization

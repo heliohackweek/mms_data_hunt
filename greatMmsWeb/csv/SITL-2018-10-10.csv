@@ -1,0 +1,64 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-10-10/03:27:03 - 2018-10-10/03:31:33,  80.0, wpaterson(EVA),  Boardsen ICW event
+2018-10-10/07:17:03 - 2018-10-10/07:18:33, 160.0, wpaterson(EVA),  MP crossing + jet
+2018-10-10/07:23:23 - 2018-10-10/07:24:53,  80.0, wpaterson(EVA),  partial Mpause crossing
+2018-10-10/07:31:33 - 2018-10-10/07:33:53, 150.0, wpaterson(EVA), slow MP crossing
+2018-10-10/07:39:53 - 2018-10-10/07:40:53,  80.0, wpaterson(EVA),"  partial Mpause crossing, no current"
+2018-10-10/07:41:33 - 2018-10-10/07:42:33,  80.0, wpaterson(EVA),"  partial mMpause crossing, no current"
+2018-10-10/07:47:03 - 2018-10-10/07:49:53,  80.0, wpaterson(EVA),"  partial mpause crossing, no current"
+2018-10-10/07:52:03 - 2018-10-10/07:56:33, 140.0, wpaterson(EVA),"  partial MP crossing, in-out-in"
+2018-10-10/07:59:53 - 2018-10-10/08:01:13,  49.0, wpaterson(EVA),  boundary layer
+2018-10-10/08:02:33 - 2018-10-10/08:05:43, 160.0, wpaterson(EVA),  MP crossing + jet
+2018-10-10/08:06:03 - 2018-10-10/08:09:43,  90.0, wpaterson(EVA),  msheath current sheet
+2018-10-10/10:02:03 - 2018-10-10/10:04:23,  90.0, wpaterson(EVA),"  Turbulent magnetosheath, elevated currents, Bz reversals, instances of |B| near zero"
+2018-10-10/10:04:23 - 2018-10-10/10:06:43,  90.0, wpaterson(EVA),"  Turbulent magnetosheath, elevated currents, Bz reversals, instances of |B| near zero"
+2018-10-10/10:06:43 - 2018-10-10/10:09:13,  90.0, wpaterson(EVA),"  Turbulent magnetosheath, elevated currents, Bz reversals, instances of |B| near zero"
+2018-10-10/10:09:13 - 2018-10-10/10:11:33,  90.0, wpaterson(EVA),"  Turbulent magnetosheath, elevated currents, Bz reversals, instances of |B| near zero"
+2018-10-10/10:11:33 - 2018-10-10/10:13:53,  90.0, wpaterson(EVA),"  Turbulent magnetosheath, elevated currents, Bz reversals, instances of |B| near zero"
+2018-10-10/10:22:03 - 2018-10-10/10:24:33,  90.0, wpaterson(EVA),"  Turbulent magnetosheath, Bz reversals and instances of |B| near zero, elevated currents"
+2018-10-10/10:24:33 - 2018-10-10/10:27:03,  90.0, wpaterson(EVA),"  Turbulent magnetosheath, Bz reversals and instances of |B| near zero, elevated currents"
+2018-10-10/10:27:03 - 2018-10-10/10:29:23,  90.0, wpaterson(EVA),"  Turbulent magnetosheath, Bz reversals and instances of |B| near zero, elevated currents"
+2018-10-10/10:29:23 - 2018-10-10/10:31:53,  90.0, wpaterson(EVA),"  Turbulent magnetosheath, Bz reversals and instances of |B| near zero, elevated currents"
+2018-10-10/10:31:53 - 2018-10-10/10:34:23,  90.0, wpaterson(EVA),"  Turbulent magnetosheath, Bz reversals and instances of |B| near zero, elevated currents"
+2018-10-10/15:31:43 - 2018-10-10/15:36:13, 100.0, wpaterson(EVA),"  B rotation, jet, density changes"
+2018-10-10/15:36:13 - 2018-10-10/15:40:33, 100.0, wpaterson(EVA),"  B rotation, jet, density changes"
+2018-10-10/15:40:33 - 2018-10-10/15:45:03, 100.0, wpaterson(EVA),"  B rotation, jet, density changes"
+2018-10-10/16:23:23 - 2018-10-10/16:27:33,  90.0, wpaterson(EVA),"  Turbulent msheath, Bz reversal, instances of weak |B|, currents"
+2018-10-10/16:30:33 - 2018-10-10/16:32:13,  90.0, wpaterson(EVA),"  Turbulent msheath, similar to previous Bz N to S turning"
+2018-10-10/16:32:13 - 2018-10-10/16:34:03,  90.0, wpaterson(EVA),"  Turbulent msheath, similar to previous Bz N to S turning"
+2018-10-10/16:34:03 - 2018-10-10/16:35:43,  90.0, wpaterson(EVA),"  Turbulent msheath, similar to previous Bz N to S turning"
+2018-10-10/18:40:33 - 2018-10-10/18:45:03, 160.0, wpaterson(EVA),"  B rotation, jet, density change, weak B"
+2018-10-10/18:45:03 - 2018-10-10/18:49:33, 160.0, wpaterson(EVA),"  B rotation, jet, density change, weak B"
+2018-10-11/00:36:53 - 2018-10-11/00:41:03,  70.0, wpaterson(EVA),  Msheath turbulence
+2018-10-11/00:41:03 - 2018-10-11/00:45:03,  70.0, wpaterson(EVA),  Msheath turbulence
+2018-10-11/00:45:03 - 2018-10-11/00:49:13,  70.0, wpaterson(EVA),  Msheath turbulence
+2018-10-11/11:00:53 - 2018-10-11/11:03:33,  90.0, wpaterson(EVA),  Partial Mpause crossing weak |B|
+2018-10-11/12:32:33 - 2018-10-11/12:34:13,  90.0, wpaterson(EVA),  partial Mpause crossing
+2018-10-11/15:38:23 - 2018-10-11/15:40:13, 100.0, wpaterson(EVA),  Mpause crossing
+2018-10-11/15:40:53 - 2018-10-11/15:42:13, 100.0, wpaterson(EVA),  Mpause crossing
+2018-10-11/15:43:23 - 2018-10-11/15:44:43, 100.0, wpaterson(EVA),  Mpause crossing
+2018-10-11/16:35:23 - 2018-10-11/16:37:23, 180.0, wpaterson(EVA),"  Mpause crossings in-out, jets, weak B, FA electrons, elecvated trig eflux"
+2018-10-11/17:16:43 - 2018-10-11/17:18:33, 110.0, wpaterson(EVA),"  Partial or full Mpause crossing, jet, uni-streaming electrons"
+2018-10-11/17:21:23 - 2018-10-11/17:22:33, 130.0, wpaterson(EVA),"  Partial or full Mpause crossing with jet, |B| near zero"
+2018-10-11/17:25:23 - 2018-10-11/17:26:03, 120.0, wpaterson(EVA),  MP crossings in-out with jet
+2018-10-11/17:32:33 - 2018-10-11/17:34:53, 120.0, wpaterson(EVA),"  slow Mpause crossing with bi-streamin electrons, jet"
+2018-10-11/17:37:03 - 2018-10-11/17:39:23, 160.0, wpaterson(EVA),"  Mpause crossing, elevated current, elevated densi, Bz reversalion jet, FA elect miden"
+2018-10-11/17:42:33 - 2018-10-11/17:43:33,  80.0, wpaterson(EVA),"  Msheath current sheet, Bz reversal, |B| zero at center"
+2018-10-11/18:43:03 - 2018-10-11/18:44:43, 120.0, wpaterson(EVA),"  Partial Mpause crossing, Bz turns N-S-N, uni-streaming electrons, enhanced trig eflux, brief instance of |B| approx zero with coincident Electric field spike"
+2018-10-11/18:58:13 - 2018-10-11/18:59:53, 130.0, wpaterson(EVA),"  Partial Mpause crossing, major ion jet, bi- and uni-streaming electrons, Bz is N-zero, looks unusual somehow-N"
+2018-10-11/19:16:23 - 2018-10-11/19:19:23, 150.0, wpaterson(EVA),"  Mpause crossings in-out-in-out, very weak |B| for2 of these, elevated currents, ion jets, bi- and uni-streaming electrons"
+2018-10-11/19:27:03 - 2018-10-11/19:30:33, 175.0, wpaterson(EVA),"  Multiple Mpause crossings 5 or more, elevated currents, ion jets, possible jet reversals, bi- and uni-streaming electrons, 4 occurrences of |B| near zero"
+2018-10-11/19:30:33 - 2018-10-11/19:34:03, 175.0, wpaterson(EVA),"  Multiple Mpause crossings 5 or more, elevated currents, ion jets, possible jet reversals, bi- and uni-streaming electrons, 4 occurrences of |B| near zero"
+2018-10-11/19:34:43 - 2018-10-11/19:36:23, 120.0, wpaterson(EVA),"  Mpause crosings out-in-out with weak ion jets,bi- and uni-streaming electrons"
+2018-10-11/19:42:33 - 2018-10-11/19:43:33,  90.0, wpaterson(EVA),"  Partial Mpause crossing,  |B| near zero, isotropic electrons (scattering in diffusion region?)"
+2018-10-11/19:47:33 - 2018-10-11/19:48:33, 100.0, wpaterson(EVA),"  Likely Mpause crossing, possible just bl to Msphere"
+2018-10-11/19:49:23 - 2018-10-11/19:50:43, 100.0, wpaterson(EVA),  Mpause crossing
+2018-10-11/19:58:53 - 2018-10-11/20:02:33,  90.0, wpaterson(EVA),"  Possible Mpause crossings, or maybe bl encounters.  All N Bz"
+2018-10-11/20:02:33 - 2018-10-11/20:06:23,  90.0, wpaterson(EVA),"  Possible Mpause crossings, or maybe bl encounters.  All N Bz"
+2018-10-11/20:13:33 - 2018-10-11/20:15:23, 100.0, wpaterson(EVA),  Mpause crossing
+2018-10-11/20:16:43 - 2018-10-11/20:19:53, 110.0, wpaterson(EVA),"  Mpause crossings, ion jets, electron streamng"
+2018-10-11/20:20:33 - 2018-10-11/20:23:03, 120.0, wpaterson(EVA),"  Mpause crossings and near crossings with instances of |B| near zero, streaming electrons, current spikes"
+2018-10-11/20:26:03 - 2018-10-11/20:26:43, 100.0, wpaterson(EVA),  Mpause crossing
+2018-10-11/20:27:13 - 2018-10-11/20:28:03, 100.0, wpaterson(EVA),  Mpause crossing
+2018-10-11/20:36:23 - 2018-10-11/20:37:43,  90.0, wpaterson(EVA),  Mpause crossing or bl with ion jet
+2018-10-11/20:39:03 - 2018-10-11/20:40:53,  90.0, wpaterson(EVA),  Mpause crossing or bl?

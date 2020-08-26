@@ -1,0 +1,42 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-12-30/17:42:43 - 2018-12-30/17:44:23,  95.0, nkitamura(EVA), Magnetosphere ICW; wna = 4 deg;  ellip = -0.93; f/fcp = 0.435; f= 0.6 Hz; also lower band chorus is present; oscillations observed in FPI trigger data
+2018-12-30/17:44:23 - 2018-12-30/17:46:13,  95.0, nkitamura(EVA), Magnetosphere ICW; wna = 4 deg;  ellip = -0.93; f/fcp = 0.435; f= 0.6 Hz; also lower band chorus is present; oscillations observed in FPI trigger data
+2018-12-30/17:46:13 - 2018-12-30/17:47:53,  95.0, nkitamura(EVA), Magnetosphere ICW; wna = 4 deg;  ellip = -0.93; f/fcp = 0.435; f= 0.6 Hz; also lower band chorus is present; oscillations observed in FPI trigger data
+2018-12-30/18:33:13 - 2018-12-30/18:35:03,  80.0, nkitamura(EVA), BL traversal
+2018-12-30/18:37:43 - 2018-12-30/18:39:23,  85.0, nkitamura(EVA), BL traversal with cold ions
+2018-12-30/18:42:33 - 2018-12-30/18:43:43, 150.0, nkitamura(EVA), MP crossing
+2018-12-30/18:43:43 - 2018-12-30/18:44:33,  40.0, nkitamura(EVA), Fill
+2018-12-30/18:44:33 - 2018-12-30/18:45:23, 150.0, nkitamura(EVA), MP crossing without B rotation
+2018-12-30/18:45:23 - 2018-12-30/18:45:53,  40.0, nkitamura(EVA), Fill
+2018-12-30/18:45:53 - 2018-12-30/18:47:43,  80.0, nkitamura(EVA), BL traversals with cold ion
+2018-12-30/18:47:43 - 2018-12-30/18:49:53,  85.0, nkitamura(EVA), BL traversals with cold ion
+2018-12-30/18:49:53 - 2018-12-30/18:50:33,  40.0, nkitamura(EVA), Fill
+2018-12-30/18:50:33 - 2018-12-30/18:53:03, 110.0, nkitamura(EVA), Partital MP crossing with B minimum
+2018-12-30/18:53:03 - 2018-12-30/18:55:33, 135.0, nkitamura(EVA), Partial MP crossing with cold ion and B minimum 
+2018-12-30/18:55:33 - 2018-12-30/18:56:23, 185.0, nkitamura(EVA)," Sharp high shear MP crossing with cold ion, fast jet (Bz ~700 km/s in FPI trigger data), and deep B minimum"
+2018-12-30/18:56:23 - 2018-12-30/18:57:03, 125.0, nkitamura(EVA), Deep B minimum
+2018-12-30/18:57:03 - 2018-12-30/18:58:13,  80.0, nkitamura(EVA), Weak B in magnetosheath
+2018-12-30/18:58:13 - 2018-12-30/18:59:13,  85.0, nkitamura(EVA), B minimum in magnetosheath
+2018-12-30/18:59:13 - 2018-12-30/19:00:53, 160.0, nkitamura(EVA), Sharp high shear MP with cold ion without clear jet
+2018-12-30/19:03:53 - 2018-12-30/19:06:03, 155.0, nkitamura(EVA), Sharp MP crossing with possible jet
+2018-12-30/19:10:03 - 2018-12-30/19:11:03,  85.0, nkitamura(EVA), By rotation in magnetosheath
+2018-12-30/19:19:03 - 2018-12-30/19:19:33,  85.0, nkitamura(EVA), Deep B minimum in magnetosheath
+2018-12-30/19:25:53 - 2018-12-30/19:28:03,  90.0, nkitamura(EVA), Fast flow in magnetosheath
+2018-12-30/19:28:03 - 2018-12-30/19:30:43, 100.0, nkitamura(EVA), High-speed jet in magnetosheath
+2018-12-30/20:17:43 - 2018-12-30/20:18:23,  80.0, nkitamura(EVA), CS in magnetosheath
+2018-12-30/20:53:33 - 2018-12-30/20:56:03, 100.0, nkitamura(EVA), Quasi-perpendicular bow shock crossing
+2018-12-30/21:26:23 - 2018-12-30/21:26:53,  90.0, nkitamura(EVA), Solar wind CS
+2018-12-30/22:23:33 - 2018-12-30/22:24:03,  90.0, nkitamura(EVA), Deep B minimum and possible young HFA
+2018-12-30/22:25:33 - 2018-12-30/22:26:43, 100.0, nkitamura(EVA), Possible HFA
+2018-12-30/22:26:43 - 2018-12-30/22:28:03, 100.0, nkitamura(EVA), Possible HFA
+2018-12-30/22:30:53 - 2018-12-30/22:31:23,  85.0, nkitamura(EVA), Solar wind discontinuity and B minimum in solar wind
+2018-12-30/22:51:03 - 2018-12-30/22:51:33,  85.0, nkitamura(EVA), B rotation and B minimum in foreshock
+2018-12-31/00:47:13 - 2018-12-31/00:48:03,  95.0, nkitamura(EVA), Deep B minimum in solar wind
+2018-12-31/22:59:13 - 2018-12-31/23:00:13,  80.0, sboardsen(EVA), SW current sheet
+2018-12-31/23:32:03 - 2018-12-31/23:33:13,  80.0, sboardsen(EVA), SW current sheet
+2019-01-01/22:46:13 - 2019-01-01/22:48:43, 100.0, sboardsen(EVA), QP BS cr; whistler precursor observed in FPI trigger
+2019-01-02/00:14:43 - 2019-01-02/00:16:23, 115.0, sboardsen(EVA), Partial MP crs
+2019-01-02/00:17:13 - 2019-01-02/00:18:33, 160.0, sboardsen(EVA), MP crs; large shear
+2019-01-02/00:22:43 - 2019-01-02/00:23:33, 160.0, sboardsen(EVA), MP cr; large shear
+2019-01-02/00:27:43 - 2019-01-02/00:29:53, 160.0, sboardsen(EVA), MP crs; large shear
+2019-01-02/00:48:23 - 2019-01-02/00:50:03, 125.0, sboardsen(EVA), partial MP cr; cold ions
