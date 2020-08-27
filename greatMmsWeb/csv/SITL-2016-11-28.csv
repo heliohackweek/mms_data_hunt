@@ -1,0 +1,54 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-11-28/06:40:54 - 2016-11-28/06:43:44,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-28/06:45:24 - 2016-11-28/06:47:14,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-28/06:53:34 - 2016-11-28/06:55:14, 110.0, ykhotyaintsev(EVA),  FTE
+2016-11-28/06:58:04 - 2016-11-28/06:58:44, 140.0, ykhotyaintsev(EVA),"  FTE, strong J"
+2016-11-28/07:02:24 - 2016-11-28/07:03:24, 115.0, ykhotyaintsev(EVA),  FTE
+2016-11-28/07:25:54 - 2016-11-28/07:29:14,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-28/07:29:14 - 2016-11-28/07:31:24, 120.0, ykhotyaintsev(EVA),  Partial MP
+2016-11-28/07:31:24 - 2016-11-28/07:33:34, 175.0, ykhotyaintsev(EVA),"  Full MP, Vz<0"
+2016-11-28/07:33:34 - 2016-11-28/07:35:34,  40.0, ykhotyaintsev(EVA),  fill
+2016-11-28/07:35:34 - 2016-11-28/07:38:04, 165.0, ykhotyaintsev(EVA),  Full MP
+2016-11-28/07:38:04 - 2016-11-28/07:40:54,  50.0, ykhotyaintsev(EVA),"  BL, whistlers"
+2016-11-28/08:21:14 - 2016-11-28/08:22:54, 160.0, ykhotyaintsev(EVA),  Full MP crossing
+2016-11-28/08:22:54 - 2016-11-28/08:25:24,  40.0, ykhotyaintsev(EVA),  fill
+2016-11-28/08:25:24 - 2016-11-28/08:29:14, 190.0, ykhotyaintsev(EVA),"  Full MP crossing, Vz reversal"
+2016-11-28/08:29:14 - 2016-11-28/08:31:14,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-28/09:08:54 - 2016-11-28/09:11:54, 155.0, ykhotyaintsev(EVA),"  Full MP, low shear"
+2016-11-28/09:11:54 - 2016-11-28/09:14:04,  40.0, ykhotyaintsev(EVA),  fill
+2016-11-28/09:14:04 - 2016-11-28/09:16:44, 160.0, ykhotyaintsev(EVA),  Full MP
+2016-11-28/09:20:24 - 2016-11-28/09:23:54, 160.0, ykhotyaintsev(EVA),  Full MP
+2016-11-28/09:30:04 - 2016-11-28/09:33:04, 160.0, ykhotyaintsev(EVA),  Full MP
+2016-11-28/09:33:04 - 2016-11-28/09:36:54, 155.0, ykhotyaintsev(EVA),  Full MP
+2016-11-28/09:44:54 - 2016-11-28/09:46:34, 125.0, ykhotyaintsev(EVA),"  Partial MP, Vz<0"
+2016-11-28/09:46:34 - 2016-11-28/09:48:04,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-28/09:53:14 - 2016-11-28/09:56:54, 165.0, ykhotyaintsev(EVA),"  Ful MP, Vz<0"
+2016-11-28/10:17:54 - 2016-11-28/10:20:34, 180.0, ykhotyaintsev(EVA),"  Full MP, fast Vz<0"
+2016-11-28/10:20:34 - 2016-11-28/10:24:44,  45.0, ykhotyaintsev(EVA), BL with cold ions 
+2016-11-28/10:32:24 - 2016-11-28/10:34:44, 170.0, ykhotyaintsev(EVA),  Double full MP
+2016-11-28/10:34:44 - 2016-11-28/10:35:54,  40.0, ykhotyaintsev(EVA),  fill
+2016-11-28/10:35:54 - 2016-11-28/10:37:44, 175.0, ykhotyaintsev(EVA),"  Full MP, Vz>0"
+2016-11-28/10:40:34 - 2016-11-28/10:42:54, 170.0, ykhotyaintsev(EVA),"  Full MP, low B"
+2016-11-28/10:42:54 - 2016-11-28/10:43:44,  40.0, ykhotyaintsev(EVA),  fill
+2016-11-28/10:43:44 - 2016-11-28/10:45:24, 120.0, ykhotyaintsev(EVA),  Partil MP
+2016-11-28/10:45:24 - 2016-11-28/10:50:14,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-28/11:04:04 - 2016-11-28/11:05:24,  60.0, ykhotyaintsev(EVA),  MSH CS
+2016-11-28/11:32:34 - 2016-11-28/11:34:14,  80.0, ykhotyaintsev(EVA),  MSH FTE
+2016-11-28/11:44:34 - 2016-11-28/11:46:34, 160.0, ykhotyaintsev(EVA),  Full MP
+2016-11-28/11:46:34 - 2016-11-28/11:47:04,  70.0, ykhotyaintsev(EVA),  fill
+2016-11-28/11:47:04 - 2016-11-28/11:52:04, 175.0, ykhotyaintsev(EVA),"  Full MP, flux rope"
+2016-11-28/13:01:54 - 2016-11-28/13:03:44, 160.0, ykhotyaintsev(EVA), Full MP 
+2016-11-28/13:03:44 - 2016-11-28/13:08:24,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-28/13:08:24 - 2016-11-28/13:10:14, 160.0, ykhotyaintsev(EVA),"  Full MP, low B"
+2016-11-28/13:10:14 - 2016-11-28/13:13:24,  40.0, ykhotyaintsev(EVA),  MSH jet
+2016-11-28/13:46:14 - 2016-11-28/13:48:54, 170.0, ykhotyaintsev(EVA),"  Full MP, Vz<0"
+2016-11-28/13:48:54 - 2016-11-28/13:51:34,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-28/13:55:14 - 2016-11-28/13:59:14,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-28/14:28:44 - 2016-11-28/14:30:44, 160.0, ykhotyaintsev(EVA),  Full MP
+2016-11-28/14:30:44 - 2016-11-28/14:32:34, 110.0, ykhotyaintsev(EVA),  Partial MP
+2016-11-28/14:47:24 - 2016-11-28/14:51:44, 155.0, ykhotyaintsev(EVA),  Slow full MP
+2016-11-28/14:51:44 - 2016-11-28/14:53:24,  40.0, ykhotyaintsev(EVA),  fill
+2016-11-28/14:53:24 - 2016-11-28/14:55:54, 160.0, ykhotyaintsev(EVA),  Full MP
+2016-11-28/15:45:44 - 2016-11-28/15:48:04, 130.0, ykhotyaintsev(EVA),  MSH CS and jet
+2016-11-28/17:45:34 - 2016-11-28/17:48:44, 175.0, ykhotyaintsev(EVA),"  Full MP, Vx reversal"
+2016-11-28/18:05:34 - 2016-11-28/18:10:04, 125.0, ykhotyaintsev(EVA),  Double partial MP

@@ -1,0 +1,61 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-04-02/18:07:43 - 2019-04-02/18:09:53, 150.0, tphan(EVA),  long MP crossing
+2019-04-02/18:09:53 - 2019-04-02/18:11:53, 150.0, tphan(EVA),  long MP crossing
+2019-04-02/18:11:53 - 2019-04-02/18:14:03, 150.0, tphan(EVA),  long MP crossing
+2019-04-02/18:14:03 - 2019-04-02/18:16:13, 150.0, tphan(EVA),  long MP crossing
+2019-04-02/18:45:13 - 2019-04-02/18:47:53, 100.0, tphan(EVA),  partial MP or magnetosheath CS
+2019-04-02/20:46:33 - 2019-04-02/20:48:53, 100.0, tphan(EVA),  long BS transition region
+2019-04-02/20:48:53 - 2019-04-02/20:51:13, 100.0, tphan(EVA),  long BS transition region
+2019-04-02/20:51:13 - 2019-04-02/20:53:33, 100.0, tphan(EVA),  long BS transition region
+2019-04-02/20:53:33 - 2019-04-02/20:56:03, 100.0, tphan(EVA),  long BS transition region
+2019-04-02/20:56:03 - 2019-04-02/20:58:23, 100.0, tphan(EVA),  long BS transition region
+2019-04-02/20:58:23 - 2019-04-02/21:00:43, 100.0, tphan(EVA),  long BS transition region
+2019-04-02/21:00:43 - 2019-04-02/21:03:03, 100.0, tphan(EVA),  long BS transition region
+2019-04-02/21:54:33 - 2019-04-02/21:56:43, 100.0, tphan(EVA),  long interval of turbulent magnetosheath / BS
+2019-04-02/21:56:43 - 2019-04-02/21:58:53, 100.0, tphan(EVA),  long interval of turbulent magnetosheath / BS
+2019-04-02/21:58:53 - 2019-04-02/22:01:13, 100.0, tphan(EVA),  long interval of turbulent magnetosheath / BS
+2019-04-02/22:01:13 - 2019-04-02/22:03:23, 100.0, tphan(EVA),  long interval of turbulent magnetosheath / BS
+2019-04-02/22:03:23 - 2019-04-02/22:05:33, 100.0, tphan(EVA),  long interval of turbulent magnetosheath / BS
+2019-04-02/22:08:03 - 2019-04-02/22:10:03, 100.0, tphan(EVA),  BS transition region
+2019-04-02/22:10:03 - 2019-04-02/22:11:53, 100.0, tphan(EVA),  BS transition region
+2019-04-02/22:11:53 - 2019-04-02/22:13:53, 100.0, tphan(EVA),  BS transition region
+2019-04-02/22:17:13 - 2019-04-02/22:18:23, 100.0, tphan(EVA),  BS transition region
+2019-04-02/23:50:43 - 2019-04-02/23:52:03, 100.0, tphan(EVA),  SW CS
+2019-04-03/00:04:43 - 2019-04-03/00:07:23, 100.0, tphan(EVA),  SW CS
+2019-04-05/05:36:13 - 2019-04-05/05:38:53, 100.0, tphan(EVA),  SW CS
+2019-04-05/10:53:33 - 2019-04-05/10:56:03, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/10:56:03 - 2019-04-05/10:58:33, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/10:58:33 - 2019-04-05/11:01:03, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:01:03 - 2019-04-05/11:03:33, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:03:33 - 2019-04-05/11:06:03, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:06:03 - 2019-04-05/11:08:33, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:08:33 - 2019-04-05/11:11:03, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:11:03 - 2019-04-05/11:13:23, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:13:23 - 2019-04-05/11:15:53, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:15:53 - 2019-04-05/11:18:23, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:18:23 - 2019-04-05/11:20:53, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:20:53 - 2019-04-05/11:23:23, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:23:23 - 2019-04-05/11:25:53, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:25:53 - 2019-04-05/11:28:23, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:28:23 - 2019-04-05/11:30:53, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:30:53 - 2019-04-05/11:33:23, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:33:23 - 2019-04-05/11:35:53, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:35:53 - 2019-04-05/11:38:23, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:38:23 - 2019-04-05/11:40:53, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:40:53 - 2019-04-05/11:43:23, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:43:23 - 2019-04-05/11:45:53, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:45:53 - 2019-04-05/11:48:13, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:48:13 - 2019-04-05/11:50:43, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:50:43 - 2019-04-05/11:53:13, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:53:13 - 2019-04-05/11:55:43, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:55:43 - 2019-04-05/11:58:13, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/11:58:13 - 2019-04-05/12:00:43, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/12:00:43 - 2019-04-05/12:03:13, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/12:03:13 - 2019-04-05/12:05:43, 100.0, tphan(EVA),"  very long interval of quasi-parallel shock, shock transition region, and turbulent magnetosheath"
+2019-04-05/12:08:33 - 2019-04-05/12:10:33,  80.0, tphan(EVA),  less interesting shock transition region
+2019-04-05/12:10:33 - 2019-04-05/12:12:33,  80.0, tphan(EVA),  less interesting shock transition region
+2019-04-05/12:12:33 - 2019-04-05/12:14:43,  80.0, tphan(EVA),  less interesting shock transition region
+2019-04-05/12:14:43 - 2019-04-05/12:16:43,  80.0, tphan(EVA),  less interesting shock transition region
+2019-04-05/12:16:43 - 2019-04-05/12:18:43,  80.0, tphan(EVA),  less interesting shock transition region
+2019-04-05/12:24:03 - 2019-04-05/12:26:23,  90.0, tphan(EVA),  shock transition region with current sheets
+2019-04-05/12:26:23 - 2019-04-05/12:28:43,  90.0, tphan(EVA),  shock transition region with current sheets

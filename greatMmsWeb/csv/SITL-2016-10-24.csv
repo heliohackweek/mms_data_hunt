@@ -1,0 +1,46 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-10-24/09:54:44 - 2016-10-24/09:56:44, 100.0, moka(EVA),  BL with southward jet and/or flow reversal
+2016-10-24/09:56:44 - 2016-10-24/09:58:34, 100.0, moka(EVA),  BL with southward jet and/or flow reversal
+2016-10-24/09:58:34 - 2016-10-24/10:00:34, 125.0, moka(EVA),  BL with southward jet and/or flow reversal and enhanced current
+2016-10-24/10:02:04 - 2016-10-24/10:02:44,  90.0, moka(EVA), enhanced current
+2016-10-24/10:13:34 - 2016-10-24/10:15:24,  75.0, moka(EVA),  BL with enhanced flow and magnetic field
+2016-10-24/10:30:54 - 2016-10-24/10:33:14, 115.0, moka(EVA),  very long and low-shear MP crossing but with flow reversals
+2016-10-24/10:33:14 - 2016-10-24/10:35:34, 115.0, moka(EVA),  very long and low-shear MP crossing but with flow reversals
+2016-10-24/10:35:34 - 2016-10-24/10:37:54, 115.0, moka(EVA),  very long and low-shear MP crossing but with flow reversals
+2016-10-24/10:37:54 - 2016-10-24/10:40:14, 150.0, moka(EVA),  very long and low-shear MP crossing but with flow reversals
+2016-10-24/10:56:24 - 2016-10-24/10:58:44, 170.0, moka(EVA), MP crossing with jets
+2016-10-24/10:58:44 - 2016-10-24/11:01:14,  75.0, moka(EVA),"  fill, BL"
+2016-10-24/11:01:14 - 2016-10-24/11:03:34, 125.0, moka(EVA),  partial MP or BL
+2016-10-24/11:03:34 - 2016-10-24/11:06:04, 150.0, moka(EVA),  BL but with high speed jets (400 km/s) and flow reversals
+2016-10-24/11:06:04 - 2016-10-24/11:08:24, 150.0, moka(EVA),  BL but with high speed jets (400 km/s) and flow reversals
+2016-10-24/11:08:24 - 2016-10-24/11:10:54, 180.0, moka(EVA), CS with very high current
+2016-10-24/11:10:54 - 2016-10-24/11:13:14, 150.0, moka(EVA),  BL but with high speed jets (400 km/s) and flow reversals
+2016-10-24/11:13:14 - 2016-10-24/11:15:44, 150.0, moka(EVA),  BL but with high speed jets (400 km/s) and flow reversals
+2016-10-24/13:10:44 - 2016-10-24/13:13:04, 100.0, moka(EVA),  magnetosheath CS with density enhancement
+2016-10-24/13:13:04 - 2016-10-24/13:15:24, 100.0, moka(EVA),  magnetosheath CS with density enhancement
+2016-10-24/14:21:54 - 2016-10-24/14:24:04, 175.0, moka(EVA),  full and partial MP crossings
+2016-10-24/14:24:04 - 2016-10-24/14:26:04, 115.0, moka(EVA),  full and partial MP crossings
+2016-10-24/14:26:04 - 2016-10-24/14:28:14, 175.0, moka(EVA),  full and partial MP crossings
+2016-10-24/14:28:14 - 2016-10-24/14:30:24, 175.0, moka(EVA),  full and partial MP crossings
+2016-10-24/14:32:04 - 2016-10-24/14:33:54, 180.0, moka(EVA),"  magnetosheath CS with jets, turbulence and enhanced current"
+2016-10-24/14:33:54 - 2016-10-24/14:35:44, 175.0, moka(EVA),  magnetosheath CS with jets and turbulence
+2016-10-24/14:39:14 - 2016-10-24/14:41:34,  25.0, moka(EVA),  BL
+2016-10-24/14:41:34 - 2016-10-24/14:43:54,  25.0, moka(EVA),  BL
+2016-10-24/14:43:54 - 2016-10-24/14:46:14,  25.0, moka(EVA),  BL
+2016-10-24/16:44:14 - 2016-10-24/16:46:44, 150.0, moka(EVA), magnetosheath with jets and CS
+2016-10-24/16:46:44 - 2016-10-24/16:49:14, 150.0, moka(EVA), magnetosheath with jets and CS
+2016-10-24/16:49:14 - 2016-10-24/16:50:54,  25.0, moka(EVA),  fill
+2016-10-24/16:50:54 - 2016-10-24/16:52:44,  25.0, moka(EVA),  fill
+2016-10-24/16:52:44 - 2016-10-24/16:54:24,  25.0, moka(EVA),  fill
+2016-10-24/16:54:24 - 2016-10-24/16:56:44, 150.0, moka(EVA),  a very long MP crossing with jets and high shear
+2016-10-24/16:56:44 - 2016-10-24/16:58:54, 150.0, moka(EVA),  a very long MP crossing with jets and high shear
+2016-10-24/16:58:54 - 2016-10-24/17:01:14, 150.0, moka(EVA),  a very long MP crossing with jets and high shear
+2016-10-24/17:01:14 - 2016-10-24/17:03:24, 150.0, moka(EVA),  a very long MP crossing with jets and high shear
+2016-10-24/17:03:24 - 2016-10-24/17:05:44, 150.0, moka(EVA),  a very long MP crossing with jets and high shear
+2016-10-24/17:05:44 - 2016-10-24/17:07:54,  25.0, moka(EVA), BL
+2016-10-24/17:07:54 - 2016-10-24/17:10:04,  25.0, moka(EVA), BL
+2016-10-24/17:10:04 - 2016-10-24/17:12:24,  10.0, moka(EVA),  BL
+2016-10-24/17:12:24 - 2016-10-24/17:14:44,  10.0, moka(EVA),  BL
+2016-10-24/17:14:44 - 2016-10-24/17:17:14,  10.0, moka(EVA),  BL
+2016-10-24/17:17:14 - 2016-10-24/17:19:34,  10.0, moka(EVA),  BL
+2016-10-24/22:33:44 - 2016-10-24/22:35:44,  15.0, moka(EVA),  cold ions (requested by Kitamura)

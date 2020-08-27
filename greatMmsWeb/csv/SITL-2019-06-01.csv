@@ -1,0 +1,28 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-06-01/20:59:43 - 2019-06-01/21:01:53, 110.0, moka(EVA),  partial MP
+2019-06-01/21:01:53 - 2019-06-01/21:04:13, 110.0, moka(EVA),  partial MP
+2019-06-01/21:04:13 - 2019-06-01/21:06:23, 110.0, moka(EVA),  partial MP
+2019-06-01/21:06:23 - 2019-06-01/21:08:43, 110.0, moka(EVA),  partial MP
+2019-06-01/21:50:13 - 2019-06-01/21:52:13, 120.0, moka(EVA),  partial MP and FTE
+2019-06-01/21:52:13 - 2019-06-01/21:54:03, 120.0, moka(EVA),  partial MP and FTE
+2019-06-01/21:54:03 - 2019-06-01/21:56:03, 120.0, moka(EVA),  partial MP and FTE
+2019-06-01/22:05:23 - 2019-06-01/22:07:33, 150.0, moka(EVA),  MP
+2019-06-01/22:07:33 - 2019-06-01/22:09:33, 150.0, moka(EVA),  MP
+2019-06-01/22:09:33 - 2019-06-01/22:11:43, 150.0, moka(EVA),  MP
+2019-06-01/22:11:43 - 2019-06-01/22:13:53, 150.0, moka(EVA),  MP
+2019-06-01/22:13:53 - 2019-06-01/22:15:53, 150.0, moka(EVA),  MP
+2019-06-01/22:15:53 - 2019-06-01/22:18:03, 150.0, moka(EVA),  MP
+2019-06-01/22:19:23 - 2019-06-01/22:21:03, 120.0, moka(EVA),  partial MP
+2019-06-01/22:21:03 - 2019-06-01/22:22:43, 120.0, moka(EVA),  partial MP
+2019-06-01/22:23:23 - 2019-06-01/22:25:33, 120.0, moka(EVA),  partial MP
+2019-06-01/22:26:13 - 2019-06-01/22:28:43, 120.0, moka(EVA),  partial MP
+2019-06-02/04:09:33 - 2019-06-02/04:11:53, 110.0, moka(EVA), magnetosheath disturbance with Vz reversals and diffB enhancement
+2019-06-02/04:11:53 - 2019-06-02/04:14:23, 110.0, moka(EVA), magnetosheath disturbance with Vz reversals and diffB enhancement
+2019-06-02/04:18:43 - 2019-06-02/04:20:33, 110.0, moka(EVA),  FTEs?
+2019-06-02/04:20:33 - 2019-06-02/04:22:33, 110.0, moka(EVA),  FTEs?
+2019-06-02/04:22:33 - 2019-06-02/04:24:23, 110.0, moka(EVA),  FTEs?
+2019-06-02/04:24:23 - 2019-06-02/04:26:23, 110.0, moka(EVA),  FTEs?
+2019-06-02/21:55:33 - 2019-06-02/21:57:43, 120.0, moka(EVA),  CS in magnetosheath
+2019-06-03/07:13:33 - 2019-06-03/07:14:23, 150.0, fwilder(EVA), Potential Sheath Reconnection Event
+2019-06-03/11:22:13 - 2019-06-03/11:23:43, 100.0, fwilder(EVA), Turbulent Sheath CS with reversals in B
+2019-06-03/11:23:43 - 2019-06-03/11:25:13, 100.0, fwilder(EVA), Turbulent Sheath CS with reversals in B

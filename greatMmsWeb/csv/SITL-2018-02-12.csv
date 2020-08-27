@@ -1,0 +1,75 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-02-12/17:37:43 - 2018-02-12/17:38:33, 125.0, eeriksson(EVA),  Low shear full MP
+2018-02-12/17:38:33 - 2018-02-12/17:39:03, 125.0, eeriksson(EVA), Fill
+2018-02-12/17:39:03 - 2018-02-12/17:39:53, 125.0, eeriksson(EVA),  Low shear MP
+2018-02-12/17:39:53 - 2018-02-12/17:43:13,  45.0, eeriksson(EVA),  BL
+2018-02-12/17:43:13 - 2018-02-12/17:44:23,  60.0, eeriksson(EVA),  Partial BL Crossing
+2018-02-12/17:45:23 - 2018-02-12/17:46:23,  45.0, eeriksson(EVA),  Partial BL crossing
+2018-02-12/17:48:53 - 2018-02-12/17:51:23,  45.0, eeriksson(EVA),  MSH mirror modes
+2018-02-12/17:51:23 - 2018-02-12/17:53:43,  45.0, eeriksson(EVA),  MSH mirror modes
+2018-02-12/17:53:43 - 2018-02-12/17:56:13,  45.0, eeriksson(EVA),  MSH mirror modes
+2018-02-12/18:13:13 - 2018-02-12/18:15:23,  55.0, eeriksson(EVA),  MSH CS
+2018-02-12/18:17:23 - 2018-02-12/18:20:23,  50.0, eeriksson(EVA),  MSH CS
+2018-02-12/19:54:23 - 2018-02-12/19:55:03, 120.0, eeriksson(EVA),  MSH CS
+2018-02-12/19:55:13 - 2018-02-12/19:55:43, 100.0, eeriksson(EVA),  MSH CS
+2018-02-12/20:00:13 - 2018-02-12/20:02:03,  80.0, eeriksson(EVA),  Qperp BS
+2018-02-12/20:02:03 - 2018-02-12/20:04:03,  80.0, eeriksson(EVA),  Qperp BS
+2018-02-12/20:53:23 - 2018-02-12/20:53:53,  95.0, eeriksson(EVA),  SW CS (Bx)
+2018-02-12/21:14:23 - 2018-02-12/21:15:03, 100.0, eeriksson(EVA),  SW CS (By)
+2018-02-12/21:19:43 - 2018-02-12/21:20:13, 120.0, eeriksson(EVA),  SW CS (By)
+2018-02-12/21:24:03 - 2018-02-12/21:25:03,  55.0, eeriksson(EVA), SW CS
+2018-02-12/21:27:23 - 2018-02-12/21:28:03,  56.0, eeriksson(EVA), SW CS
+2018-02-12/22:14:23 - 2018-02-12/22:15:23,  95.0, eeriksson(EVA),  Low-shear SW CS
+2018-02-12/23:50:33 - 2018-02-12/23:51:13,  75.0, eeriksson(EVA),  SW CS
+2018-02-12/23:53:23 - 2018-02-12/23:54:23,  80.0, eeriksson(EVA),  SW CS
+2018-02-12/23:54:23 - 2018-02-12/23:55:43,  80.0, eeriksson(EVA)," Foreshock, Turbulence"
+2018-02-12/23:55:43 - 2018-02-12/23:56:43,  80.0, eeriksson(EVA)," Foreshock, Turbulence"
+2018-02-13/00:06:53 - 2018-02-13/00:07:43,  75.0, eeriksson(EVA)," Foreshock, Turbulence"
+2018-02-13/00:09:53 - 2018-02-13/00:11:03,  70.0, eeriksson(EVA),"  Foreshock, turbulence"
+2018-02-13/00:14:13 - 2018-02-13/00:14:43,  80.0, eeriksson(EVA)," Foreshock, Turbulence"
+2018-02-13/00:18:33 - 2018-02-13/00:19:33,  80.0, eeriksson(EVA)," Foreshock, Turbulence"
+2018-02-13/00:24:03 - 2018-02-13/00:25:23,  70.0, eeriksson(EVA),"  Foreshock, Turbulence"
+2018-02-13/00:25:23 - 2018-02-13/00:26:53,  70.0, eeriksson(EVA),"  Foreshock, Turbulence"
+2018-02-13/00:51:03 - 2018-02-13/00:51:53,  55.0, eeriksson(EVA),  ULF waves
+2018-02-13/22:36:23 - 2018-02-13/22:37:33,  90.0, eeriksson(EVA)," SW CS, Possible SEP"
+2018-02-13/22:58:33 - 2018-02-13/22:59:33,  90.0, eeriksson(EVA)," SW CS, possible SEP"
+2018-02-13/23:41:13 - 2018-02-13/23:43:43,  99.0, eeriksson(EVA),  Possible SEP
+2018-02-13/23:43:43 - 2018-02-13/23:46:13,  99.0, eeriksson(EVA),  Possible SEP
+2018-02-14/00:07:23 - 2018-02-14/00:07:53,  80.0, eeriksson(EVA),  Low shear SW CS
+2018-02-14/00:10:03 - 2018-02-14/00:12:33,  90.0, eeriksson(EVA),"  Foreshock, Turbulence, Possible SEP "
+2018-02-14/00:12:33 - 2018-02-14/00:15:03,  90.0, eeriksson(EVA),"  Foreshock, Turbulence, possible SEP"
+2018-02-14/00:15:03 - 2018-02-14/00:17:33,  90.0, eeriksson(EVA),"  Foreshock, Turbulence,possible SEP"
+2018-02-14/00:35:13 - 2018-02-14/00:37:43,  75.0, eeriksson(EVA),"  Foreshock, Turbulence "
+2018-02-14/00:37:43 - 2018-02-14/00:40:13,  75.0, eeriksson(EVA),"  Foreshock, Turbulence"
+2018-02-14/00:40:13 - 2018-02-14/00:42:43,  75.0, eeriksson(EVA),"  Foreshock, Turbulence"
+2018-02-14/00:42:43 - 2018-02-14/00:45:13,  75.0, eeriksson(EVA),"  Foreshock, Turbulence"
+2018-02-14/00:46:53 - 2018-02-14/00:48:53,  55.0, eeriksson(EVA),  ULF waves
+2018-02-14/00:48:53 - 2018-02-14/00:50:53,  55.0, eeriksson(EVA),  ULF waves
+2018-02-14/00:50:53 - 2018-02-14/00:52:53,  55.0, eeriksson(EVA),  ULF waves
+2018-02-14/00:56:13 - 2018-02-14/00:58:23,  90.0, eeriksson(EVA),"  Foreshock, Turbulence, possible SEP"
+2018-02-14/00:58:23 - 2018-02-14/01:00:23,  90.0, eeriksson(EVA),"  Foreshock, Turbulence, possible SEP"
+2018-02-14/01:00:23 - 2018-02-14/01:02:33,  90.0, eeriksson(EVA),"  Foreshock, Turbulence, possible SEP"
+2018-02-14/01:02:33 - 2018-02-14/01:04:43,  90.0, eeriksson(EVA),"  Foreshock, Turbulence, possible SEP"
+2018-02-14/01:21:13 - 2018-02-14/01:23:33,  90.0, eeriksson(EVA),"  Foreshock, turbulence, possible SEP"
+2018-02-14/01:23:33 - 2018-02-14/01:25:53,  90.0, eeriksson(EVA),"  Foreshock, turbulence, possible SEP"
+2018-02-14/01:25:53 - 2018-02-14/01:28:13,  90.0, eeriksson(EVA),"  Foreshock, turbulence, possible SEP"
+2018-02-14/01:58:03 - 2018-02-14/02:00:23,  99.0, eeriksson(EVA), Possible SEP
+2018-02-14/02:00:23 - 2018-02-14/02:02:43,  99.0, eeriksson(EVA), Possible SEP
+2018-02-14/02:02:43 - 2018-02-14/02:05:03,  99.0, eeriksson(EVA), Possible SEP
+2018-02-14/02:05:03 - 2018-02-14/02:07:23,  99.0, eeriksson(EVA), Possible SEP
+2018-02-14/02:07:23 - 2018-02-14/02:09:43,  99.0, eeriksson(EVA), Possible SEP
+2018-02-14/02:18:23 - 2018-02-14/02:20:23,  90.0, eeriksson(EVA),"  SW CS, possible SEP"
+2018-02-14/20:36:33 - 2018-02-14/20:39:03,  99.0, eeriksson(EVA),"  SW CSs, Possible SEP"
+2018-02-14/20:39:03 - 2018-02-14/20:41:33,  99.0, eeriksson(EVA),"  SW CSs, Possible SEP"
+2018-02-14/20:41:33 - 2018-02-14/20:44:03,  99.0, eeriksson(EVA),"  SW CSs, Possible SEP"
+2018-02-14/22:46:13 - 2018-02-14/22:48:33,  90.0, eeriksson(EVA),"  SW CS, Possible SEP"
+2018-02-14/23:45:43 - 2018-02-14/23:48:23,  99.0, eeriksson(EVA),"  Qperp BS, Possible SEP"
+2018-02-14/23:48:23 - 2018-02-14/23:50:43,  99.0, eeriksson(EVA),"  Qperp BS, Possible SEP"
+2018-02-14/23:50:43 - 2018-02-14/23:53:03,  99.0, eeriksson(EVA),"  Qperp BS, Possible SEP"
+2018-02-15/00:47:43 - 2018-02-15/00:48:13, 100.0, eeriksson(EVA),  MSH CS
+2018-02-15/00:48:53 - 2018-02-15/00:49:53, 100.0, eeriksson(EVA),  MSH CS
+2018-02-15/01:14:53 - 2018-02-15/01:16:43,  45.0, eeriksson(EVA),  MSH mirror modes
+2018-02-15/01:16:43 - 2018-02-15/01:18:33,  45.0, eeriksson(EVA),  MSH mirror modes
+2018-02-15/01:18:33 - 2018-02-15/01:20:23,  45.0, eeriksson(EVA),  MSH mirror modes
+2018-02-15/02:39:03 - 2018-02-15/02:41:33, 150.0, eeriksson(EVA),  High shear complete MP crossing with vz jets
+2018-02-15/02:41:33 - 2018-02-15/02:43:13, 125.0, eeriksson(EVA), High shear complete MP crossing with vz jets

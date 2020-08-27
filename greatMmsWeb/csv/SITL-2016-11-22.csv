@@ -1,0 +1,40 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-11-22/06:34:14 - 2016-11-22/06:36:24, 135.0, seriksson(EVA), Partial low-shear MP crossing with northward jet
+2016-11-22/06:36:24 - 2016-11-22/06:38:44, 105.0, seriksson(EVA), Partial low-shear MP crossing with northward jet
+2016-11-22/06:41:24 - 2016-11-22/06:43:14, 105.0, seriksson(EVA),  Extended low-shear partial MP with northward jet.
+2016-11-22/06:43:14 - 2016-11-22/06:45:14, 125.0, seriksson(EVA),  Extended low-shear partial MP with northward jets
+2016-11-22/06:45:14 - 2016-11-22/06:47:04, 145.0, seriksson(EVA),  Extended low-shear partial MP with northward jets.
+2016-11-22/06:47:04 - 2016-11-22/06:49:34, 155.0, seriksson(EVA),  Extended low-shear partial MP w/ BL variations. In-outs of Vz flow and Vy jet boundary.
+2016-11-22/06:49:34 - 2016-11-22/06:51:34, 155.0, seriksson(EVA),  Extended low-shear partial MP. Vy jet boundary
+2016-11-22/06:51:34 - 2016-11-22/06:53:34, 100.0, seriksson(EVA),  Extended low-shear partial MP
+2016-11-22/07:37:34 - 2016-11-22/07:39:34, 120.0, seriksson(EVA), Extended Boundary Layer in and out of northward jet
+2016-11-22/07:39:34 - 2016-11-22/07:41:34, 120.0, seriksson(EVA), Extended Boundary Layer in and out of northward jet
+2016-11-22/07:41:34 - 2016-11-22/07:43:34, 120.0, seriksson(EVA), Extended Boundary Layer in and out of northward jet
+2016-11-22/07:43:34 - 2016-11-22/07:45:44, 120.0, seriksson(EVA), Extended Boundary Layer in and out of northward jet
+2016-11-22/07:48:34 - 2016-11-22/07:53:14, 165.0, seriksson(EVA),  Partial high-shear MP with Vz jet (200 km/s) reversal
+2016-11-22/07:53:14 - 2016-11-22/07:56:14, 110.0, seriksson(EVA), Vz south jet and elevated Te parallel region ends
+2016-11-22/09:15:24 - 2016-11-22/09:17:14, 125.0, seriksson(EVA),  Magnetosheath CS too thin to resolve w/ 0.6 uA/m2 diffB
+2016-11-22/09:41:34 - 2016-11-22/09:42:54, 100.0, seriksson(EVA),  Large 0.8 uA/m2 diffB in magnetosheath
+2016-11-22/10:31:34 - 2016-11-22/10:33:34,  65.0, seriksson(EVA), Downstream of bow shock and large diffB
+2016-11-22/10:33:34 - 2016-11-22/10:35:24,  65.0, seriksson(EVA), Downstream of bow shock and large diffB
+2016-11-22/10:35:24 - 2016-11-22/10:37:24,  65.0, seriksson(EVA), Downstream of bow shock and large diffB
+2016-11-22/11:00:04 - 2016-11-22/11:01:34, 125.0, seriksson(EVA),  Magnetosheath CS too thin to resolve
+2016-11-22/11:05:04 - 2016-11-22/11:07:14,  45.0, seriksson(EVA), Sudden EIS energization event
+2016-11-22/11:14:14 - 2016-11-22/11:16:24,  50.0, seriksson(EVA),  Possible remote sensing of bow shock
+2016-11-22/12:24:24 - 2016-11-22/12:25:44, 175.0, seriksson(EVA),  Magnetosheath Bz CS with ExB and Vzprp jet 
+2016-11-22/12:26:34 - 2016-11-22/12:28:14, 130.0, seriksson(EVA),  Two magnetosheath CS too thin to resolve - ExB jet possible at first
+2016-11-22/12:42:34 - 2016-11-22/12:43:54, 170.0, seriksson(EVA), Magnetosheath CS with ExB jet and possible bipolar By Hall field 
+2016-11-22/12:47:04 - 2016-11-22/12:50:24,  70.0, seriksson(EVA),  Turbulence period near bow shock
+2016-11-22/12:59:34 - 2016-11-22/13:00:54, 125.0, seriksson(EVA),  Magneosheath CS too thin to be resolved with Efield activity and Ti heating
+2016-11-22/18:15:24 - 2016-11-22/18:17:14, 115.0, seriksson(EVA), Low-shear partial MPs with Vz jet boundary
+2016-11-22/18:17:14 - 2016-11-22/18:19:04, 115.0, seriksson(EVA), Low-shear partial MPs with southward jetting
+2016-11-22/18:19:04 - 2016-11-22/18:21:04, 115.0, seriksson(EVA), Low-shear partial MPs with southward jetting
+2016-11-22/18:21:04 - 2016-11-22/18:23:54, 145.0, seriksson(EVA), Partial low-shear MPs with southward Vz jetting and possible flow reversal
+2016-11-22/18:23:54 - 2016-11-22/18:26:24, 145.0, seriksson(EVA), Partial low-shear MPs with southward Vz jetting and possible flow reversal
+2016-11-22/18:26:24 - 2016-11-22/18:28:54, 115.0, seriksson(EVA), Partial low-shear MPs with southward Vz jet
+2016-11-22/18:28:54 - 2016-11-22/18:30:44, 115.0, seriksson(EVA), Partial low-shear MPs with southward Vz jet and KH-like By-Bz CS
+2016-11-22/18:30:44 - 2016-11-22/18:32:54, 105.0, seriksson(EVA), Partial low-shear MPs with southward Vz jets
+2016-11-22/18:34:24 - 2016-11-22/18:36:14, 110.0, seriksson(EVA), Low-shear partial MP w/ KH-like By-Bz CS
+2016-11-22/18:38:54 - 2016-11-22/18:40:34,  75.0, seriksson(EVA),  Partial low-shear MP
+2016-11-22/18:43:54 - 2016-11-22/18:45:24, 105.0, seriksson(EVA),  Low-shear partial MP
+2016-11-22/18:46:04 - 2016-11-22/18:47:54, 105.0, seriksson(EVA),  Two low-shear partial MP

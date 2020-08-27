@@ -1,0 +1,41 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-08-12/11:00:03 - 2018-08-12/11:02:33,  70.0, aieda(EVA), Period before an onset-ssociated tailward flow
+2018-08-12/11:02:33 - 2018-08-12/11:05:03,  70.0, aieda(EVA), Period before an onset-ssociated tailward flow
+2018-08-12/11:05:03 - 2018-08-12/11:07:33,  70.0, aieda(EVA), Period before an onset-ssociated tailward flow
+2018-08-12/11:07:33 - 2018-08-12/11:10:03,  70.0, aieda(EVA), Period before an onset-ssociated tailward flow
+2018-08-12/11:10:03 - 2018-08-12/11:12:33,  70.0, aieda(EVA), Period before an onset-ssociated tailward flow
+2018-08-12/11:12:33 - 2018-08-12/11:15:03,  70.0, aieda(EVA), Period before an onset-ssociated tailward flow
+2018-08-12/11:15:03 - 2018-08-12/11:17:33,  90.0, aieda(EVA)," Tailward flow -200 km/s with dipolarization, Arase conjunction, substorm onset"
+2018-08-12/11:17:33 - 2018-08-12/11:20:03,  90.0, aieda(EVA)," Tailward flow -200 km/s with dipolarization, Arase conjunction, substorm onset"
+2018-08-12/11:20:03 - 2018-08-12/11:22:33,  90.0, aieda(EVA)," Tailward flow -200 km/s with dipolarization, Arase conjunction, substorm onset"
+2018-08-12/11:22:33 - 2018-08-12/11:25:03,  90.0, aieda(EVA)," Tailward flow -200 km/s with dipolarization, Arase conjunction, substorm onset"
+2018-08-12/11:25:03 - 2018-08-12/11:27:03,  70.0, aieda(EVA), Period after a tailward flow
+2018-08-12/11:27:03 - 2018-08-12/11:29:03,  70.0, aieda(EVA), Period after a tailward flow
+2018-08-12/13:16:03 - 2018-08-12/13:18:03,  70.0, aieda(EVA), Period before a TCR
+2018-08-12/13:18:03 - 2018-08-12/13:20:03,  70.0, aieda(EVA), Period before a TCR
+2018-08-12/13:20:03 - 2018-08-12/13:22:33, 110.0, aieda(EVA), TCR in PSBL with Bz~-10nT
+2018-08-12/13:22:33 - 2018-08-12/13:25:03, 110.0, aieda(EVA), TCR in PSBL with Bz~-10nT
+2018-08-12/13:25:03 - 2018-08-12/13:27:23,  70.0, aieda(EVA), Period after a TCR
+2018-08-12/13:27:23 - 2018-08-12/13:29:53,  70.0, aieda(EVA), Period after a TCR
+2018-08-12/13:29:53 - 2018-08-12/13:32:13,  70.0, aieda(EVA), Period after a TCR
+2018-08-12/13:32:13 - 2018-08-12/13:34:43,  70.0, aieda(EVA), Period after a TCR
+2018-08-12/13:34:43 - 2018-08-12/13:37:03,  70.0, aieda(EVA), Period after a TCR
+2018-08-12/13:37:03 - 2018-08-12/13:39:33,  70.0, aieda(EVA), Period after a TCR
+2018-08-12/13:39:33 - 2018-08-12/13:41:53,  70.0, aieda(EVA), Period after a TCR
+2018-08-12/13:41:53 - 2018-08-12/13:44:13,  70.0, aieda(EVA), Period after a TCR
+2018-08-12/13:44:13 - 2018-08-12/13:46:43,  70.0, aieda(EVA), Period after a TCR
+2018-08-12/13:46:43 - 2018-08-12/13:49:03,  70.0, aieda(EVA), Period after a TCR
+2018-08-12/13:49:03 - 2018-08-12/13:51:23, 100.0, aieda(EVA)," TCR in PSBL, slow flow reversal"
+2018-08-12/13:51:23 - 2018-08-12/13:53:53, 100.0, aieda(EVA)," TCR in PSBL, slow flow reversal"
+2018-08-12/13:53:53 - 2018-08-12/13:56:13, 100.0, aieda(EVA)," TCR in PSBL, slow flow reversal"
+2018-08-12/13:56:13 - 2018-08-12/13:58:43, 100.0, aieda(EVA)," TCR in PSBL, slow flow reversal"
+2018-08-12/13:58:43 - 2018-08-12/14:01:03, 100.0, aieda(EVA)," TCR in PSBL, slow flow reversal"
+2018-08-12/14:01:03 - 2018-08-12/14:03:33,  70.0, aieda(EVA), Period after a TCR
+2018-08-12/14:03:33 - 2018-08-12/14:05:53,  70.0, aieda(EVA), Period after a TCR
+2018-08-12/14:05:53 - 2018-08-12/14:08:23,  70.0, aieda(EVA), Period after a TCR
+2018-08-12/14:08:23 - 2018-08-12/14:10:53,  70.0, aieda(EVA), Period after a TCR
+2018-08-12/14:10:53 - 2018-08-12/14:13:13,  70.0, aieda(EVA), Period after a TCR
+2018-08-12/14:13:13 - 2018-08-12/14:15:43,  65.0, aieda(EVA), Period after a TCR
+2018-08-12/14:15:43 - 2018-08-12/14:18:13,  65.0, aieda(EVA), Period after a TCR
+2018-08-12/14:18:13 - 2018-08-12/14:20:33,  65.0, aieda(EVA), Period after a TCR
+2018-08-12/14:20:33 - 2018-08-12/14:23:03,  65.0, aieda(EVA), Period after a TCR

@@ -1,0 +1,127 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-07-08/20:58:53 - 2017-07-08/21:00:53,  40.0, rnakamura(EVA), mostly field-aligned ions in outer PS. Some E-field waves.
+2017-07-08/21:00:53 - 2017-07-08/21:02:53,  40.0, rnakamura(EVA), mostly field-aligned ions in outer PS. Some E-field waves.
+2017-07-08/21:02:53 - 2017-07-08/21:05:03,  40.0, rnakamura(EVA), mostly field-aligned ions in outer PS. Some E-field waves.
+2017-07-08/21:05:03 - 2017-07-08/21:07:03,  40.0, rnakamura(EVA), mostly field-aligned ions in outer PS. Some E-field waves.
+2017-07-08/21:08:53 - 2017-07-08/21:11:03,  40.0, rnakamura(EVA), mostly field-aligned flow in outer PS preceding convective flow with strong pos Bz
+2017-07-08/21:11:03 - 2017-07-08/21:12:53,  40.0, ree(EVA), mostly field-aligned flow in outer PS preceding convective flow with strong pos Bz
+2017-07-08/21:12:53 - 2017-07-08/21:14:53, 120.0, ree(EVA),"  Dipolarization front in central PS. Some E-field and waves, accelerated ions."
+2017-07-08/21:14:53 - 2017-07-08/21:17:23, 120.0, ree(EVA),"  Dipolarization front in central PS. Some E-field and waves, accelerated ions."
+2017-07-08/21:23:33 - 2017-07-08/21:26:43, 120.0, ree(EVA)," Dipolarization front in central PS. Some E-field waves, ion acceleration"
+2017-07-08/21:29:23 - 2017-07-08/21:31:13,  40.0, rnakamura(EVA),  Sharp positive Bz gradient in central PS with weak E field waves. Minor tailward ion Vperpx (~-100km/s)
+2017-07-08/21:52:53 - 2017-07-08/21:55:23, 125.0, rnakamura(EVA),"  Weak ion convective flow reversal (Viperpx~+/-100km/s) with some Bz reversals, strong Hall(?) bipolar By, reversal of By near Vx reversal. Weak E-field waves."
+2017-07-08/21:57:03 - 2017-07-08/21:57:33,  50.0, rnakamura(EVA), Flux rope?
+2017-07-08/22:10:03 - 2017-07-08/22:10:53, 110.0, rnakamura(EVA)," Bipolar By with Bz decrease (not reversal). Some E-field waves, strong diff-B (~100nA/m2). No considerable ion flows."
+2017-07-08/22:12:13 - 2017-07-08/22:12:53, 100.0, rnakamura(EVA),  Bipolar By near Bz~0 point. Bz fluctuations but no reversal. No considerable ion flows or E-field waves.
+2017-07-08/22:45:23 - 2017-07-08/22:46:43,  90.0, ree(EVA),"  Period of Bz~0 in central CS. Some E-field waves, weak Earthward ion flow, weak current (diff-B)"
+2017-07-08/22:48:33 - 2017-07-08/22:50:53,  50.0, rnakamura(EVA)," Period of Bz~0 in central CS. Dawnward ion flow (Viy~200km/s), some E-field waves, weak current (diff-B)"
+2017-07-08/22:50:53 - 2017-07-08/22:52:53, 120.0, rnakamura(EVA),"  Multiple dipolarization fronts in central PS. E-field waves, some B-field waves, strong Earthward ion flow (Viperpx~400 km/s), stronger dawnward flow (Viy~600 km/s). Highly structured, mostly positive Bz with some reversals."
+2017-07-08/22:55:53 - 2017-07-08/22:56:33, 100.0, rnakamura(EVA),"  Strong Bz enhancement in central CS. Small current (diff-B), ion & electron acceleration, some E-waves, weak tailward ion flow (Viperpx~-200km/s)."
+2017-07-08/23:02:43 - 2017-07-08/23:05:33,  50.0, rnakamura(EVA)," Several sequential small-scale dipolarizations. No considerable ion Vx, moderate duskward Viy~300km/s"
+2017-07-08/23:07:23 - 2017-07-08/23:08:43, 120.0, rnakamura(EVA),  Bz reversal with bipolar By in central plasma sheet (|B|=0 point). Possible ion flow reversal (Vix~+/-50km/s)? No major ion/electron acceleration of E-field. Some low-freq E-field waves.
+2017-07-08/23:08:43 - 2017-07-08/23:10:33,  50.0, rnakamura(EVA), Weak tailward ion flow (Vixperp~-150km/s). No E-field or waves. Bz>0. Central PS.
+2017-07-08/23:10:33 - 2017-07-08/23:12:33,  50.0, rnakamura(EVA), Weak tailward ion flow (Vixperp~-150km/s). No E-field or waves. Bz>0. Central PS.
+2017-07-08/23:12:33 - 2017-07-08/23:14:23,  50.0, rnakamura(EVA), Weak tailward ion flow (Vixperp~-150km/s). No E-field or waves. Bz>0. Central PS.
+2017-07-08/23:50:43 - 2017-07-08/23:52:33, 100.0, rnakamura(EVA),"  Moderate DF in outer PS, Earthward convective ion flow (Viperpx~150km/s). Some E-field and waves"
+2017-07-09/00:18:23 - 2017-07-09/00:20:33, 100.0, rnakamura(EVA)," Entry into active PSBL with moderate parallel (Earthward) ion flows (Vi//x~300km/s). Some E-field waves, cold protons (~100eV) in lobe."
+2017-07-09/00:20:33 - 2017-07-09/00:22:43, 100.0, rnakamura(EVA)," Entry into active PSBL with moderate parallel (Earthward) ion flows (Vi//x~300km/s). Some E-field waves, cold protons (~100eV) in lobe."
+2017-07-09/00:22:43 - 2017-07-09/00:24:53, 100.0, rnakamura(EVA)," Entry into active PSBL with moderate parallel (Earthward) ion flows (Vi//x~300km/s). Some E-field waves, cold protons (~100eV) in lobe."
+2017-07-09/00:24:53 - 2017-07-09/00:27:03, 100.0, rnakamura(EVA)," Entry into active PSBL with moderate parallel (Earthward) ion flows (Vi//x~300km/s). Some E-field waves, cold protons (~100eV) in lobe."
+2017-07-09/00:27:03 - 2017-07-09/00:29:13, 100.0, rnakamura(EVA)," Entry into active PSBL with moderate parallel (Earthward) ion flows (Vi//x~300km/s). Some E-field waves, cold protons (~100eV) in lobe."
+2017-07-09/00:29:13 - 2017-07-09/00:31:23, 100.0, rnakamura(EVA)," Entry into active PSBL with moderate parallel (Earthward) ion flows (Vi//x~300km/s). Some E-field waves, cold protons (~100eV) in lobe."
+2017-07-09/00:56:23 - 2017-07-09/00:58:23, 110.0, rnakamura(EVA),"  Multiple PSBL crossings with fluctuating BZ>0, strong current (diff-B), strong electric fields and waves. Strong Vi//x~700km/s in the PSBL. Cold protons in the lobe "
+2017-07-09/00:58:23 - 2017-07-09/01:00:23, 110.0, rnakamura(EVA),"  Multiple PSBL crossings with fluctuating BZ>0, strong current (diff-B), strong electric fields and waves. Strong Vi//x~700km/s in the PSBL. Cold protons in the lobe "
+2017-07-09/01:00:23 - 2017-07-09/01:02:23, 110.0, rnakamura(EVA),"  Multiple PSBL crossings with fluctuating BZ>0, strong current (diff-B), strong electric fields and waves. Strong Vi//x~700km/s in the PSBL. Cold protons in the lobe "
+2017-07-09/01:08:23 - 2017-07-09/01:10:23, 115.0, rnakamura(EVA),  Multiple crossings of PSBL. Parallel ion flow reversal (Vi//x~500km/s). Strong E-fields and E-static waves. Cold protons in lobe.
+2017-07-09/01:10:23 - 2017-07-09/01:12:23, 115.0, rnakamura(EVA),  Multiple crossings of PSBL. Parallel ion flow reversal (Vi//x~500km/s). Strong E-fields and E-static waves. Cold protons in lobe.
+2017-07-09/01:12:23 - 2017-07-09/01:14:33, 115.0, rnakamura(EVA),  Multiple crossings of PSBL. Parallel ion flow reversal (Vi//x~500km/s). Strong E-fields and E-static waves. Cold protons in lobe.
+2017-07-09/01:14:33 - 2017-07-09/01:16:33, 115.0, rnakamura(EVA),  Multiple crossings of PSBL. Parallel ion flow reversal (Vi//x~500km/s). Strong E-fields and E-static waves. Cold protons in lobe.
+2017-07-09/02:14:53 - 2017-07-09/02:17:03,  50.0, rnakamura(EVA)," Nice very cold proton beam with minor O+ component in lobe, well-resolved by HPCA ~few 10s eV. Some E-fields."
+2017-07-09/02:17:03 - 2017-07-09/02:19:23,  50.0, rnakamura(EVA)," Nice very cold proton beam with minor O+ component in lobe, well-resolved by HPCA ~few 10s eV. Some E-fields."
+2017-07-09/02:19:23 - 2017-07-09/02:21:33,  50.0, rnakamura(EVA)," Nice very cold proton beam with minor O+ component in lobe, well-resolved by HPCA ~few 10s eV. Some E-fields."
+2017-07-09/02:21:33 - 2017-07-09/02:23:53,  50.0, rnakamura(EVA)," Nice very cold proton beam with minor O+ component in lobe, well-resolved by HPCA ~few 10s eV. Some E-fields."
+2017-07-09/02:23:53 - 2017-07-09/02:26:03,  50.0, rnakamura(EVA)," Nice very cold proton beam with minor O+ component in lobe, well-resolved by HPCA ~few 10s eV. Some E-fields."
+2017-07-09/03:51:13 - 2017-07-09/03:54:43,  90.0, rnakamura(EVA), Parallel ion flow reversal in lobe/PSBL. Energetic protons & electrons on top of cold lobe protons and O+. Low-feq. E-waves & plasma freq. line.
+2017-07-09/03:58:13 - 2017-07-09/04:00:33,  90.0, rnakamura(EVA), Strong parallel flows in PSBL/lobe. Energetic ions & electrons with cold protons / O+.
+2017-07-09/04:00:33 - 2017-07-09/04:02:53,  90.0, rnakamura(EVA), Strong parallel flows in PSBL/lobe. Energetic ions & electrons with cold protons / O+.
+2017-07-09/04:02:53 - 2017-07-09/04:05:03,  90.0, rnakamura(EVA), Strong parallel flows in PSBL/lobe. Energetic ions & electrons with cold protons / O+.
+2017-07-09/04:05:03 - 2017-07-09/04:07:23,  90.0, rnakamura(EVA), Strong parallel flows in PSBL/lobe. Energetic ions & electrons with cold protons / O+.
+2017-07-09/04:07:23 - 2017-07-09/04:09:43,  90.0, rnakamura(EVA), Strong parallel flows in PSBL/lobe. Energetic ions & electrons with cold protons / O+.
+2017-07-09/04:37:53 - 2017-07-09/04:39:43,  90.0, rnakamura(EVA),"  Exit of lobes/PSBL with cold protons/O+, E-field waves. Parallel and perpendicular ion flows"
+2017-07-09/04:39:43 - 2017-07-09/04:41:43,  90.0, rnakamura(EVA),"  Exit of lobes/PSBL with cold protons/O+, E-field waves. Parallel and perpendicular ion flows"
+2017-07-09/04:41:43 - 2017-07-09/04:43:33,  90.0, rnakamura(EVA),"  Exit of lobes/PSBL with cold protons/O+, E-field waves. Parallel and perpendicular ion flows"
+2017-07-09/05:22:03 - 2017-07-09/05:24:13, 110.0, rnakamura(EVA),  Chain of DFs in outer PS with E-field activity
+2017-07-09/05:24:13 - 2017-07-09/05:26:13, 110.0, rnakamura(EVA),  Chain of DFs in outer PS with E-field activity
+2017-07-09/05:26:13 - 2017-07-09/05:28:23, 110.0, rnakamura(EVA),  Chain of DFs in outer PS with E-field activity
+2017-07-09/05:28:23 - 2017-07-09/05:30:23, 110.0, rnakamura(EVA),  Chain of DFs in outer PS with E-field activity
+2017-07-09/05:30:23 - 2017-07-09/05:32:33, 110.0, rnakamura(EVA),  Chain of DFs in outer PS with E-field activity
+2017-07-09/05:56:13 - 2017-07-09/05:58:43,  75.0, rnakamura(EVA),  Several parallel ion flow reversals in PSBL 
+2017-07-09/05:58:43 - 2017-07-09/06:01:13,  75.0, rnakamura(EVA),  Several parallel ion flow reversals in PSBL 
+2017-07-09/06:01:13 - 2017-07-09/06:03:33,  75.0, rnakamura(EVA),  Several parallel ion flow reversals in PSBL 
+2017-07-09/06:03:33 - 2017-07-09/06:06:03,  75.0, rnakamura(EVA),  Several parallel ion flow reversals in PSBL 
+2017-07-09/06:06:03 - 2017-07-09/06:08:33,  75.0, rnakamura(EVA),  Several parallel ion flow reversals in PSBL 
+2017-07-09/06:08:33 - 2017-07-09/06:11:03,  75.0, rnakamura(EVA),  Several parallel ion flow reversals in PSBL 
+2017-07-09/06:23:53 - 2017-07-09/06:25:53,  70.0, rnakamura(EVA), Flow reversal in PSBL with some wave activity.
+2017-07-09/06:25:53 - 2017-07-09/06:27:53,  70.0, rnakamura(EVA), Flow reversal in PSBL with some wave activity.
+2017-07-09/06:27:53 - 2017-07-09/06:29:53,  70.0, rnakamura(EVA), Flow reversal in PSBL with some wave activity.
+2017-07-09/07:04:43 - 2017-07-09/07:07:03,  75.0, rnakamura(EVA),  Strong parallel ion flow in PSBL
+2017-07-09/07:07:03 - 2017-07-09/07:09:13,  75.0, rnakamura(EVA),  Strong parallel ion flow in PSBL
+2017-07-09/07:09:13 - 2017-07-09/07:11:33,  75.0, rnakamura(EVA),  Strong parallel ion flow in PSBL
+2017-07-09/09:35:33 - 2017-07-09/09:37:43,  90.0, rnakamura(EVA),  Entry into PSBL/lobes from outer plasma sheet with moderate parallel flows and strong E-field waves
+2017-07-09/09:37:43 - 2017-07-09/09:39:43,  90.0, rnakamura(EVA),  Entry into PSBL/lobes from outer plasma sheet with moderate parallel flows and strong E-field waves
+2017-07-09/09:39:43 - 2017-07-09/09:41:53,  90.0, rnakamura(EVA),  Entry into PSBL/lobes from outer plasma sheet with moderate parallel flows and strong E-field waves
+2017-07-09/09:41:53 - 2017-07-09/09:44:03,  90.0, rnakamura(EVA),  Entry into PSBL/lobes from outer plasma sheet with moderate parallel flows and strong E-field waves
+2017-07-09/10:38:23 - 2017-07-09/10:40:43, 130.0, ree(EVA),"  Separatrix, cold plasma, Vx parallel 400km/s"
+2017-07-09/10:40:43 - 2017-07-09/10:43:13, 110.0, rnakamura(EVA),"  Separatrix, cold plasma, Vx parallel 400km/s"
+2017-07-09/10:43:13 - 2017-07-09/10:45:13, 150.0, rnakamura(EVA)," Long time duration, multiple Bz reversals, possible minor Vixperp reversals corresponding to Bz reversals, intensely heated ions and electrons. Ion velocity up to Vix~1000km/s, strong electic field, E&B waves in central current sheet (BX~0)"
+2017-07-09/10:45:13 - 2017-07-09/10:47:03, 150.0, rnakamura(EVA)," Long time duration, multiple Bz reversals, possible minor Vixperp reversals corresponding to Bz reversals, intensely heated ions and electrons. Ion velocity up to Vix~1000km/s, strong electic field, E&B waves in central current sheet (BX~0)"
+2017-07-09/10:47:03 - 2017-07-09/10:49:03, 150.0, rnakamura(EVA)," Long time duration, multiple Bz reversals, possible minor Vixperp reversals corresponding to Bz reversals, intensely heated ions and electrons. Ion velocity up to Vix~1000km/s, strong electic field, E&B waves in central current sheet (BX~0)"
+2017-07-09/10:49:03 - 2017-07-09/10:51:03, 150.0, rnakamura(EVA)," Long time duration, multiple Bz reversals, possible minor Vixperp reversals corresponding to Bz reversals, intensely heated ions and electrons. Ion velocity up to Vix~1000km/s, strong electic field, E&B waves in central current sheet (BX~0)"
+2017-07-09/11:06:23 - 2017-07-09/11:08:43, 101.0, ree(EVA), |B| Nulls. Flow Reversal.
+2017-07-09/11:25:33 - 2017-07-09/11:30:13, 100.0, ree(EVA), BZ>0 fluctuations in tailward Vix~-200km/s ion flow. E&B waves.
+2017-07-09/11:42:03 - 2017-07-09/11:42:53,  50.0, rnakamura(EVA),  Flux rope or TCR?
+2017-07-09/12:24:23 - 2017-07-09/12:26:43,  90.0, ree(EVA), |B| Null. Flow reversal.
+2017-07-09/12:31:13 - 2017-07-09/12:33:03, 130.0, rnakamura(EVA),  Highly structured DF with Viperpx~300km/s. Strong E-waves (maybe B waves?)
+2017-07-09/12:33:03 - 2017-07-09/12:34:53, 130.0, rnakamura(EVA),  Highly structured DF with Viperpx~300km/s. Strong E-waves (maybe B waves?)
+2017-07-09/12:38:13 - 2017-07-09/12:40:13, 100.0, rnakamura(EVA),"  DP front, waves (GTL conj)"
+2017-07-09/12:46:03 - 2017-07-09/12:47:23, 110.0, rnakamura(EVA),  Dipolarization front with littleE field / waves.  (GTLconj)
+2017-07-09/12:48:33 - 2017-07-09/12:49:43, 100.0, rnakamura(EVA),  Dipolarization front with little/no E field / waves.  (GTLconj)
+2017-07-09/13:34:03 - 2017-07-09/13:35:23, 110.0, rnakamura(EVA),  Earthward flow near central PS with enhanced Bz. Some E-field activity.
+2017-07-09/13:37:23 - 2017-07-09/13:38:53, 120.0, rnakamura(EVA),"  Earthward flow channel with E-field waves. Convective flow near central PS, parallel flow in outer PS."
+2017-07-09/13:38:53 - 2017-07-09/13:40:33, 120.0, rnakamura(EVA),"  Earthward flow channel with E-field waves. Convective flow near central PS, parallel flow in outer PS."
+2017-07-09/15:12:23 - 2017-07-09/15:14:23,  60.0, rnakamura(EVA)," flow reversal (<200 kms), EB,hfreq waves, Bz ~0"
+2017-07-09/15:14:23 - 2017-07-09/15:16:23,  60.0, rnakamura(EVA)," flow reversal (<200 kms), EB,hfreq waves, Bz ~0"
+2017-07-09/16:23:23 - 2017-07-09/16:24:53,  60.0, rnakamura(EVA),"  Bz reversal,  outerPS, E&Bwave activiy,"
+2017-07-09/16:24:53 - 2017-07-09/16:26:33,  60.0, rnakamura(EVA),"  Bz reversal,  outerPS, E&Bwave activiy,"
+2017-07-09/17:14:53 - 2017-07-09/17:16:33, 130.0, rnakamura(EVA),"  Vpepx>300 km/s, Dpfront, waves, cold ions, CS half cross"
+2017-07-09/17:16:33 - 2017-07-09/17:18:23, 130.0, rnakamura(EVA),"  Vpepx>300 km/s, Dpfront, waves, cold ions, CS half cross"
+2017-07-09/17:20:03 - 2017-07-09/17:21:13, 100.0, ree(EVA), |B| null; Sharp current sheet. Abrupt flow change. 
+2017-07-09/17:30:53 - 2017-07-09/17:33:53, 110.0, ree(EVA),  CS Center. E activity. |B| low. 
+2017-07-09/17:36:03 - 2017-07-09/17:37:33, 140.0, rnakamura(EVA),"  Vxperp (600 km/s), PS, DP fronts, EBwaves"
+2017-07-09/17:37:33 - 2017-07-09/17:39:13, 140.0, rnakamura(EVA),"  Vxperp (600 km/s), PS, DP fronts, EBwaves"
+2017-07-09/17:41:23 - 2017-07-09/17:42:33,  80.0, rnakamura(EVA),"  Vxperp(300 km/s) outer PS, DPfront"
+2017-07-09/17:50:53 - 2017-07-09/17:53:03, 120.0, ree(EVA),"  Vxperp300km/s, PS, Bzfluct, EBwaves"
+2017-07-09/17:53:03 - 2017-07-09/17:55:23, 120.0, ree(EVA),"  Vxperp300km/s, PS, Bzfluct, EBwaves"
+2017-07-09/17:55:23 - 2017-07-09/17:57:33, 120.0, ree(EVA),"  Vxperp300km/s, PS, Bzfluct, EBwaves"
+2017-07-09/17:57:33 - 2017-07-09/17:59:53, 120.0, ree(EVA),"  Vxperp300km/s, PS, Bzfluct, EBwaves"
+2017-07-09/19:33:43 - 2017-07-09/19:36:13, 140.0, rnakamura(EVA),"  Bz reversal, Vxperp-200km/s, outerPS, EB,waves"
+2017-07-09/19:36:13 - 2017-07-09/19:38:33, 140.0, rnakamura(EVA),"  Bz reversal, Vxperp-200km/s, outerPS, EB,waves"
+2017-07-09/19:38:33 - 2017-07-09/19:41:03, 110.0, rnakamura(EVA)," Bz-, edge of intense tailCS, Efwaves, PSBL/lobe"
+2017-07-09/19:41:03 - 2017-07-09/19:43:33, 110.0, rnakamura(EVA)," Bz-, edge of intense tailCS,  Efwaves, PSBL/lobe"
+2017-07-09/19:43:33 - 2017-07-09/19:46:03, 100.0, rnakamura(EVA)," Bz-, edge of intense tailCS, Efwaves, PSBL/lobe"
+2017-07-09/19:46:03 - 2017-07-09/19:48:23, 100.0, rnakamura(EVA)," Bz-, edge of intense tailCS, Efwaves, PSBL/lobe"
+2017-07-09/19:48:23 - 2017-07-09/19:50:53,  80.0, rnakamura(EVA)," Bz-, edge of intense tailCS, Efwaves, PSBL/lobe"
+2017-07-09/19:50:53 - 2017-07-09/19:53:23,  80.0, rnakamura(EVA)," Bz-, edge of intense tailCS, Efwaves, PSBL/lobe"
+2017-07-09/19:53:23 - 2017-07-09/19:55:53, 100.0, rnakamura(EVA)," Bz-, edge of intense tailCS, Efwaves, PSBL/lobe"
+2017-07-09/20:34:33 - 2017-07-09/20:36:33, 130.0, rnakamura(EVA),"  Bz (Bx) reversal, but PS expansion, E&B waves, Vxperp 150km/s"
+2017-07-09/20:36:33 - 2017-07-09/20:38:23, 130.0, rnakamura(EVA),"  Bz (Bx) reversal, but PS expansion, E&B waves, Vxperp 150km/s"
+2017-07-09/20:38:23 - 2017-07-09/20:40:23, 130.0, rnakamura(EVA),"  Bz (Bx) reversal, but PS expansion, E&B waves, Vxperp 150km/s"
+2017-07-09/23:25:13 - 2017-07-09/23:26:33, 130.0, rnakamura(EVA),"  Vparallel (400 km/s), outer PS/PSBL, Bz front ,from negtive Bz,  waves"
+2017-07-09/23:26:33 - 2017-07-09/23:27:53, 130.0, rnakamura(EVA),"  Vparallel (400 km/s), outer PS/PSBL, Bz front, waves"
+2017-07-09/23:33:53 - 2017-07-09/23:35:33,  90.0, rnakamura(EVA)," PSBL entry, (ExB)x 1500km/s, EB waves, "
+2017-07-09/23:35:33 - 2017-07-09/23:37:23,  90.0, rnakamura(EVA)," PSBL entry, (ExB)x 1500km/s, EB waves, "
+2017-07-10/03:26:03 - 2017-07-10/03:27:23, 100.0, rnakamura(EVA)," Bzfront, outer PS, acceleration, EB waves"
+2017-07-10/03:30:13 - 2017-07-10/03:31:33, 100.0, rnakamura(EVA),"  Bz-reversal,DPfront, Vx(200 km/s), PSBL, cold ions, EB fluctuations"
+2017-07-10/03:31:33 - 2017-07-10/03:32:53, 100.0, rnakamura(EVA),"  Bzfront, Vx(200 km/s), PSBL, cold ions, EB fluctuations"
+2017-07-10/04:39:03 - 2017-07-10/04:41:03,  80.0, rnakamura(EVA),"  Vxperp 300km/s, outer PS, Bz fluctuations"
+2017-07-10/04:41:03 - 2017-07-10/04:43:13,  80.0, rnakamura(EVA),"  Vxperp 300km/s, outer PS, Bz fluctuations"

@@ -1,0 +1,44 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-11-26/07:26:54 - 2016-11-26/07:29:04,  95.0, seriksson(EVA),  Extended high-shear partial MP in-out of Vz<0 jet 
+2016-11-26/07:29:04 - 2016-11-26/07:31:04, 115.0, seriksson(EVA),  Extended high-shear partial MP in-out of Vz<0 jet 
+2016-11-26/07:31:04 - 2016-11-26/07:33:04, 135.0, seriksson(EVA),  Extended high-shear partial MP in-out of Vz<0 jet 
+2016-11-26/07:35:14 - 2016-11-26/07:38:54, 175.0, seriksson(EVA),  High-shear complete MP w/ Vz<0 jet
+2016-11-26/08:08:14 - 2016-11-26/08:09:34, 100.0, seriksson(EVA),  BL encounter w/ Vz jet at Bz rotation
+2016-11-26/08:14:34 - 2016-11-26/08:16:04, 175.0, seriksson(EVA),  Magnetosheath CS (Bz) w/ exhaust 
+2016-11-26/08:35:24 - 2016-11-26/08:37:24, 125.0, seriksson(EVA),  Three magnetosheath CS (By) too thin to resolve
+2016-11-26/10:50:44 - 2016-11-26/10:53:44, 165.0, seriksson(EVA),  Magnetosheath CS (Byz) w/ exhaust and density increase
+2016-11-26/11:52:44 - 2016-11-26/11:56:54, 145.0, fwilder(EVA), High-shear partial MP w/ Vz flow reversal and Deep Null
+2016-11-26/12:02:34 - 2016-11-26/12:05:34, 155.0, seriksson(EVA),  High-shear complete MP w/o clear exhaust
+2016-11-26/12:06:34 - 2016-11-26/12:09:04, 150.0, seriksson(EVA),  Low-shear complete MP
+2016-11-26/12:31:14 - 2016-11-26/12:33:24, 115.0, seriksson(EVA), High-shear BL encounter w/ nice Vz jet reversal
+2016-11-26/12:34:44 - 2016-11-26/12:36:24, 100.0, seriksson(EVA),  Narrow high-shear partial MP w/ Vz flow variations
+2016-11-26/12:36:24 - 2016-11-26/12:38:14, 100.0, seriksson(EVA),  Narrow high-shear partial MP w/ Vz flow variations
+2016-11-26/12:47:54 - 2016-11-26/12:49:54, 105.0, seriksson(EVA), Three high-shear partial MP w/o jets
+2016-11-26/12:49:54 - 2016-11-26/12:51:54, 105.0, seriksson(EVA), Three high-shear partial MP w/o jets
+2016-11-26/12:53:14 - 2016-11-26/12:55:54, 125.0, seriksson(EVA),  High-shear partial MP w/ flow variations
+2016-11-26/12:58:14 - 2016-11-26/13:00:54, 115.0, seriksson(EVA),  High-shear partial MP w/ Vz<0 jet
+2016-11-26/13:00:54 - 2016-11-26/13:03:04, 100.0, seriksson(EVA),  Two low-shear partial MP
+2016-11-26/13:05:04 - 2016-11-26/13:08:24, 150.0, seriksson(EVA),  High-shear complete MP
+2016-11-26/13:42:04 - 2016-11-26/13:44:54,  90.0, seriksson(EVA),  BL encounter w/ Vz>0 jet
+2016-11-26/13:51:24 - 2016-11-26/13:54:14, 100.0, seriksson(EVA),  Two low-shear partial MP w/ flow variations
+2016-11-26/14:06:44 - 2016-11-26/14:08:24, 150.0, seriksson(EVA),  Low-shear complete MP
+2016-11-26/14:08:44 - 2016-11-26/14:11:24, 150.0, seriksson(EVA), High-shear complete MP w/ Vz flows
+2016-11-26/14:15:34 - 2016-11-26/14:17:24, 100.0, seriksson(EVA),  High-shear partial MP
+2016-11-26/14:18:04 - 2016-11-26/14:21:24, 150.0, seriksson(EVA),  Low-shear complete MP
+2016-11-26/14:31:34 - 2016-11-26/14:35:04, 150.0, seriksson(EVA), High-shear complete MP
+2016-11-26/14:51:04 - 2016-11-26/14:53:14,  75.0, seriksson(EVA),  BL encounter w/ fast Vz<0 jet
+2016-11-26/15:21:44 - 2016-11-26/15:23:34, 100.0, seriksson(EVA),  BL encounter w/ Vz jet
+2016-11-26/15:30:44 - 2016-11-26/15:33:24, 100.0, seriksson(EVA),  High-shear partial MP w/ Vz flows
+2016-11-26/15:34:04 - 2016-11-26/15:36:54, 115.0, seriksson(EVA),  High-shear partial MP
+2016-11-26/15:41:54 - 2016-11-26/15:44:14, 170.0, fwilder(EVA),  High-shear complete MP w/ Vx<0 and Vz>0 flow changes plus null and significant curl B
+2016-11-26/15:44:14 - 2016-11-26/15:46:34, 140.0, seriksson(EVA),  High-shear complete MP w/ Vx<0 and Vz>0 flow changes
+2016-11-26/15:52:34 - 2016-11-26/15:54:14, 100.0, seriksson(EVA),  Low-shear partial MP
+2016-11-26/16:00:24 - 2016-11-26/16:01:54,  95.0, seriksson(EVA),  BL encounter w/ Vz>0 jet
+2016-11-26/16:05:04 - 2016-11-26/16:07:14, 115.0, fwilder(EVA),  Low-shear partial MP but with deep B minimum and significant curl B.
+2016-11-26/16:08:54 - 2016-11-26/16:11:14, 165.0, seriksson(EVA),  High-shear complete MP
+2016-11-26/16:14:34 - 2016-11-26/16:15:54, 125.0, seriksson(EVA),  High-shear partial MP
+2016-11-26/16:18:34 - 2016-11-26/16:22:34, 170.0, fwilder(EVA),  High-shear complete MP w/ Vx<0 jet and significant current
+2016-11-26/16:31:24 - 2016-11-26/16:34:14, 165.0, fwilder(EVA),  High-shear complete MP w/ Vz<0 jet but weak current
+2016-11-26/16:43:44 - 2016-11-26/16:47:04, 125.0, seriksson(EVA),  High-shear partial MP
+2016-11-26/16:58:14 - 2016-11-26/17:00:24, 150.0, seriksson(EVA),  High-shear complete MP w/ Vz flow reversal
+2016-11-26/17:00:24 - 2016-11-26/17:02:44, 150.0, seriksson(EVA),  High-shear complete MP w/ Vz flow reversal

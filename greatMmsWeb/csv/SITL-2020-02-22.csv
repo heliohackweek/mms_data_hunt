@@ -1,0 +1,61 @@
+DATETIME,FOM,ID,DISCUSSION
+2020-02-22/09:06:43 - 2020-02-22/09:09:13, 100.0, ksteinvall(EVA),  Cold ions MP boundary layer
+2020-02-22/09:09:13 - 2020-02-22/09:11:43, 100.0, ksteinvall(EVA),  Cold ions MP boundary layer
+2020-02-22/09:11:43 - 2020-02-22/09:14:13, 100.0, ksteinvall(EVA),  Cold ions MP boundary layer
+2020-02-22/09:15:53 - 2020-02-22/09:17:53,  80.0, ksteinvall(EVA),  Cold ions MP boundary
+2020-02-22/09:17:53 - 2020-02-22/09:20:03,  80.0, ksteinvall(EVA),  Cold ions MP boundary
+2020-02-22/09:20:03 - 2020-02-22/09:22:03,  80.0, ksteinvall(EVA),  Cold ions MP boundary
+2020-02-22/09:31:03 - 2020-02-22/09:34:23, 120.0, ksteinvall(EVA), Partial MP crossing 
+2020-02-22/09:34:23 - 2020-02-22/09:36:33, 120.0, ksteinvall(EVA),  MP boundary layer
+2020-02-22/09:36:33 - 2020-02-22/09:38:43, 120.0, ksteinvall(EVA),  MP boundary layer
+2020-02-22/09:38:43 - 2020-02-22/09:40:53, 120.0, ksteinvall(EVA),  MP boundary layer
+2020-02-22/09:40:53 - 2020-02-22/09:43:03, 120.0, ksteinvall(EVA),  MP boundary layer
+2020-02-22/09:43:03 - 2020-02-22/09:45:33, 160.0, ksteinvall(EVA),  Full MP crossing
+2020-02-22/10:33:23 - 2020-02-22/10:36:13, 110.0, ksteinvall(EVA),  Partial MP crossing
+2020-02-22/10:42:33 - 2020-02-22/10:45:43, 100.0, ksteinvall(EVA),  Partial MP crossing
+2020-02-22/11:57:23 - 2020-02-22/12:00:03, 130.0, ksteinvall(EVA),  Qpar bowshock with ULF waves
+2020-02-22/12:15:13 - 2020-02-22/12:16:53, 120.0, ksteinvall(EVA),  Qpar bowshock and ULF waves
+2020-02-22/12:16:53 - 2020-02-22/12:18:33, 120.0, ksteinvall(EVA),  Qpar bowshock and ULF waves
+2020-02-22/12:19:23 - 2020-02-22/12:22:13, 130.0, ksteinvall(EVA),"  Ion foreshock, ULF waves"
+2020-02-22/12:22:13 - 2020-02-22/12:25:03, 130.0, ksteinvall(EVA),"  Qpar BS, ULF waves"
+2020-02-22/12:31:53 - 2020-02-22/12:34:33, 100.0, ksteinvall(EVA),  QPar bowshock
+2020-02-22/12:35:53 - 2020-02-22/12:38:03, 100.0, ksteinvall(EVA)," Qpar Bowshock, ULF waves "
+2020-02-22/12:38:03 - 2020-02-22/12:40:13, 100.0, ksteinvall(EVA), Qpar bowshock 
+2020-02-22/12:42:13 - 2020-02-22/12:44:33, 100.0, ksteinvall(EVA),  Qpar bowshock
+2020-02-22/13:01:13 - 2020-02-22/13:03:23, 110.0, ksteinvall(EVA),  Qpar bowshock
+2020-02-22/14:11:53 - 2020-02-22/14:15:43,  70.0, ksteinvall(EVA), Ion foreshock ULF waves 
+2020-02-22/14:29:13 - 2020-02-22/14:32:53,  70.0, ksteinvall(EVA), Ion foreshock 
+2020-02-22/14:54:13 - 2020-02-22/14:56:43, 110.0, ksteinvall(EVA),  SW current sheet
+2020-02-22/15:16:43 - 2020-02-22/15:19:33, 110.0, ksteinvall(EVA)," Foreshock structure, possible HFA or bubble. "
+2020-02-22/15:40:43 - 2020-02-22/15:43:13, 110.0, ksteinvall(EVA)," Foreshock structure, possible HFA or bubble "
+2020-02-22/15:43:13 - 2020-02-22/15:45:33, 110.0, ksteinvall(EVA)," Foreshock structure, possible HFA or bubble "
+2020-02-22/15:45:33 - 2020-02-22/15:48:03, 110.0, ksteinvall(EVA)," Foreshock structure, possible HFA or bubble "
+2020-02-22/15:54:13 - 2020-02-22/15:58:23, 110.0, ksteinvall(EVA), Possible HFA or bubble 
+2020-02-22/16:07:23 - 2020-02-22/16:09:43, 120.0, ksteinvall(EVA), Ion foreshock solar wind boundary
+2020-02-22/16:09:43 - 2020-02-22/16:11:53,  90.0, ksteinvall(EVA), Ion foreshock
+2020-02-22/16:11:53 - 2020-02-22/16:13:53,  90.0, ksteinvall(EVA), Ion foreshock
+2020-02-22/16:13:53 - 2020-02-22/16:16:23, 100.0, ksteinvall(EVA)," Ion foreshock, ULF waves"
+2020-02-22/16:16:23 - 2020-02-22/16:18:43,  90.0, ksteinvall(EVA), Ion foreshock
+2020-02-22/17:33:43 - 2020-02-22/17:36:33, 120.0, ksteinvall(EVA), SW CS and B minima 
+2020-02-22/18:17:33 - 2020-02-22/18:18:03, 110.0, ksteinvall(EVA),  SW current sheet
+2020-02-22/18:19:13 - 2020-02-22/18:20:33, 110.0, ksteinvall(EVA), SW current sheet 
+2020-02-23/18:13:13 - 2020-02-23/18:14:23, 100.0, ksteinvall(EVA),  SW current sheet
+2020-02-23/18:31:33 - 2020-02-23/18:33:13, 100.0, ksteinvall(EVA),  SW current sheet
+2020-02-23/18:46:23 - 2020-02-23/18:47:43, 100.0, ksteinvall(EVA), SW current sheet 
+2020-02-23/19:26:33 - 2020-02-23/19:29:23,  80.0, ksteinvall(EVA),  SW broad current sheet
+2020-02-23/20:29:03 - 2020-02-23/20:31:13, 100.0, ksteinvall(EVA),  SW current sheets
+2020-02-23/20:31:13 - 2020-02-23/20:33:33, 100.0, ksteinvall(EVA),  SW current sheets
+2020-02-25/06:35:03 - 2020-02-25/06:37:03,  50.0, kgenestreti(EVA), Foreshock
+2020-02-25/06:37:03 - 2020-02-25/06:38:33, 125.0, kgenestreti(EVA), Quasi-parallel bow shock
+2020-02-25/06:38:33 - 2020-02-25/06:40:03, 125.0, kgenestreti(EVA), Quasi-parallel bow shock
+2020-02-25/06:40:03 - 2020-02-25/06:41:23, 100.0, kgenestreti(EVA), Sheath turbulence downstream of quasi-// bow shock
+2020-02-25/06:41:23 - 2020-02-25/06:42:43, 100.0, kgenestreti(EVA), Sheath turbulence downstream of quasi-// bow shock
+2020-02-25/06:42:43 - 2020-02-25/06:44:43, 100.0, kgenestreti(EVA), Sheath turbulence downstream of quasi-parallel bow shock
+2020-02-25/06:44:43 - 2020-02-25/06:46:53, 100.0, kgenestreti(EVA), Sheath turbulence downstream of quasi-parallel bow shock
+2020-02-25/06:46:53 - 2020-02-25/06:48:53, 100.0, kgenestreti(EVA), Sheath turbulence downstream of quasi-parallel bow shock
+2020-02-25/06:48:53 - 2020-02-25/06:51:03, 100.0, kgenestreti(EVA), Sheath turbulence downstream of quasi-parallel bow shock
+2020-02-25/06:51:03 - 2020-02-25/06:52:43, 125.0, kgenestreti(EVA),  Quasi-parallel B.S.
+2020-02-25/06:52:43 - 2020-02-25/06:55:03,  50.0, kgenestreti(EVA), Forshock between two quasi-// B.S. crossings
+2020-02-25/06:55:03 - 2020-02-25/06:56:53, 125.0, kgenestreti(EVA), Quasi-parallel bow shock
+2020-02-25/07:07:33 - 2020-02-25/07:08:03,  90.0, kgenestreti(EVA), Sheath current sheet
+2020-02-25/07:08:23 - 2020-02-25/07:09:03, 150.0, kgenestreti(EVA)," Sheath current sheet with large E, possible jet, |B| null"

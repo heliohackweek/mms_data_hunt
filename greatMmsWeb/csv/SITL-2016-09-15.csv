@@ -1,0 +1,59 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-09-15/14:25:24 - 2016-09-15/14:28:34,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves
+2016-09-15/14:33:14 - 2016-09-15/14:35:14,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves and B waves
+2016-09-15/14:35:14 - 2016-09-15/14:37:04,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves and B waves
+2016-09-15/14:37:04 - 2016-09-15/14:39:04,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves and B waves
+2016-09-15/14:39:04 - 2016-09-15/14:43:04,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves
+2016-09-15/14:47:04 - 2016-09-15/14:49:54,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves
+2016-09-15/14:59:14 - 2016-09-15/15:03:24,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves
+2016-09-15/15:05:34 - 2016-09-15/15:09:24,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves
+2016-09-15/15:34:04 - 2016-09-15/15:36:14,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves and B waves and feeps boundary
+2016-09-15/15:36:14 - 2016-09-15/15:38:34,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves and B waves and feeps boundary
+2016-09-15/15:38:34 - 2016-09-15/15:40:44,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves and B waves and feeps boundary
+2016-09-15/15:46:44 - 2016-09-15/15:48:44,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves and feeps boundary
+2016-09-15/15:48:44 - 2016-09-15/15:50:34,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves and feeps boundary
+2016-09-15/15:50:34 - 2016-09-15/15:52:34,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves and feeps boundary
+2016-09-15/15:59:24 - 2016-09-15/16:00:44,   5.0, ocontel(EVA),  B waves
+2016-09-15/16:01:24 - 2016-09-15/16:04:14,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves and B waves
+2016-09-15/16:04:14 - 2016-09-15/16:08:24,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves
+2016-09-15/16:11:14 - 2016-09-15/16:13:44,   5.0, ocontel(EVA),  B waves
+2016-09-15/16:18:44 - 2016-09-15/16:22:24,   5.0, ocontel(EVA),  Small flow oscillations with HF and LF E waves and feeps boundary
+2016-09-15/16:27:54 - 2016-09-15/16:32:04,   5.0, ocontel(EVA),  Small tailward flow with HF E waves
+2016-09-15/16:41:34 - 2016-09-15/16:44:04,   5.0, ocontel(EVA),  Small flow oscillations with HF E waves and B waves
+2016-09-15/16:47:04 - 2016-09-15/16:51:04,   5.0, ocontel(EVA),  Small flow oscillations with B waves
+2016-09-15/16:59:44 - 2016-09-15/17:01:54,  10.0, ocontel(EVA),  Sunward flow Vx=100 km/s with HF and LF  E waves
+2016-09-15/17:01:54 - 2016-09-15/17:04:04,  10.0, ocontel(EVA),  Sunward flow Vx=100 km/s with HF and LF  E waves
+2016-09-15/17:04:04 - 2016-09-15/17:06:14,  10.0, ocontel(EVA),  Sunward flow Vx=100 km/s with HF and LF  E waves
+2016-09-15/17:17:44 - 2016-09-15/17:22:44,   5.0, ocontel(EVA),  Small southward flow with HF E waves
+2016-09-15/17:22:44 - 2016-09-15/17:27:04,   5.0, ocontel(EVA),  Small southward flow with HF E waves
+2016-09-15/17:41:24 - 2016-09-15/17:43:04,   5.0, ocontel(EVA),  Small sunward flow with HF E waves and B waves
+2016-09-15/17:43:04 - 2016-09-15/17:44:54,   5.0, ocontel(EVA),  Small sunward flow with HF E waves and B waves
+2016-09-15/17:44:54 - 2016-09-15/17:46:34,   5.0, ocontel(EVA),  Small sunward flow with HF E waves and B waves
+2016-09-15/17:48:04 - 2016-09-15/17:50:04,  10.0, ocontel(EVA),  Small sunward/dawnward flow with HF and LF E waves and B waves
+2016-09-15/17:50:04 - 2016-09-15/17:52:04,  10.0, ocontel(EVA),  Small sunward/dawnward flow with HF and LF E waves and B waves
+2016-09-15/17:52:04 - 2016-09-15/17:54:04,  10.0, ocontel(EVA),  Small sunward/dawnward flow with HF and LF E waves and B waves
+2016-09-15/17:58:14 - 2016-09-15/18:01:04,   5.0, ocontel(EVA),"  Small flow oscillations, B minimum with HF E waves"
+2016-09-15/18:04:14 - 2016-09-15/18:06:14,   5.0, ocontel(EVA)," Small flow oscillations, B minimum with HF E waves and B waves and cold ions"
+2016-09-15/18:06:14 - 2016-09-15/18:08:04,   5.0, ocontel(EVA)," Small flow oscillations, B minimum with HF E waves and B waves and cold ions"
+2016-09-15/18:08:04 - 2016-09-15/18:10:04,   5.0, ocontel(EVA)," Small flow oscillations, B minimum with HF E waves and B waves and cold ions"
+2016-09-15/18:16:14 - 2016-09-15/18:18:44,   5.0, ocontel(EVA),"  Small flow oscillations, B minimun with HF E waves and B waves"
+2016-09-15/18:18:44 - 2016-09-15/18:21:04,   5.0, ocontel(EVA),"  Small flow oscillations, B minimun with HF E waves and B waves"
+2016-09-15/18:21:04 - 2016-09-15/18:23:34,   5.0, ocontel(EVA),"  Small flow oscillations, B minimun with HF E waves and B waves"
+2016-09-15/18:26:54 - 2016-09-15/18:29:04,   5.0, ocontel(EVA),"  Small flow oscillations, B miminum with HF and LF E waves and B waves and cold ions"
+2016-09-15/18:29:04 - 2016-09-15/18:31:24,   5.0, ocontel(EVA),"  Small flow oscillations, B miminum with HF and LF E waves and B waves and cold ions"
+2016-09-15/18:31:24 - 2016-09-15/18:33:34,   5.0, ocontel(EVA),"  Small flow oscillations, B miminum with HF and LF E waves and B waves and cold ions"
+2016-09-15/18:33:34 - 2016-09-15/18:35:54,   5.0, ocontel(EVA),"  Small flow oscillations, B miminum with HF and LF E waves and B waves and cold ions"
+2016-09-15/18:53:14 - 2016-09-15/18:55:14,   5.0, ocontel(EVA),  HF and LF E waves
+2016-09-15/20:20:24 - 2016-09-15/20:23:14,   5.0, ocontel(EVA),  HF E waves
+2016-09-15/20:35:34 - 2016-09-15/20:37:24,   5.0, ocontel(EVA),  Small sunward flow with HF E waves
+2016-09-15/20:39:34 - 2016-09-15/20:43:24,   5.0, ocontel(EVA),  Small sunward flow with HF E waves
+2016-09-15/21:18:04 - 2016-09-15/21:22:04,   5.0, ocontel(EVA),  Small sunward flow with HF E waves
+2016-09-15/21:23:14 - 2016-09-15/21:26:14,   5.0, ocontel(EVA)," Small sunward/southward flow, B minimum with HF E waves and B waves"
+2016-09-15/21:38:04 - 2016-09-15/21:40:04,   5.0, ocontel(EVA),  Small sunward flow with HF E waves
+2016-09-15/21:40:04 - 2016-09-15/21:42:04,   5.0, ocontel(EVA),  Small sunward flow with HF E waves
+2016-09-15/21:42:04 - 2016-09-15/21:44:04,   5.0, ocontel(EVA),  Small sunward flow with HF E waves
+2016-09-15/21:47:04 - 2016-09-15/21:51:44,   5.0, ocontel(EVA),  Small sunward/duskward flow with HF and LF E waves
+2016-09-15/22:01:34 - 2016-09-15/22:04:04,   5.0, ocontel(EVA),  Small sunward flow with HF E waves
+2016-09-15/23:20:14 - 2016-09-15/23:22:14,   5.0, ocontel(EVA),  Small southward/duskward flow with HF E waves
+2016-09-15/23:22:14 - 2016-09-15/23:24:04,   5.0, ocontel(EVA),  Small southward/duskward flow with HF E waves
+2016-09-15/23:24:04 - 2016-09-15/23:26:04,   5.0, ocontel(EVA),  Small southward/duskward flow with HF E waves

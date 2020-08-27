@@ -1,0 +1,137 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-10-09/12:06:13 - 2017-10-09/12:08:33,  28.0, jburch(EVA),  magnetosheath density cavity
+2017-10-09/12:08:33 - 2017-10-09/12:10:43,  28.0, jburch(EVA),  magnetosheath density cavity
+2017-10-09/12:10:43 - 2017-10-09/12:13:03,  28.0, jburch(EVA),  magnetosheath density cavity
+2017-10-09/13:52:23 - 2017-10-09/13:53:53,  58.7, jburch(EVA), magnetosheath current sheet 
+2017-10-09/13:54:33 - 2017-10-09/13:56:23, 112.2, jburch(EVA), magnetosheath magnetic null with vortex 
+2017-10-09/14:03:43 - 2017-10-09/14:04:53,  40.0, jburch(EVA),  magnetosheath current sheet
+2017-10-09/18:13:03 - 2017-10-09/18:14:43,  73.0, jburch(EVA), bow shock
+2017-10-09/18:47:43 - 2017-10-09/18:50:53,  40.0, jburch(EVA), solar wind current sheet 
+2017-10-09/19:03:43 - 2017-10-09/19:05:33,  73.0, jburch(EVA), bow shock 
+2017-10-09/19:52:53 - 2017-10-09/19:55:23,  73.0, jburch(EVA), bow shock 
+2017-10-09/20:43:53 - 2017-10-09/20:45:43,  79.0, jburch(EVA), magnetosheath flux rope with foreshock electrons and Langmuir waves
+2017-10-09/20:45:43 - 2017-10-09/20:47:43,  79.0, jburch(EVA), magnetosheath flux rope with foreshock electrons and Langmuir waves
+2017-10-09/20:53:43 - 2017-10-09/20:55:33,  79.0, jburch(EVA), magnetosheath flux rope 
+2017-10-09/20:55:33 - 2017-10-09/20:57:33,  79.0, jburch(EVA), magnetosheath flux rope 
+2017-10-09/21:13:33 - 2017-10-09/21:15:53,  68.0, jburch(EVA), bow shockj 
+2017-10-09/21:15:53 - 2017-10-09/21:18:23,  68.0, jburch(EVA), bow shockj 
+2017-10-09/21:31:43 - 2017-10-09/21:33:53,  73.0, jburch(EVA), bow shock 
+2017-10-09/22:08:53 - 2017-10-09/22:13:43,  40.0, jburch(EVA), foreshock ions 
+2017-10-09/22:28:53 - 2017-10-09/22:31:23,  40.0, jburch(EVA), solar wind turbulence 
+2017-10-09/22:31:23 - 2017-10-09/22:33:53,  40.0, jburch(EVA), solar wind turbulence 
+2017-10-09/22:34:33 - 2017-10-09/22:37:53,  40.0, jburch(EVA), foreshock ions 
+2017-10-09/23:05:13 - 2017-10-09/23:07:13,  40.0, jburch(EVA), solar wind turbulence 
+2017-10-09/23:07:13 - 2017-10-09/23:09:23,  40.0, jburch(EVA), solar wind turbulence 
+2017-10-10/00:35:33 - 2017-10-10/00:37:23,  63.0, jburch(EVA), solar wind flux rope 
+2017-10-10/00:37:23 - 2017-10-10/00:39:13,  63.0, jburch(EVA), solar wind flux rope 
+2017-10-10/08:11:03 - 2017-10-10/08:13:13,  73.0, jburch(EVA), bow shock 
+2017-10-10/11:07:43 - 2017-10-10/11:08:23,  94.0, jburch(EVA), magnetosheath current sheets with magnetic nulls 
+2017-10-10/11:09:23 - 2017-10-10/11:10:23,  40.0, jburch(EVA), magnetosheath current sheet with whiltlers 
+2017-10-10/15:43:43 - 2017-10-10/15:46:03,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/15:46:03 - 2017-10-10/15:48:33,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/15:48:33 - 2017-10-10/15:50:53,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/15:50:53 - 2017-10-10/15:53:13,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/15:53:13 - 2017-10-10/15:55:43,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/15:55:43 - 2017-10-10/15:58:03,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:03:03 - 2017-10-10/16:05:33,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:05:33 - 2017-10-10/16:08:03,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:08:03 - 2017-10-10/16:10:33,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:10:33 - 2017-10-10/16:13:03,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:13:03 - 2017-10-10/16:15:33,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:15:33 - 2017-10-10/16:18:03,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:18:03 - 2017-10-10/16:20:33,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:20:33 - 2017-10-10/16:23:03,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:23:03 - 2017-10-10/16:25:33,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:25:33 - 2017-10-10/16:28:03,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:28:03 - 2017-10-10/16:30:33,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:30:33 - 2017-10-10/16:33:03,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:33:03 - 2017-10-10/16:35:33,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:35:33 - 2017-10-10/16:38:03,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:38:03 - 2017-10-10/16:40:33,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:40:33 - 2017-10-10/16:43:03,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:43:03 - 2017-10-10/16:45:23,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:45:23 - 2017-10-10/16:47:53,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:47:53 - 2017-10-10/16:50:23,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:50:23 - 2017-10-10/16:52:53,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:52:53 - 2017-10-10/16:55:23,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:55:23 - 2017-10-10/16:57:53,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/16:57:53 - 2017-10-10/17:00:23,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:00:23 - 2017-10-10/17:02:53,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:02:53 - 2017-10-10/17:05:23,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:05:23 - 2017-10-10/17:07:53,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:07:53 - 2017-10-10/17:10:23,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:10:23 - 2017-10-10/17:12:53,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:12:53 - 2017-10-10/17:15:23,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:15:23 - 2017-10-10/17:17:53,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:17:53 - 2017-10-10/17:20:23,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:20:23 - 2017-10-10/17:22:53,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:22:53 - 2017-10-10/17:25:23,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:32:53 - 2017-10-10/17:35:03,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:35:03 - 2017-10-10/17:37:13,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:37:13 - 2017-10-10/17:39:23,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:39:23 - 2017-10-10/17:41:33,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:49:03 - 2017-10-10/17:51:23,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:51:23 - 2017-10-10/17:53:43,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:53:43 - 2017-10-10/17:55:53,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:55:53 - 2017-10-10/17:58:13,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/17:58:13 - 2017-10-10/18:00:33,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-10/18:00:33 - 2017-10-10/18:02:53,  63.0, jburch(EVA), magnetosheath turbulence 
+2017-10-11/00:14:33 - 2017-10-11/00:17:03,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:17:03 - 2017-10-11/00:19:23,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:19:23 - 2017-10-11/00:21:53,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:21:53 - 2017-10-11/00:24:13,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:24:13 - 2017-10-11/00:26:43,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:26:43 - 2017-10-11/00:29:13,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:29:13 - 2017-10-11/00:31:33,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:31:33 - 2017-10-11/00:34:03,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:34:03 - 2017-10-11/00:36:23,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:36:23 - 2017-10-11/00:38:53,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:38:53 - 2017-10-11/00:41:23,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:41:23 - 2017-10-11/00:43:43,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:43:43 - 2017-10-11/00:46:13,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:46:13 - 2017-10-11/00:48:43,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:48:43 - 2017-10-11/00:51:03,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:51:03 - 2017-10-11/00:53:33,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:53:33 - 2017-10-11/00:55:53,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/00:55:53 - 2017-10-11/00:58:23,  40.0, jburch(EVA), magnetopause current sheet 
+2017-10-11/01:30:23 - 2017-10-11/01:32:43,  89.0, jburch(EVA), possible magnetosheath reconnection 
+2017-10-11/01:32:43 - 2017-10-11/01:35:03,  89.0, jburch(EVA), possible magnetosheath reconnection 
+2017-10-11/01:35:03 - 2017-10-11/01:37:23,  89.0, jburch(EVA), possible magnetosheath reconnection 
+2017-10-11/01:37:23 - 2017-10-11/01:39:43,  89.0, jburch(EVA), possible magnetosheath reconnection 
+2017-10-11/01:39:43 - 2017-10-11/01:42:03,  89.0, jburch(EVA), possible magnetosheath reconnection 
+2017-10-11/01:42:03 - 2017-10-11/01:44:23,  89.0, jburch(EVA), possible magnetosheath reconnection 
+2017-10-11/01:44:23 - 2017-10-11/01:46:43,  89.0, jburch(EVA), possible magnetosheath reconnection 
+2017-10-11/01:46:43 - 2017-10-11/01:49:03,  89.0, jburch(EVA), possible magnetosheath reconnection 
+2017-10-11/01:49:03 - 2017-10-11/01:51:23,  89.0, jburch(EVA), possible magnetosheath reconnection 
+2017-10-11/01:51:23 - 2017-10-11/01:53:43,  89.0, jburch(EVA), possible magnetosheath reconnection 
+2017-10-11/01:53:43 - 2017-10-11/01:56:03,  89.0, jburch(EVA), possible magnetosheath reconnection 
+2017-10-11/01:56:03 - 2017-10-11/01:58:23,  89.0, jburch(EVA), possible magnetosheath reconnection 
+2017-10-11/02:08:13 - 2017-10-11/02:10:43, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:10:43 - 2017-10-11/02:13:03, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:13:03 - 2017-10-11/02:15:33, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:15:33 - 2017-10-11/02:18:03, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:18:03 - 2017-10-11/02:20:33, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:20:33 - 2017-10-11/02:22:53, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:22:53 - 2017-10-11/02:25:23, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:25:23 - 2017-10-11/02:27:53, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:27:53 - 2017-10-11/02:30:23, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:30:23 - 2017-10-11/02:32:43, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:32:43 - 2017-10-11/02:35:13, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:35:13 - 2017-10-11/02:37:43, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:37:43 - 2017-10-11/02:40:13, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:40:13 - 2017-10-11/02:42:33, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:42:33 - 2017-10-11/02:45:03, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:45:03 - 2017-10-11/02:47:33, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:47:33 - 2017-10-11/02:50:03, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:50:03 - 2017-10-11/02:52:23, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:52:23 - 2017-10-11/02:54:53, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/02:54:53 - 2017-10-11/02:57:23, 112.0, jburch(EVA), multiple low-shear magnetopause crossings 
+2017-10-11/03:09:23 - 2017-10-11/03:11:53,  40.0, jburch(EVA), low-latitude boundary layer 
+2017-10-11/03:11:53 - 2017-10-11/03:14:23,  40.0, jburch(EVA), low-latitude boundary layer 
+2017-10-11/03:14:23 - 2017-10-11/03:16:53,  40.0, jburch(EVA), low-latitude boundary layer 
+2017-10-11/03:16:53 - 2017-10-11/03:19:23,  40.0, jburch(EVA), low-latitude boundary layer 
+2017-10-11/03:19:23 - 2017-10-11/03:21:43,  40.0, jburch(EVA), low-latitude boundary layer 
+2017-10-11/03:21:43 - 2017-10-11/03:24:13,  40.0, jburch(EVA), low-latitude boundary layer 
+2017-10-11/03:24:13 - 2017-10-11/03:26:43,  40.0, jburch(EVA), low-latitude boundary layer 
+2017-10-11/03:26:43 - 2017-10-11/03:29:13,  40.0, jburch(EVA), low-latitude boundary layer 
+2017-10-11/03:29:13 - 2017-10-11/03:31:43,  40.0, jburch(EVA), low-latitude boundary layer 

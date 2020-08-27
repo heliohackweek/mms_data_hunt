@@ -1,0 +1,138 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-06-13/17:30:53 - 2017-06-13/17:33:13, 140.0, aretino(EVA),"  Vx jet, Bz increase, electron heating. Jet front."
+2017-06-13/17:33:13 - 2017-06-13/17:35:33, 140.0, aretino(EVA),"  Vx jet, Bz increase, electron heating. Jet front."
+2017-06-13/17:35:33 - 2017-06-13/17:37:53, 140.0, aretino(EVA),"  Vx jet, Bz increase, electron heating. Jet front."
+2017-06-13/17:37:53 - 2017-06-13/17:40:13, 140.0, aretino(EVA),"  Vx jet, Bz increase, electron heating. Jet front."
+2017-06-13/17:40:13 - 2017-06-13/17:42:43, 140.0, aretino(EVA),"  Vx jet, Bz increase, electron heating. Jet front."
+2017-06-13/17:42:43 - 2017-06-13/17:45:03, 140.0, aretino(EVA),"  Vx jet, Bz increase, electron heating. Jet front."
+2017-06-13/17:45:03 - 2017-06-13/17:47:23, 140.0, aretino(EVA),"  Vx jet, Bz increase, electron heating. Jet front."
+2017-06-13/17:47:23 - 2017-06-13/17:49:43, 140.0, aretino(EVA),"  Vx jet, Bz increase, electron heating. Jet front."
+2017-06-13/17:49:43 - 2017-06-13/17:52:03, 140.0, aretino(EVA),"  Vx jet, Bz increase, electron heating. Jet front."
+2017-06-13/18:26:13 - 2017-06-13/18:27:43, 120.0, aretino(EVA),"   Vx parallel flow, density cavity with E waves. Separatrix region."
+2017-06-13/18:27:43 - 2017-06-13/18:29:13, 120.0, aretino(EVA),"  Vx parallel flow, density cavity with E waves. Separatrix region."
+2017-06-13/20:50:43 - 2017-06-13/20:53:03,  90.0, aretino(EVA),"  Bx reversal, magnetic null, electron heating. "
+2017-06-13/20:53:03 - 2017-06-13/20:55:33,  90.0, aretino(EVA),"  Bx reversal, magnetic null, electron heating. "
+2017-06-13/20:55:33 - 2017-06-13/20:57:53,  90.0, aretino(EVA),"  Bx reversal, magnetic null, electron heating. "
+2017-06-13/20:57:53 - 2017-06-13/21:00:23,  90.0, aretino(EVA),"  Bx reversal, magnetic null, electron heating. "
+2017-06-13/21:07:13 - 2017-06-13/21:09:43, 140.0, aretino(EVA),"  Bx reversal, B null, strong currents, electron heating, large Ey field, E waves. "
+2017-06-13/21:09:43 - 2017-06-13/21:12:13, 140.0, aretino(EVA),"  Bx reversal, B null, strong currents, electron heating, large Ey field, E waves. "
+2017-06-13/21:12:13 - 2017-06-13/21:14:43, 140.0, aretino(EVA),"  Bx reversal, B null, strong currents, electron heating, large Ey field, E waves. "
+2017-06-13/21:22:43 - 2017-06-13/21:24:33, 140.0, aretino(EVA),"  Vx jet, Bz enhancement, strong E field. Reconnection jet/jet front."
+2017-06-13/21:24:33 - 2017-06-13/21:26:13, 140.0, aretino(EVA),"  Vx jet, Bz enhancement, strong E field. Reconnection jet/jet front."
+2017-06-13/21:26:13 - 2017-06-13/21:28:03, 140.0, aretino(EVA),"  Vx jet, Bz enhancement, strong E field. Reconnection jet/jet front."
+2017-06-13/21:28:03 - 2017-06-13/21:30:13, 150.0, aretino(EVA),"  Vx jet, partial Bx reversal, B nulls, strong currents , electron heating, strong E field and waves. Possible diffusion region."
+2017-06-13/21:30:13 - 2017-06-13/21:32:13, 150.0, aretino(EVA),"  Vx jet, partial Bx reversal, B nulls, strong currents , electron heating, strong E field and waves. Possible diffusion region."
+2017-06-13/21:32:13 - 2017-06-13/21:34:23, 150.0, aretino(EVA),"  Vx jet, partial Bx reversal, B nulls, strong currents , electron heating, strong E field and waves. Possible diffusion region."
+2017-06-13/21:34:23 - 2017-06-13/21:36:33, 150.0, aretino(EVA),"  Vx jet, partial Bx reversal, B nulls, strong currents , electron heating, strong E field and waves. Possible diffusion region."
+2017-06-13/21:36:33 - 2017-06-13/21:38:33, 150.0, aretino(EVA),"  Vx jet, partial Bx reversal, B null, strong currents, electron heating, strong E and waves. Small-scale islands. Possible diffusion region."
+2017-06-13/21:38:33 - 2017-06-13/21:40:43, 150.0, aretino(EVA),"  Vx jet, partial Bx reversal, B null, strong currents, electron heating, strong E and waves. Small-scale islands. Possible diffusion region."
+2017-06-13/21:40:43 - 2017-06-13/21:42:43, 150.0, aretino(EVA),"  Vx jet, partial Bx reversal, B null, strong currents, electron heating, strong E and waves. Small-scale islands. Possible diffusion region."
+2017-06-13/21:42:43 - 2017-06-13/21:44:53, 150.0, aretino(EVA),"  Vx jet, partial Bx reversal, B null, strong currents, electron heating, strong E and waves. Small-scale islands. Possible diffusion region."
+2017-06-13/22:12:03 - 2017-06-13/22:14:23,  75.0, aretino(EVA),"  Slow Bx reversal, B minima."
+2017-06-13/22:14:23 - 2017-06-13/22:16:43,  75.0, aretino(EVA),"  Slow Bx reversal, B minima."
+2017-06-13/22:16:43 - 2017-06-13/22:19:03,  75.0, aretino(EVA),"  Slow Bx reversal, B minima."
+2017-06-13/22:19:03 - 2017-06-13/22:21:33,  75.0, aretino(EVA),"  Slow Bx reversal, B minima."
+2017-06-13/22:21:33 - 2017-06-13/22:23:53,  75.0, aretino(EVA),"  Slow Bx reversal, B minima."
+2017-06-13/22:23:53 - 2017-06-13/22:26:13,  75.0, aretino(EVA),"  Slow Bx reversal, B minima."
+2017-06-13/22:26:13 - 2017-06-13/22:28:33,  75.0, aretino(EVA),"  Slow Bx reversal, B minima."
+2017-06-13/22:44:23 - 2017-06-13/22:46:33, 110.0, aretino(EVA),  Bx reversal. Bifurcated current sheet. Possible Hall region.
+2017-06-13/22:46:33 - 2017-06-13/22:48:43, 110.0, aretino(EVA),  Bx reversal. Bifurcated current sheet. Possible Hall region.
+2017-06-13/22:48:43 - 2017-06-13/22:51:03, 110.0, aretino(EVA),  Bx reversal. Bifurcated current sheet. Possible Hall region.
+2017-06-13/22:51:03 - 2017-06-13/22:53:13, 110.0, aretino(EVA),  Bx reversal. Bifurcated current sheet. Possible Hall region.
+2017-06-13/22:53:13 - 2017-06-13/22:55:23, 110.0, aretino(EVA),  Bx reversal. Bifurcated current sheet. Possible Hall region.
+2017-06-13/23:41:13 - 2017-06-13/23:46:13, 120.0, aretino(EVA),"  Partial Bx reversal, B minimum, electron heating."
+2017-06-14/00:09:03 - 2017-06-14/00:10:33, 110.0, aretino(EVA),"  By perturbation, currents, N gradient, large E field. Separatrix region."
+2017-06-14/00:16:43 - 2017-06-14/00:18:43, 110.0, aretino(EVA),"   By perturbation, currents, N gradient, large E field. Separatrix region."
+2017-06-14/00:18:43 - 2017-06-14/00:20:33, 110.0, aretino(EVA),"   By perturbation, currents, N gradient, large E field. Separatrix region."
+2017-06-14/00:20:33 - 2017-06-14/00:22:33, 110.0, aretino(EVA),"   By perturbation, currents, N gradient, large E field. Separatrix region."
+2017-06-14/00:43:23 - 2017-06-14/00:45:43,  75.0, aretino(EVA),"  Slow Bx reversal, B minimum."
+2017-06-14/00:45:43 - 2017-06-14/00:47:53,  75.0, aretino(EVA),"  Slow Bx reversal, B minimum."
+2017-06-14/00:47:53 - 2017-06-14/00:50:13,  75.0, aretino(EVA),"  Slow Bx reversal, B minimum."
+2017-06-14/00:50:13 - 2017-06-14/00:52:33,  75.0, aretino(EVA),"  Slow Bx reversal, B minimum."
+2017-06-14/00:52:33 - 2017-06-14/00:54:43,  75.0, aretino(EVA),"  Slow Bx reversal, B minimum."
+2017-06-14/00:54:43 - 2017-06-14/00:57:03,  75.0, aretino(EVA),"  Slow Bx reversal, B minimum."
+2017-06-14/00:57:43 - 2017-06-14/01:01:03, 150.0, aretino(EVA),"  Bx reversal, bipolar By, bipolar Bz. Possible diffusin region with island."
+2017-06-14/01:58:23 - 2017-06-14/01:59:43, 120.0, aretino(EVA),"  CS crossing with bipolar Bz, null (electron heating)"
+2017-06-14/01:59:43 - 2017-06-14/02:01:43, 120.0, aretino(EVA),"  CS crossing with bipolar Bz, null (electron heating)"
+2017-06-14/02:01:43 - 2017-06-14/02:03:53, 120.0, aretino(EVA),"  CS crossing with bipolar Bz, null (electron heating)"
+2017-06-14/02:38:13 - 2017-06-14/02:40:33, 120.0, aretino(EVA),"  Vx and Bx reversal, bipolar Bz with strong currents"
+2017-06-14/02:40:33 - 2017-06-14/02:42:53, 120.0, aretino(EVA),"  Vx and Bx reversal, bipolar Bz with strong currents"
+2017-06-14/02:42:53 - 2017-06-14/02:45:13, 120.0, aretino(EVA),"  Vx and Bx reversal, bipolar Bz with strong currents"
+2017-06-14/03:53:13 - 2017-06-14/03:55:33,  75.0, aretino(EVA), Slow Bx reversal. Bifurcated CS.
+2017-06-14/03:55:33 - 2017-06-14/03:58:03,  75.0, aretino(EVA),  Bifurcated CS with electron heating
+2017-06-14/03:58:03 - 2017-06-14/04:00:23,  75.0, aretino(EVA),  Bifurcated CS with electron heating
+2017-06-14/04:00:23 - 2017-06-14/04:02:43,  75.0, aretino(EVA),  Bifurcated CS with electron heating
+2017-06-14/04:02:43 - 2017-06-14/04:05:13,  75.0, aretino(EVA),  Bifurcated CS with electron heating
+2017-06-14/04:05:13 - 2017-06-14/04:07:33,  75.0, aretino(EVA),  Bifurcated CS with electron heating
+2017-06-14/04:55:23 - 2017-06-14/04:58:53,  75.0, aretino(EVA), Bz reversal with waves and strong currents
+2017-06-14/05:51:13 - 2017-06-14/05:54:23, 140.0, aretino(EVA),"  Partial B reversal, multiple bipolar Bz and magnetic minima. Large Vx positive flow and energetic particles"
+2017-06-14/06:01:43 - 2017-06-14/06:04:13, 130.0, aretino(EVA),  Bz reversal with large Vx flow. Strong currents and energetic particles.
+2017-06-14/06:04:13 - 2017-06-14/06:05:43, 130.0, aretino(EVA),  Bz reversal with high Vx flow. Strong currents and energetic particles.
+2017-06-14/06:47:33 - 2017-06-14/06:49:13, 100.0, aretino(EVA),"  Bipolar Bz, B minima. Strong currents and Vx flow."
+2017-06-14/06:49:13 - 2017-06-14/06:51:23, 100.0, aretino(EVA),"  Bipolar Bz, B minima. Strong currents and Vx flow."
+2017-06-14/06:51:23 - 2017-06-14/06:53:43, 100.0, aretino(EVA),"  Bipolar Bz, B minima. Strong currents and Vx flow."
+2017-06-14/06:53:43 - 2017-06-14/06:55:43, 100.0, aretino(EVA),"  Bipolar Bz, B minima. Strong currents and Vx flow."
+2017-06-14/07:04:33 - 2017-06-14/07:06:03,  90.0, aretino(EVA),  Multiple bipolar Bz with high flow. E field fluctuations and energetic particles
+2017-06-14/07:06:03 - 2017-06-14/07:07:43,  90.0, aretino(EVA),  Multiple bipolar Bz with large flow. E field fluctuations and energetic particles
+2017-06-14/08:50:13 - 2017-06-14/08:52:13, 140.0, aretino(EVA),"  Bz increase, Vx jet, E field waves. Jet front."
+2017-06-14/08:52:13 - 2017-06-14/08:54:03, 140.0, aretino(EVA),"  Bz increase, Vx jet, E field waves. Jet front."
+2017-06-14/08:54:03 - 2017-06-14/08:56:03, 140.0, aretino(EVA),"  Bz increase, Vx jet, E field waves. Jet front."
+2017-06-14/11:41:53 - 2017-06-14/11:43:43, 140.0, aretino(EVA), High Vx > 0 jet. DF with strong E fluctuations and waves
+2017-06-14/11:43:43 - 2017-06-14/11:45:33, 140.0, aretino(EVA), High Vx > 0 jet. DF with strong E fluctuations and waves
+2017-06-14/11:45:33 - 2017-06-14/11:47:23, 140.0, aretino(EVA), High Vx > 0 jet. DF with strong E fluctuations and waves
+2017-06-14/11:47:23 - 2017-06-14/11:49:33, 140.0, aretino(EVA), High Vx > 0 jet. DF with strong E fluctuations and waves
+2017-06-14/11:53:53 - 2017-06-14/11:55:53, 140.0, aretino(EVA),"  B minima, high Vx>0 jet with bipolar Bz. E fluctuations and waves."
+2017-06-14/11:55:53 - 2017-06-14/11:58:03, 140.0, aretino(EVA),"  B minima, high Vx>0 jet with bipolar Bz. E fluctuations and waves."
+2017-06-14/11:58:03 - 2017-06-14/11:59:23, 140.0, aretino(EVA),"  B minima, high Vx>0 jet with bipolar Bz. E fluctuations and waves."
+2017-06-14/12:22:13 - 2017-06-14/12:23:53, 120.0, aretino(EVA)," B minima. Large Vx jet, Vy jet. Strong E. Waves "
+2017-06-14/12:23:53 - 2017-06-14/12:26:03, 120.0, aretino(EVA)," B minima. Large Vx jet, Vy jet. Strong E. Waves "
+2017-06-14/12:35:03 - 2017-06-14/12:37:33, 100.0, aretino(EVA),"  Vx jet reversal, B increase, density dip, stron E fluctuations and waves. "
+2017-06-14/13:00:43 - 2017-06-14/13:02:33, 120.0, aretino(EVA),"  Vx jet, multiple Bz dipolar fluctuations, waves."
+2017-06-14/13:02:33 - 2017-06-14/13:04:53, 120.0, aretino(EVA),"  Vx jet, multiple Bz dipolar fluctuations, waves."
+2017-06-14/13:04:53 - 2017-06-14/13:08:03, 120.0, aretino(EVA),"  Vx jet, multiple Bz dipolar fluctuations, waves."
+2017-06-14/16:57:03 - 2017-06-14/16:59:23, 140.0, aretino(EVA),"  Vx jet reversal, CS crossing, Bz bipolar fluctuations."
+2017-06-14/16:59:23 - 2017-06-14/17:01:53, 140.0, aretino(EVA),"  Vx jet reversal, CS crossing, Bz bipolar fluctuations."
+2017-06-14/17:01:53 - 2017-06-14/17:04:23, 140.0, aretino(EVA),"  Vx jet reversal, CS crossing, Bz bipolar fluctuations."
+2017-06-14/17:04:23 - 2017-06-14/17:06:53, 140.0, aretino(EVA),"  Vx jet reversal, CS crossing, Bz bipolar fluctuations."
+2017-06-14/17:06:53 - 2017-06-14/17:09:13, 140.0, aretino(EVA),"  Vx jet reversal, CS crossing, Bz bipolar fluctuations."
+2017-06-14/17:09:13 - 2017-06-14/17:11:43, 140.0, aretino(EVA),"  Vx jet reversal, CS crossing, Bz bipolar fluctuations."
+2017-06-14/17:11:43 - 2017-06-14/17:14:13, 140.0, aretino(EVA),"  Vx jet reversal, CS crossing, Bz bipolar fluctuations."
+2017-06-14/17:14:13 - 2017-06-14/17:16:43, 140.0, aretino(EVA),"  Vx jet reversal, CS crossing, Bz bipolar fluctuations."
+2017-06-14/17:43:53 - 2017-06-14/17:46:13, 100.0, aretino(EVA),"  Bz dipolar fluctuations, Vx jet reversal."
+2017-06-14/17:46:13 - 2017-06-14/17:48:33, 100.0, aretino(EVA),"  Bz dipolar fluctuations, Vx jet reversal."
+2017-06-14/17:48:33 - 2017-06-14/17:51:03, 100.0, aretino(EVA),"  Bz dipolar fluctuations, Vx jet reversal."
+2017-06-14/17:51:03 - 2017-06-14/17:53:23, 100.0, aretino(EVA),"  Bz dipolar fluctuations, Vx jet reversal."
+2017-06-14/18:01:03 - 2017-06-14/18:03:03, 100.0, aretino(EVA),"  Vx jet reversal, Bz dipolar fluctuations, compressed B."
+2017-06-14/18:03:03 - 2017-06-14/18:05:13, 100.0, aretino(EVA),"  Vx jet reversal, Bz dipolar fluctuations, compressed B."
+2017-06-14/18:05:13 - 2017-06-14/18:07:53, 100.0, aretino(EVA),"  Vx jet reversal, Bz dipolar fluctuations, compressed B."
+2017-06-14/18:55:33 - 2017-06-14/18:57:23, 100.0, aretino(EVA),"  Vx>0 jet, Bz enhancement."
+2017-06-14/18:57:23 - 2017-06-14/18:59:03, 100.0, aretino(EVA),"  Vx>0 jet, Bz enhancement."
+2017-06-14/18:59:03 - 2017-06-14/19:00:53, 100.0, aretino(EVA),"  Vx>0 jet, Bz enhancement."
+2017-06-14/19:16:03 - 2017-06-14/19:19:03, 140.0, aretino(EVA)," Vx>0 jet, Bz dipolar fluctuations, waves."
+2017-06-14/19:19:03 - 2017-06-14/19:22:33, 140.0, aretino(EVA)," Vx>0 jet, Bz dipolar fluctuations, waves."
+2017-06-14/19:25:03 - 2017-06-14/19:27:53, 140.0, aretino(EVA)," Vx>0 jet, Bz dipolar fluctuations, waves."
+2017-06-14/19:27:53 - 2017-06-14/19:30:03, 140.0, aretino(EVA)," Vx>0 jet, Bz dipolar fluctuations, waves."
+2017-06-14/19:46:53 - 2017-06-14/19:48:53, 110.0, aretino(EVA),"  Multiple CS crossings, Vx>0 jet, Bz dipolar fluctuations, strong E field. . "
+2017-06-14/19:48:53 - 2017-06-14/19:51:13, 110.0, aretino(EVA),"  Multiple CS crossings, Vx>0 jet, Bz dipolar fluctuations, strong E field. . "
+2017-06-14/19:51:13 - 2017-06-14/19:53:23, 110.0, aretino(EVA),"  Multiple CS crossings, Vx>0 jet, Bz dipolar fluctuations, strong E field. . "
+2017-06-14/19:53:23 - 2017-06-14/19:55:43, 110.0, aretino(EVA),"  Multiple CS crossings, Vx>0 jet, Bz dipolar fluctuations, strong E field. . "
+2017-06-14/19:55:43 - 2017-06-14/19:56:53, 110.0, aretino(EVA),"  Multiple CS crossings, Vx>0 jet, Bz dipolar fluctuations, strong E field. . "
+2017-06-14/23:25:03 - 2017-06-14/23:27:13,  75.0, aretino(EVA),  Slow Bx reversal. Bifurcated current sheet possibly close to onset
+2017-06-14/23:27:13 - 2017-06-14/23:29:23,  75.0, aretino(EVA),  Slow Bx reversal. Bifurcated current sheet possibly close to onset
+2017-06-14/23:29:23 - 2017-06-14/23:31:33,  75.0, aretino(EVA),  Slow Bx reversal. Bifurcated current sheet possibly close to onset
+2017-06-14/23:31:33 - 2017-06-14/23:33:43,  75.0, aretino(EVA),  Slow Bx reversal. Bifurcated current sheet possibly close to onset
+2017-06-14/23:33:43 - 2017-06-14/23:35:53,  75.0, aretino(EVA),  Slow Bx reversal. Bifurcated current sheet possibly close to onset
+2017-06-14/23:45:53 - 2017-06-14/23:50:53, 140.0, aretino(EVA),"  Bx reversal, Bz bipolar, Vx>0 jet"
+2017-06-15/01:37:13 - 2017-06-15/01:39:23, 140.0, aretino(EVA)," Bx reversal, Vx ion jet, Vxy electron jet"
+2017-06-15/01:39:23 - 2017-06-15/01:41:33, 140.0, aretino(EVA)," Bx reversal, Vx ion jet, Vxy electron jet"
+2017-06-15/01:41:33 - 2017-06-15/01:43:43, 140.0, aretino(EVA)," Bx reversal, Vx ion jet, Vxy electron jet"
+2017-06-15/01:43:43 - 2017-06-15/01:45:53, 140.0, aretino(EVA)," Bx reversal, Vx ion jet, Vxy electron jet"
+2017-06-15/02:11:13 - 2017-06-15/02:13:43, 150.0, aretino(EVA),"  Bx reversal, Bz reversals, B nulls, Vx ion jet reversal, electron jets."
+2017-06-15/02:13:43 - 2017-06-15/02:16:03, 150.0, aretino(EVA),"  Bx reversal, Bz reversals, B nulls, Vx ion jet reversal, electron jets."
+2017-06-15/02:16:03 - 2017-06-15/02:18:33, 150.0, aretino(EVA),"  Bx reversal, Bz reversals, B nulls, Vx ion jet reversal, electron jets."
+2017-06-15/02:18:33 - 2017-06-15/02:20:53, 150.0, aretino(EVA),"  Bx reversal, Bz reversals, B nulls, Vx ion jet reversal, electron jets."
+2017-06-15/02:20:53 - 2017-06-15/02:23:23, 150.0, aretino(EVA),"  Bx reversal, Bz reversals, B nulls, Vx ion jet reversal, electron jets."
+2017-06-15/02:23:23 - 2017-06-15/02:25:53, 150.0, aretino(EVA),"  Bx reversal, Bz reversals, B nulls, Vx ion jet reversal, electron jets."
+2017-06-15/02:25:53 - 2017-06-15/02:28:13, 150.0, aretino(EVA),"  Bx reversal, Bz reversals, B nulls, Vx ion jet reversal, electron jets."
+2017-06-15/02:28:13 - 2017-06-15/02:30:43, 150.0, aretino(EVA),"  Bx reversal, Bz reversals, B nulls, Vx ion jet reversal, electron jets."
+2017-06-15/07:15:53 - 2017-06-15/07:18:13, 120.0, aretino(EVA),"  Bx gradient, Vx ion and electron flows. Magnetic separatrix."

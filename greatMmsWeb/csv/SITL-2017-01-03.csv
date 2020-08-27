@@ -1,0 +1,81 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-01-03/02:13:43 - 2017-01-03/02:15:33, 115.0, icohen(EVA)," Partial MP crossing, low shear, strong flows with reversal, moderate currents and E-field activity"
+2017-01-03/02:15:33 - 2017-01-03/02:17:33, 115.0, icohen(EVA)," Partial MP crossing, low shear, strong flows with reversal, moderate currents and E-field activity"
+2017-01-03/02:17:33 - 2017-01-03/02:19:23, 115.0, icohen(EVA)," Partial MP crossing, low shear, strong flows with reversal. moderate currents and E-field activity"
+2017-01-03/02:28:13 - 2017-01-03/02:30:33, 115.0, icohen(EVA)," Partial MP crossing, moderate-high shear. strong flows, moderate currents and E-field activity"
+2017-01-03/02:30:33 - 2017-01-03/02:32:53, 115.0, icohen(EVA)," Partial MP crossing, moderate-high shear. strong flows, moderate currents and E-field activity"
+2017-01-03/02:32:53 - 2017-01-03/02:35:13, 115.0, icohen(EVA)," Partial MP crossing, moderate-high shear. strong flows, moderate currents and E-field activity"
+2017-01-03/02:35:13 - 2017-01-03/02:38:23, 115.0, icohen(EVA)," Partial MP crossing, moderate-high shear. strong flows, moderate currents and E-field activity"
+2017-01-03/02:40:13 - 2017-01-03/02:43:13, 115.0, icohen(EVA)," Partial MP crossing, low shear, very strong flows and E-field activity, moderate currents"
+2017-01-03/02:43:13 - 2017-01-03/02:45:33, 175.0, icohen(EVA)," Full MP crossing, high shear, Bmin, strong flows and E-field activity, very strong currents"
+2017-01-03/02:45:33 - 2017-01-03/02:48:03, 175.0, icohen(EVA)," Full MP crossing, high shear, Bmin, strong flows and E-field activity, very strong currents"
+2017-01-03/05:08:23 - 2017-01-03/05:09:43, 125.0, icohen(EVA), Several turbulent magnetosheath CS
+2017-01-03/05:09:43 - 2017-01-03/05:11:03, 125.0, icohen(EVA), Several turbulent magnetosheath CS
+2017-01-03/05:16:53 - 2017-01-03/05:19:03,  75.0, icohen(EVA), BS crossing
+2017-01-03/05:19:03 - 2017-01-03/05:21:23,  75.0, icohen(EVA), BS crossing
+2017-01-03/05:21:23 - 2017-01-03/05:23:33,  75.0, icohen(EVA), BS crossing
+2017-01-03/05:23:33 - 2017-01-03/05:25:53,  99.0, icohen(EVA), BS crossing
+2017-01-03/05:25:53 - 2017-01-03/05:27:43,  99.0, icohen(EVA), Ion foreshock
+2017-01-03/05:27:43 - 2017-01-03/05:29:33,  40.0, icohen(EVA), Ion foreshock
+2017-01-03/05:29:33 - 2017-01-03/05:31:23,  40.0, icohen(EVA), Ion foreshock
+2017-01-03/05:44:13 - 2017-01-03/05:44:43, 125.0, icohen(EVA), SW current sheet
+2017-01-03/05:45:23 - 2017-01-03/05:45:53, 115.0, icohen(EVA), SW current sheet
+2017-01-03/05:47:33 - 2017-01-03/05:48:03, 125.0, icohen(EVA), SW current sheet
+2017-01-03/05:50:23 - 2017-01-03/05:50:53, 125.0, icohen(EVA), SW current sheet
+2017-01-03/05:53:23 - 2017-01-03/05:54:03, 125.0, icohen(EVA), SW current sheet
+2017-01-03/05:56:03 - 2017-01-03/05:56:33, 125.0, icohen(EVA), SW current sheet
+2017-01-03/06:26:13 - 2017-01-03/06:28:33,  40.0, icohen(EVA), Foreshock activity
+2017-01-03/06:28:33 - 2017-01-03/06:30:53,  40.0, icohen(EVA), Foreshock activity
+2017-01-03/06:30:53 - 2017-01-03/06:33:13,  40.0, icohen(EVA), Foreshock activity
+2017-01-03/06:33:13 - 2017-01-03/06:35:23,  40.0, icohen(EVA), Foreshock activity
+2017-01-03/06:35:23 - 2017-01-03/06:37:43,  40.0, icohen(EVA), Foreshock activity
+2017-01-03/06:37:43 - 2017-01-03/06:40:03,  40.0, icohen(EVA), Foreshock activity
+2017-01-03/06:40:03 - 2017-01-03/06:42:23,  40.0, icohen(EVA), Foreshock activity
+2017-01-03/06:42:23 - 2017-01-03/06:44:43,  40.0, icohen(EVA), Foreshock activity
+2017-01-03/06:53:43 - 2017-01-03/06:54:13, 125.0, icohen(EVA), SW current sheet
+2017-01-03/07:15:43 - 2017-01-03/07:16:13, 125.0, icohen(EVA), SW current sheet
+2017-01-03/07:21:43 - 2017-01-03/07:23:13,  80.0, icohen(EVA), Foreshock activity with strong current sheet
+2017-01-03/07:23:13 - 2017-01-03/07:24:53,  80.0, icohen(EVA), Foreshock activity
+2017-01-03/07:45:23 - 2017-01-03/07:47:53,  40.0, icohen(EVA), Foreshock activity
+2017-01-03/07:47:53 - 2017-01-03/07:50:23,  40.0, icohen(EVA), Foreshock activity
+2017-01-03/07:50:23 - 2017-01-03/07:52:53,  40.0, icohen(EVA), Foreshock activity
+2017-01-03/07:52:53 - 2017-01-03/07:55:23,  40.0, icohen(EVA), Foreshock activity
+2017-01-03/07:55:23 - 2017-01-03/07:57:53,  40.0, icohen(EVA), Foreshock activity
+2017-01-03/08:38:23 - 2017-01-03/08:39:43,  40.0, icohen(EVA), Foreshock activity
+2017-01-03/09:32:43 - 2017-01-03/09:33:13,  99.0, icohen(EVA), Foreshock activity with energetic particles
+2017-01-03/10:43:03 - 2017-01-03/10:43:43, 125.0, icohen(EVA), SW current sheet
+2017-01-03/10:48:53 - 2017-01-03/10:49:23, 125.0, icohen(EVA), SW current sheet
+2017-01-03/10:51:03 - 2017-01-03/10:53:23,  40.0, icohen(EVA), Foreshock activity with high frequency waves
+2017-01-03/10:53:23 - 2017-01-03/10:55:43,  40.0, icohen(EVA), Foreshock activity with high frequency waves
+2017-01-03/10:55:43 - 2017-01-03/10:57:53,  40.0, icohen(EVA), Foreshock activity with high frequency waves
+2017-01-03/10:57:53 - 2017-01-03/11:00:13,  40.0, icohen(EVA), Foreshock activity with high frequency waves
+2017-01-03/11:00:13 - 2017-01-03/11:02:33,  40.0, icohen(EVA), Foreshock activity with high frequency waves
+2017-01-03/11:02:33 - 2017-01-03/11:04:53,  40.0, icohen(EVA), Foreshock activity with high frequency waves
+2017-01-03/11:40:13 - 2017-01-03/11:42:23,  75.0, icohen(EVA), BS crossing 
+2017-01-03/11:42:23 - 2017-01-03/11:44:43,  75.0, icohen(EVA), BS crossing 
+2017-01-03/11:44:43 - 2017-01-03/11:46:53,  75.0, icohen(EVA), BS crossing 
+2017-01-03/11:46:53 - 2017-01-03/11:49:03,  75.0, icohen(EVA), BS crossing 
+2017-01-03/11:49:03 - 2017-01-03/11:51:23,  75.0, icohen(EVA), BS crossing 
+2017-01-03/11:51:23 - 2017-01-03/11:53:33,  75.0, icohen(EVA), BS crossing 
+2017-01-03/12:27:33 - 2017-01-03/12:29:33,  65.0, icohen(EVA), Partial BS crossing
+2017-01-03/12:29:33 - 2017-01-03/12:31:33,  65.0, icohen(EVA), Partial BS crossing
+2017-01-03/12:31:33 - 2017-01-03/12:33:33,  65.0, icohen(EVA), Partial BS crossing
+2017-01-03/12:39:33 - 2017-01-03/12:41:53,  65.0, icohen(EVA), Partial BS crossing
+2017-01-03/12:41:53 - 2017-01-03/12:44:13,  65.0, icohen(EVA), Partial BS crossing
+2017-01-03/12:44:13 - 2017-01-03/12:46:23,  65.0, icohen(EVA), Partial BS crossing
+2017-01-03/12:46:23 - 2017-01-03/12:48:43,  65.0, icohen(EVA), Partial BS crossing
+2017-01-03/12:48:43 - 2017-01-03/12:51:03,  65.0, icohen(EVA), Partial BS crossing
+2017-01-03/14:16:33 - 2017-01-03/14:18:53, 100.0, icohen(EVA)," Partial MP crossing, moderate shear, weak flows with reversal, Bmin, strong currents, moderate E-field activity"
+2017-01-03/14:18:53 - 2017-01-03/14:21:13, 100.0, icohen(EVA)," Partial MP crossing, moderate shear, weak flows with reversal, Bmin, strong currents, moderate E-field activity"
+2017-01-03/14:21:13 - 2017-01-03/14:23:33, 100.0, icohen(EVA)," Partial MP crossing, moderate shear, weak flows with reversal, Bmin, strong currents, moderate E-field activity"
+2017-01-03/14:23:33 - 2017-01-03/14:25:53, 100.0, icohen(EVA)," Partial MP crossing, moderate shear, weak flows with reversal, Bmin, strong currents, moderate E-field activity"
+2017-01-03/14:25:53 - 2017-01-03/14:28:13, 100.0, icohen(EVA)," Partial MP crossing, moderate shear, weak flows with reversal, Bmin, strong currents, moderate E-field activity"
+2017-01-03/14:28:13 - 2017-01-03/14:30:33, 100.0, icohen(EVA)," Partial MP crossing, moderate shear, weak flows with reversal, Bmin, strong currents, moderate E-field activity"
+2017-01-03/14:30:33 - 2017-01-03/14:32:53, 100.0, icohen(EVA)," Partial MP crossing, moderate shear, weak flows with reversal, Bmin, strong currents, moderate E-field activity"
+2017-01-03/14:32:53 - 2017-01-03/14:35:13, 100.0, icohen(EVA)," Partial MP crossing, moderate shear, weak flows with reversal, Bmin, strong currents, moderate E-field activity"
+2017-01-03/14:42:13 - 2017-01-03/14:44:23, 175.0, icohen(EVA)," Full MP crossing, high shear, strong Vz flows and E-field activity, moderate-strong currents"
+2017-01-03/14:44:23 - 2017-01-03/14:46:33, 175.0, icohen(EVA)," Full MP crossing, high shear, strong Vz flows and E-field activity, moderate-strong currents"
+2017-01-03/14:46:33 - 2017-01-03/14:49:03, 100.0, icohen(EVA)," Extended full MP crossing, weak flows, moderate currents and E-field activity"
+2017-01-03/14:49:03 - 2017-01-03/14:51:33, 100.0, icohen(EVA)," Extended full MP crossing, weak flows, moderate currents and E-field activity"
+2017-01-03/14:51:33 - 2017-01-03/14:54:03, 100.0, icohen(EVA)," Extended full MP crossing, weak flows, moderate currents and E-field activity"
+2017-01-03/14:54:03 - 2017-01-03/14:56:33, 100.0, icohen(EVA)," Extended full MP crossing, weak flows, moderate currents and E-field activity"

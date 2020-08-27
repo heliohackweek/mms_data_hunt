@@ -1,0 +1,31 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-07-31/13:04:53 - 2017-07-31/13:06:53,  90.0, lavanov(EVA), DF with significant number density increase
+2017-07-31/13:08:43 - 2017-07-31/13:10:13,  60.0, lavanov(EVA),"  PSBL crossing, enhanced diff B current ~40 nA/m2"
+2017-07-31/13:11:23 - 2017-07-31/13:13:23,  80.0, lavanov(EVA)," CS corssing, flow reversal "
+2017-07-31/13:24:53 - 2017-07-31/13:29:23,  90.0, lavanov(EVA), Bpolar Bz variation (PSBL) strong earthward flow Vx ~350 km/s 
+2017-07-31/15:15:23 - 2017-07-31/15:17:53,  80.0, lavanov(EVA),  CS crossing bipolar Vx
+2017-07-31/15:17:53 - 2017-07-31/15:20:23,  80.0, lavanov(EVA),  CS crossing bipolar Vx
+2017-07-31/15:20:23 - 2017-07-31/15:22:53,  80.0, lavanov(EVA),  CS crossing bipolar Vx
+2017-07-31/15:22:53 - 2017-07-31/15:25:13,  80.0, lavanov(EVA),  CS crossing bipolar Vx
+2017-07-31/15:25:13 - 2017-07-31/15:27:43,  80.0, lavanov(EVA),  CS crossing bipolar Vx
+2017-07-31/15:27:43 - 2017-07-31/15:30:13,  80.0, lavanov(EVA),  CS crossing bipolar Vx
+2017-07-31/15:30:13 - 2017-07-31/15:32:43,  80.0, lavanov(EVA),  CS crossing bipolar Vx
+2017-07-31/20:57:53 - 2017-07-31/20:59:43, 100.0, lavanov(EVA),"  MultiplE CS crossing, Null B, Earthward flow, Vx, leading edge with diffB ~150 nA/m2 w ~Vx "
+2017-07-31/20:59:43 - 2017-07-31/21:01:33, 100.0, lavanov(EVA),"  MultiplE CS crossing, Null B, Earthward flow, Vx, leading edge with diffB ~150 nA/m2 w ~Vx "
+2017-07-31/21:01:33 - 2017-07-31/21:03:23, 100.0, lavanov(EVA),"  MultiplE CS crossing, Null B, Earthward flow, Vx, leading edge with diffB ~150 nA/m2 w ~Vx "
+2017-07-31/22:23:13 - 2017-07-31/22:25:03, 100.0, lavanov(EVA)," Central CS vrossing (?) Bx reversal, B null, earthward flow"
+2017-07-31/22:25:03 - 2017-07-31/22:26:53, 100.0, lavanov(EVA)," Central CS vrossing (?) Bx reversal, B null, earthward flow"
+2017-07-31/22:26:53 - 2017-07-31/22:28:43, 100.0, lavanov(EVA)," Central CS vrossing (?) Bx reversal, B null, earthward flow"
+2017-08-01/00:58:13 - 2017-08-01/01:00:13,  80.0, lavanov(EVA)," CS corssing, B null "
+2017-08-01/01:00:13 - 2017-08-01/01:02:23,  80.0, lavanov(EVA)," CS corssing, B null "
+2017-08-01/01:02:23 - 2017-08-01/01:04:53, 100.0, lavanov(EVA), Multiple CS crossings with earthward flows Vx ~650 km/s 
+2017-08-01/01:04:53 - 2017-08-01/01:07:23, 100.0, lavanov(EVA), Multiple CS crossings with earthward flows Vx ~650 km/s 
+2017-08-01/01:07:33 - 2017-08-01/01:09:53,  90.0, lavanov(EVA), MUltiple CS crossings earthwardn flow Vx  550 km/s
+2017-08-01/01:09:53 - 2017-08-01/01:12:23,  90.0, lavanov(EVA), MUltiple CS crossings earthwardn flow Vx  550 km/s
+2017-08-01/01:55:03 - 2017-08-01/01:59:03,  80.0, lavanov(EVA),  DF with flow reversal
+2017-08-01/03:21:03 - 2017-08-01/03:23:23,  90.0, lavanov(EVA),"  Active current sheet earthward fieldaligned flow, Bz variation"
+2017-08-01/03:23:23 - 2017-08-01/03:25:43,  90.0, lavanov(EVA),"  Active current sheet earthward fieldaligned flow, Bz variation"
+2017-08-01/03:25:43 - 2017-08-01/03:27:13,  80.0, lavanov(EVA)," Multiple CS crossings, strong field aligned flow "
+2017-08-01/03:27:13 - 2017-08-01/03:28:43,  80.0, lavanov(EVA)," Multiple CS crossings, strong field aligned flow "
+2017-08-01/04:42:03 - 2017-08-01/04:44:33,  90.0, lavanov(EVA),  Multiple CS crosings B null
+2017-08-01/04:49:13 - 2017-08-01/04:51:03, 120.0, lavanov(EVA), CS crossing BX reverssal Earthward flow 650 km/s 

@@ -1,0 +1,57 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-10-06/15:12:04 - 2016-10-06/15:13:34, 193.8, jburch(EVA)," High-shear MP crossing, jet reversal "
+2016-10-06/15:14:14 - 2016-10-06/15:16:24, 193.8, jburch(EVA), High shear MP crossing 
+2016-10-06/15:16:24 - 2016-10-06/15:18:34, 193.8, jburch(EVA), High shear MP crossing 
+2016-10-06/15:18:34 - 2016-10-06/15:20:44, 188.7, jburch(EVA), High shear MP crossing 
+2016-10-06/15:20:44 - 2016-10-06/15:22:24, 147.9, jburch(EVA), In and out MP crossing 
+2016-10-06/15:23:24 - 2016-10-06/15:26:44, 153.0, jburch(EVA), MP skimming 
+2016-10-06/15:26:54 - 2016-10-06/15:28:54, 153.0, jburch(EVA), High shear MP crossing 
+2016-10-06/15:41:34 - 2016-10-06/15:43:24, 188.7, jburch(EVA), HIgh shear MP crossing 
+2016-10-06/15:45:14 - 2016-10-06/15:46:24, 193.8, jburch(EVA), MP crossing with E-field spike 
+2016-10-06/15:48:14 - 2016-10-06/15:49:34, 193.8, jburch(EVA), High shear double MP crossing 
+2016-10-06/15:50:04 - 2016-10-06/15:51:14, 193.8, jburch(EVA), High shear MP crossing
+2016-10-06/15:57:54 - 2016-10-06/15:59:44, 188.7, jburch(EVA), MP crossing with strong guide field 
+2016-10-06/15:59:54 - 2016-10-06/16:02:54, 160.6, jburch(EVA), MP skimming 
+2016-10-06/16:02:54 - 2016-10-06/16:05:34, 153.0, jburch(EVA), MP skimming 
+2016-10-06/16:06:04 - 2016-10-06/16:07:14, 165.8, jburch(EVA), Double MP crossing
+2016-10-06/16:09:04 - 2016-10-06/16:09:44, 132.0, jburch(EVA), MP crossing 
+2016-10-06/16:10:14 - 2016-10-06/16:11:24, 147.0, jburch(EVA), MP skimming 
+2016-10-06/16:11:24 - 2016-10-06/16:12:34, 102.0, jburch(EVA), High FPI trigger parameter 
+2016-10-06/16:12:54 - 2016-10-06/16:15:24, 122.4, jburch(EVA), Multiple low shear MP crossings 
+2016-10-06/16:17:54 - 2016-10-06/16:19:34, 140.2, jburch(EVA), Double low shear MP crossing 
+2016-10-06/16:27:24 - 2016-10-06/16:29:04, 165.8, jburch(EVA), Low and high shear MP crossings 
+2016-10-06/16:51:54 - 2016-10-06/16:52:44, 135.1, jburch(EVA), Magnetic null with velocity shear in MS 
+2016-10-06/16:55:24 - 2016-10-06/16:56:14, 135.0, jburch(EVA), Magnetic null with velocity shear in MS 
+2016-10-06/17:00:14 - 2016-10-06/17:00:44,  66.0, jburch(EVA), Magnetic null in MS 
+2016-10-06/17:01:24 - 2016-10-06/17:02:54, 160.6, jburch(EVA), Multiple MP crossings 
+2016-10-06/17:03:14 - 2016-10-06/17:05:24, 155.0, jburch(EVA), Multiple MP crossings 
+2016-10-06/17:06:04 - 2016-10-06/17:08:44, 153.0, jburch(EVA), Multiple low shear MP crossings 
+2016-10-06/17:08:44 - 2016-10-06/17:10:04, 165.8, jburch(EVA), Double MP crossing with magnetic null 
+2016-10-06/17:12:34 - 2016-10-06/17:14:04, 155.0, jburch(EVA), Double MP crossings 
+2016-10-06/17:14:54 - 2016-10-06/17:16:34, 188.7, jburch(EVA), Multiple MP crossings with magnetic nulls 
+2016-10-06/17:16:34 - 2016-10-06/17:18:54, 188.0, jburch(EVA), Multiple MP crossings with magnetic nulls 
+2016-10-06/17:19:54 - 2016-10-06/17:20:54, 114.0, jburch(EVA), Double MP crossing with northward IMF 
+2016-10-06/17:22:44 - 2016-10-06/17:24:34, 127.0, jburch(EVA), Multiple MP crossings with northward IMF 
+2016-10-06/17:28:04 - 2016-10-06/17:28:44, 107.0, jburch(EVA), MS current cheet or FTE 
+2016-10-06/17:30:14 - 2016-10-06/17:31:04, 119.0, jburch(EVA), MS current sheet or FTE 
+2016-10-06/17:38:14 - 2016-10-06/17:39:14,  94.0, jburch(EVA), BL current or K-H event 
+2016-10-06/17:42:44 - 2016-10-06/17:45:54, 188.0, jburch(EVA), Multiple MP crossings with medium to high shear 
+2016-10-06/22:32:54 - 2016-10-06/22:35:24,  81.0, jburch(EVA), Energetic erlectron injections with plasma oscillations 
+2016-10-06/22:35:24 - 2016-10-06/22:37:44,  81.0, jburch(EVA), Energetic erlectron injections with plasma oscillations 
+2016-10-06/22:37:44 - 2016-10-06/22:40:04,  81.0, jburch(EVA), Energetic erlectron injections with plasma oscillations 
+2016-10-06/22:40:04 - 2016-10-06/22:42:34,  81.0, jburch(EVA), Energetic erlectron injections with plasma oscillations 
+2016-10-06/22:42:34 - 2016-10-06/22:44:54,  81.0, jburch(EVA), Energetic erlectron injections with plasma oscillations 
+2016-10-06/22:44:54 - 2016-10-06/22:47:14,  81.0, jburch(EVA), Energetic erlectron injections with plasma oscillations 
+2016-10-06/22:47:14 - 2016-10-06/22:49:44,  81.0, jburch(EVA), Energetic erlectron injections with plasma oscillations 
+2016-10-06/22:49:44 - 2016-10-06/22:52:04,  81.0, jburch(EVA), Energetic erlectron injections with plasma oscillations 
+2016-10-06/22:52:04 - 2016-10-06/22:54:24,  81.0, jburch(EVA), Energetic erlectron injections with plasma oscillations 
+2016-10-06/23:41:04 - 2016-10-06/23:43:24,  94.0, jburch(EVA), Energetic electron injections with plasma oscillations 
+2016-10-06/23:43:24 - 2016-10-06/23:45:54,  94.0, jburch(EVA), Energetic electron injections with plasma oscillations 
+2016-10-06/23:45:54 - 2016-10-06/23:48:14,  94.0, jburch(EVA), Energetic electron injections with plasma oscillations 
+2016-10-06/23:48:14 - 2016-10-06/23:50:44,  94.0, jburch(EVA), Energetic electron injections with plasma oscillations 
+2016-10-06/23:50:44 - 2016-10-06/23:53:04,  94.0, jburch(EVA), Energetic electron injections with plasma oscillations 
+2016-10-06/23:53:04 - 2016-10-06/23:55:34,  94.0, jburch(EVA), Energetic electron injections with plasma oscillations 
+2016-10-06/23:55:34 - 2016-10-06/23:57:54,  94.0, jburch(EVA), Energetic electron injections with plasma oscillations 
+2016-10-06/23:57:54 - 2016-10-07/00:00:24,  94.0, jburch(EVA), Energetic electron injections with plasma oscillations 
+2016-10-07/00:00:24 - 2016-10-07/00:02:44,  94.0, jburch(EVA), Energetic electron injections with plasma oscillations 
+2016-10-07/00:02:44 - 2016-10-07/00:05:14,  94.0, jburch(EVA), Energetic electron injections with plasma oscillations 

@@ -1,0 +1,46 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-09-10/18:39:33 - 2019-09-10/18:48:13,  80.0, ykhotyaintsev(EVA),  waves around Fce
+2019-09-11/06:11:53 - 2019-09-11/06:16:03, 175.0, ykhotyaintsev(EVA),  Jet reversal
+2019-09-11/06:16:03 - 2019-09-11/06:20:13, 175.0, ykhotyaintsev(EVA),  Jet reversal
+2019-09-11/06:20:13 - 2019-09-11/06:24:23, 175.0, ykhotyaintsev(EVA),  Jet reversal
+2019-09-11/06:24:23 - 2019-09-11/06:28:33, 175.0, ykhotyaintsev(EVA),  Jet reversal
+2019-09-11/06:28:33 - 2019-09-11/06:32:43, 175.0, ykhotyaintsev(EVA),  Jet reversal
+2019-09-11/07:48:23 - 2019-09-11/07:56:43, 125.0, ykhotyaintsev(EVA),  BBF Vx<0
+2019-09-11/09:00:03 - 2019-09-11/09:04:13, 125.0, ykhotyaintsev(EVA),"  BBFs, Vx>0, BSBL, flux ropes"
+2019-09-11/09:04:13 - 2019-09-11/09:08:13, 125.0, ykhotyaintsev(EVA),"  BBFs, Vx>0, BSBL, flux ropes"
+2019-09-11/09:08:13 - 2019-09-11/09:12:23, 125.0, ykhotyaintsev(EVA),"  BBFs, Vx>0, BSBL, flux ropes"
+2019-09-11/09:12:23 - 2019-09-11/09:16:23, 125.0, ykhotyaintsev(EVA),"  BBFs, Vx>0, BSBL, flux ropes"
+2019-09-11/09:16:23 - 2019-09-11/09:20:33, 125.0, ykhotyaintsev(EVA),"  BBFs, Vx>0, BSBL, flux ropes"
+2019-09-11/10:23:13 - 2019-09-11/10:28:33, 110.0, ykhotyaintsev(EVA),  BBF Vx>0
+2019-09-11/14:47:33 - 2019-09-11/14:52:03, 140.0, ykhotyaintsev(EVA),  BBF Vx<0
+2019-09-11/14:52:03 - 2019-09-11/14:56:43, 140.0, ykhotyaintsev(EVA),  BBF Vx<0
+2019-09-11/15:17:03 - 2019-09-11/15:17:53, 110.0, ykhotyaintsev(EVA),  PSBL
+2019-09-11/15:20:13 - 2019-09-11/15:22:03, 170.0, ykhotyaintsev(EVA),  PSBL
+2019-09-11/15:34:13 - 2019-09-11/15:36:43, 140.0, ykhotyaintsev(EVA),  PSBL
+2019-09-12/19:44:13 - 2019-09-12/19:48:33,  70.0, ykhotyaintsev(EVA),  NS
+2019-09-12/19:48:33 - 2019-09-12/19:52:53,  70.0, ykhotyaintsev(EVA),  NS
+2019-09-12/19:52:53 - 2019-09-12/19:57:13,  70.0, ykhotyaintsev(EVA),  NS
+2019-09-12/19:57:13 - 2019-09-12/20:01:33,  70.0, ykhotyaintsev(EVA),  NS
+2019-09-12/20:01:33 - 2019-09-12/20:05:53,  70.0, ykhotyaintsev(EVA),  NS
+2019-09-12/20:05:53 - 2019-09-12/20:10:13,  70.0, ykhotyaintsev(EVA),  NS
+2019-09-12/20:10:13 - 2019-09-12/20:14:33,  70.0, ykhotyaintsev(EVA),  NS
+2019-09-12/23:54:13 - 2019-09-12/23:58:23,  70.0, ykhotyaintsev(EVA),  lf E-field activity
+2019-09-12/23:58:23 - 2019-09-13/00:02:23,  70.0, ykhotyaintsev(EVA),  lf E-field activity
+2019-09-13/00:02:23 - 2019-09-13/00:06:33,  70.0, ykhotyaintsev(EVA),  lf E-field activity
+2019-09-13/00:06:33 - 2019-09-13/00:10:43,  70.0, ykhotyaintsev(EVA),  lf E-field activity
+2019-09-13/02:05:13 - 2019-09-13/02:09:53, 160.0, ykhotyaintsev(EVA),  BBF Vx<0
+2019-09-13/02:09:53 - 2019-09-13/02:14:23, 160.0, ykhotyaintsev(EVA),  BBF Vx<0
+2019-09-13/02:14:23 - 2019-09-13/02:19:03, 160.0, ykhotyaintsev(EVA),  BBF Vx<0
+2019-09-13/04:32:03 - 2019-09-13/04:34:53, 120.0, ykhotyaintsev(EVA),  PSBL
+2019-09-13/04:34:53 - 2019-09-13/04:37:43, 120.0, ykhotyaintsev(EVA),  PSBL
+2019-09-13/06:30:23 - 2019-09-13/06:35:03, 105.0, ykhotyaintsev(EVA),"  PSBL, cold ions"
+2019-09-13/06:35:03 - 2019-09-13/06:39:33, 125.0, ykhotyaintsev(EVA),"  PSBL, cold ions"
+2019-09-13/06:39:33 - 2019-09-13/06:44:13, 125.0, ykhotyaintsev(EVA),"  PSBL, cold ions"
+2019-09-13/06:44:13 - 2019-09-13/06:48:53, 125.0, ykhotyaintsev(EVA),"  PSBL, cold ions"
+2019-09-13/06:48:53 - 2019-09-13/06:53:43,  90.0, ykhotyaintsev(EVA),  dipolarization
+2019-09-13/06:53:43 - 2019-09-13/06:58:33,  90.0, ykhotyaintsev(EVA),  dipolarization
+2019-09-13/06:58:33 - 2019-09-13/07:03:33,  90.0, ykhotyaintsev(EVA),  dipolarization
+2019-09-13/07:03:33 - 2019-09-13/07:08:23,  90.0, ykhotyaintsev(EVA),  dipolarization
+2019-09-13/07:13:13 - 2019-09-13/07:17:23,  80.0, ykhotyaintsev(EVA),  Bz variations
+2019-09-13/07:17:23 - 2019-09-13/07:21:33,  80.0, ykhotyaintsev(EVA),  Bz variations
+2019-09-13/07:21:33 - 2019-09-13/07:25:43,  80.0, ykhotyaintsev(EVA),  Bz variations

@@ -1,0 +1,52 @@
+DATETIME,FOM,ID,DISCUSSION
+2020-04-24/14:04:33 - 2020-04-24/14:06:43, 100.0, hhiroshi(EVA), foreshock transient with B max
+2020-04-24/14:06:43 - 2020-04-24/14:08:43, 100.0, hhiroshi(EVA), foreshock transient with B max
+2020-04-24/14:08:43 - 2020-04-24/14:10:53, 100.0, hhiroshi(EVA), foreshock transient with B max
+2020-04-24/15:17:03 - 2020-04-24/15:19:23,  90.0, hhiroshi(EVA), foreshock transient
+2020-04-24/15:19:23 - 2020-04-24/15:21:53,  90.0, hhiroshi(EVA), foreshock transient
+2020-04-24/15:21:53 - 2020-04-24/15:24:13,  90.0, hhiroshi(EVA), foreshock transient
+2020-04-24/15:24:13 - 2020-04-24/15:26:43,  90.0, hhiroshi(EVA), foreshock transient
+2020-04-24/18:53:03 - 2020-04-24/18:55:23, 100.0, hhiroshi(EVA), foreshock transient
+2020-04-24/18:55:23 - 2020-04-24/18:57:33, 100.0, hhiroshi(EVA), foreshock transient
+2020-04-24/18:57:33 - 2020-04-24/18:59:53, 100.0, hhiroshi(EVA), foreshock transient
+2020-04-24/19:36:33 - 2020-04-24/19:38:53, 100.0, hhiroshi(EVA), Q-para BS with B min
+2020-04-24/19:38:53 - 2020-04-24/19:41:13, 100.0, hhiroshi(EVA), Q-para BS with B min
+2020-04-24/19:41:13 - 2020-04-24/19:43:33, 100.0, hhiroshi(EVA), Q-para BS with B min
+2020-04-24/19:43:33 - 2020-04-24/19:45:53, 100.0, hhiroshi(EVA), Q-para BS with B min
+2020-04-24/19:45:53 - 2020-04-24/19:48:13, 100.0, hhiroshi(EVA), Q-para BS with B min
+2020-04-24/19:48:13 - 2020-04-24/19:50:33, 100.0, hhiroshi(EVA), Q-para BS with B min
+2020-04-24/19:50:33 - 2020-04-24/19:52:53, 100.0, hhiroshi(EVA), Q-para BS with B min
+2020-04-24/19:52:53 - 2020-04-24/19:55:13, 100.0, hhiroshi(EVA), Q-para BS with B min
+2020-04-24/19:55:13 - 2020-04-24/19:57:33, 100.0, hhiroshi(EVA), Q-para BS with B min
+2020-04-24/19:57:33 - 2020-04-24/19:59:53, 100.0, hhiroshi(EVA), Q-para BS with B min
+2020-04-24/19:59:53 - 2020-04-24/20:02:13, 100.0, hhiroshi(EVA), Q-para BS with B min
+2020-04-24/20:05:53 - 2020-04-24/20:08:13, 100.0, hhiroshi(EVA), Q-para BS
+2020-04-24/20:08:13 - 2020-04-24/20:10:33, 100.0, hhiroshi(EVA), Q-para BS
+2020-04-24/20:10:33 - 2020-04-24/20:13:03, 100.0, hhiroshi(EVA), Q-para BS
+2020-04-24/20:13:03 - 2020-04-24/20:15:23, 100.0, hhiroshi(EVA), Q-para BS
+2020-04-24/20:15:23 - 2020-04-24/20:17:23, 100.0, hhiroshi(EVA), sheath turbulence downstream of Q-para BS
+2020-04-24/20:17:23 - 2020-04-24/20:19:23, 100.0, hhiroshi(EVA), sheath turbulence downstream of Q-para BS
+2020-04-24/20:19:23 - 2020-04-24/20:21:23, 100.0, hhiroshi(EVA), sheath turbulence downstream of Q-para BS
+2020-04-24/20:21:23 - 2020-04-24/20:23:23, 100.0, hhiroshi(EVA), sheath turbulence downstream of Q-para BS
+2020-04-24/20:34:03 - 2020-04-24/20:36:03, 150.0, hhiroshi(EVA), sheath turbulence with B max/min
+2020-04-24/20:36:03 - 2020-04-24/20:37:53, 150.0, hhiroshi(EVA), sheath turbulence with B max/min
+2020-04-24/20:37:53 - 2020-04-24/20:39:53, 150.0, hhiroshi(EVA), sheath turbulence with B max/min
+2020-04-24/20:39:53 - 2020-04-24/20:41:53, 150.0, hhiroshi(EVA), sheath turbulence with B max/min
+2020-04-24/22:27:43 - 2020-04-24/22:29:43, 100.0, hhiroshi(EVA), sheath CS
+2020-04-24/22:48:03 - 2020-04-24/22:50:23, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/22:50:23 - 2020-04-24/22:52:43, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/22:52:43 - 2020-04-24/22:55:03, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/22:55:03 - 2020-04-24/22:57:23, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/22:57:23 - 2020-04-24/22:59:43, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/22:59:43 - 2020-04-24/23:02:03, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/23:02:03 - 2020-04-24/23:04:23, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/23:04:23 - 2020-04-24/23:06:43, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/23:06:43 - 2020-04-24/23:09:03, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/23:09:03 - 2020-04-24/23:11:23, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/23:13:03 - 2020-04-24/23:15:13, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/23:15:13 - 2020-04-24/23:17:33, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/23:17:33 - 2020-04-24/23:19:43, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/23:19:43 - 2020-04-24/23:22:03, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/23:22:03 - 2020-04-24/23:24:13, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/23:24:13 - 2020-04-24/23:26:33, 150.0, hhiroshi(EVA), low-shear full MP
+2020-04-24/23:26:33 - 2020-04-24/23:28:43, 150.0, hhiroshi(EVA), low-shear full MP

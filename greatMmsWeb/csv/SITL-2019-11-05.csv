@@ -1,0 +1,84 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-11-05/19:27:03 - 2019-11-05/19:29:23, 150.0, svines(EVA), Lower shear full magnetopause crossing with Vz flow reversal 
+2019-11-05/19:29:23 - 2019-11-05/19:31:43, 150.0, svines(EVA), Lower shear full magnetopause crossing with Vz flow reversal 
+2019-11-05/19:31:43 - 2019-11-05/19:33:53, 150.0, svines(EVA), Lower shear full magnetopause crossing with Vz flow reversal 
+2019-11-05/19:33:53 - 2019-11-05/19:36:13, 150.0, svines(EVA), Lower shear full magnetopause crossing with Vz flow reversal 
+2019-11-05/19:36:13 - 2019-11-05/19:38:33, 150.0, svines(EVA), Lower shear full magnetopause crossing with Vz flow reversal 
+2019-11-05/19:52:53 - 2019-11-05/19:55:13, 150.0, svines(EVA), Full lower shear magnetopause crossing
+2019-11-05/19:55:13 - 2019-11-05/19:57:43, 150.0, svines(EVA), Full lower shear magnetopause crossing
+2019-11-05/19:57:43 - 2019-11-05/19:59:53, 150.0, svines(EVA), Full lower shear magnetopause crossing
+2019-11-05/19:59:53 - 2019-11-05/20:02:13, 125.0, svines(EVA), Partial magnetopause crossings with deep B-minima 
+2019-11-05/20:02:13 - 2019-11-05/20:04:33, 125.0, svines(EVA), Partial magnetopause crossings with deep B-minima 
+2019-11-05/20:04:33 - 2019-11-05/20:06:53, 125.0, svines(EVA), Partial magnetopause crossings with deep B-minima 
+2019-11-05/20:06:53 - 2019-11-05/20:09:13, 125.0, svines(EVA), Partial magnetopause crossings with deep B-minima 
+2019-11-05/20:26:43 - 2019-11-05/20:28:43, 150.0, svines(EVA)," Full low-shear, turbulent magnetopause crossing"
+2019-11-05/20:28:43 - 2019-11-05/20:30:43, 150.0, svines(EVA)," Full low-shear, turbulent magnetopause crossing"
+2019-11-05/20:30:43 - 2019-11-05/20:32:43, 150.0, svines(EVA)," Full low-shear, turbulent magnetopause crossing"
+2019-11-05/20:32:43 - 2019-11-05/20:34:43, 150.0, svines(EVA)," Full low-shear, turbulent magnetopause crossing"
+2019-11-05/22:04:53 - 2019-11-05/22:07:03,  80.0, svines(EVA), Turbulent magnetosheath with energenetic particle enhancements 
+2019-11-05/22:07:03 - 2019-11-05/22:09:13,  80.0, svines(EVA), Turbulent magnetosheath with energenetic particle enhancements 
+2019-11-05/22:09:13 - 2019-11-05/22:11:33,  80.0, svines(EVA), Turbulent magnetosheath with energenetic particle enhancements 
+2019-11-05/22:11:33 - 2019-11-05/22:13:43,  80.0, svines(EVA), Turbulent magnetosheath with energenetic particle enhancements 
+2019-11-05/22:38:03 - 2019-11-05/22:40:33, 100.0, svines(EVA), Magnetosheath current sheet 
+2019-11-05/22:46:43 - 2019-11-05/22:49:03, 100.0, svines(EVA), Magnetosheath current sheet 
+2019-11-05/23:41:43 - 2019-11-05/23:44:33, 100.0, svines(EVA), Magnetosheath current sheet 
+2019-11-06/00:16:13 - 2019-11-06/00:18:13,  90.0, svines(EVA), Large B fluctuations and density enhancements in sheath 
+2019-11-06/00:18:13 - 2019-11-06/00:20:23,  90.0, svines(EVA), Large B fluctuations and density enhancements in sheath 
+2019-11-06/00:20:23 - 2019-11-06/00:22:23,  90.0, svines(EVA), Large B fluctuations and density enhancements in sheath 
+2019-11-06/00:22:23 - 2019-11-06/00:24:33,  90.0, svines(EVA), Large B fluctuations and density enhancements in sheath 
+2019-11-06/00:44:33 - 2019-11-06/00:46:03,  90.0, svines(EVA)," Sheath current sheet (or brief, large B fluctuations) "
+2019-11-06/00:55:43 - 2019-11-06/00:59:23,  80.0, svines(EVA), Turbulent sheath B fluctuations 
+2019-11-06/01:17:33 - 2019-11-06/01:19:33, 100.0, svines(EVA), Magnetosheath current sheet 
+2019-11-06/02:11:43 - 2019-11-06/02:15:43,  80.0, svines(EVA), Turbulent sheath B fluctuations 
+2019-11-06/02:56:03 - 2019-11-06/02:57:53, 100.0, svines(EVA), Magnetosheath current sheet 
+2019-11-06/04:39:33 - 2019-11-06/04:42:53,  90.0, svines(EVA), Magnetosheath current sheet
+2019-11-06/07:19:03 - 2019-11-06/07:21:13, 110.0, svines(EVA), Oblique bow shock 
+2019-11-06/07:21:13 - 2019-11-06/07:23:23, 110.0, svines(EVA), Oblique bow shock 
+2019-11-06/07:23:23 - 2019-11-06/07:25:23, 110.0, svines(EVA), Oblique bow shock 
+2019-11-06/07:25:23 - 2019-11-06/07:27:33, 110.0, svines(EVA), Oblique bow shock 
+2019-11-06/07:27:33 - 2019-11-06/07:29:43, 110.0, svines(EVA), Oblique bow shock 
+2019-11-06/07:40:33 - 2019-11-06/07:41:33,  90.0, svines(EVA), Solar wind current sheet 
+2019-11-06/08:13:33 - 2019-11-06/08:15:33, 100.0, svines(EVA)," Partial, brief quasi-perp bow shocks "
+2019-11-06/08:15:33 - 2019-11-06/08:17:23, 100.0, svines(EVA)," Partial, brief quasi-perp bow shocks "
+2019-11-06/08:17:23 - 2019-11-06/08:19:23, 100.0, svines(EVA)," Partial, brief quasi-perp bow shocks "
+2019-11-06/08:53:53 - 2019-11-06/08:57:13,  80.0, svines(EVA), SLAMS/partial bow shock encounter with foreshock populations 
+2019-11-06/09:40:43 - 2019-11-06/09:42:03,  80.0, svines(EVA), SLAMS with foreshock populations
+2019-11-06/11:19:03 - 2019-11-06/11:21:23,  80.0, svines(EVA)," SLAMS (or partial, brief skimming of bow shock) with foreshock populations "
+2019-11-06/11:21:23 - 2019-11-06/11:23:33,  80.0, svines(EVA)," SLAMS (or partial, brief skimming of bow shock) with foreshock populations "
+2019-11-06/11:23:33 - 2019-11-06/11:25:53,  80.0, svines(EVA)," SLAMS (or partial, brief skimming of bow shock) with foreshock populations "
+2019-11-06/23:22:53 - 2019-11-06/23:26:23, 100.0, svines(EVA)," Solar wind current sheet structures, with enhancement in low-energy electrons "
+2019-11-06/23:28:53 - 2019-11-06/23:30:33, 100.0, svines(EVA), Solar wind current sheet structure 
+2019-11-07/00:52:23 - 2019-11-07/00:55:03, 100.0, svines(EVA), Solar wind current sheet structure 
+2019-11-07/01:42:03 - 2019-11-07/01:44:43, 100.0, svines(EVA), Solar wind current sheet structure 
+2019-11-07/18:27:23 - 2019-11-07/18:29:33, 100.0, svines(EVA), Magnetosheath current sheet 
+2019-11-07/19:13:13 - 2019-11-07/19:14:33, 100.0, svines(EVA), Magnetosheath current sheet 
+2019-11-07/21:04:53 - 2019-11-07/21:06:13, 100.0, svines(EVA), Magnetosheath current sheet 
+2019-11-07/23:23:13 - 2019-11-07/23:24:53, 100.0, svines(EVA), Magnetosheath current sheet 
+2019-11-08/00:17:33 - 2019-11-08/00:19:23, 100.0, svines(EVA), Magnetosheath current sheet
+2019-11-08/01:58:13 - 2019-11-08/02:00:33, 100.0, svines(EVA), Magnetosheath current sheet 
+2019-11-08/05:22:23 - 2019-11-08/05:24:43, 130.0, svines(EVA), Partial magnetopause crossings? 
+2019-11-08/05:24:43 - 2019-11-08/05:27:03, 130.0, svines(EVA), Partial magnetopause crossings? 
+2019-11-08/05:27:03 - 2019-11-08/05:29:23, 130.0, svines(EVA), Partial magnetopause crossings? 
+2019-11-08/05:29:23 - 2019-11-08/05:31:43, 130.0, svines(EVA), Partial magnetopause crossings? 
+2019-11-08/05:31:43 - 2019-11-08/05:34:03, 130.0, svines(EVA), Partial magnetopause crossings? 
+2019-11-08/08:43:53 - 2019-11-08/08:46:43, 140.0, svines(EVA)," Brief, partial magnetopause crossing with small -Vz jet "
+2019-11-08/08:46:43 - 2019-11-08/08:48:53, 140.0, svines(EVA)," Brief, partial magnetopause crossing with small -Vz jet "
+2019-11-08/08:48:53 - 2019-11-08/08:50:23, 140.0, svines(EVA)," Brief, partial magnetopause crossing with small -Vz jet "
+2019-11-08/10:31:53 - 2019-11-08/10:33:43, 150.0, svines(EVA), Low shear partial and full magnetopause crossings preceded by turbulent B in sheath
+2019-11-08/10:33:43 - 2019-11-08/10:36:03, 150.0, svines(EVA), Low shear partial and full magnetopause crossings preceded by turbulent B in sheath
+2019-11-08/10:36:03 - 2019-11-08/10:38:33, 150.0, svines(EVA), Low shear partial and full magnetopause crossings preceded by turbulent B in sheath
+2019-11-08/10:38:33 - 2019-11-08/10:40:53, 150.0, svines(EVA), Low shear partial and full magnetopause crossings preceded by turbulent B in sheath
+2019-11-08/10:40:53 - 2019-11-08/10:43:23, 150.0, svines(EVA), Low shear partial and full magnetopause crossings preceded by turbulent B in sheath
+2019-11-08/10:43:23 - 2019-11-08/10:45:43, 150.0, svines(EVA), Low shear partial and full magnetopause crossings preceded by turbulent B in sheath
+2019-11-08/10:45:43 - 2019-11-08/10:48:13, 150.0, svines(EVA), Low shear partial and full magnetopause crossings preceded by turbulent B in sheath
+2019-11-08/10:48:13 - 2019-11-08/10:50:43, 150.0, svines(EVA), Low shear partial and full magnetopause crossings preceded by turbulent B in sheath
+2019-11-08/10:50:43 - 2019-11-08/10:53:03, 150.0, svines(EVA), Low shear partial and full magnetopause crossings preceded by turbulent B in sheath
+2019-11-08/10:53:03 - 2019-11-08/10:55:33, 150.0, svines(EVA), Low shear partial and full magnetopause crossings preceded by turbulent B in sheath
+2019-11-08/10:55:33 - 2019-11-08/10:57:53, 150.0, svines(EVA), Low shear partial and full magnetopause crossings preceded by turbulent B in sheath
+2019-11-08/10:57:53 - 2019-11-08/11:00:23, 150.0, svines(EVA), Low shear partial and full magnetopause crossings preceded by turbulent B in sheath
+2019-11-08/11:25:33 - 2019-11-08/11:27:53, 150.0, svines(EVA)," Low-shear, mostly complete magnetopause crossings "
+2019-11-08/11:27:53 - 2019-11-08/11:30:13, 150.0, svines(EVA)," Low-shear, mostly complete magnetopause crossings "
+2019-11-08/11:30:13 - 2019-11-08/11:32:33, 150.0, svines(EVA)," Low-shear, mostly complete magnetopause crossings "
+2019-11-08/11:32:33 - 2019-11-08/11:35:03, 150.0, svines(EVA)," Low-shear, mostly complete magnetopause crossings "
+2019-11-08/11:35:03 - 2019-11-08/11:37:23, 150.0, svines(EVA)," Low-shear, mostly complete magnetopause crossings "
+2019-11-08/11:37:23 - 2019-11-08/11:39:43, 150.0, svines(EVA)," Low-shear, mostly complete magnetopause crossings "

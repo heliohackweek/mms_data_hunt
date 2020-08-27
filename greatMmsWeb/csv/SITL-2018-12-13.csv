@@ -1,0 +1,45 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-12-13/20:43:03 - 2018-12-13/20:44:33,  85.0, kgenestreti(EVA), Whistlers
+2018-12-13/20:44:33 - 2018-12-13/20:46:03,  85.0, kgenestreti(EVA), Whistlers
+2018-12-13/23:09:03 - 2018-12-13/23:10:33, 150.0, kgenestreti(EVA), Low-shear MP crossing
+2018-12-13/23:10:33 - 2018-12-13/23:12:03, 150.0, kgenestreti(EVA), low-shear MP crossing
+2018-12-13/23:14:43 - 2018-12-13/23:17:03, 150.0, kgenestreti(EVA), low-shear MP crossing
+2018-12-13/23:22:03 - 2018-12-13/23:24:23, 125.0, kgenestreti(EVA), low-shear Partial MP crossing
+2018-12-13/23:26:33 - 2018-12-13/23:27:53, 150.0, kgenestreti(EVA), MP crossing
+2018-12-13/23:34:33 - 2018-12-13/23:36:43, 140.0, kgenestreti(EVA), low-shear Partial MP crossing / FTE?
+2018-12-13/23:36:43 - 2018-12-13/23:39:03, 140.0, kgenestreti(EVA), low-shear Partial MP crossing / FTE?
+2018-12-13/23:49:53 - 2018-12-13/23:52:23, 120.0, kgenestreti(EVA), low-shear partial MP crossing
+2018-12-14/01:23:13 - 2018-12-14/01:25:13, 110.0, kgenestreti(EVA)," Bifurcated sheath CS with deep |B| minimum, no clear jet"
+2018-12-14/01:25:13 - 2018-12-14/01:27:13, 110.0, kgenestreti(EVA)," Bifurcated sheath CS with deep |B| minimum, no clear jet"
+2018-12-14/01:41:23 - 2018-12-14/01:42:03, 105.0, kgenestreti(EVA)," Low-shear sharp sheath CS, no clear jets"
+2018-12-14/02:15:13 - 2018-12-14/02:17:43, 120.0, kgenestreti(EVA), BS crossing
+2018-12-14/02:20:33 - 2018-12-14/02:22:13, 110.0, kgenestreti(EVA), HFA
+2018-12-14/02:22:13 - 2018-12-14/02:22:53, 110.0, kgenestreti(EVA), fill SW btwn BS and HFA
+2018-12-14/02:22:53 - 2018-12-14/02:24:13, 130.0, kgenestreti(EVA), BS crossing and mirror-mode waves in sheath
+2018-12-14/02:24:13 - 2018-12-14/02:25:33, 130.0, kgenestreti(EVA), BS crossing and mirror-mode waves in sheath
+2018-12-14/02:27:33 - 2018-12-14/02:28:43, 125.0, kgenestreti(EVA), BS crossing and mirror-mode waves in sheath
+2018-12-14/03:15:23 - 2018-12-14/03:17:13, 130.0, kgenestreti(EVA), BS crossing and mirror-mode waves in sheath
+2018-12-14/03:17:13 - 2018-12-14/03:19:13, 130.0, kgenestreti(EVA), BS crossing and mirror-mode waves in sheath
+2018-12-14/03:21:23 - 2018-12-14/03:23:03, 120.0, kgenestreti(EVA), BS crossing
+2018-12-14/03:25:23 - 2018-12-14/03:27:13, 120.0, kgenestreti(EVA), BS crossing
+2018-12-14/03:30:03 - 2018-12-14/03:31:23, 120.0, kgenestreti(EVA), BS crossing
+2018-12-14/03:31:23 - 2018-12-14/03:32:43,  95.0, kgenestreti(EVA), Partial BS crossing / HFA(?)
+2018-12-14/03:44:13 - 2018-12-14/03:45:13, 110.0, kgenestreti(EVA), HFA
+2018-12-14/04:01:33 - 2018-12-14/04:02:53, 110.0, kgenestreti(EVA), HFA
+2018-12-14/04:20:23 - 2018-12-14/04:22:13, 105.0, kgenestreti(EVA), HFA
+2018-12-14/21:39:53 - 2018-12-14/21:40:53,  90.0, kgenestreti(EVA), SW CS
+2018-12-14/21:40:53 - 2018-12-14/21:42:03,  90.0, kgenestreti(EVA), SW CS
+2018-12-14/22:02:13 - 2018-12-14/22:02:43, 110.0, kgenestreti(EVA), SW CS with energetic ions
+2018-12-15/22:01:43 - 2018-12-15/22:04:13,  80.0, kgenestreti(EVA), Partial BS
+2018-12-15/22:23:23 - 2018-12-15/22:25:13,  80.0, kgenestreti(EVA), Partial BS
+2018-12-15/22:27:43 - 2018-12-15/22:30:13, 120.0, kgenestreti(EVA), BS crossing
+2018-12-15/22:44:53 - 2018-12-15/22:47:03, 120.0, kgenestreti(EVA), BS crossing
+2018-12-15/23:19:53 - 2018-12-15/23:22:23, 120.0, kgenestreti(EVA), BS crossing
+2018-12-16/01:13:03 - 2018-12-16/01:14:33, 135.0, kgenestreti(EVA), BS crossing
+2018-12-16/01:22:23 - 2018-12-16/01:24:43, 135.0, kgenestreti(EVA), BS crossing
+2018-12-16/05:20:43 - 2018-12-16/05:22:43, 150.0, kgenestreti(EVA), MP crossing
+2018-12-16/05:22:43 - 2018-12-16/05:24:53, 150.0, kgenestreti(EVA), MP crossing
+2018-12-16/05:24:53 - 2018-12-16/05:26:53, 150.0, kgenestreti(EVA), MP crossing
+2018-12-16/05:26:53 - 2018-12-16/05:29:03, 150.0, kgenestreti(EVA), MP crossing
+2018-12-16/05:44:23 - 2018-12-16/05:46:03, 150.0, kgenestreti(EVA), MP crossings
+2018-12-16/05:46:03 - 2018-12-16/05:47:43, 150.0, kgenestreti(EVA), MP crossings

@@ -1,0 +1,88 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-11-14/14:37:23 - 2017-11-14/14:39:23,  81.6, rtorbert(EVA),  Low-shear extended MP crossing.
+2017-11-14/14:39:23 - 2017-11-14/14:41:33,  81.6, rtorbert(EVA),  Low-shear extended MP crossing.
+2017-11-14/14:41:33 - 2017-11-14/14:43:33,  81.6, rtorbert(EVA),  Low-shear extended MP crossing.
+2017-11-14/14:43:33 - 2017-11-14/14:46:33,  51.1, rtorbert(EVA),  Low-shear extended MP crossing.
+2017-11-14/14:46:33 - 2017-11-14/14:48:43, 147.9, rtorbert(EVA),"  End of Extended MP crossing, with ion jets and current layers"
+2017-11-14/14:48:43 - 2017-11-14/14:50:43, 147.9, rtorbert(EVA),"  End of Extended MP crossing, with ion jets and current layers"
+2017-11-14/14:50:43 - 2017-11-14/14:52:53, 147.9, rtorbert(EVA),"  End of Extended MP crossing, with ion jets and current layers"
+2017-11-14/15:15:33 - 2017-11-14/15:17:43,  53.5, rtorbert(EVA),  MM waves in MS
+2017-11-14/15:17:43 - 2017-11-14/15:19:53,  53.5, rtorbert(EVA),  MM waves in MS
+2017-11-14/15:19:53 - 2017-11-14/15:22:13,  53.5, rtorbert(EVA),  MM waves in MS
+2017-11-14/15:22:13 - 2017-11-14/15:24:23,  53.5, rtorbert(EVA),  MM waves in MS
+2017-11-14/15:24:23 - 2017-11-14/15:26:33,  53.5, rtorbert(EVA),  MM waves in MS
+2017-11-14/15:26:33 - 2017-11-14/15:28:53,  33.9, rtorbert(EVA),  more MM waves
+2017-11-14/15:28:53 - 2017-11-14/15:31:23,  33.9, rtorbert(EVA),  more MM waves
+2017-11-14/15:31:23 - 2017-11-14/15:33:43,  33.9, rtorbert(EVA),  more MM waves
+2017-11-14/15:33:43 - 2017-11-14/15:36:13,  33.9, rtorbert(EVA),  more MM waves
+2017-11-14/19:53:03 - 2017-11-14/19:54:53,  73.9, rtorbert(EVA),"  Single, Qsi_Perp Bow Shock"
+2017-11-14/19:54:53 - 2017-11-14/19:57:53, 168.3, rtorbert(EVA),"  Single, Qsi_Perp Bow Shock"
+2017-11-14/19:57:53 - 2017-11-14/19:58:43,  94.3, rtorbert(EVA),"  Single, Qsi_Perp Bow Shock"
+2017-11-14/21:01:43 - 2017-11-14/21:02:23, 120.0, seriksson(EVA),  Bifurcated solar wind By CS
+2017-11-14/22:12:53 - 2017-11-14/22:13:33, 130.0, seriksson(EVA),  Solar wind By CS with tripolar Bz guide field
+2017-11-14/22:20:33 - 2017-11-14/22:21:13, 120.0, seriksson(EVA),  Bifurcated solar wind Bx CS
+2017-11-14/22:23:53 - 2017-11-14/22:25:33, 120.0, seriksson(EVA),  Solar wind CS with complicated internal structure
+2017-11-14/23:06:23 - 2017-11-14/23:07:13, 120.0, seriksson(EVA),  Bifurcated solar wind CS
+2017-11-15/11:16:23 - 2017-11-15/11:18:43,  81.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/11:18:43 - 2017-11-15/11:21:03,  81.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/11:21:03 - 2017-11-15/11:23:23,  81.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/11:23:23 - 2017-11-15/11:25:53,  81.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/11:25:53 - 2017-11-15/11:28:13,  81.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/11:28:13 - 2017-11-15/11:30:33,  81.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/11:30:33 - 2017-11-15/11:32:53,  81.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/11:32:53 - 2017-11-15/11:35:13,  81.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/11:35:13 - 2017-11-15/11:37:33,  81.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/11:37:33 - 2017-11-15/11:40:03,  81.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/11:40:03 - 2017-11-15/11:42:23,  81.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/11:42:23 - 2017-11-15/11:44:43,  81.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/11:44:43 - 2017-11-15/11:47:03,  81.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/11:55:53 - 2017-11-15/11:58:23,  73.9, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/11:58:23 - 2017-11-15/12:00:43,  73.9, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/12:00:43 - 2017-11-15/12:03:13,  73.9, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/12:03:13 - 2017-11-15/12:05:33,  40.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/12:05:33 - 2017-11-15/12:06:33,  40.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/12:06:33 - 2017-11-15/12:08:43,  73.9, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/12:08:43 - 2017-11-15/12:10:43,  73.9, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/12:10:43 - 2017-11-15/12:12:53,  73.9, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/12:12:53 - 2017-11-15/12:15:13,  40.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/12:15:13 - 2017-11-15/12:16:13,  40.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-15/12:16:13 - 2017-11-15/12:20:53,  99.4, rtorbert(EVA),  Large Sw current sheets and turbulence
+2017-11-15/12:20:53 - 2017-11-15/12:22:33,  40.0, rtorbert(EVA),  Sw current sheets and turbulence
+2017-11-16/12:12:23 - 2017-11-16/12:14:53,  89.0, rtorbert(EVA),  Possible HFA
+2017-11-16/12:26:53 - 2017-11-16/12:29:23, 119.0, rtorbert(EVA),  BS Xing; 
+2017-11-16/12:29:23 - 2017-11-16/12:31:53, 112.2, rtorbert(EVA),  BS Xing MS side; 
+2017-11-16/12:31:53 - 2017-11-16/12:34:23,  94.3, rtorbert(EVA),  BS Xing; MS side
+2017-11-16/12:34:23 - 2017-11-16/12:36:53, 119.0, rtorbert(EVA),  BS Xing; 
+2017-11-16/12:39:03 - 2017-11-16/12:41:03, 132.0, rtorbert(EVA),  BS Xing.
+2017-11-16/12:41:03 - 2017-11-16/12:43:23,  94.3, rtorbert(EVA),  BS Xing.
+2017-11-16/12:50:03 - 2017-11-16/12:51:43, 102.0, rtorbert(EVA),  MS current sheet
+2017-11-16/12:54:33 - 2017-11-16/12:55:03, 122.0, rtorbert(EVA),  MS current sheet
+2017-11-16/13:02:03 - 2017-11-16/13:03:43, 119.0, rtorbert(EVA),  electron heating around MS current sheet
+2017-11-16/13:51:03 - 2017-11-16/13:52:33, 102.0, rtorbert(EVA),  BS Xing
+2017-11-16/13:55:53 - 2017-11-16/13:58:03, 107.1, rtorbert(EVA),  Bs Xing
+2017-11-16/13:58:03 - 2017-11-16/14:00:13, 107.1, rtorbert(EVA),  Bs Xing
+2017-11-16/14:00:13 - 2017-11-16/14:02:23, 107.1, rtorbert(EVA),  Bs Xing
+2017-11-16/14:06:03 - 2017-11-16/14:09:43, 102.0, rtorbert(EVA),  out and IN BS crossing.
+2017-11-16/14:12:13 - 2017-11-16/14:14:03,  99.0, rtorbert(EVA),  Mult. BS Xings.
+2017-11-16/14:14:03 - 2017-11-16/14:16:03,  99.0, rtorbert(EVA),  Mult. BS Xings.
+2017-11-16/14:16:03 - 2017-11-16/14:17:53,  99.0, rtorbert(EVA),  Mult. BS Xings.
+2017-11-16/14:17:53 - 2017-11-16/14:19:53,  99.0, rtorbert(EVA),  Mult. BS Xings.
+2017-11-16/15:02:33 - 2017-11-16/15:04:03,  61.0, rtorbert(EVA),  MS turbulence/current sheats; some heating
+2017-11-16/15:36:03 - 2017-11-16/15:46:03,  99.0, rtorbert(EVA),  MS turbulence and current sheets
+2017-11-16/16:16:13 - 2017-11-16/16:18:23, 114.0, rtorbert(EVA),  MS current sheet
+2017-11-16/16:29:33 - 2017-11-16/16:30:53,  89.0, rtorbert(EVA),  MS current sheet
+2017-11-16/16:48:13 - 2017-11-16/16:49:33,  79.0, rtorbert(EVA),  MS current sheet
+2017-11-16/16:57:23 - 2017-11-16/16:57:53,  86.0, rtorbert(EVA),  MS current sheet
+2017-11-16/17:08:43 - 2017-11-16/17:09:03,  40.0, rtorbert(EVA),"  Ms current sheet, electron heating"
+2017-11-16/17:10:53 - 2017-11-16/17:11:13,  86.0, rtorbert(EVA),"  MS current sheet, electron heating."
+2017-11-16/17:50:33 - 2017-11-16/17:56:03, 112.0, rtorbert(EVA),  Mult MP crossings; last is higher shear; low current
+2017-11-16/18:06:03 - 2017-11-16/18:08:43, 102.0, rtorbert(EVA),  Mod shear MP crossing
+2017-11-16/18:39:13 - 2017-11-16/18:41:23, 102.0, rtorbert(EVA),  Low shear MP crossing
+2017-11-16/19:10:03 - 2017-11-16/19:12:53, 112.0, rtorbert(EVA),  Low shear MP
+2017-11-16/19:15:43 - 2017-11-16/19:16:13,  99.0, rtorbert(EVA),  partial MP crossing
+2017-11-16/19:16:33 - 2017-11-16/19:16:53,  89.0, rtorbert(EVA),  partial MP crossing
+2017-11-16/19:17:33 - 2017-11-16/19:18:13,  99.0, rtorbert(EVA),  Hi shear MP
+2017-11-16/19:19:03 - 2017-11-16/19:19:43, 147.9, rtorbert(EVA),"  Hi shear MP, current uncertain; some jetting"
+2017-11-16/19:23:33 - 2017-11-16/19:24:23, 122.4, rtorbert(EVA),"  High-Shear MP , not clear on current strnegth, some jetting"
+2017-11-16/19:27:13 - 2017-11-16/19:28:03,  66.0, rtorbert(EVA),"  Low shear, MP, but some jetting"
+2017-11-16/19:43:23 - 2017-11-16/19:44:53,  66.0, rtorbert(EVA), Partial MP or FTE

@@ -1,0 +1,83 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-06-22/02:57:43 - 2019-06-22/03:00:03,  50.0, jstawarz(EVA),  Enhanced flows and fluctuations at plasma sheet boundary
+2019-06-22/03:00:03 - 2019-06-22/03:02:23,  50.0, jstawarz(EVA),  Enhanced flows and fluctuations at plasma sheet boundary
+2019-06-22/03:02:23 - 2019-06-22/03:04:43,  50.0, jstawarz(EVA),  Enhanced flows and fluctuations at plasma sheet boundary
+2019-06-22/03:04:43 - 2019-06-22/03:07:03,  50.0, jstawarz(EVA),  Enhanced flows and fluctuations at plasma sheet boundary
+2019-06-22/03:07:03 - 2019-06-22/03:09:23,  50.0, jstawarz(EVA),  Enhanced flows and fluctuations at plasma sheet boundary
+2019-06-22/03:09:23 - 2019-06-22/03:11:43,  50.0, jstawarz(EVA),  Enhanced flows and fluctuations at plasma sheet boundary
+2019-06-22/09:41:43 - 2019-06-22/09:44:03,  50.0, makhavantafti(EVA),  Plasma and wave activity at a boundary crossing
+2019-06-22/09:44:03 - 2019-06-22/09:46:33,  50.0, makhavantafti(EVA),  Plasma and wave activity at a boundary crossing
+2019-06-22/15:28:13 - 2019-06-22/15:30:23,  50.0, makhavantafti(EVA),  Velocity rotation
+2019-06-22/15:30:23 - 2019-06-22/15:32:43,  50.0, makhavantafti(EVA),  Velocity rotation
+2019-06-22/16:32:23 - 2019-06-22/16:34:33,  80.0, makhavantafti(EVA), Possible DF coinciding w/ vix&y reversals
+2019-06-22/16:55:13 - 2019-06-22/16:57:43,  80.0, makhavantafti(EVA), Possible DF w/ enhanced current and vi reversals
+2019-06-22/16:57:43 - 2019-06-22/17:00:13,  80.0, makhavantafti(EVA), Possible DF w/ enhanced current and vi reversals
+2019-06-22/17:00:13 - 2019-06-22/17:02:43,  80.0, makhavantafti(EVA), Possible DF w/ enhanced current and vi reversals
+2019-06-22/19:09:43 - 2019-06-22/19:11:53,  60.0, makhavantafti(EVA), Isolated current sheet events w/ jet reversals
+2019-06-22/19:11:53 - 2019-06-22/19:14:03,  60.0, makhavantafti(EVA), Isolated current sheet events w/ jet reversals
+2019-06-22/19:14:03 - 2019-06-22/19:16:13,  60.0, makhavantafti(EVA), Isolated current sheet events w/ jet reversals
+2019-06-22/19:16:13 - 2019-06-22/19:18:23,  60.0, makhavantafti(EVA), Isolated current sheet events w/ jet reversals
+2019-06-22/19:18:23 - 2019-06-22/19:20:33,  60.0, makhavantafti(EVA), Isolated current sheet events w/ jet reversals
+2019-06-22/19:20:33 - 2019-06-22/19:22:43,  60.0, makhavantafti(EVA), Isolated current sheet events w/ jet reversals
+2019-06-22/21:26:53 - 2019-06-22/21:30:43,  60.0, makhavantafti(EVA), Isolated current sheet w/ jet reversal
+2019-06-22/21:51:23 - 2019-06-22/21:53:23,  60.0, makhavantafti(EVA), possible DF
+2019-06-22/22:24:33 - 2019-06-22/22:26:33,  80.0, makhavantafti(EVA),  enhanced plasma and wave activities at a B rotation
+2019-06-22/22:26:33 - 2019-06-22/22:28:43,  80.0, makhavantafti(EVA),  enhanced plasma and wave activities at a B rotation
+2019-06-22/22:28:43 - 2019-06-22/22:30:43,  80.0, makhavantafti(EVA),  enhanced plasma and wave activities at a B rotation
+2019-06-22/22:30:43 - 2019-06-22/22:32:53,  80.0, makhavantafti(EVA),  enhanced plasma and wave activities at a B rotation
+2019-06-22/22:32:53 - 2019-06-22/22:34:53,  80.0, makhavantafti(EVA),  enhanced plasma and wave activities at a B rotation
+2019-06-22/23:34:53 - 2019-06-22/23:37:13,  80.0, makhavantafti(EVA), vix reversal coinciding w/ enhanced wave activity
+2019-06-22/23:37:13 - 2019-06-22/23:39:33,  80.0, makhavantafti(EVA), vix reversal coinciding w/ enhanced wave activity
+2019-06-22/23:39:33 - 2019-06-22/23:41:53,  80.0, makhavantafti(EVA), vix reversal coinciding w/ enhanced wave activity
+2019-06-22/23:41:53 - 2019-06-22/23:44:13,  80.0, makhavantafti(EVA), vix reversal coinciding w/ enhanced wave activity
+2019-06-22/23:44:13 - 2019-06-22/23:45:53,  80.0, makhavantafti(EVA), vix reversal coinciding w/ enhanced wave activity
+2019-06-22/23:45:53 - 2019-06-22/23:48:43,  60.0, makhavantafti(EVA), vix reversal w/ enhanced viy
+2019-06-22/23:48:43 - 2019-06-22/23:50:43,  60.0, makhavantafti(EVA), vix reversal w/ enhanced viy
+2019-06-23/00:24:13 - 2019-06-23/00:25:53,  60.0, makhavantafti(EVA), Possible DF
+2019-06-23/07:15:53 - 2019-06-23/07:19:43,  40.0, makhavantafti(EVA), Isolated high frequency wave activity 
+2019-06-23/07:31:53 - 2019-06-23/07:33:43,  40.0, makhavantafti(EVA), Isolated current sheet crossing
+2019-06-23/07:45:13 - 2019-06-23/07:46:53,  40.0, makhavantafti(EVA), Possible DF
+2019-06-23/08:03:03 - 2019-06-23/08:04:33,  40.0, makhavantafti(EVA),  Possible DF
+2019-06-23/17:26:03 - 2019-06-23/17:28:43,  50.0, makhavantafti(EVA), Sharp B rotation
+2019-06-23/19:10:03 - 2019-06-23/19:12:23,  40.0, makhavantafti(EVA),  Enhanced wave activity
+2019-06-23/19:12:23 - 2019-06-23/19:14:43,  40.0, makhavantafti(EVA),  Enhanced wave activity
+2019-06-23/19:14:43 - 2019-06-23/19:17:03,  40.0, makhavantafti(EVA),  Enhanced wave activity
+2019-06-23/23:18:33 - 2019-06-23/23:21:03, 100.0, makhavantafti(EVA), Bz reversals coinciding with enhanced tailward vix
+2019-06-23/23:21:03 - 2019-06-23/23:24:53, 100.0, makhavantafti(EVA), Bz reversals coinciding with enhanced tailward vix
+2019-06-23/23:24:53 - 2019-06-23/23:26:33,  80.0, makhavantafti(EVA),  CS crossing
+2019-06-23/23:26:33 - 2019-06-23/23:30:03, 100.0, makhavantafti(EVA),  Bz reversals at a boundary crossing
+2019-06-24/00:30:43 - 2019-06-24/00:32:53,  80.0, makhavantafti(EVA), Possible travelling compression region (TCR)
+2019-06-24/00:32:53 - 2019-06-24/00:35:13,  80.0, makhavantafti(EVA), Possible travelling compression region (TCR)
+2019-06-24/03:25:13 - 2019-06-24/03:27:23,  60.0, makhavantafti(EVA),  Current sheet crossing
+2019-06-24/03:27:23 - 2019-06-24/03:29:33,  60.0, makhavantafti(EVA),  Current sheet crossing
+2019-06-24/03:29:33 - 2019-06-24/03:31:43,  60.0, makhavantafti(EVA),  Current sheet crossing
+2019-06-24/03:31:43 - 2019-06-24/03:33:53,  60.0, makhavantafti(EVA),  Current sheet crossing
+2019-06-24/03:33:53 - 2019-06-24/03:36:03,  60.0, makhavantafti(EVA),  Current sheet crossing
+2019-06-24/03:36:03 - 2019-06-24/03:38:13,  60.0, makhavantafti(EVA),  Current sheet crossing
+2019-06-24/03:46:53 - 2019-06-24/03:49:13,  60.0, makhavantafti(EVA), CS crossing
+2019-06-24/03:49:13 - 2019-06-24/03:51:33,  60.0, makhavantafti(EVA), CS crossing
+2019-06-24/03:51:33 - 2019-06-24/03:53:53,  60.0, makhavantafti(EVA), CS crossing
+2019-06-24/04:03:13 - 2019-06-24/04:06:13,  50.0, makhavantafti(EVA),  CS crossing
+2019-06-24/04:19:23 - 2019-06-24/04:21:23,  50.0, makhavantafti(EVA), CS crossing
+2019-06-24/04:21:23 - 2019-06-24/04:23:23,  50.0, makhavantafti(EVA), CS crossing
+2019-06-24/04:23:23 - 2019-06-24/04:25:33,  50.0, makhavantafti(EVA), CS crossing
+2019-06-24/04:25:33 - 2019-06-24/04:27:33,  50.0, makhavantafti(EVA), CS crossing
+2019-06-24/04:27:33 - 2019-06-24/04:29:33,  50.0, makhavantafti(EVA), CS crossing
+2019-06-24/04:48:03 - 2019-06-24/04:50:23,  50.0, makhavantafti(EVA), Multiple CS crossings
+2019-06-24/04:50:23 - 2019-06-24/04:52:53,  50.0, makhavantafti(EVA), Multiple CS crossings
+2019-06-24/04:52:53 - 2019-06-24/04:55:13,  50.0, makhavantafti(EVA), Multiple CS crossings
+2019-06-24/04:55:13 - 2019-06-24/04:57:43,  50.0, makhavantafti(EVA), Multiple CS crossings
+2019-06-24/04:57:43 - 2019-06-24/05:00:03,  50.0, makhavantafti(EVA), Multiple CS crossings
+2019-06-24/05:00:03 - 2019-06-24/05:02:33,  50.0, makhavantafti(EVA), Multiple CS crossings
+2019-06-24/05:02:33 - 2019-06-24/05:04:53,  50.0, makhavantafti(EVA), Multiple CS crossings
+2019-06-24/05:04:53 - 2019-06-24/05:07:23,  50.0, makhavantafti(EVA), Multiple CS crossings
+2019-06-24/05:07:23 - 2019-06-24/05:09:43,  50.0, makhavantafti(EVA), Multiple CS crossings
+2019-06-24/05:09:43 - 2019-06-24/05:12:13,  50.0, makhavantafti(EVA), Multiple CS crossings
+2019-06-24/07:17:03 - 2019-06-24/07:19:03,  50.0, makhavantafti(EVA),  CD crossing
+2019-06-24/07:19:03 - 2019-06-24/07:21:13,  50.0, makhavantafti(EVA),  CD crossing
+2019-06-24/07:21:13 - 2019-06-24/07:23:13,  50.0, makhavantafti(EVA),  CD crossing
+2019-06-24/07:23:13 - 2019-06-24/07:25:23,  50.0, makhavantafti(EVA),  CD crossing
+2019-06-24/07:25:23 - 2019-06-24/07:27:23,  50.0, makhavantafti(EVA),  CD crossing
+2019-06-24/11:37:23 - 2019-06-24/11:39:43,  50.0, makhavantafti(EVA),  CS crossings
+2019-06-24/11:39:43 - 2019-06-24/11:42:03,  50.0, makhavantafti(EVA),  CS crossings
+2019-06-24/11:42:03 - 2019-06-24/11:44:23,  50.0, makhavantafti(EVA),  CS crossings

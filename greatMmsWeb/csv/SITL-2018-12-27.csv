@@ -1,0 +1,44 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-12-27/21:55:43 - 2018-12-27/21:57:43,  90.0, nkitamura(EVA)," BL with cold ions, no rotation in B, density gradient, and southward jet"
+2018-12-27/21:57:43 - 2018-12-27/22:00:33,  90.0, nkitamura(EVA)," Multiple partial BL traversals with jets and cold ions, no rotation in B"
+2018-12-27/22:00:33 - 2018-12-27/22:02:53, 150.0, nkitamura(EVA), MP crossing with jet and B rotation
+2018-12-27/22:14:03 - 2018-12-27/22:16:23,  90.0, nkitamura(EVA)," Weak B and B rotation, flow in magnetosheath"
+2018-12-27/22:23:03 - 2018-12-27/22:24:03,  70.0, nkitamura(EVA), Magnetosheath CS
+2018-12-27/23:09:13 - 2018-12-27/23:10:23, 100.0, nkitamura(EVA), Quasi-parallel bow shock crossing
+2018-12-27/23:11:13 - 2018-12-27/23:12:33,  95.0, nkitamura(EVA), Waves in the solar wind
+2018-12-27/23:13:33 - 2018-12-27/23:14:03, 100.0, nkitamura(EVA), Possible foreshock bubble
+2018-12-27/23:14:03 - 2018-12-27/23:14:33,  85.0, nkitamura(EVA), Waves in the solar wind
+2018-12-27/23:15:23 - 2018-12-27/23:16:03, 100.0, nkitamura(EVA), Possible foreshock bubble
+2018-12-27/23:17:03 - 2018-12-27/23:17:33, 100.0, nkitamura(EVA), Possible HFA
+2018-12-27/23:17:33 - 2018-12-27/23:18:43, 100.0, nkitamura(EVA), Bow shock crossing
+2018-12-27/23:22:03 - 2018-12-27/23:23:45, 100.0, nkitamura(EVA), Quasi-parallel bow shock (downstream) and energetic ions
+2018-12-27/23:23:43 - 2018-12-27/23:25:53, 100.0, nkitamura(EVA), Quasi-parallel bow shock crossing and energetic ions
+2018-12-27/23:36:33 - 2018-12-27/23:37:53, 105.0, nkitamura(EVA), Quasi-perpendicular bow shock crossing
+2018-12-27/23:44:33 - 2018-12-27/23:46:13, 100.0, nkitamura(EVA), Quasi-perpendicular bow shock crossing
+2018-12-27/23:50:23 - 2018-12-27/23:52:23,  95.0, nkitamura(EVA), Wave fluctuations and shocklets
+2018-12-27/23:52:53 - 2018-12-27/23:54:23, 100.0, nkitamura(EVA), Quasi-perpendicular bow shock crossing
+2018-12-28/00:03:03 - 2018-12-28/00:04:35,  85.0, nkitamura(EVA), Current sheet
+2018-12-28/00:05:13 - 2018-12-28/00:07:23, 100.0, nkitamura(EVA), Shocks and foreshock
+2018-12-28/00:17:03 - 2018-12-28/00:18:13,  85.0, nkitamura(EVA), Quasi-parallel shock (downstream)
+2018-12-28/00:18:13 - 2018-12-28/00:20:13, 100.0, nkitamura(EVA), Upstream waves and quasi-parallel shock crossing
+2018-12-28/00:33:13 - 2018-12-28/00:35:43,  75.0, nkitamura(EVA), Waves in the solar wind and energetic ions
+2018-12-28/02:15:23 - 2018-12-28/02:16:33,  90.0, nkitamura(EVA), Solar wind CS
+2018-12-28/03:11:03 - 2018-12-28/03:12:13,  80.0, nkitamura(EVA), Solar wind CS
+2018-12-29/01:09:53 - 2018-12-29/01:10:23,  70.0, nkitamura(EVA), Solar wind CS
+2018-12-29/01:14:33 - 2018-12-29/01:15:13,  85.0, nkitamura(EVA), Solar wind CS
+2018-12-29/01:36:33 - 2018-12-29/01:37:03,  90.0, nkitamura(EVA), Solar wind CS
+2018-12-29/02:42:43 - 2018-12-29/02:43:13,  90.0, nkitamura(EVA), Solar wind CS
+2018-12-29/03:19:03 - 2018-12-29/03:19:43,  90.0, nkitamura(EVA), Solar wind CS
+2018-12-30/00:44:03 - 2018-12-30/00:44:33,  80.0, nkitamura(EVA), Solar wind CS
+2018-12-30/00:45:23 - 2018-12-30/00:46:13, 100.0, nkitamura(EVA), Solar wind CS
+2018-12-30/03:27:43 - 2018-12-30/03:28:13,  85.0, nkitamura(EVA), Solar wind CSs
+2018-12-30/03:36:03 - 2018-12-30/03:37:03,  95.0, nkitamura(EVA), Solar wind CSs
+2018-12-30/03:37:33 - 2018-12-30/03:38:13,  85.0, nkitamura(EVA), Solar wind CSs
+2018-12-30/03:45:33 - 2018-12-30/03:47:13, 100.0, nkitamura(EVA), Quasi-perpendicular bow shock crossing
+2018-12-30/04:05:33 - 2018-12-30/04:07:33,  80.0, nkitamura(EVA), Density enhacement and compressional B fluctuations
+2018-12-30/04:27:43 - 2018-12-30/04:28:33, 110.0, nkitamura(EVA)," Possible fast flow, density dip, and deep B minimum in magnetosheath"
+2018-12-30/04:43:43 - 2018-12-30/04:45:43,  90.0, nkitamura(EVA), CSs in magnetosheath and B fluctuations
+2018-12-30/04:46:13 - 2018-12-30/04:46:53,  95.0, nkitamura(EVA), Deep B minimum in magnetosheath
+2018-12-30/04:46:53 - 2018-12-30/04:48:23,  80.0, nkitamura(EVA), B fluctuations in magnetosheath
+2018-12-30/04:48:53 - 2018-12-30/04:49:23,  90.0, nkitamura(EVA), B minimum in magnetosheath
+2018-12-30/06:12:03 - 2018-12-30/06:13:03,  95.0, nkitamura(EVA), CS in magnetosheath

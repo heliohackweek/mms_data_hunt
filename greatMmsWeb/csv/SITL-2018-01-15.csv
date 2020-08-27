@@ -1,0 +1,64 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-01-15/13:57:43 - 2018-01-15/13:58:23, 119.8, jburch(EVA), Full low-shear MP crossing 
+2018-01-15/13:58:33 - 2018-01-15/13:59:03,  79.0, jburch(EVA), MS current sheet 
+2018-01-15/13:59:13 - 2018-01-15/13:59:43, 119.0, jburch(EVA), Low shear MP crossing with ion jet 
+2018-01-15/14:00:03 - 2018-01-15/14:00:53, 132.0, jburch(EVA), Double low shear MP crossing with ion jet reversal 
+2018-01-15/14:00:53 - 2018-01-15/14:01:53,  63.0, jburch(EVA), IMF southward turing in MS 
+2018-01-15/14:03:23 - 2018-01-15/14:03:43,  89.0, jburch(EVA), Possible MS reconnection event with mag. null and electron acceleration. 
+2018-01-15/14:05:03 - 2018-01-15/14:05:33,  79.0, jburch(EVA)," Possible HFA, mag. null and density increase in MS. "
+2018-01-15/14:48:43 - 2018-01-15/14:49:13, 102.0, jburch(EVA)," Possible MS reconnection, mag. null with strong E field spike. "
+2018-01-15/15:05:23 - 2018-01-15/15:06:13,  89.0, jburch(EVA)," Possible MS reconnection, strong flow and extended mag. null. "
+2018-01-15/15:08:33 - 2018-01-15/15:08:53,  79.0, jburch(EVA), MS current sheet with ion acceleration. 
+2018-01-15/15:16:43 - 2018-01-15/15:17:13,  99.0, jburch(EVA), Possible FTE. 
+2018-01-15/16:06:53 - 2018-01-15/16:13:33,  94.0, jburch(EVA), Grazing BS encounter 
+2018-01-15/16:22:53 - 2018-01-15/16:26:13, 102.0, jburch(EVA), Bow shock with whistlers 
+2018-01-15/16:27:23 - 2018-01-15/16:29:53, 102.0, jburch(EVA), QPerp shock with energetic ions 
+2018-01-15/16:39:03 - 2018-01-15/16:40:33,  86.0, jburch(EVA), SLAMS and energetic ions 
+2018-01-15/16:41:03 - 2018-01-15/16:41:53,  86.0, jburch(EVA), HFA and energetic ions 
+2018-01-15/16:52:43 - 2018-01-15/16:54:33,  89.2, jburch(EVA), Bow shock with ~1-minute periodicity and whistlers 
+2018-01-15/16:54:33 - 2018-01-15/16:56:13,  89.2, jburch(EVA), Bow shock with ~1-minute periodicity and whistlers 
+2018-01-15/16:56:13 - 2018-01-15/16:58:03,  89.2, jburch(EVA), Bow shock with ~1-minute periodicity and whistlers 
+2018-01-15/16:58:03 - 2018-01-15/16:59:43,  87.1, jburch(EVA), Bow shock with ~1-minute periocidity and whistlers 
+2018-01-15/16:59:43 - 2018-01-15/17:01:33,  87.1, jburch(EVA), Bow shock with ~i-minute periodicity and whistlers 
+2018-01-15/17:01:33 - 2018-01-15/17:03:13,  87.1, jburch(EVA), Bow shock with ~1-minute periodicity and whistlers 
+2018-01-15/17:13:23 - 2018-01-15/17:14:33,  86.0, jburch(EVA), HFA with narrow upstream shock 
+2018-01-15/18:28:43 - 2018-01-15/18:31:03,  89.0, jburch(EVA), Quiet solar wind 
+2018-01-15/18:31:03 - 2018-01-15/18:33:33,  89.0, jburch(EVA), Quiet solar wind 
+2018-01-15/18:33:33 - 2018-01-15/18:35:53,  89.0, jburch(EVA), Quiet solar wind 
+2018-01-15/18:35:53 - 2018-01-15/18:38:23,  89.0, jburch(EVA), Quiet solar wind 
+2018-01-15/18:38:23 - 2018-01-15/18:40:43,  89.0, jburch(EVA), Quiet solar wind 
+2018-01-15/18:40:43 - 2018-01-15/18:43:13,  89.0, jburch(EVA), Quiet solar wind 
+2018-01-15/18:43:13 - 2018-01-15/18:45:33,  89.0, jburch(EVA), Quiet solar wind 
+2018-01-16/10:08:03 - 2018-01-16/10:10:33, 102.0, jburch(EVA), Strong Langmuir waves with accelerated electrons 
+2018-01-16/10:10:33 - 2018-01-16/10:12:53, 102.0, jburch(EVA), Strong Langmuir waves with accelerated electrons 
+2018-01-16/10:12:53 - 2018-01-16/10:15:23, 102.0, jburch(EVA), Strong Langmuir waves with accelerated electrons 
+2018-01-16/10:15:23 - 2018-01-16/10:17:53, 102.0, jburch(EVA), Strong Langmuir waves with accelerated electrons 
+2018-01-16/10:17:53 - 2018-01-16/10:20:13, 102.0, jburch(EVA), Strong Langmuir waves with accelerated electrons 
+2018-01-16/10:20:13 - 2018-01-16/10:22:43, 102.0, jburch(EVA), Strong Langmuir waves with accelerated electrons 
+2018-01-16/10:22:43 - 2018-01-16/10:25:13, 102.0, jburch(EVA), Strong Langmuir waves with accelerated electrons 
+2018-01-16/10:25:13 - 2018-01-16/10:27:43, 102.0, jburch(EVA), Strong Langmuir waves with accelerated electrons 
+2018-01-16/10:27:43 - 2018-01-16/10:30:03, 102.0, jburch(EVA), Strong Langmuir waves with accelerated electrons 
+2018-01-16/10:30:03 - 2018-01-16/10:32:33, 102.0, jburch(EVA), Strong Langmuir waves with accelerated electrons 
+2018-01-16/10:43:43 - 2018-01-16/10:46:03,  68.0, jburch(EVA), Solar wind current sheet followed by foreshock ions 
+2018-01-16/10:46:03 - 2018-01-16/10:48:33,  68.0, jburch(EVA), Solar wind current sheet followed by foreshock ions 
+2018-01-16/10:48:33 - 2018-01-16/10:50:53,  68.0, jburch(EVA), Solar wind current sheet followed by foreshock ions 
+2018-01-16/10:50:53 - 2018-01-16/10:53:23,  68.0, jburch(EVA), Solar wind current sheet followed by foreshock ions 
+2018-01-16/12:49:23 - 2018-01-16/12:51:43,  86.0, jburch(EVA), Quiet solar wind 
+2018-01-16/12:51:43 - 2018-01-16/12:54:13,  86.0, jburch(EVA), Quiet solar wind 
+2018-01-16/12:54:13 - 2018-01-16/12:56:33,  86.0, jburch(EVA), Quiet solar wind 
+2018-01-16/12:56:33 - 2018-01-16/12:59:03,  86.0, jburch(EVA), Quiet solar wind 
+2018-01-16/12:59:03 - 2018-01-16/13:01:23,  86.0, jburch(EVA), Quiet solar wind 
+2018-01-16/13:48:43 - 2018-01-16/13:50:53,  81.0, jburch(EVA), Turbulent foreshock ion event with broadband waves
+2018-01-16/13:50:53 - 2018-01-16/13:53:03,  81.0, jburch(EVA), Turbulent foreshock ion event with broadband waves
+2018-01-16/13:53:03 - 2018-01-16/13:55:13,  81.0, jburch(EVA), Turbulent foreshock ion event with broadband waves
+2018-01-16/13:55:13 - 2018-01-16/13:57:23,  81.0, jburch(EVA), Turbulent foreshock ion event with broadband waves
+2018-01-16/13:57:23 - 2018-01-16/13:59:33,  81.0, jburch(EVA), Turbulent foreshock ion event with broadband waves
+2018-01-16/14:57:53 - 2018-01-16/15:00:13,  81.0, jburch(EVA), Energetic foreshock ions with turbulent E and B fields and broadband waves 
+2018-01-16/15:00:13 - 2018-01-16/15:02:33,  81.0, jburch(EVA), Energetic foreshock ions with turbulent E and B fields and broadband waves 
+2018-01-16/15:02:33 - 2018-01-16/15:05:03,  81.0, jburch(EVA), Energetic foreshock ions with turbulent E and B fields and broadband waves 
+2018-01-16/15:05:03 - 2018-01-16/15:07:23,  81.0, jburch(EVA), Energetic foreshock ions with turbulent E and B fields and broadband waves 
+2018-01-16/15:07:23 - 2018-01-16/15:09:43,  81.0, jburch(EVA), Energetic foreshock ions with turbulent E and B fields and broadband waves 
+2018-01-17/18:15:43 - 2018-01-17/18:20:13,  89.0, jburch(EVA), Grazing bow shock with whistlers inside and Langmiuir waves outside 
+2018-01-17/18:23:03 - 2018-01-17/18:27:13,  86.0, jburch(EVA), Bow shock 
+2018-01-17/22:09:23 - 2018-01-17/22:13:33, 102.0, jburch(EVA), Partial MP crossing but no B field yet 
+2018-01-17/22:21:23 - 2018-01-17/22:30:53, 102.0, jburch(EVA), MP crossing but no B-field yet 

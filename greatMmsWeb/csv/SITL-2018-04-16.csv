@@ -1,0 +1,59 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-04-16/00:13:33 - 2018-04-16/00:16:03,  70.0, fwilder(EVA), Partial MP
+2018-04-16/01:07:03 - 2018-04-16/01:09:13,  80.0, fwilder(EVA), Partial MP With B minimum
+2018-04-16/01:09:13 - 2018-04-16/01:11:23,  80.0, fwilder(EVA), Partial MP With B minimum
+2018-04-16/01:11:23 - 2018-04-16/01:13:23,  80.0, fwilder(EVA), Partial MP With B minimum
+2018-04-16/01:13:23 - 2018-04-16/01:15:33,  80.0, fwilder(EVA), Partial MP With B minimum
+2018-04-16/01:15:33 - 2018-04-16/01:17:43,  80.0, fwilder(EVA), Partial MP With B minimum
+2018-04-16/01:17:43 - 2018-04-16/01:19:53,  80.0, fwilder(EVA), Partial MP With B minimum
+2018-04-16/01:26:23 - 2018-04-16/01:28:23,  75.0, fwilder(EVA), Partial MP
+2018-04-16/01:28:23 - 2018-04-16/01:30:33,  75.0, fwilder(EVA), Partial MP
+2018-04-16/01:30:33 - 2018-04-16/01:32:33,  75.0, fwilder(EVA), Partial MP
+2018-04-16/01:38:13 - 2018-04-16/01:40:43,  60.0, fwilder(EVA), Partial MP with high shear
+2018-04-16/01:40:43 - 2018-04-16/01:43:03,  60.0, fwilder(EVA), Partial MP with high shear
+2018-04-16/01:43:03 - 2018-04-16/01:45:33,  60.0, fwilder(EVA), Partial MP with high shear
+2018-04-16/01:45:33 - 2018-04-16/01:48:03,  60.0, fwilder(EVA), Partial MP with high shear
+2018-04-16/01:55:33 - 2018-04-16/01:57:53,  75.0, fwilder(EVA), Magnetopause skimming
+2018-04-16/01:57:53 - 2018-04-16/02:00:13,  75.0, fwilder(EVA), Magnetopause skimming
+2018-04-16/02:00:13 - 2018-04-16/02:02:33,  75.0, fwilder(EVA), Magnetopause skimming
+2018-04-16/02:02:33 - 2018-04-16/02:04:53,  75.0, fwilder(EVA), Magnetopause skimming
+2018-04-16/02:11:43 - 2018-04-16/02:14:13, 100.0, fwilder(EVA),  Long slow MP crossing
+2018-04-16/02:14:13 - 2018-04-16/02:16:43, 100.0, fwilder(EVA),  Long slow MP crossing
+2018-04-16/02:16:43 - 2018-04-16/02:19:13, 100.0, fwilder(EVA),  Long slow MP crossing
+2018-04-16/02:19:13 - 2018-04-16/02:21:43, 100.0, fwilder(EVA),  Long slow MP crossing
+2018-04-16/02:21:43 - 2018-04-16/02:24:13, 100.0, fwilder(EVA),  Long slow MP crossing
+2018-04-16/02:24:13 - 2018-04-16/02:26:43, 100.0, fwilder(EVA),  Long slow MP crossing
+2018-04-16/02:26:43 - 2018-04-16/02:29:13, 100.0, fwilder(EVA),  Long slow MP crossing
+2018-04-16/02:29:13 - 2018-04-16/02:31:43, 100.0, fwilder(EVA),  Long slow MP crossing
+2018-04-16/03:43:13 - 2018-04-16/03:45:13,  90.0, fwilder(EVA), Potentially Active Sheath Flux Rope
+2018-04-16/03:45:13 - 2018-04-16/03:47:13,  90.0, fwilder(EVA), Potentially Active Sheath Flux Rope
+2018-04-16/04:44:53 - 2018-04-16/04:45:23,  40.0, fwilder(EVA), Sheath with a strong localized enhanced current
+2018-04-16/06:30:13 - 2018-04-16/06:30:43,  90.0, fwilder(EVA), Thin sheath CS
+2018-04-16/10:23:13 - 2018-04-16/10:25:33, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/10:25:33 - 2018-04-16/10:27:53, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/10:27:53 - 2018-04-16/10:30:13, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/10:30:13 - 2018-04-16/10:32:33, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/10:32:33 - 2018-04-16/10:35:03, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/10:35:03 - 2018-04-16/10:37:23, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/10:37:23 - 2018-04-16/10:39:43, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/10:39:43 - 2018-04-16/10:42:03, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/10:42:03 - 2018-04-16/10:44:23, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/10:44:23 - 2018-04-16/10:46:43, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/10:46:43 - 2018-04-16/10:49:03, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/10:49:03 - 2018-04-16/10:51:23, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/10:51:23 - 2018-04-16/10:53:53, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/10:53:53 - 2018-04-16/10:56:13, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/10:56:13 - 2018-04-16/10:58:33, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/10:58:33 - 2018-04-16/11:00:53, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/12:11:13 - 2018-04-16/12:12:33, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/12:12:33 - 2018-04-16/12:13:53, 125.0, fwilder(EVA),  Ion Cyclotron Waves
+2018-04-16/13:21:33 - 2018-04-16/13:22:13,  90.0, fwilder(EVA), Thin Sheath CS
+2018-04-16/13:22:53 - 2018-04-16/13:23:23,  90.0, fwilder(EVA),  Thin sheath current sheet
+2018-04-16/13:34:03 - 2018-04-16/13:35:13, 105.0, fwilder(EVA), Sheath turbulence interval with thin current sheets. 
+2018-04-16/13:51:13 - 2018-04-16/13:52:03,  85.0, fwilder(EVA),  Sharp sheath CS
+2018-04-16/14:04:23 - 2018-04-16/14:04:53, 105.0, fwilder(EVA),  Sharp Sheath Current
+2018-04-16/14:10:33 - 2018-04-16/14:11:03, 150.0, fwilder(EVA), Potential Sheath Reconnection Candidate
+2018-04-16/14:32:43 - 2018-04-16/14:33:13,  90.0, fwilder(EVA), Thin high shear sheath CS
+2018-04-16/14:58:33 - 2018-04-16/14:59:13, 105.0, fwilder(EVA), Thin sheath current sheet.
+2018-04-16/15:42:43 - 2018-04-16/15:43:13,  90.0, fwilder(EVA), Thin Sheath CS
+2018-04-16/16:04:03 - 2018-04-16/16:04:43,  90.0, fwilder(EVA), Thin Sheath CS

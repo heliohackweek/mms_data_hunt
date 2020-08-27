@@ -1,0 +1,81 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-11-12/23:17:53 - 2018-11-12/23:22:03,  82.0, svines(EVA), Context for high shear MP crossing getting into boundary layers 
+2018-11-12/23:22:03 - 2018-11-12/23:26:13, 160.0, svines(EVA), High shear full MP crossing with jet and large J spike 
+2018-11-12/23:26:13 - 2018-11-12/23:28:53,  90.0, svines(EVA), Magnetosheath adjacent to high-shear MP crossing 
+2018-11-12/23:32:03 - 2018-11-12/23:33:53,  85.0, svines(EVA), Sheath current sheet 
+2018-11-12/23:33:53 - 2018-11-12/23:38:13, 155.0, svines(EVA), Full MP crossing without jets
+2018-11-12/23:38:13 - 2018-11-12/23:40:23,  65.0, svines(EVA), Context for sequence of full and partial MP crossings 
+2018-11-12/23:40:23 - 2018-11-12/23:42:43,  65.0, svines(EVA), Context for sequence of full and partial MP crossings 
+2018-11-12/23:42:43 - 2018-11-12/23:44:53,  65.0, svines(EVA), Context for sequence of full and partial MP crossings 
+2018-11-12/23:44:53 - 2018-11-12/23:47:13,  65.0, svines(EVA), Context for sequence of full and partial MP crossings 
+2018-11-12/23:47:13 - 2018-11-12/23:49:23,  65.0, svines(EVA), Context for MP crossings and edge of boundary layer crossings 
+2018-11-12/23:49:23 - 2018-11-12/23:51:43,  65.0, svines(EVA), Context for MP crossings and edge of boundary layer crossings 
+2018-11-12/23:51:43 - 2018-11-12/23:53:53,  65.0, svines(EVA), Context for MP crossings and edge of boundary layer crossings 
+2018-11-12/23:53:53 - 2018-11-12/23:56:13, 110.0, svines(EVA), Boundary layer/partial MP crossing with jet reversal
+2018-11-12/23:56:13 - 2018-11-12/23:58:23, 165.0, svines(EVA), Full MP crossing with possible active flux rope (Vz reversal) and J enhancement 
+2018-11-12/23:58:23 - 2018-11-12/23:59:33, 110.0, svines(EVA), Magnetosheath context for MP crossings 
+2018-11-12/23:59:33 - 2018-11-13/00:01:03, 155.0, svines(EVA)," Full MP crossing without clear jet, J enhancement "
+2018-11-13/00:01:03 - 2018-11-13/00:03:33, 160.0, svines(EVA), Partial and complete MP crossings with switch from -Vz to +Vz between crossings 
+2018-11-13/00:03:33 - 2018-11-13/00:05:13, 110.0, svines(EVA),  Sheath and boundary layer between MP crossings
+2018-11-13/00:05:13 - 2018-11-13/00:07:33, 160.0, svines(EVA)," Full and partial MP crossings without jet, deep B-minima, J enhancement "
+2018-11-13/00:07:33 - 2018-11-13/00:09:53, 140.0, svines(EVA)," Partial MP crossings with smalll jet, deep B-minima, J enhancement "
+2018-11-13/00:25:33 - 2018-11-13/00:28:23, 160.0, svines(EVA), Full MP crossing without clear jet 
+2018-11-13/00:28:23 - 2018-11-13/00:30:43, 130.0, svines(EVA), Full MP crossing without clear jet 
+2018-11-13/00:34:03 - 2018-11-13/00:36:33, 102.0, svines(EVA)," Turbulent sheath structures, possible active flux ropes (enhancenments in Vx, Vz) "
+2018-11-13/00:36:33 - 2018-11-13/00:38:43, 160.0, svines(EVA)," Full MP crossings without strong jets, small J enhancements and cold plasma in the boundary layers"
+2018-11-13/00:38:43 - 2018-11-13/00:41:23, 155.0, svines(EVA)," Full MP crossings without strong jets, small J enhancements and cold plasma in the boundary layers"
+2018-11-13/00:54:43 - 2018-11-13/00:56:13, 102.0, svines(EVA)," Turbulent sheath current sheet (By, Bz) "
+2018-11-13/00:57:23 - 2018-11-13/00:59:23, 102.0, svines(EVA), Turbulent sheath current sheet (Bz) 
+2018-11-13/01:38:03 - 2018-11-13/01:41:03, 105.0, svines(EVA)," Sheath current sheet (By, Bz bifurcation)"
+2018-11-13/02:25:53 - 2018-11-13/02:28:53, 120.0, svines(EVA), Sheath current sheet with energetic proton enhancemants and increase in -Vx
+2018-11-13/08:19:23 - 2018-11-13/08:23:03,  90.0, svines(EVA)," Enhhanced wave activity (strong, low-frequency E and B power) with turbulent fluctuations in B - skimming bow shock? "
+2018-11-13/08:33:23 - 2018-11-13/08:35:23, 105.0, svines(EVA), Quasi-perp bow shock
+2018-11-13/08:35:23 - 2018-11-13/08:36:53,  65.0, svines(EVA), Quasi-perp bow shock upstream ions
+2018-11-13/08:40:13 - 2018-11-13/08:44:03, 110.0, svines(EVA), Quasi-perp bow shock 
+2018-11-13/08:51:13 - 2018-11-13/08:55:03, 110.0, svines(EVA), Quasi-perp bow shock 
+2018-11-13/10:35:53 - 2018-11-13/10:38:03, 120.0, svines(EVA)," Skimming Quasi-parallel bow shock (or SLAMS?), long enhancement of energetic ions "
+2018-11-13/10:38:03 - 2018-11-13/10:40:13, 120.0, svines(EVA)," Skimming Quasi-parallel bow shock (or SLAMS?), long enhancement of energetic ions "
+2018-11-13/10:40:13 - 2018-11-13/10:42:33, 120.0, svines(EVA)," Skimming Quasi-parallel bow shock (or SLAMS?), long enhancement of energetic ions "
+2018-11-13/10:42:33 - 2018-11-13/10:44:43, 120.0, svines(EVA)," Skimming Quasi-parallel bow shock (or SLAMS?), long enhancement of energetic ions "
+2018-11-13/10:48:33 - 2018-11-13/10:50:23, 115.0, svines(EVA)," Skimming quasi-parallel bow shock (or SLAMS?), long enhancement of energetic ions "
+2018-11-13/10:50:23 - 2018-11-13/10:52:23, 115.0, svines(EVA)," Skimming quasi-parallel bow shock (or SLAMS?), long enhancement of energetic ions "
+2018-11-13/10:52:23 - 2018-11-13/10:54:13, 115.0, svines(EVA)," Skimming quasi-parallel bow shock (or SLAMS?), long enhancement of energetic ions "
+2018-11-13/10:54:13 - 2018-11-13/10:56:13, 115.0, svines(EVA)," Skimming quasi-parallel bow shock (or SLAMS?), long enhancement of energetic ions "
+2018-11-13/12:00:43 - 2018-11-13/12:04:03, 105.0, svines(EVA), Quasi-perp bow shock 
+2018-11-13/12:15:23 - 2018-11-13/12:18:53, 105.0, svines(EVA), Quasi-perp bow shock 
+2018-11-14/15:12:13 - 2018-11-14/15:14:03,  98.0, svines(EVA), Partial bow shock with energetic ion enhancement 
+2018-11-14/15:25:53 - 2018-11-14/15:27:53, 105.0, svines(EVA), Quasi-perp bow shock 
+2018-11-14/15:42:53 - 2018-11-14/15:47:43, 108.0, svines(EVA), Oblique bow shock
+2018-11-14/15:50:13 - 2018-11-14/15:51:53, 102.0, svines(EVA), Quasi-perp bow shock 
+2018-11-14/16:20:33 - 2018-11-14/16:22:43, 102.0, svines(EVA)," Bow shock, lower Ma, turbulent, quasi-parallel "
+2018-11-14/16:22:43 - 2018-11-14/16:24:53, 105.0, svines(EVA)," Bow shock, lower Ma, turbulent, quasi-parallel "
+2018-11-14/16:24:53 - 2018-11-14/16:27:03, 120.0, svines(EVA)," Bow shock, lower Ma, turbulent, quasi-parallel "
+2018-11-14/16:27:03 - 2018-11-14/16:29:13, 120.0, svines(EVA)," Bow shock, lower Ma, turbulent, quasi-parallel "
+2018-11-14/16:29:13 - 2018-11-14/16:31:23, 120.0, svines(EVA)," Bow shock, lower Ma, turbulent, quasi-parallel "
+2018-11-14/16:34:43 - 2018-11-14/16:39:13, 101.0, svines(EVA), Partial bow shock crossings
+2018-11-14/16:52:23 - 2018-11-14/16:54:23,  92.0, svines(EVA), Skimming bow shock or SLAMS 
+2018-11-14/16:56:23 - 2018-11-14/16:59:53, 108.0, svines(EVA), Bow shock with upstream heated ions 
+2018-11-14/17:01:53 - 2018-11-14/17:04:23,  85.0, svines(EVA)," Turbulent magnetosheath B field, skimming bow shock "
+2018-11-14/17:05:13 - 2018-11-14/17:08:43, 108.0, svines(EVA), Oblique bow shock 
+2018-11-14/17:23:33 - 2018-11-14/17:27:03, 105.0, svines(EVA), Quasi-perp bow shock 
+2018-11-14/17:27:03 - 2018-11-14/17:27:53,  80.0, svines(EVA), High-frequency narrow E emission upstream bow shock
+2018-11-14/17:27:53 - 2018-11-14/17:30:23, 105.0, svines(EVA), Quasi-perp bow shock 
+2018-11-14/17:35:23 - 2018-11-14/17:37:53, 110.0, svines(EVA), Quasi-perp bow shock 
+2018-11-14/17:41:33 - 2018-11-14/17:44:03, 105.0, svines(EVA), Quasi-perp bow shock 
+2018-11-14/17:53:33 - 2018-11-14/17:54:53,  95.0, svines(EVA), Sheath current sheet/discontinuity 
+2018-11-14/18:35:43 - 2018-11-14/18:37:33, 102.0, svines(EVA), Sheath current sheet (Bz bifurcation) 
+2018-11-14/19:11:53 - 2018-11-14/19:15:43,  98.0, svines(EVA)," Partial bow shock crossing (or transient/hot flow anomaly?) Burst of energetic particles, V enhancement "
+2018-11-14/20:26:23 - 2018-11-14/20:28:43,  85.0, svines(EVA), Turbulent magnetosheath with energetic ion enhancements 
+2018-11-14/20:28:43 - 2018-11-14/20:31:13,  85.0, svines(EVA), Turbulent magnetosheath with energetic ion enhancements 
+2018-11-14/20:31:13 - 2018-11-14/20:33:53,  90.0, svines(EVA), Turbulent magnetosheath with energetic ion enhancements 
+2018-11-14/23:05:03 - 2018-11-14/23:07:13, 140.0, svines(EVA)," Full MP crossing, lower shear "
+2018-11-14/23:07:13 - 2018-11-14/23:10:23, 145.0, svines(EVA)," MP crossing (maybe full?), lower shear, possible flux rope"
+2018-11-14/23:49:43 - 2018-11-14/23:52:43, 130.0, svines(EVA)," Full MP crossing, low shear "
+2018-11-14/23:59:43 - 2018-11-15/00:04:13, 140.0, svines(EVA)," Full MP crossing, low shear "
+2018-11-15/00:07:23 - 2018-11-15/00:08:23, 110.0, svines(EVA), Active flux rope? (with Vx changes and density enhancement) 
+2018-11-15/00:15:43 - 2018-11-15/00:17:53,  70.0, svines(EVA), Skimming in and out of MP boundary layers 
+2018-11-15/00:17:53 - 2018-11-15/00:20:13,  70.0, svines(EVA), Skimming in and out of MP boundary layers 
+2018-11-15/00:20:13 - 2018-11-15/00:22:23,  70.0, svines(EVA), Skimming in and out of MP boundary layers 
+2018-11-15/00:22:23 - 2018-11-15/00:24:33,  70.0, svines(EVA), Skimming in and out of MP boundary layers 
+2018-11-15/00:24:33 - 2018-11-15/00:26:53,  70.0, svines(EVA), Skimming in and out of MP boundary layers 
+2018-11-15/00:26:53 - 2018-11-15/00:29:33,  70.0, svines(EVA), Skimming in and out of MP boundary layers 

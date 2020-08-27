@@ -1,0 +1,51 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-04-09/15:42:33 - 2019-04-09/15:44:53, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/15:44:53 - 2019-04-09/15:47:23, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/15:47:23 - 2019-04-09/15:49:43, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/15:49:43 - 2019-04-09/15:52:03, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/15:52:03 - 2019-04-09/15:54:33, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/15:54:33 - 2019-04-09/15:56:53, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/15:56:53 - 2019-04-09/15:59:13, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/15:59:13 - 2019-04-09/16:01:43, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/16:01:43 - 2019-04-09/16:04:03, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/16:04:03 - 2019-04-09/16:06:33, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/16:06:33 - 2019-04-09/16:08:53, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/16:08:53 - 2019-04-09/16:11:13, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/16:11:13 - 2019-04-09/16:13:43, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/16:13:43 - 2019-04-09/16:16:03, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/16:16:03 - 2019-04-09/16:18:23, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/16:18:23 - 2019-04-09/16:20:53, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/16:20:53 - 2019-04-09/16:23:13, 150.0, tphan(EVA),  very long complete MP crossing
+2019-04-09/16:24:03 - 2019-04-09/16:25:33, 125.0, tphan(EVA),  FTE-like
+2019-04-09/16:30:43 - 2019-04-09/16:32:03, 125.0, tphan(EVA),  magnetosheath CS
+2019-04-09/16:55:03 - 2019-04-09/16:57:23, 150.0, tphan(EVA),  2 complete MP
+2019-04-09/16:57:23 - 2019-04-09/16:59:53, 150.0, tphan(EVA),  2 complete MP
+2019-04-09/16:59:53 - 2019-04-09/17:02:13, 150.0, tphan(EVA),  2 complete MP
+2019-04-09/17:02:13 - 2019-04-09/17:04:43, 150.0, tphan(EVA),  2 complete MP
+2019-04-09/17:06:53 - 2019-04-09/17:07:53, 125.0, tphan(EVA),  partial MP
+2019-04-09/17:08:53 - 2019-04-09/17:10:33, 175.0, tphan(EVA),  complete MP
+2019-04-09/17:12:33 - 2019-04-09/17:14:13, 175.0, tphan(EVA),  complete MP
+2019-04-09/17:17:03 - 2019-04-09/17:19:53, 175.0, tphan(EVA),  2 complete MP
+2019-04-09/17:35:13 - 2019-04-09/17:36:33, 125.0, tphan(EVA),  2 partial MP
+2019-04-09/17:36:33 - 2019-04-09/17:38:03, 125.0, tphan(EVA),  2 partial MP
+2019-04-09/18:03:43 - 2019-04-09/18:04:23, 150.0, tphan(EVA),  MP
+2019-04-09/18:04:43 - 2019-04-09/18:05:13, 175.0, tphan(EVA),  complete MP
+2019-04-09/18:11:33 - 2019-04-09/18:12:33, 125.0, tphan(EVA),  FTE
+2019-04-09/21:14:23 - 2019-04-09/21:16:33, 125.0, tphan(EVA),  2 BS
+2019-04-09/21:16:33 - 2019-04-09/21:18:53, 125.0, tphan(EVA),  2 BS
+2019-04-09/21:18:53 - 2019-04-09/21:21:03, 125.0, tphan(EVA),  2 BS
+2019-04-09/21:21:53 - 2019-04-09/21:24:43, 125.0, tphan(EVA),  BS
+2019-04-09/21:25:33 - 2019-04-09/21:26:33, 125.0, tphan(EVA),  BS
+2019-04-09/21:27:13 - 2019-04-09/21:29:33, 100.0, tphan(EVA),  long shock transition region
+2019-04-09/21:29:33 - 2019-04-09/21:31:43, 100.0, tphan(EVA),  long shock transition region
+2019-04-09/21:31:43 - 2019-04-09/21:34:03, 100.0, tphan(EVA),  long shock transition region
+2019-04-09/21:38:33 - 2019-04-09/21:39:23,  80.0, tphan(EVA),  brief/partial BS crossing
+2019-04-09/21:47:43 - 2019-04-09/21:52:33,  80.0, tphan(EVA),  partial shock crossings
+2019-04-09/22:06:43 - 2019-04-09/22:09:13,  80.0, tphan(EVA),  partial shock crossings
+2019-04-09/22:09:13 - 2019-04-09/22:11:33,  80.0, tphan(EVA),  partial shock crossings
+2019-04-09/22:11:33 - 2019-04-09/22:14:03,  80.0, tphan(EVA),  partial shock crossings
+2019-04-10/03:14:33 - 2019-04-10/03:16:33, 125.0, tphan(EVA),  SW CS
+2019-04-10/03:16:33 - 2019-04-10/03:18:33, 125.0, tphan(EVA),  SW CS
+2019-04-10/03:18:33 - 2019-04-10/03:20:33, 125.0, tphan(EVA),  SW CS
+2019-04-10/03:34:13 - 2019-04-10/03:36:13, 125.0, tphan(EVA),  SW CS
+2019-04-10/03:36:13 - 2019-04-10/03:38:13, 125.0, tphan(EVA),  SW CS

@@ -1,0 +1,42 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-12-17/04:12:04 - 2016-12-17/04:14:44, 125.0, ykhotyaintsev(EVA),"  Partial MP, Vz<0"
+2016-12-17/04:14:44 - 2016-12-17/04:17:54, 125.0, ykhotyaintsev(EVA),"  Partial MP, Vz<0"
+2016-12-17/04:34:54 - 2016-12-17/04:36:44,  80.0, ykhotyaintsev(EVA),  FTE
+2016-12-17/04:45:34 - 2016-12-17/04:48:24,  46.0, ykhotyaintsev(EVA),  BL
+2016-12-17/04:50:24 - 2016-12-17/04:55:24, 120.0, ykhotyaintsev(EVA),  Partial MP
+2016-12-17/07:00:04 - 2016-12-17/07:02:44,  75.0, ykhotyaintsev(EVA),  MSH CSs
+2016-12-17/07:05:44 - 2016-12-17/07:08:34,  80.0, ykhotyaintsev(EVA),  MSH jet
+2016-12-17/07:14:24 - 2016-12-17/07:15:54,  85.0, ykhotyaintsev(EVA),  MSH CSs
+2016-12-17/07:16:14 - 2016-12-17/07:16:44,  70.0, ykhotyaintsev(EVA),  MSH CS
+2016-12-17/07:47:04 - 2016-12-17/07:50:44,  80.0, ykhotyaintsev(EVA),  MSH jet
+2016-12-17/07:50:44 - 2016-12-17/07:53:24,  80.0, ykhotyaintsev(EVA),  MSH jet
+2016-12-17/08:07:34 - 2016-12-17/08:09:24,  80.0, ykhotyaintsev(EVA),  MSH jet
+2016-12-17/08:09:24 - 2016-12-17/08:11:24,  80.0, ykhotyaintsev(EVA),  MSH jet
+2016-12-17/08:11:24 - 2016-12-17/08:13:14,  80.0, ykhotyaintsev(EVA),  MSH jet
+2016-12-17/08:13:14 - 2016-12-17/08:15:14,  80.0, ykhotyaintsev(EVA),  MSH jet
+2016-12-17/10:06:34 - 2016-12-17/10:07:04,  85.0, ykhotyaintsev(EVA),  MSH CS
+2016-12-17/10:08:54 - 2016-12-17/10:09:44,  65.0, ykhotyaintsev(EVA),  MSH CS
+2016-12-17/10:11:04 - 2016-12-17/10:14:44,  55.0, ykhotyaintsev(EVA),  energetic ion dispersion
+2016-12-17/10:14:44 - 2016-12-17/10:19:14,  75.0, ykhotyaintsev(EVA),  BS
+2016-12-17/10:28:54 - 2016-12-17/10:30:34,  70.0, ykhotyaintsev(EVA),  quasiperp BS
+2016-12-17/12:06:24 - 2016-12-17/12:07:54,  80.0, ykhotyaintsev(EVA),  BS
+2016-12-17/12:22:44 - 2016-12-17/12:26:04,  70.0, ykhotyaintsev(EVA),  Multiple BS
+2016-12-17/12:27:04 - 2016-12-17/12:28:04,  70.0, ykhotyaintsev(EVA),  SLAMS
+2016-12-17/12:36:44 - 2016-12-17/12:40:24,  70.0, ykhotyaintsev(EVA),  SLAMS
+2016-12-17/12:55:04 - 2016-12-17/12:55:44,  90.0, ykhotyaintsev(EVA),  SLAMS
+2016-12-17/13:12:04 - 2016-12-17/13:16:04,  49.0, ykhotyaintsev(EVA),  pristine SW
+2016-12-17/13:25:54 - 2016-12-17/13:27:34,  80.0, ykhotyaintsev(EVA),  SLAMS
+2016-12-17/13:31:54 - 2016-12-17/13:33:24,  65.0, ykhotyaintsev(EVA),  quasiperp BS
+2016-12-17/13:34:44 - 2016-12-17/13:37:04,  60.0, ykhotyaintsev(EVA),  quasiperp BS
+2016-12-17/13:42:04 - 2016-12-17/13:44:34,  60.0, ykhotyaintsev(EVA),  HFA
+2016-12-17/13:44:34 - 2016-12-17/13:46:54,  60.0, ykhotyaintsev(EVA),  HFA
+2016-12-17/13:46:54 - 2016-12-17/13:49:24,  60.0, ykhotyaintsev(EVA),  HFA
+2016-12-17/13:56:24 - 2016-12-17/13:59:34,  60.0, ykhotyaintsev(EVA),  BS
+2016-12-17/15:00:54 - 2016-12-17/15:04:24,  60.0, ykhotyaintsev(EVA),  MSH jet
+2016-12-17/15:27:34 - 2016-12-17/15:30:54,  70.0, ykhotyaintsev(EVA),  MSH jet
+2016-12-17/16:27:34 - 2016-12-17/16:29:24, 175.0, ykhotyaintsev(EVA),"  Full doble MP, Vz reversal"
+2016-12-17/16:29:24 - 2016-12-17/16:29:54,  80.0, ykhotyaintsev(EVA),  fill
+2016-12-17/16:29:54 - 2016-12-17/16:30:54, 190.0, ykhotyaintsev(EVA),"  Full MP, Vz reversal"
+2016-12-17/16:32:54 - 2016-12-17/16:33:44, 125.0, ykhotyaintsev(EVA),  Partial MP
+2016-12-17/16:37:54 - 2016-12-17/16:40:44,  42.0, ykhotyaintsev(EVA),  BL
+2016-12-17/16:44:34 - 2016-12-17/16:45:34,  55.0, ykhotyaintsev(EVA),  BL jet

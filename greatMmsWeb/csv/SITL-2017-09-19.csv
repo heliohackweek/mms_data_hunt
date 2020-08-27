@@ -1,0 +1,107 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-09-19/15:34:33 - 2017-09-19/15:36:53, 150.0, fwilder(EVA),  KH-like interval with enhanced current.
+2017-09-19/15:36:53 - 2017-09-19/15:39:13, 150.0, fwilder(EVA),  KH-like interval with enhanced current.
+2017-09-19/15:39:13 - 2017-09-19/15:41:33, 150.0, fwilder(EVA),  KH-like interval with enhanced current.
+2017-09-19/15:41:33 - 2017-09-19/15:44:03, 150.0, fwilder(EVA),  KH-like interval with enhanced current.
+2017-09-19/15:44:03 - 2017-09-19/15:46:23, 150.0, fwilder(EVA),  KH-like interval with enhanced current.
+2017-09-19/15:46:23 - 2017-09-19/15:48:43, 150.0, fwilder(EVA),  KH-like interval with enhanced current.
+2017-09-19/15:54:33 - 2017-09-19/15:56:53, 120.0, fwilder(EVA),  Partial MP
+2017-09-19/15:56:53 - 2017-09-19/15:59:23, 120.0, fwilder(EVA),  Partial MP
+2017-09-19/15:59:23 - 2017-09-19/16:01:43, 120.0, fwilder(EVA),  Partial MP
+2017-09-19/16:23:03 - 2017-09-19/16:25:03, 150.0, fwilder(EVA), MP
+2017-09-19/16:25:03 - 2017-09-19/16:26:53, 150.0, fwilder(EVA), MP
+2017-09-19/16:26:53 - 2017-09-19/16:28:53, 150.0, fwilder(EVA), MP
+2017-09-19/16:28:53 - 2017-09-19/16:30:53, 150.0, fwilder(EVA), MP
+2017-09-19/16:51:33 - 2017-09-19/16:54:03, 150.0, fwilder(EVA), MP
+2017-09-19/16:54:03 - 2017-09-19/16:56:33, 150.0, fwilder(EVA), MP
+2017-09-19/16:56:33 - 2017-09-19/16:59:03, 150.0, fwilder(EVA), MP
+2017-09-19/17:06:13 - 2017-09-19/17:09:03, 105.0, fwilder(EVA), Partial MP
+2017-09-19/17:13:03 - 2017-09-19/17:15:43, 105.0, fwilder(EVA), Partial MP
+2017-09-19/17:17:33 - 2017-09-19/17:20:03, 105.0, fwilder(EVA), Partial MP
+2017-09-19/17:26:03 - 2017-09-19/17:28:53, 102.0, fwilder(EVA), Partial MP
+2017-09-19/17:37:53 - 2017-09-19/17:40:13, 150.0, fwilder(EVA), MP
+2017-09-19/17:40:13 - 2017-09-19/17:42:23, 150.0, fwilder(EVA), MP
+2017-09-19/17:42:23 - 2017-09-19/17:44:43, 150.0, fwilder(EVA), MP
+2017-09-19/17:52:13 - 2017-09-19/17:54:23, 150.0, fwilder(EVA), Full MP
+2017-09-19/17:54:23 - 2017-09-19/17:56:33, 150.0, fwilder(EVA), Full MP
+2017-09-19/17:56:33 - 2017-09-19/17:58:43, 150.0, fwilder(EVA), Full MP
+2017-09-19/17:58:43 - 2017-09-19/18:00:53, 150.0, fwilder(EVA), Full MP
+2017-09-19/18:16:13 - 2017-09-19/18:18:03, 150.0, fwilder(EVA), Full MP
+2017-09-19/18:18:03 - 2017-09-19/18:19:53, 150.0, fwilder(EVA), Full MP
+2017-09-19/18:19:53 - 2017-09-19/18:21:43, 150.0, fwilder(EVA), Full MP
+2017-09-19/18:28:13 - 2017-09-19/18:30:13, 110.0, fwilder(EVA), Partial MP
+2017-09-19/18:30:13 - 2017-09-19/18:32:13, 110.0, fwilder(EVA), Partial MP
+2017-09-19/19:25:33 - 2017-09-19/19:28:03, 110.0, fwilder(EVA), Partial MP
+2017-09-19/19:28:03 - 2017-09-19/19:30:33, 110.0, fwilder(EVA), Partial MP
+2017-09-19/19:30:33 - 2017-09-19/19:32:53, 110.0, fwilder(EVA), Partial MP
+2017-09-19/19:32:53 - 2017-09-19/19:35:23, 110.0, fwilder(EVA), Partial MP
+2017-09-19/19:35:23 - 2017-09-19/19:37:53, 110.0, fwilder(EVA), Partial MP
+2017-09-19/22:40:53 - 2017-09-19/22:43:13, 150.0, fwilder(EVA), Full MP
+2017-09-19/22:43:13 - 2017-09-19/22:45:23, 150.0, fwilder(EVA), Full MP
+2017-09-19/22:45:23 - 2017-09-19/22:47:43, 150.0, fwilder(EVA), Full MP
+2017-09-19/22:47:43 - 2017-09-19/22:49:53, 150.0, fwilder(EVA), Full MP
+2017-09-19/22:49:53 - 2017-09-19/22:52:13, 150.0, fwilder(EVA), Full MP
+2017-09-19/22:58:03 - 2017-09-19/23:00:03, 150.0, fwilder(EVA),  Full MP
+2017-09-19/23:00:03 - 2017-09-19/23:02:13, 150.0, fwilder(EVA),  Full MP
+2017-09-20/03:46:23 - 2017-09-20/03:47:13, 160.0, fwilder(EVA)," Sheath current sheet with enhanced current, and potential ExB jet"
+2017-09-20/04:24:13 - 2017-09-20/04:24:53, 145.0, fwilder(EVA)," Sheath CS with enhanced current and B minima, not quite as clear as others. "
+2017-09-20/06:04:33 - 2017-09-20/06:07:03, 150.0, fwilder(EVA),"  Long, slow MP crossing"
+2017-09-20/06:07:03 - 2017-09-20/06:09:23, 150.0, fwilder(EVA),"  Long, slow MP crossing"
+2017-09-20/06:09:23 - 2017-09-20/06:11:53, 150.0, fwilder(EVA),"  Long, slow MP crossing"
+2017-09-20/06:11:53 - 2017-09-20/06:14:23, 150.0, fwilder(EVA),"  Long, slow MP crossing"
+2017-09-20/06:14:23 - 2017-09-20/06:16:43, 150.0, fwilder(EVA),"  Long, slow MP crossing"
+2017-09-20/06:16:43 - 2017-09-20/06:19:13, 150.0, fwilder(EVA),"  Long, slow MP crossing"
+2017-09-20/06:26:03 - 2017-09-20/06:28:13, 120.0, fwilder(EVA), Partial MP
+2017-09-20/06:28:13 - 2017-09-20/06:30:23, 120.0, fwilder(EVA), Partial MP
+2017-09-20/06:30:23 - 2017-09-20/06:32:33, 120.0, fwilder(EVA), Partial MP
+2017-09-20/06:32:33 - 2017-09-20/06:34:43, 120.0, fwilder(EVA), Partial MP
+2017-09-20/06:34:43 - 2017-09-20/06:36:53, 120.0, fwilder(EVA), Partial MP
+2017-09-20/06:41:33 - 2017-09-20/06:43:13, 120.0, fwilder(EVA), Partial MP
+2017-09-20/06:43:13 - 2017-09-20/06:45:03, 120.0, fwilder(EVA), Partial MP
+2017-09-20/06:47:03 - 2017-09-20/06:48:43, 120.0, fwilder(EVA), Partial MP
+2017-09-20/06:48:43 - 2017-09-20/06:50:33, 120.0, fwilder(EVA), Partial MP
+2017-09-20/06:51:53 - 2017-09-20/06:54:03, 150.0, fwilder(EVA),  Full MP
+2017-09-20/06:54:03 - 2017-09-20/06:56:03, 150.0, fwilder(EVA),  Full MP
+2017-09-20/06:56:03 - 2017-09-20/06:58:13, 150.0, fwilder(EVA),  Full MP
+2017-09-20/06:58:13 - 2017-09-20/07:00:23, 150.0, fwilder(EVA),  Full MP
+2017-09-20/07:00:23 - 2017-09-20/07:02:23, 150.0, fwilder(EVA),  Full MP
+2017-09-20/07:02:23 - 2017-09-20/07:04:33, 150.0, fwilder(EVA),  Full MP
+2017-09-20/07:30:43 - 2017-09-20/07:31:33, 160.0, fwilder(EVA)," Potential sheath reconnection event. Enhanced current, reversal of components, local null and electron temp enhancement."
+2017-09-20/13:49:43 - 2017-09-20/13:50:43,  90.0, fwilder(EVA), Enhanced sheath CS but no clear evidence of reconnection
+2017-09-20/16:27:33 - 2017-09-20/16:31:13, 150.0, fwilder(EVA), Full MP
+2017-09-20/16:32:33 - 2017-09-20/16:34:13, 110.0, fwilder(EVA), Partial MP
+2017-09-20/16:36:53 - 2017-09-20/16:38:43, 110.0, fwilder(EVA), Partial MP
+2017-09-20/16:42:53 - 2017-09-20/16:45:23, 110.0, fwilder(EVA), Partial MP
+2017-09-20/16:46:33 - 2017-09-20/16:47:33, 125.0, fwilder(EVA), Maybe Full MP?
+2017-09-20/16:48:03 - 2017-09-20/16:50:13, 160.0, fwilder(EVA), High Shear Full MP
+2017-09-20/16:50:33 - 2017-09-20/16:52:13, 160.0, fwilder(EVA), High Shear Full MP
+2017-09-20/16:52:13 - 2017-09-20/16:54:23, 160.0, fwilder(EVA), High Shear Full MP
+2017-09-20/16:54:23 - 2017-09-20/16:56:13, 160.0, fwilder(EVA), High Shear Full MP
+2017-09-20/16:56:53 - 2017-09-20/16:57:53,  90.0, fwilder(EVA), Partial MP
+2017-09-20/17:11:43 - 2017-09-20/17:15:03, 100.0, fwilder(EVA)," Partial MP, maybe a flux rope?"
+2017-09-20/17:21:03 - 2017-09-20/17:23:53, 150.0, fwilder(EVA), Very slow full MP
+2017-09-20/17:23:53 - 2017-09-20/17:26:23, 150.0, fwilder(EVA), Very slow full MP
+2017-09-20/17:26:23 - 2017-09-20/17:28:43, 150.0, fwilder(EVA), Very slow full MP
+2017-09-20/17:28:43 - 2017-09-20/17:31:13, 150.0, fwilder(EVA), Very slow full MP
+2017-09-20/18:57:13 - 2017-09-20/19:00:43,  80.0, fwilder(EVA),  Partial MP but very low shear
+2017-09-20/22:32:23 - 2017-09-20/22:34:53, 155.0, fwilder(EVA), Potential sheath side KHI
+2017-09-20/22:34:53 - 2017-09-20/22:37:23, 155.0, fwilder(EVA), Potential sheath side KHI
+2017-09-20/22:37:23 - 2017-09-20/22:39:53, 155.0, fwilder(EVA), Potential sheath side KHI
+2017-09-20/22:39:53 - 2017-09-20/22:42:23, 155.0, fwilder(EVA), Potential sheath side KHI
+2017-09-20/22:42:23 - 2017-09-20/22:44:43, 155.0, fwilder(EVA), Potential sheath side KHI
+2017-09-20/22:44:43 - 2017-09-20/22:47:13, 155.0, fwilder(EVA), Potential sheath side KHI
+2017-09-20/22:47:13 - 2017-09-20/22:49:43, 155.0, fwilder(EVA), Potential sheath side KHI
+2017-09-20/22:49:43 - 2017-09-20/22:52:13, 155.0, fwilder(EVA), Potential sheath side KHI
+2017-09-20/22:52:13 - 2017-09-20/22:54:43, 155.0, fwilder(EVA), Potential sheath side KHI
+2017-09-20/22:54:43 - 2017-09-20/22:57:13, 155.0, fwilder(EVA), Potential sheath side KHI
+2017-09-20/23:01:13 - 2017-09-20/23:03:33, 160.0, fwilder(EVA), High shear MP
+2017-09-20/23:03:33 - 2017-09-20/23:05:43, 160.0, fwilder(EVA), High shear MP
+2017-09-20/23:05:43 - 2017-09-20/23:08:03, 160.0, fwilder(EVA), High shear MP
+2017-09-20/23:10:13 - 2017-09-20/23:12:13, 140.0, fwilder(EVA), High shear MP with B minima
+2017-09-20/23:12:53 - 2017-09-20/23:14:13, 140.0, fwilder(EVA), High shear partial MP
+2017-09-20/23:19:13 - 2017-09-20/23:20:53,  85.0, fwilder(EVA), FTE
+2017-09-20/23:28:33 - 2017-09-20/23:30:23, 120.0, fwilder(EVA), Partial MP
+2017-09-20/23:30:23 - 2017-09-20/23:32:13, 120.0, fwilder(EVA), Partial MP
+2017-09-20/23:32:13 - 2017-09-20/23:34:03, 120.0, fwilder(EVA), Partial MP
+2017-09-20/23:37:03 - 2017-09-20/23:38:43, 105.0, fwilder(EVA),  Partial MP with B minima
+2017-09-20/23:41:13 - 2017-09-20/23:45:03, 110.0, fwilder(EVA), Partial MP

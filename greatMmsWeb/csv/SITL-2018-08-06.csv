@@ -1,0 +1,31 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-08-06/20:24:13 - 2018-08-06/20:26:13,  90.0, aieda(EVA)," PSBL Vz ~ 200km/s with J ~ 0.1, possible TCR"
+2018-08-06/20:26:13 - 2018-08-06/20:28:13,  90.0, aieda(EVA)," PSBL Vz ~ 200km/s with J ~ 0.1, possible TCR"
+2018-08-06/20:28:13 - 2018-08-06/20:30:13,  90.0, aieda(EVA)," PSBL Vz ~ 200km/s with J ~ 0.1, possible TCR"
+2018-08-07/13:05:03 - 2018-08-07/13:07:33, 110.0, aieda(EVA),  BBF Vx~1000 km/s w/o dipolarization
+2018-08-07/13:07:33 - 2018-08-07/13:10:03, 110.0, aieda(EVA),  BBF Vx~1000 km/s w/o dipolarization
+2018-08-07/13:10:03 - 2018-08-07/13:12:33, 110.0, aieda(EVA),  BBF Vx~1000 km/s w/o dipolarization
+2018-08-07/13:12:33 - 2018-08-07/13:15:03, 110.0, aieda(EVA),  BBF Vx~1000 km/s w/o dipolarization
+2018-08-07/13:15:03 - 2018-08-07/13:17:33, 110.0, aieda(EVA),  BBF Vx~1000 km/s w/o dipolarization
+2018-08-07/13:17:33 - 2018-08-07/13:20:03, 110.0, aieda(EVA),  BBF Vx~1000 km/s w/o dipolarization
+2018-08-07/13:20:03 - 2018-08-07/13:22:33, 110.0, aieda(EVA),  BBF Vx~1000 km/s w/o dipolarization
+2018-08-07/13:22:33 - 2018-08-07/13:25:03, 110.0, aieda(EVA),  BBF Vx~1000 km/s w/o dipolarization
+2018-08-07/15:10:03 - 2018-08-07/15:12:33, 110.0, aieda(EVA), BBF 800 km/s w/o dipolarization
+2018-08-07/15:12:33 - 2018-08-07/15:15:03, 110.0, aieda(EVA), BBF 800 km/s w/o dipolarization
+2018-08-07/15:15:03 - 2018-08-07/15:17:33, 110.0, aieda(EVA), BBF 800 km/s w/o dipolarization
+2018-08-07/15:17:33 - 2018-08-07/15:20:03, 110.0, aieda(EVA), BBF 800 km/s w/o dipolarization
+2018-08-07/15:43:03 - 2018-08-07/15:46:03,  90.0, aieda(EVA), TCR in PSBL
+2018-08-07/18:38:03 - 2018-08-07/18:40:03,  70.0, aieda(EVA), Cold ions ~ 2cc in PSBL
+2018-08-07/18:40:03 - 2018-08-07/18:42:03,  70.0, aieda(EVA), Cold ions ~ 2cc in PSBL
+2018-08-07/21:10:03 - 2018-08-07/21:12:33, 110.0, aieda(EVA), BBF in PSBL
+2018-08-07/21:12:33 - 2018-08-07/21:15:03, 110.0, aieda(EVA), BBF in PSBL
+2018-08-07/21:15:03 - 2018-08-07/21:17:33, 110.0, aieda(EVA), BBF in PSBL
+2018-08-07/21:17:33 - 2018-08-07/21:20:03, 110.0, aieda(EVA), BBF in PSBL
+2018-08-07/21:20:03 - 2018-08-07/21:22:33, 110.0, aieda(EVA), BBF in PSBL
+2018-08-07/21:22:33 - 2018-08-07/21:25:03, 110.0, aieda(EVA), BBF in PSBL
+2018-08-07/21:25:03 - 2018-08-07/21:27:33, 110.0, aieda(EVA), BBF in PSBL
+2018-08-07/21:27:33 - 2018-08-07/21:30:03, 110.0, aieda(EVA), BBF in PSBL
+2018-08-07/21:30:03 - 2018-08-07/21:32:33, 110.0, aieda(EVA), BBF in PSBL
+2018-08-07/21:32:33 - 2018-08-07/21:35:03, 110.0, aieda(EVA), BBF in PSBL
+2018-08-07/21:35:03 - 2018-08-07/21:37:33, 110.0, aieda(EVA), BBF in PSBL
+2018-08-07/21:37:33 - 2018-08-07/21:40:03, 110.0, aieda(EVA), BBF in PSBL

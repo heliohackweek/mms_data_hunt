@@ -1,0 +1,91 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-05-17/04:51:24 - 2016-05-17/04:53:34, 15.0, dturner(EVA), Boundary crossing and plasma flows >200 km/s
+2016-05-17/04:53:34 - 2016-05-17/04:55:54, 15.0, dturner(EVA), Boundary crossing and plasma flows >200 km/s
+2016-05-17/04:55:54 - 2016-05-17/04:58:04, 15.0, dturner(EVA), Boundary crossing and plasma flows >200 km/s
+2016-05-17/04:58:04 - 2016-05-17/05:00:14, 15.0, dturner(EVA), Boundary crossing and plasma flows >200 km/s
+2016-05-17/05:00:14 - 2016-05-17/05:02:24, 15.0, dturner(EVA), Boundary crossing and plasma flows >200 km/s
+2016-05-17/05:02:24 - 2016-05-17/05:04:44, 15.0, dturner(EVA), Boundary crossing and plasma flows >200 km/s
+2016-05-17/05:04:44 - 2016-05-17/05:06:54, 15.0, dturner(EVA), Boundary crossing and plasma flows >200 km/s
+2016-05-17/05:21:34 - 2016-05-17/05:23:44, 15.0, dturner(EVA), Flow reversal
+2016-05-17/05:23:44 - 2016-05-17/05:26:04, 15.0, dturner(EVA), Flow reversal
+2016-05-17/05:26:04 - 2016-05-17/05:28:14, 15.0, dturner(EVA), Flow reversal
+2016-05-17/05:28:14 - 2016-05-17/05:30:24, 15.0, dturner(EVA), Flow reversal
+2016-05-17/05:30:24 - 2016-05-17/05:32:44, 15.0, dturner(EVA), Flow reversal
+2016-05-17/05:32:44 - 2016-05-17/05:34:54, 15.0, dturner(EVA), Flow reversal
+2016-05-17/05:49:14 - 2016-05-17/05:51:44, 15.0, dturner(EVA), Fast plasma flow
+2016-05-17/05:51:44 - 2016-05-17/05:54:14, 15.0, dturner(EVA), Fast plasma flow
+2016-05-17/05:54:14 - 2016-05-17/05:56:44, 15.0, dturner(EVA), Fast plasma flow
+2016-05-17/05:57:44 - 2016-05-17/05:59:54, 20.0, dturner(EVA), Boundary and fast flows
+2016-05-17/05:59:54 - 2016-05-17/06:02:04, 20.0, dturner(EVA), Boundary and fast flows
+2016-05-17/06:02:04 - 2016-05-17/06:04:24, 20.0, dturner(EVA), Boundary and fast flows
+2016-05-17/06:04:24 - 2016-05-17/06:06:34, 20.0, dturner(EVA), Boundary and fast flows
+2016-05-17/06:06:34 - 2016-05-17/06:08:44, 20.0, dturner(EVA), Boundary and fast flows
+2016-05-17/06:08:44 - 2016-05-17/06:10:54, 20.0, dturner(EVA), Boundary and fast flows
+2016-05-17/06:10:54 - 2016-05-17/06:13:14, 20.0, dturner(EVA), Boundary and fast flows
+2016-05-17/06:13:14 - 2016-05-17/06:15:24, 20.0, dturner(EVA), Boundary and fast flows
+2016-05-17/06:31:44 - 2016-05-17/06:33:54, 6.4, ABS,  
+2016-05-17/06:55:54 - 2016-05-17/06:58:04, 15.0, dturner(EVA), Vx flow reversal
+2016-05-17/06:58:04 - 2016-05-17/07:00:24, 15.0, dturner(EVA), Vx flow reversal
+2016-05-17/07:00:24 - 2016-05-17/07:02:34, 15.0, dturner(EVA), Vx flow reversal
+2016-05-17/07:10:54 - 2016-05-17/07:13:04, 20.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/07:13:04 - 2016-05-17/07:15:24, 20.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/07:15:24 - 2016-05-17/07:17:34, 20.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/07:17:34 - 2016-05-17/07:19:54, 20.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/07:19:54 - 2016-05-17/07:22:04, 20.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/07:22:04 - 2016-05-17/07:24:24, 20.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/07:24:24 - 2016-05-17/07:26:34, 20.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/08:06:54 - 2016-05-17/08:09:14, 30.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/08:09:14 - 2016-05-17/08:11:34, 30.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/08:11:34 - 2016-05-17/08:13:54, 30.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/08:13:54 - 2016-05-17/08:16:24, 30.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/08:16:24 - 2016-05-17/08:18:44, 40.0, dturner(EVA)," Very fast flow, >800 km/s"
+2016-05-17/08:18:44 - 2016-05-17/08:21:04, 40.0, dturner(EVA)," Very fast plasma flow, >800 km/s"
+2016-05-17/08:21:04 - 2016-05-17/08:23:24, 30.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/08:23:24 - 2016-05-17/08:25:44, 30.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/08:25:44 - 2016-05-17/08:28:04, 30.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/08:28:04 - 2016-05-17/08:30:24, 30.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/08:30:24 - 2016-05-17/08:32:54, 30.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/08:32:54 - 2016-05-17/08:35:14, 30.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/08:35:14 - 2016-05-17/08:37:34, 30.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/08:37:34 - 2016-05-17/08:39:54, 30.0, dturner(EVA), Boundary crossing and fast flows
+2016-05-17/10:15:44 - 2016-05-17/10:17:44, 5.6, ABS,  
+2016-05-17/10:17:44 - 2016-05-17/10:19:44, 4.9, ABS,  
+2016-05-17/10:30:14 - 2016-05-17/10:32:34, 15.0, dturner(EVA), Fast flow and energetic proton enhancement
+2016-05-17/10:32:34 - 2016-05-17/10:34:54, 15.0, dturner(EVA), Fast flow and energetic proton enhancement
+2016-05-17/10:34:54 - 2016-05-17/10:37:24, 15.0, dturner(EVA), Fast flow and energetic proton enhancement
+2016-05-17/10:37:24 - 2016-05-17/10:39:44, 15.0, dturner(EVA), Fast flow and energetic proton enhancement
+2016-05-17/14:07:54 - 2016-05-17/14:10:14, 15.0, dturner(EVA)," Fast plasma flow, >200 km/s"
+2016-05-17/14:10:14 - 2016-05-17/14:12:44, 15.0, dturner(EVA)," Fast plasma flow, >200 km/s"
+2016-05-17/14:12:44 - 2016-05-17/14:15:04, 15.0, dturner(EVA)," Fast plasma flow, >200 km/s"
+2016-05-17/14:15:04 - 2016-05-17/14:17:34, 15.0, dturner(EVA)," Fast plasma flow, >200 km/s"
+2016-05-17/14:17:34 - 2016-05-17/14:19:54, 15.0, dturner(EVA)," Fast plasma flow, >200 km/s"
+2016-05-17/15:19:34 - 2016-05-17/15:21:54, 40.0, dturner(EVA)," Dipolarization, fast plasma flows, energetic particle injection"
+2016-05-17/15:21:54 - 2016-05-17/15:24:14, 40.0, dturner(EVA)," Dipolarization, fast plasma flows, energetic particle injection"
+2016-05-17/15:24:14 - 2016-05-17/15:26:34, 40.0, dturner(EVA)," Dipolarization, fast plasma flows, energetic particle injection"
+2016-05-17/15:26:34 - 2016-05-17/15:28:54, 40.0, dturner(EVA)," Dipolarization, fast plasma flows, energetic particle injection"
+2016-05-17/15:28:54 - 2016-05-17/15:31:14, 40.0, dturner(EVA)," Dipolarization, fast plasma flows, energetic particle injection"
+2016-05-17/15:31:14 - 2016-05-17/15:33:34, 40.0, dturner(EVA)," Dipolarization, fast plasma flows, energetic particle injection"
+2016-05-17/15:33:34 - 2016-05-17/15:35:54, 40.0, dturner(EVA)," Dipolarization, fast plasma flows, energetic particle injection"
+2016-05-17/15:35:54 - 2016-05-17/15:38:14, 40.0, dturner(EVA)," Dipolarization, fast plasma flows, energetic particle injection"
+2016-05-17/18:02:34 - 2016-05-17/18:04:54, 40.0, dturner(EVA)," Dipolarization, bursty bulk flow, and energetic particle injections"
+2016-05-17/18:04:54 - 2016-05-17/18:07:14, 40.0, dturner(EVA)," Dipolarization, bursty bulk flow, and energetic particle injections"
+2016-05-17/18:07:14 - 2016-05-17/18:09:44, 40.0, dturner(EVA)," Dipolarization, bursty bulk flow, and energetic particle injections"
+2016-05-17/18:09:44 - 2016-05-17/18:12:04, 40.0, dturner(EVA)," Dipolarization, bursty bulk flow, and energetic particle injections"
+2016-05-17/18:12:04 - 2016-05-17/18:14:24, 40.0, dturner(EVA)," Dipolarization, bursty bulk flow, and energetic particle injections"
+2016-05-17/18:14:24 - 2016-05-17/18:16:44, 40.0, dturner(EVA)," Dipolarization, bursty bulk flow, and energetic particle injections"
+2016-05-17/18:16:44 - 2016-05-17/18:19:04, 40.0, dturner(EVA)," Dipolarization, bursty bulk flow, and energetic particle injections"
+2016-05-17/18:19:04 - 2016-05-17/18:21:24, 40.0, dturner(EVA)," Dipolarization, bursty bulk flow, and energetic particle injections"
+2016-05-17/18:21:24 - 2016-05-17/18:23:54, 40.0, dturner(EVA)," Dipolarization, bursty bulk flow, and energetic particle injections"
+2016-05-17/18:23:54 - 2016-05-17/18:26:14, 40.0, dturner(EVA)," Dipolarization, bursty bulk flow, and energetic particle injections"
+2016-05-17/18:26:14 - 2016-05-17/18:28:34, 40.0, dturner(EVA)," Dipolarization, bursty bulk flow, and energetic particle injections"
+2016-05-17/19:06:44 - 2016-05-17/19:08:54, 15.0, dturner(EVA), Dispersed electron injections
+2016-05-17/19:08:54 - 2016-05-17/19:10:54, 15.0, dturner(EVA), Dispersed electron injections
+2016-05-17/19:10:54 - 2016-05-17/19:13:04, 15.0, dturner(EVA), Dispersed electron injections
+2016-05-17/19:13:04 - 2016-05-17/19:15:34, 15.0, dturner(EVA), Dispersed electron injections
+2016-05-17/19:15:34 - 2016-05-17/19:18:04, 15.0, dturner(EVA), Dispersed electron injections
+2016-05-17/19:18:04 - 2016-05-17/19:20:34, 15.0, dturner(EVA), Dispersed electron injections
+2016-05-17/20:29:54 - 2016-05-17/20:31:54, 10.0, dturner(EVA), Conjunction in L with Van Allen Probes -B
+2016-05-17/20:31:54 - 2016-05-17/20:33:54, 10.0, dturner(EVA), Conjunction in L with Van Allen Probes -B
+2016-05-17/20:33:54 - 2016-05-17/20:36:04, 10.0, dturner(EVA), Conjunction in L with Van Allen Probes -B
+2016-05-17/20:36:04 - 2016-05-17/20:38:04, 10.0, dturner(EVA), Conjunction in L with Van Allen Probes -B
+2016-05-17/20:38:04 - 2016-05-17/20:40:04, 10.0, dturner(EVA), Conjunction in L with Van Allen Probes -B

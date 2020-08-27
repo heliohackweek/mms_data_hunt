@@ -1,0 +1,66 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-12-05/10:26:53 - 2018-12-05/10:31:43,  85.0, ykhotyaintsev(EVA),"  ICW lianear pol, whistlers"
+2018-12-05/10:53:43 - 2018-12-05/10:56:43,  80.0, ykhotyaintsev(EVA),"  BL, cold plasma, whistlers"
+2018-12-05/11:07:43 - 2018-12-05/11:09:53,  95.0, ykhotyaintsev(EVA),"  BL, cold plasma,  whistlers, ICW linear pol"
+2018-12-05/11:09:53 - 2018-12-05/11:11:53,  95.0, ykhotyaintsev(EVA),"  BL, cold plasma,  whistlers, ICW linear pol"
+2018-12-05/11:11:53 - 2018-12-05/11:14:03,  95.0, ykhotyaintsev(EVA),"  BL, cold plasma,  whistlers, ICW linear pol"
+2018-12-05/11:14:03 - 2018-12-05/11:16:13,  95.0, ykhotyaintsev(EVA),"  BL, cold plasma,  whistlers, ICW linear pol"
+2018-12-05/11:24:23 - 2018-12-05/11:25:43,  70.0, ykhotyaintsev(EVA),  BL w cold ions
+2018-12-05/11:30:23 - 2018-12-05/11:34:43, 160.0, ykhotyaintsev(EVA),  Full MP
+2018-12-05/11:34:43 - 2018-12-05/11:38:53, 160.0, ykhotyaintsev(EVA),"  Full MP, Vz>0"
+2018-12-05/11:38:53 - 2018-12-05/11:39:23,  70.0, ykhotyaintsev(EVA),  fill
+2018-12-05/11:39:23 - 2018-12-05/11:44:13, 160.0, ykhotyaintsev(EVA),"  Full MP, Vz>0"
+2018-12-05/11:52:43 - 2018-12-05/11:54:23, 110.0, ykhotyaintsev(EVA),"  partial MP, Vz reversal"
+2018-12-05/11:54:23 - 2018-12-05/11:56:13, 110.0, ykhotyaintsev(EVA),"  partial MP, Vz reversal"
+2018-12-05/11:56:13 - 2018-12-05/11:57:53, 110.0, ykhotyaintsev(EVA),"  partial MP, Vz reversal"
+2018-12-05/13:06:23 - 2018-12-05/13:08:33, 140.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/13:30:43 - 2018-12-05/13:32:33, 110.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/13:32:33 - 2018-12-05/13:34:23, 110.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/13:34:23 - 2018-12-05/13:36:13, 110.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/13:36:13 - 2018-12-05/13:39:13,  60.0, ykhotyaintsev(EVA),  fill
+2018-12-05/13:39:13 - 2018-12-05/13:43:03, 110.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/13:43:03 - 2018-12-05/13:46:03,  80.0, ykhotyaintsev(EVA),  fill
+2018-12-05/13:46:03 - 2018-12-05/13:48:23, 110.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/13:48:23 - 2018-12-05/13:51:43,  70.0, ykhotyaintsev(EVA),  fill
+2018-12-05/13:51:43 - 2018-12-05/13:54:13, 125.0, ykhotyaintsev(EVA),  Q-par shock
+2018-12-05/13:54:13 - 2018-12-05/13:56:43, 125.0, ykhotyaintsev(EVA),  Q-par shock
+2018-12-05/13:56:43 - 2018-12-05/13:59:13, 125.0, ykhotyaintsev(EVA),  Q-par shock
+2018-12-05/13:59:13 - 2018-12-05/14:01:43, 125.0, ykhotyaintsev(EVA),  Q-par shock
+2018-12-05/14:06:03 - 2018-12-05/14:07:33, 120.0, ykhotyaintsev(EVA),  Q-par shock
+2018-12-05/14:17:53 - 2018-12-05/14:19:23,  90.0, ykhotyaintsev(EVA),"  SLAMS, shocklets"
+2018-12-05/14:22:33 - 2018-12-05/14:23:43,  90.0, ykhotyaintsev(EVA),  shocklet
+2018-12-05/14:26:43 - 2018-12-05/14:27:43,  90.0, ykhotyaintsev(EVA),  SLAMS
+2018-12-05/14:29:33 - 2018-12-05/14:34:33,  95.0, ykhotyaintsev(EVA),"  SLAMS, shocklets"
+2018-12-05/14:40:13 - 2018-12-05/14:44:03, 110.0, ykhotyaintsev(EVA),  Q-par shock
+2018-12-05/14:47:43 - 2018-12-05/14:51:13, 110.0, ykhotyaintsev(EVA),  Q-par shock
+2018-12-05/14:53:23 - 2018-12-05/14:55:23, 100.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/14:55:23 - 2018-12-05/14:57:33, 100.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/14:57:33 - 2018-12-05/14:59:33, 100.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/14:59:33 - 2018-12-05/15:01:53, 100.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/15:01:53 - 2018-12-05/15:04:03, 100.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/15:04:03 - 2018-12-05/15:06:23, 100.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/15:06:23 - 2018-12-05/15:08:43, 100.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/15:08:43 - 2018-12-05/15:11:03, 100.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/15:11:03 - 2018-12-05/15:13:23, 100.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/15:13:23 - 2018-12-05/15:15:33, 100.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/15:15:33 - 2018-12-05/15:17:53, 100.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/15:17:53 - 2018-12-05/15:20:13, 100.0, ykhotyaintsev(EVA),  MSH CSs
+2018-12-05/15:20:13 - 2018-12-05/15:24:33, 120.0, ykhotyaintsev(EVA),  Q-par shock
+2018-12-05/15:44:23 - 2018-12-05/15:45:33,  90.0, ykhotyaintsev(EVA),  SLAMS
+2018-12-05/15:48:43 - 2018-12-05/15:49:33,  90.0, ykhotyaintsev(EVA),  SLAMS
+2018-12-05/16:15:43 - 2018-12-05/16:18:03,  80.0, ykhotyaintsev(EVA),  ion foreshock
+2018-12-05/16:18:03 - 2018-12-05/16:20:33,  80.0, ykhotyaintsev(EVA),  ion foreshock
+2018-12-05/16:20:33 - 2018-12-05/16:22:53,  80.0, ykhotyaintsev(EVA),  ion foreshock
+2018-12-05/16:22:53 - 2018-12-05/16:25:23,  80.0, ykhotyaintsev(EVA),  ion foreshock
+2018-12-05/16:25:23 - 2018-12-05/16:27:43,  80.0, ykhotyaintsev(EVA),  ion foreshock
+2018-12-05/16:38:03 - 2018-12-05/16:40:13,  70.0, ykhotyaintsev(EVA),  ion foreshock
+2018-12-05/16:40:13 - 2018-12-05/16:42:23,  70.0, ykhotyaintsev(EVA),  ion foreshock
+2018-12-05/16:42:23 - 2018-12-05/16:44:33,  70.0, ykhotyaintsev(EVA),  ion foreshock
+2018-12-05/18:54:43 - 2018-12-05/18:58:13,  80.0, ykhotyaintsev(EVA),  ion foreshock
+2018-12-05/20:40:53 - 2018-12-05/20:42:33, 120.0, ykhotyaintsev(EVA),  SW CS
+2018-12-06/13:27:23 - 2018-12-06/13:28:13,  90.0, ykhotyaintsev(EVA),  SW CS
+2018-12-07/11:42:33 - 2018-12-07/11:43:33, 140.0, ykhotyaintsev(EVA),  Q-perp shock
+2018-12-07/11:51:03 - 2018-12-07/11:52:23, 110.0, ykhotyaintsev(EVA),  Q-perp shock
+2018-12-07/12:00:33 - 2018-12-07/12:01:33, 120.0, ykhotyaintsev(EVA),  Q-perp shock
+2018-12-07/12:20:53 - 2018-12-07/12:22:03, 120.0, ykhotyaintsev(EVA),  Q-perp shock
+2018-12-07/12:33:03 - 2018-12-07/12:35:03, 120.0, ykhotyaintsev(EVA),  Q-perp shock

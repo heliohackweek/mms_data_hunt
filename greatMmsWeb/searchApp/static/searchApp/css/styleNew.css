@@ -1,0 +1,24 @@
+body {
+  background-color: #fefefe;
+  font-size: 16px;
+}
+.sidebar {
+    height: 95vh;
+}
+.leadBox {
+  margin-top: 10em;
+}
+#id_date_field {
+  border-radius: 5px;
+  padding-left: 10px;
+}
+.table-responsive {
+  height: 50vh;
+}
+.footer {
+  width: 100%;
+  background-color: #ede9e6;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}

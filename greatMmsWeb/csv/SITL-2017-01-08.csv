@@ -1,0 +1,48 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-01-08/01:30:03 - 2017-01-08/01:32:03, 100.0, fwilder(EVA), Partial With Jet
+2017-01-08/01:32:03 - 2017-01-08/01:34:13, 100.0, fwilder(EVA), Partial MP With Jet
+2017-01-08/01:34:13 - 2017-01-08/01:36:23, 100.0, fwilder(EVA), Partial MP With Jet
+2017-01-08/01:36:23 - 2017-01-08/01:38:13, 150.0, fwilder(EVA), Full MP
+2017-01-08/01:38:13 - 2017-01-08/01:40:03, 150.0, fwilder(EVA), Full MP
+2017-01-08/01:40:03 - 2017-01-08/01:41:53, 150.0, fwilder(EVA), Full MP
+2017-01-08/01:41:53 - 2017-01-08/01:43:53, 100.0, fwilder(EVA),  Partial MP
+2017-01-08/01:43:53 - 2017-01-08/01:46:23, 125.0, fwilder(EVA), Partial MP With Jet
+2017-01-08/01:46:23 - 2017-01-08/01:48:43, 100.0, fwilder(EVA), Full Long MP
+2017-01-08/01:48:43 - 2017-01-08/01:51:03, 100.0, fwilder(EVA), Full Long MP
+2017-01-08/02:08:23 - 2017-01-08/02:10:03,  60.0, fwilder(EVA),  Sheath CS
+2017-01-08/03:31:43 - 2017-01-08/03:32:33, 150.0, fwilder(EVA),  Sheath CS With Potential Jet
+2017-01-08/03:37:33 - 2017-01-08/03:38:13, 150.0, fwilder(EVA),  Sheath CS With Potential Jet
+2017-01-08/03:55:43 - 2017-01-08/03:56:33, 150.0, fwilder(EVA), Sheath CS Maybe With Jet
+2017-01-08/04:25:03 - 2017-01-08/04:25:43, 150.0, fwilder(EVA), Sheath CS Rotation in Bx with Vx enhancement and possible jet.
+2017-01-08/04:56:43 - 2017-01-08/04:57:33,  90.0, fwilder(EVA), Sheath Flux Rope With Large Curl B
+2017-01-08/05:42:13 - 2017-01-08/05:43:03,  60.0, fwilder(EVA), Sheath CS but no clear jet
+2017-01-08/05:48:03 - 2017-01-08/05:49:13,  90.0, fwilder(EVA), Sheath CS With Strong Curl B
+2017-01-08/06:04:43 - 2017-01-08/06:05:13, 150.0, fwilder(EVA),  Sheath CS with high curl B and Bipolar E signatures
+2017-01-08/06:07:33 - 2017-01-08/06:08:23,  60.0, fwilder(EVA), Turbulent sheath CS with enhanced electric fields.
+2017-01-08/06:11:23 - 2017-01-08/06:12:53,  80.1, ABS,  
+2017-01-08/07:27:23 - 2017-01-08/07:29:03,  60.0, fwilder(EVA),  Bow Shock Skimming
+2017-01-08/07:29:03 - 2017-01-08/07:30:53,  60.0, fwilder(EVA),  Bow Shock Skimming
+2017-01-08/11:32:13 - 2017-01-08/11:33:33,  78.5, ABS,  
+2017-01-08/11:40:43 - 2017-01-08/11:42:13, 137.4, ABS,  
+2017-01-08/11:58:23 - 2017-01-08/12:00:03, 155.0, fwilder(EVA), Moderate Shear MP Crossing With Cold Ions
+2017-01-08/12:00:03 - 2017-01-08/12:01:53, 155.0, fwilder(EVA), Moderate Shear MP Crossing With Cold Ions
+2017-01-08/12:04:03 - 2017-01-08/12:05:23, 170.0, fwilder(EVA),  Full MP With Moderate Shear and Sharp Current Sheet
+2017-01-08/12:05:23 - 2017-01-08/12:06:43, 170.0, fwilder(EVA),  Full MP With Moderate Shear and Sharp Current Sheet
+2017-01-08/12:18:03 - 2017-01-08/12:19:23, 110.0, fwilder(EVA),  Partial MP
+2017-01-08/12:19:23 - 2017-01-08/12:21:13, 160.0, fwilder(EVA), Two Full MP With Moderate Shear
+2017-01-08/12:21:13 - 2017-01-08/12:23:13, 160.0, fwilder(EVA), Two Full MP With Moderate Shear
+2017-01-08/12:25:53 - 2017-01-08/12:28:53, 160.0, fwilder(EVA), Moderate Shear MP
+2017-01-08/12:29:43 - 2017-01-08/12:31:23, 150.0, fwilder(EVA),  Low Shear Full MP
+2017-01-08/12:31:23 - 2017-01-08/12:33:03, 150.0, fwilder(EVA),  Low Shear Full MP
+2017-01-08/12:33:23 - 2017-01-08/12:34:53, 100.5, fwilder(EVA), Series of Partial MPs
+2017-01-08/12:34:53 - 2017-01-08/12:36:33, 100.5, fwilder(EVA), Series of Partial MPs
+2017-01-08/12:45:33 - 2017-01-08/12:47:43, 175.0, fwilder(EVA),  Full high shear MP and Enhanced Ex
+2017-01-08/13:03:03 - 2017-01-08/13:04:53, 175.0, fwilder(EVA)," Full High Shear MP With Jet, B minima and Ex enhancement"
+2017-01-08/13:16:33 - 2017-01-08/13:18:23,  60.0, fwilder(EVA),  Sheath Magnetic Hole With Waves
+2017-01-08/13:18:23 - 2017-01-08/13:20:53,  80.0, fwilder(EVA), Very Slow Full Crossing
+2017-01-08/13:20:53 - 2017-01-08/13:23:23,  80.0, fwilder(EVA), Very Slow Full Crossing
+2017-01-08/13:23:23 - 2017-01-08/13:25:53,  80.0, fwilder(EVA), Very Slow Full Crossing
+2017-01-08/13:25:53 - 2017-01-08/13:28:23,  80.0, fwilder(EVA), Very Slow Full Crossing
+2017-01-08/13:28:23 - 2017-01-08/13:30:53, 105.0, fwilder(EVA),  Partial MP Low Shear
+2017-01-08/13:30:53 - 2017-01-08/13:33:03, 155.0, fwilder(EVA),  Low Shear Full MP
+2017-01-08/13:33:03 - 2017-01-08/13:35:13, 155.0, fwilder(EVA),  Low Shear Full MP

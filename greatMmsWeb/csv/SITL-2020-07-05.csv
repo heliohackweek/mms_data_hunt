@@ -1,0 +1,23 @@
+DATETIME,FOM,ID,DISCUSSION
+2020-07-05/18:30:03 - 2020-07-05/18:31:23, 100.0, tphan(EVA),  weak BBF
+2020-07-05/18:31:23 - 2020-07-05/18:32:43, 100.0, tphan(EVA),  weak BBF
+2020-07-05/20:20:03 - 2020-07-05/20:22:33, 120.0, tphan(EVA),  tailward flows with negative Bz
+2020-07-05/20:22:33 - 2020-07-05/20:25:03, 120.0, tphan(EVA),  tailward flows with negative Bz
+2020-07-05/20:25:03 - 2020-07-05/20:27:23, 120.0, tphan(EVA),  tailward flows with negative Bz
+2020-07-05/20:27:23 - 2020-07-05/20:29:53, 120.0, tphan(EVA),  tailward flows with negative Bz
+2020-07-05/20:29:53 - 2020-07-05/20:32:23, 120.0, tphan(EVA),  tailward flows with negative Bz
+2020-07-05/20:32:23 - 2020-07-05/20:34:53, 120.0, tphan(EVA),  tailward flows with negative Bz
+2020-07-05/21:02:33 - 2020-07-05/21:04:43, 150.0, tphan(EVA),  DF
+2020-07-05/21:04:43 - 2020-07-05/21:06:43, 150.0, tphan(EVA),  DF
+2020-07-05/21:06:43 - 2020-07-05/21:08:53, 150.0, tphan(EVA),  DF
+2020-07-05/21:08:53 - 2020-07-05/21:10:53, 150.0, tphan(EVA),  DF
+2020-07-05/21:10:53 - 2020-07-05/21:13:03, 150.0, tphan(EVA),  DF
+2020-07-05/21:44:33 - 2020-07-05/21:46:53, 120.0, tphan(EVA),  BBF and DF
+2020-07-05/21:46:53 - 2020-07-05/21:49:13, 120.0, tphan(EVA),  BBF and DF
+2020-07-05/21:49:13 - 2020-07-05/21:51:33, 120.0, tphan(EVA),  BBF and DF
+2020-07-05/21:51:33 - 2020-07-05/21:53:53, 120.0, tphan(EVA),  BBF and DF
+2020-07-05/21:53:53 - 2020-07-05/21:56:13, 120.0, tphan(EVA),  BBF and DF
+2020-07-06/12:20:33 - 2020-07-06/12:22:43,  70.0, tphan(EVA),  interesting flow structures
+2020-07-06/12:22:43 - 2020-07-06/12:24:43,  70.0, tphan(EVA),  interesting flow structures
+2020-07-06/12:24:43 - 2020-07-06/12:26:53,  70.0, tphan(EVA),  interesting flow structures
+2020-07-06/12:26:53 - 2020-07-06/12:29:03,  70.0, tphan(EVA),  interesting flow structures

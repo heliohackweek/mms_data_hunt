@@ -1,0 +1,46 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-11-23/07:08:44 - 2016-11-23/07:12:14, 135.0, seriksson(EVA), Two partial high-shear MP with Vz<0 jet
+2016-11-23/07:13:14 - 2016-11-23/07:15:14, 145.0, seriksson(EVA),  4 partial MP in and out of Vz<0 jet
+2016-11-23/07:15:14 - 2016-11-23/07:17:44, 150.0, seriksson(EVA),  4 partial MP in and out of Vz<0 jet - increased Te parallel
+2016-11-23/07:36:24 - 2016-11-23/07:37:54,  85.0, seriksson(EVA), Boundary layer (BL) encounter w/ Vz jet
+2016-11-23/07:39:54 - 2016-11-23/07:42:14, 170.0, seriksson(EVA),  Extended high-shear MP w/ strong Vz jet and BL crossings - here increased Te para at exhaust boundary
+2016-11-23/07:42:14 - 2016-11-23/07:44:44, 150.0, seriksson(EVA),  Extended high-shear MP w/ strong Vz jet and BL crossings
+2016-11-23/07:44:44 - 2016-11-23/07:46:24, 140.0, seriksson(EVA),  Extended high-shear MP w/ strong Vz jet and BL crossings
+2016-11-23/07:46:24 - 2016-11-23/07:48:14, 140.0, seriksson(EVA),  Extended high-shear MP w/ strong Vz jet and BL crossings
+2016-11-23/07:48:14 - 2016-11-23/07:51:04, 170.0, seriksson(EVA),  Extended high-shear MP w/ strong Vz jet and BL crossings - increased Te para and high diffB at exhaust boundary
+2016-11-23/07:51:04 - 2016-11-23/07:53:04, 140.0, seriksson(EVA),  Extended high-shear MP w/ strong Vz jet and BL crossings
+2016-11-23/07:56:24 - 2016-11-23/07:58:14,  90.0, seriksson(EVA), In and out of BL w/ variable Vz and By rotation
+2016-11-23/07:58:54 - 2016-11-23/08:00:34, 130.0, seriksson(EVA),  High-shear partial MP - weak Vy-Vz jet and increased Te para
+2016-11-23/08:00:34 - 2016-11-23/08:02:24, 110.0, seriksson(EVA),  High-shear partial MP - weak Vy-Vz jet w/o Te para
+2016-11-23/08:02:24 - 2016-11-23/08:03:44,  85.0, seriksson(EVA),  High-shear partial MP - weak Vy-Vz jet
+2016-11-23/08:56:34 - 2016-11-23/08:58:34, 150.0, seriksson(EVA),  Complete MP with Vz<0 jet and weak diffB
+2016-11-23/09:01:54 - 2016-11-23/09:04:34, 150.0, seriksson(EVA),"  Complete MP w/ variable ion flows, increased Te para (inner side) and possible embedded FTE"
+2016-11-23/09:40:04 - 2016-11-23/09:43:54, 115.0, seriksson(EVA),  Two partial high-shear MP w/ fast 300 km/s south jet - no Te para and weak diffB
+2016-11-23/09:57:04 - 2016-11-23/09:59:34,  40.0, seriksson(EVA),  Magnetosheath or BL Bfield variations w/o clear reconnection signatures
+2016-11-23/10:27:34 - 2016-11-23/10:29:14, 100.0, seriksson(EVA), Two very extended high-shear MP w/ embedded 400 km/s negative Vz jet deep inside the BL
+2016-11-23/10:29:14 - 2016-11-23/10:31:04, 150.0, seriksson(EVA), Two very extended high-shear MP w/ embedded 400 km/s negative Vz jet deep inside BL. No Te para or high diffB.
+2016-11-23/10:31:04 - 2016-11-23/10:33:24, 150.0, seriksson(EVA), Two very extended high-shear MP w/ embedded 400 km/s negative Vz jet deep inside BL. No Te para or high diffB.
+2016-11-23/10:33:24 - 2016-11-23/10:34:44, 100.0, seriksson(EVA), Two very extended high-shear MP w/ embedded 400 km/s negative Vz jet deep inside the BL
+2016-11-23/10:34:44 - 2016-11-23/10:36:04, 100.0, seriksson(EVA), Two very extended high-shear MP w/ embedded 400 km/s negative Vz jet deep inside the BL
+2016-11-23/12:01:14 - 2016-11-23/12:02:54, 115.0, seriksson(EVA), Magnetosheath CS too thin to be resolved. Increased Ti para.
+2016-11-23/13:34:34 - 2016-11-23/13:36:04,  55.0, seriksson(EVA),  Possible bow shock disturbance
+2016-11-23/14:47:24 - 2016-11-23/14:49:54,  55.0, seriksson(EVA),  Magnetosheath disturbance and bifurcated Bz rotation
+2016-11-23/16:03:14 - 2016-11-23/16:05:04,  75.0, seriksson(EVA),  Possible FTE or two BL encounters w/ Vz flow variations
+2016-11-23/16:05:04 - 2016-11-23/16:06:44,  75.0, seriksson(EVA),  Possible BL encounter w/ Vz flow variation and enhanced diffB
+2016-11-23/16:06:44 - 2016-11-23/16:08:24,  75.0, seriksson(EVA),  Possible BL encounter w/ Vz flow variations
+2016-11-23/16:34:34 - 2016-11-23/16:35:44, 120.0, seriksson(EVA),  Magnetosheath CS too thin to resolve w/ high diffB
+2016-11-23/16:46:14 - 2016-11-23/16:49:14, 150.0, seriksson(EVA),  Complete high-shear MP w/ Vz<0 jet outer BL and sunward jet on inner BL side
+2016-11-23/16:56:54 - 2016-11-23/16:58:34, 105.0, seriksson(EVA), Low-shear partial MP
+2016-11-23/16:59:14 - 2016-11-23/17:02:24, 115.0, seriksson(EVA), 4 low-shear partial MP w/ increased diffB and Vz flows
+2016-11-23/17:08:54 - 2016-11-23/17:11:04, 165.0, seriksson(EVA),  High-shear extended partial MP w/ 200 km/s exhaust boundary
+2016-11-23/17:11:04 - 2016-11-23/17:12:44, 150.0, seriksson(EVA),  High-shear extended partial MP w/ 200 km/s jet and increased Te para
+2016-11-23/17:12:44 - 2016-11-23/17:14:44, 170.0, seriksson(EVA),  High-shear extended partial MP w/ 200 km/s exhaust boundary and increased Te para
+2016-11-23/17:14:44 - 2016-11-23/17:16:44, 135.0, seriksson(EVA),  High-shear extended partial MP w/ Vz flow variations
+2016-11-23/17:20:04 - 2016-11-23/17:21:34,  95.0, seriksson(EVA),  Boundary layer encounter w/ Vz south jet
+2016-11-23/17:22:04 - 2016-11-23/17:23:44,  95.0, seriksson(EVA),  BL encounter w/ Vz south jet
+2016-11-23/17:26:44 - 2016-11-23/17:29:04, 100.0, seriksson(EVA),  Partial MP or BL encounter w/ 300 km/s south jet
+2016-11-23/17:29:04 - 2016-11-23/17:31:34, 100.0, seriksson(EVA),  Partial MP or BL encounter w/ 300 km/s south jet
+2016-11-23/17:39:24 - 2016-11-23/17:41:14, 115.0, seriksson(EVA),  Partial MP encounter w/ 200 km/s south jet
+2016-11-23/17:47:14 - 2016-11-23/17:48:34, 120.0, seriksson(EVA),  Possible FTE w/ flow disturbance
+2016-11-23/17:53:34 - 2016-11-23/17:55:44, 175.0, seriksson(EVA),  High-shear complete MP w/ two transitions between Vz<0 jet and sunward flow region
+2016-11-23/18:02:44 - 2016-11-23/18:04:44, 140.0, seriksson(EVA),"  Two high-shear partial MP w/ high diffB, no increased Te para, no jet"

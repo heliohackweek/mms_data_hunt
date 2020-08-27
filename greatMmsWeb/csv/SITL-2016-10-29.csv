@@ -1,0 +1,53 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-10-29/09:27:44 - 2016-10-29/09:30:04, 100.0, moka(EVA),  partial MP
+2016-10-29/09:30:04 - 2016-10-29/09:31:14,  75.0, moka(EVA),  fill
+2016-10-29/09:31:14 - 2016-10-29/09:33:34, 150.0, moka(EVA),  MP with low shear
+2016-10-29/09:33:34 - 2016-10-29/09:35:54, 150.0, moka(EVA),  MP with low shear
+2016-10-29/10:40:34 - 2016-10-29/10:41:04, 125.0, moka(EVA),  magnetosheath CS with enhanced current
+2016-10-29/11:09:14 - 2016-10-29/11:11:34,  50.0, moka(EVA),  a very long partial MP
+2016-10-29/11:11:34 - 2016-10-29/11:13:54,  75.0, moka(EVA),  a very long partial MP
+2016-10-29/11:13:54 - 2016-10-29/11:16:24, 100.0, moka(EVA),  a very long partial MP
+2016-10-29/11:16:24 - 2016-10-29/11:18:44,  75.0, moka(EVA),  a very long partial MP
+2016-10-29/11:18:44 - 2016-10-29/11:21:04,  50.0, moka(EVA),  a very long partial MP 
+2016-10-29/11:33:24 - 2016-10-29/11:35:04, 125.0, moka(EVA),  enhanced current with moderate Vz flows
+2016-10-29/11:35:04 - 2016-10-29/11:36:44, 125.0, moka(EVA),  enhanced current with moderate Vz flows
+2016-10-29/11:43:24 - 2016-10-29/11:45:54,  50.0, moka(EVA),  partial MP
+2016-10-29/11:45:54 - 2016-10-29/11:48:24,  50.0, moka(EVA),  partial MP
+2016-10-29/11:59:44 - 2016-10-29/12:01:24, 100.0, moka(EVA), partial MP
+2016-10-29/12:08:14 - 2016-10-29/12:10:44,  50.0, moka(EVA),  a very long partial MP crossings
+2016-10-29/12:10:44 - 2016-10-29/12:13:14,  50.0, moka(EVA),  a very long partial MP crossings
+2016-10-29/12:13:14 - 2016-10-29/12:15:44,  75.0, moka(EVA),  a very long partial MP crossings
+2016-10-29/12:15:44 - 2016-10-29/12:18:14, 100.0, moka(EVA),  a very long partial MP crossings
+2016-10-29/12:18:14 - 2016-10-29/12:20:44, 125.0, moka(EVA),  a very long partial MP crossings
+2016-10-29/12:20:44 - 2016-10-29/12:23:14, 150.0, moka(EVA),  a very long partial MP crossings with Vz jets
+2016-10-29/12:23:14 - 2016-10-29/12:25:44, 150.0, moka(EVA),  a very long partial MP crossings with Vz jets
+2016-10-29/12:25:44 - 2016-10-29/12:28:14, 125.0, moka(EVA),  a very long partial MP crossings
+2016-10-29/12:28:14 - 2016-10-29/12:30:44,  75.0, moka(EVA),  a very long partial MP crossings
+2016-10-29/12:30:44 - 2016-10-29/12:33:14,  50.0, moka(EVA),  a very long partial MP crossings
+2016-10-29/12:33:14 - 2016-10-29/12:35:44,  50.0, moka(EVA),  a very long partial MP crossings
+2016-10-29/15:27:14 - 2016-10-29/15:29:14, 150.0, moka(EVA),  MP ?
+2016-10-29/15:29:14 - 2016-10-29/15:31:04, 150.0, moka(EVA),  MP ?
+2016-10-29/15:31:04 - 2016-10-29/15:33:04, 150.0, moka(EVA),  MP ?
+2016-10-29/16:07:54 - 2016-10-29/16:09:54, 150.0, moka(EVA),  (partial?) MP
+2016-10-29/16:09:54 - 2016-10-29/16:12:04, 150.0, moka(EVA),  (partial?) MP
+2016-10-29/16:12:04 - 2016-10-29/16:13:34,  40.0, moka(EVA),  fill
+2016-10-29/16:13:34 - 2016-10-29/16:15:24, 150.0, moka(EVA),  MP
+2016-10-29/16:15:24 - 2016-10-29/16:17:14, 150.0, moka(EVA),  MP
+2016-10-29/16:18:34 - 2016-10-29/16:20:14, 100.0, moka(EVA),  partial MP with Vz jets and reversals
+2016-10-29/16:20:14 - 2016-10-29/16:21:54, 100.0, moka(EVA),  partial MP with Vz jets and reversals
+2016-10-29/16:27:14 - 2016-10-29/16:28:04,  50.0, moka(EVA),  partial MP?
+2016-10-29/16:28:54 - 2016-10-29/16:30:14,  50.0, moka(EVA),  partial MP?
+2016-10-29/16:38:24 - 2016-10-29/16:40:34, 100.0, moka(EVA),  many partial MP
+2016-10-29/16:40:34 - 2016-10-29/16:42:54,  50.0, moka(EVA),  many partial MP
+2016-10-29/16:42:54 - 2016-10-29/16:45:04,  50.0, moka(EVA),  many partial MP
+2016-10-29/16:45:04 - 2016-10-29/16:47:14, 100.0, moka(EVA),  many partial MP
+2016-10-29/16:47:14 - 2016-10-29/16:49:34,  50.0, moka(EVA),  many partial MP
+2016-10-29/16:49:34 - 2016-10-29/16:51:44, 100.0, moka(EVA),  many partial MP
+2016-10-29/17:14:34 - 2016-10-29/17:16:44,  50.0, moka(EVA),  wing
+2016-10-29/17:16:44 - 2016-10-29/17:18:54, 100.0, moka(EVA),  partial MP with Vz jets
+2016-10-29/17:18:54 - 2016-10-29/17:21:04, 100.0, moka(EVA),  partial MP with Vz jets
+2016-10-29/17:21:04 - 2016-10-29/17:22:04,  50.0, moka(EVA),  wing
+2016-10-29/18:09:44 - 2016-10-29/18:11:04, 100.0, moka(EVA),  partial MP with Vz jets and reversals
+2016-10-29/18:11:04 - 2016-10-29/18:12:24, 100.0, moka(EVA),  partial MP with Vz jets and reversals
+2016-10-29/18:15:44 - 2016-10-29/18:17:04, 100.0, moka(EVA),  partial MP with jets
+2016-10-29/18:17:04 - 2016-10-29/18:18:24, 100.0, moka(EVA),  partial MP with jets

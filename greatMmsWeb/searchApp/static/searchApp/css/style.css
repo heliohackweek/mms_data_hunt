@@ -1,0 +1,20 @@
+body {
+  background-color: #fefefe;
+  font-size: 16px;
+}
+.sideBar {
+    border-right: 1px solid #ccc;
+}
+.leadBox {
+  margin-top: 10em;
+}
+.table-responsive {
+  height: 50%;
+}
+.footer {
+  width: 100%;
+  background-color: #ede9e6;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}

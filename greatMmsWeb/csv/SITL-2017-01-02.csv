@@ -1,0 +1,32 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-01-02/01:48:23 - 2017-01-02/01:50:23,  50.0, bmauk(EVA),"  BL encounter, strong E field activity"
+2017-01-02/01:50:23 - 2017-01-02/01:52:23,  50.0, bmauk(EVA),"  BL encounter, strong E field activity"
+2017-01-02/02:17:33 - 2017-01-02/02:19:03, 175.0, bmauk(EVA),"  Full MP crossing, high shear, very strong currents, strong Vz flow and density gradient, strong E field activity"
+2017-01-02/02:19:03 - 2017-01-02/02:20:33, 175.0, bmauk(EVA),"  Full MP crossing, high shear, strong currents, weak Vz flow and strong density gradient, E field activity"
+2017-01-02/02:24:53 - 2017-01-02/02:26:03,  10.0, bmauk(EVA),  Chorus-like wave activity
+2017-01-02/02:36:13 - 2017-01-02/02:37:43,  10.0, bmauk(EVA),  Chrous-like wave activity
+2017-01-02/02:44:33 - 2017-01-02/02:45:23, 115.0, bmauk(EVA),"  Partial MP crossing, moderate Vz flow and E-field activity, weak currents"
+2017-01-02/02:56:33 - 2017-01-02/02:58:23, 175.0, bmauk(EVA),"  Full MP crossing, high shear, Bmin, moderate Vz flow reversal and density gradient, moderate currents and E-field activity"
+2017-01-02/02:58:23 - 2017-01-02/03:00:13, 155.0, bmauk(EVA),"  Multiple full MP crossings, moderate shear, weak flow, moderate currents and density gradient, strong E field activity"
+2017-01-02/03:00:13 - 2017-01-02/03:02:23, 100.0, bmauk(EVA)," Extended MP crossing, moderate-low shear, weak currents and E-field activity"
+2017-01-02/03:02:23 - 2017-01-02/03:04:43, 100.0, bmauk(EVA)," Extended MP crossing, moderate-low shear, weak currents and E-field activity"
+2017-01-02/03:04:43 - 2017-01-02/03:06:53, 100.0, bmauk(EVA)," Extended MP crossing, moderate-low shear, weak currents and E-field activity"
+2017-01-02/03:06:53 - 2017-01-02/03:09:13, 100.0, bmauk(EVA)," Extended MP crossing, moderate-low shear, weak currents and E-field activity"
+2017-01-02/03:11:13 - 2017-01-02/03:13:13, 100.0, bmauk(EVA)," Extended partial MP crossing, low shear, strong Vz flow"
+2017-01-02/03:13:13 - 2017-01-02/03:15:03, 100.0, bmauk(EVA)," Extended partial MP crossing, low shear, strong Vz flow"
+2017-01-02/03:15:03 - 2017-01-02/03:17:03, 100.0, bmauk(EVA)," Extended partial MP crossing, low shear, strong Vz flow"
+2017-01-02/03:17:03 - 2017-01-02/03:19:03, 100.0, bmauk(EVA)," Extended partial MP crossing, low shear, strong Vz flow"
+2017-01-02/03:30:53 - 2017-01-02/03:31:23,  20.0, bmauk(EVA), Magnetosheath CS
+2017-01-02/05:14:13 - 2017-01-02/05:15:13,  20.0, bmauk(EVA),  Magnetosheath CS
+2017-01-02/06:24:33 - 2017-01-02/06:28:03, 125.0, bmauk(EVA),  Possible FTE w/ Vy flow reversal
+2017-01-02/14:01:43 - 2017-01-02/14:03:43, 120.0, bmauk(EVA)," Partial MP crossing, moderate shear, Bmin, strong Vz flow, and moderate-strong currents"
+2017-01-02/14:39:03 - 2017-01-02/14:41:03, 155.0, bmauk(EVA),"  Extended full MP crossing, moderate shear, moderate-strong Vz flow with weak reversals"
+2017-01-02/14:41:03 - 2017-01-02/14:43:13, 155.0, bmauk(EVA),"  Extended full MP crossing, moderate shear, moderate-strong Vz flow with weak reversals"
+2017-01-02/14:43:13 - 2017-01-02/14:45:13, 155.0, bmauk(EVA),"  Extended full MP crossing, moderate shear, moderate-strong Vz flow with weak reversals"
+2017-01-02/14:45:13 - 2017-01-02/14:47:23, 155.0, bmauk(EVA),"  Extended full MP crossing, moderate shear, moderate-strong Vz flow with weak reversals"
+2017-01-02/14:47:23 - 2017-01-02/14:49:23, 155.0, bmauk(EVA),"  Extended full MP crossing, moderate shear, moderate-strong Vz flow with weak reversals"
+2017-01-02/14:49:53 - 2017-01-02/14:51:43,  10.0, bmauk(EVA),  Cold magnetospheric ions
+2017-01-02/14:51:43 - 2017-01-02/14:53:53,  10.0, bmauk(EVA),  Cold magnetospheric ions
+2017-01-02/14:53:53 - 2017-01-02/14:56:03,  10.0, bmauk(EVA),  Cold magnetospheric ions
+2017-01-02/14:56:03 - 2017-01-02/14:58:13,  10.0, bmauk(EVA),  Cold magnetospheric ions
+2017-01-02/15:00:33 - 2017-01-02/15:03:23, 115.0, bmauk(EVA),"  Partial MP crossing, low shear, weak Vz flow reversal and moderate-strong currents, cold magnetospheric ions"

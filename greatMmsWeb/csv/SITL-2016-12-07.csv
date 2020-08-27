@@ -1,0 +1,40 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-12-07/04:58:14 - 2016-12-07/05:00:34,  75.0, tphan(EVA),  LLBL with cold ions
+2016-12-07/05:01:44 - 2016-12-07/05:03:44,  75.0, tphan(EVA),  LLBL with cold ions
+2016-12-07/05:03:44 - 2016-12-07/05:05:54,  75.0, tphan(EVA),  LLBL with cold ions
+2016-12-07/05:05:54 - 2016-12-07/05:07:54,  75.0, tphan(EVA),  LLBL with cold ions
+2016-12-07/05:08:34 - 2016-12-07/05:10:54,  75.0, tphan(EVA),  LLBL with cold ions
+2016-12-07/05:10:54 - 2016-12-07/05:13:14,  75.0, tphan(EVA),  LLBL with cold ions
+2016-12-07/05:13:14 - 2016-12-07/05:16:34,  75.0, tphan(EVA),  LLBL with cold ions and jets
+2016-12-07/05:16:34 - 2016-12-07/05:18:04, 175.0, tphan(EVA),  complete high-shear MP
+2016-12-07/05:18:04 - 2016-12-07/05:19:44, 175.0, tphan(EVA),  complete high-shear MP
+2016-12-07/05:19:44 - 2016-12-07/05:21:24, 110.0, tphan(EVA),  partial MP
+2016-12-07/05:21:24 - 2016-12-07/05:22:14, 125.0, tphan(EVA),  partial MP with enhanced j
+2016-12-07/05:22:14 - 2016-12-07/05:24:14, 110.0, tphan(EVA),  partial MP
+2016-12-07/05:24:14 - 2016-12-07/05:26:34, 110.0, tphan(EVA),  partial MP with jets
+2016-12-07/05:26:34 - 2016-12-07/05:28:54, 110.0, tphan(EVA),  partial MP with jets
+2016-12-07/05:30:44 - 2016-12-07/05:33:14, 130.0, tphan(EVA),  partial MP with possible jet reversal
+2016-12-07/05:33:14 - 2016-12-07/05:35:44, 130.0, tphan(EVA),  partial MP with possible jet reversal
+2016-12-07/05:35:44 - 2016-12-07/05:38:14, 130.0, tphan(EVA),  partial MP with possible jet reversal
+2016-12-07/05:38:14 - 2016-12-07/05:40:44, 130.0, tphan(EVA),  partial MP with possible jet reversal
+2016-12-07/05:49:14 - 2016-12-07/05:49:44, 130.0, tphan(EVA),  partial with enhanced j
+2016-12-07/05:49:44 - 2016-12-07/05:51:34, 125.0, tphan(EVA),  partial MP
+2016-12-07/05:55:14 - 2016-12-07/05:57:54, 125.0, tphan(EVA),  partial MP
+2016-12-07/05:57:54 - 2016-12-07/05:58:34, 130.0, tphan(EVA),  partial with enhanced j
+2016-12-07/05:58:34 - 2016-12-07/06:00:34, 125.0, tphan(EVA),  partial MP
+2016-12-07/06:04:54 - 2016-12-07/06:06:54,  75.0, tphan(EVA),  FTE?
+2016-12-07/06:06:54 - 2016-12-07/06:09:04,  75.0, tphan(EVA),  FTE?
+2016-12-07/12:03:44 - 2016-12-07/12:05:34,  60.0, tphan(EVA),  enhanced j in magnetosheath
+2016-12-07/12:05:34 - 2016-12-07/12:07:24,  60.0, tphan(EVA),  enhanced j in magnetosheath
+2016-12-07/14:28:14 - 2016-12-07/14:31:34,  75.0, tphan(EVA),  shock
+2016-12-07/14:35:14 - 2016-12-07/14:37:54,  75.0, tphan(EVA),  shock
+2016-12-07/14:42:44 - 2016-12-07/14:43:14, 180.0, tphan(EVA),  solar wind reconnection
+2016-12-07/14:49:54 - 2016-12-07/14:51:14,  75.0, tphan(EVA),  pristine SW with some B structures
+2016-12-07/14:51:14 - 2016-12-07/14:53:34,  75.0, tphan(EVA),  pristine solar wind
+2016-12-07/14:53:34 - 2016-12-07/14:55:04,  75.0, tphan(EVA),  pristine solar wind with some B structures
+2016-12-07/14:58:24 - 2016-12-07/14:59:14,  75.0, tphan(EVA),  solar wind current sheet
+2016-12-07/15:15:34 - 2016-12-07/15:18:04,  75.0, tphan(EVA),  shock
+2016-12-07/15:28:34 - 2016-12-07/15:29:44,  70.0, tphan(EVA),  magnetosheath current sheet
+2016-12-07/15:48:54 - 2016-12-07/15:49:54,  70.0, tphan(EVA),  magnetosheath CS
+2016-12-07/16:32:54 - 2016-12-07/16:34:14,  75.0, tphan(EVA),  shock
+2016-12-07/16:37:04 - 2016-12-07/16:38:54,  75.0, tphan(EVA),  shock

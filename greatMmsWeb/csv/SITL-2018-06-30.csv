@@ -1,0 +1,74 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-06-30/19:56:23 - 2018-06-30/19:58:13,  73.0, jburch(EVA), DP front 
+2018-06-30/19:58:13 - 2018-06-30/20:00:03,  73.0, jburch(EVA), DP front 
+2018-06-30/20:05:03 - 2018-06-30/20:06:53,  81.0, jburch(EVA), Flow burst with Bx reversal 
+2018-06-30/20:07:23 - 2018-06-30/20:08:43,  73.0, jburch(EVA), Bx reversal 
+2018-06-30/20:09:23 - 2018-06-30/20:11:33,  73.0, jburch(EVA), Neutral sheet with flow oscillations 
+2018-06-30/20:37:13 - 2018-06-30/20:39:33,  73.0, jburch(EVA), Neutral sheet encounter with flow oscillations 
+2018-06-30/21:08:53 - 2018-06-30/21:11:13, 100.0, dozturk(EVA)," 50mV/m bi-polar electric field pulses, BBF and a weak DF, emissions extending up to fce and fcp."
+2018-06-30/21:11:13 - 2018-06-30/21:13:43, 100.0, dozturk(EVA)," 50mV/m bi-polar electric field pulses, BBF and a weak DF, emissions extending up to fce and fcp."
+2018-06-30/21:13:43 - 2018-06-30/21:16:03, 100.0, dozturk(EVA)," 50mV/m bi-polar electric field pulses, BBF and a weak DF, emissions extending up to fce and fcp."
+2018-06-30/21:16:03 - 2018-06-30/21:18:23,  84.0, jburch(EVA), Bz reversals 
+2018-06-30/21:18:33 - 2018-06-30/21:20:23,  84.0, jburch(EVA), Turbulent neutral sheet 
+2018-06-30/21:20:43 - 2018-06-30/21:22:03,  84.2, jburch(EVA), Turbulent neutral sheet 
+2018-06-30/21:23:13 - 2018-06-30/21:24:13,  81.0, jburch(EVA), Turbulent neutral sheet 
+2018-06-30/21:55:23 - 2018-06-30/21:58:03,  84.0, jburch(EVA), Neutral sheet crossing with DP event 
+2018-06-30/22:32:13 - 2018-06-30/22:34:13,  89.0, jburch(EVA), Vx flow reversal at turbulent neutral sheet 
+2018-06-30/22:34:13 - 2018-06-30/22:36:23,  89.0, jburch(EVA), Vx flow reversal at turbulent neutral sheet 
+2018-06-30/22:36:23 - 2018-06-30/22:38:23,  89.0, jburch(EVA), Vx flow reversal at turbulent neutral sheet 
+2018-06-30/23:42:23 - 2018-06-30/23:46:13,  86.0, jburch(EVA), Vx flow burst at neutral sheet 
+2018-06-30/23:59:33 - 2018-07-01/00:03:03,  76.0, jburch(EVA), Vx flow burst 
+2018-07-01/01:00:43 - 2018-07-01/01:02:53,  73.0, jburch(EVA), Bursty bulk flows 
+2018-07-01/01:02:53 - 2018-07-01/01:05:13,  73.0, jburch(EVA), Bursty bulk flows 
+2018-07-01/01:05:13 - 2018-07-01/01:07:23,  73.0, jburch(EVA), Bursty bulk flows 
+2018-07-01/12:48:33 - 2018-07-01/12:50:33,  80.0, dozturk(EVA),"  inverted V structures, upflowing ionospheric ions"
+2018-07-01/12:51:33 - 2018-07-01/12:53:13,  80.0, dozturk(EVA),"  inverted V structures, upflowing ionospheric ions"
+2018-07-01/12:53:13 - 2018-07-01/12:55:03,  80.0, dozturk(EVA),"  inverted V structures, upflowing ionospheric ions"
+2018-07-01/12:59:13 - 2018-07-01/13:01:33,  94.0, jburch(EVA), Neutral sheet with strong earthward flows 
+2018-07-01/13:01:33 - 2018-07-01/13:03:53,  94.0, jburch(EVA), Neutral sheet with strong earthward flows 
+2018-07-01/13:03:53 - 2018-07-01/13:06:03,  94.0, jburch(EVA), Neutral sheet with strong earthward flows 
+2018-07-01/13:06:03 - 2018-07-01/13:08:23,  94.0, jburch(EVA), Neutral sheet with strong earthward flows 
+2018-07-01/13:08:23 - 2018-07-01/13:10:43,  94.0, jburch(EVA), Neutral sheet with strong earthward flows 
+2018-07-01/13:10:43 - 2018-07-01/13:13:03,  94.0, jburch(EVA), Neutral sheet with strong earthward flows 
+2018-07-01/13:13:03 - 2018-07-01/13:15:23,  94.0, jburch(EVA), Neutral sheet with strong earthward flows 
+2018-07-01/13:15:23 - 2018-07-01/13:17:43,  94.0, jburch(EVA), Neutral sheet with strong earthward flows 
+2018-07-01/13:17:43 - 2018-07-01/13:19:53,  94.0, jburch(EVA), Neutral sheet with strong earthward flows 
+2018-07-01/13:19:53 - 2018-07-01/13:22:13,  94.0, jburch(EVA), Neutral sheet with strong earthward flows 
+2018-07-01/13:22:13 - 2018-07-01/13:24:33,  94.0, jburch(EVA), Neutral sheet with strong earthward flows 
+2018-07-01/13:24:33 - 2018-07-01/13:26:53,  94.0, jburch(EVA), Neutral sheet with strong earthward flows 
+2018-07-01/21:41:23 - 2018-07-01/21:42:53,  81.0, jburch(EVA), Neutral sheet approach with Bz neg. transition 
+2018-07-01/21:42:53 - 2018-07-01/21:44:23,  81.0, jburch(EVA), Neutral sheet approach with Bz neg. transition 
+2018-07-02/00:14:33 - 2018-07-02/00:16:13, 124.9, jburch(EVA)," Neutral sheet with magnetic null, Vx reversal, Bz neg. to pos. transition "
+2018-07-02/00:16:13 - 2018-07-02/00:18:03, 124.9, jburch(EVA)," Neutral sheet with magnetic null, Vx reversal, Bz neg. to pos. transition "
+2018-07-02/00:18:03 - 2018-07-02/00:19:43, 124.9, jburch(EVA)," Neutral sheet with magnetic null, Vx reversal, Bz neg. to pos. transition "
+2018-07-02/00:42:13 - 2018-07-02/00:44:13,  99.0, jburch(EVA), Bz neg. to pos. with Vx burst 
+2018-07-02/00:44:13 - 2018-07-02/00:46:13,  99.0, jburch(EVA), Bz neg. to pos. with Vx burst 
+2018-07-02/00:46:13 - 2018-07-02/00:48:13,  99.0, jburch(EVA), Bz neg. to pos. with Vx burst 
+2018-07-02/18:31:03 - 2018-07-02/18:33:03,  80.0, dozturk(EVA)," several dipolar signatures in Bz, flow enhancement in Vx"
+2018-07-02/18:33:03 - 2018-07-02/18:35:03,  80.0, dozturk(EVA)," several dipolar signatures in Bz, flow enhancement in Vx"
+2018-07-02/18:35:03 - 2018-07-02/18:37:03,  80.0, dozturk(EVA)," several dipolar signatures in Bz, flow enhancement in Vx"
+2018-07-02/18:37:03 - 2018-07-02/18:39:03,  80.0, dozturk(EVA)," several dipolar signatures in Bz, flow enhancement in Vx"
+2018-07-02/20:22:53 - 2018-07-02/20:25:13, 100.0, dozturk(EVA),"  PSBL encounter, flow enhancements and reversal in Vx"
+2018-07-02/20:25:13 - 2018-07-02/20:27:33, 100.0, dozturk(EVA),"  PSBL encounter, flow enhancements and reversal in Vx"
+2018-07-02/20:27:33 - 2018-07-02/20:29:53, 100.0, dozturk(EVA),"  PSBL encounter, flow enhancements and reversal in Vx"
+2018-07-02/20:29:53 - 2018-07-02/20:32:13, 100.0, dozturk(EVA),"  PSBL encounter, flow enhancements and reversal in Vx"
+2018-07-02/20:32:13 - 2018-07-02/20:34:43, 100.0, dozturk(EVA),"  PSBL encounter, flow enhancements and reversal in Vx"
+2018-07-02/20:34:43 - 2018-07-02/20:37:03, 100.0, dozturk(EVA),"  PSBL encounter, flow enhancements and reversal in Vx"
+2018-07-02/20:37:03 - 2018-07-02/20:39:23, 100.0, dozturk(EVA),"  PSBL encounter, flow enhancements and reversal in Vx"
+2018-07-02/20:39:23 - 2018-07-02/20:41:43, 100.0, dozturk(EVA),"  PSBL encounter, flow enhancements and reversal in Vx"
+2018-07-02/20:41:43 - 2018-07-02/20:44:13,  60.0, dozturk(EVA),  Several flow reversals in Vx
+2018-07-02/20:44:13 - 2018-07-02/20:46:43,  60.0, dozturk(EVA),  Several flow reversals in Vx
+2018-07-02/20:46:43 - 2018-07-02/20:49:13,  60.0, dozturk(EVA),  Several flow reversals in Vx
+2018-07-02/20:49:13 - 2018-07-02/20:51:33,  60.0, dozturk(EVA),  Several flow reversals in Vx
+2018-07-02/20:51:33 - 2018-07-02/20:54:03,  60.0, dozturk(EVA),  Several flow reversals in Vx
+2018-07-02/20:54:03 - 2018-07-02/20:56:33,  60.0, dozturk(EVA),  Several flow reversals in Vx
+2018-07-02/20:56:33 - 2018-07-02/20:59:03,  60.0, dozturk(EVA),  Several flow reversals in Vx
+2018-07-02/20:59:03 - 2018-07-02/21:01:33,  60.0, dozturk(EVA),  Several flow reversals in Vx
+2018-07-02/21:01:33 - 2018-07-02/21:04:03,  60.0, dozturk(EVA),  Several flow reversals in Vx
+2018-07-02/21:04:03 - 2018-07-02/21:06:33,  60.0, dozturk(EVA),  Several flow reversals in Vx
+2018-07-02/21:06:33 - 2018-07-02/21:09:03,  60.0, dozturk(EVA),  Several flow reversals in Vx
+2018-07-02/21:09:03 - 2018-07-02/21:11:23,  60.0, dozturk(EVA),  Several flow reversals in Vx
+2018-07-02/21:11:23 - 2018-07-02/21:13:53,  60.0, dozturk(EVA),  Several flow reversals in Vx
+2018-07-02/21:13:53 - 2018-07-02/21:16:23,  60.0, dozturk(EVA),  Several flow reversals in Vx
+2018-07-02/21:16:23 - 2018-07-02/21:18:53,  60.0, dozturk(EVA),  Several flow reversals in Vx
+2018-07-02/21:18:53 - 2018-07-02/21:21:23,  60.0, dozturk(EVA),  Several flow reversals in Vx

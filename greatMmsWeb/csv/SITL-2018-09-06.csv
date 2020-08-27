@@ -1,0 +1,102 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-09-06/23:49:13 - 2018-09-06/23:51:23,  60.0, rnakamura(EVA),  Magnetopause crossing 
+2018-09-06/23:51:23 - 2018-09-06/23:54:23, 100.0, rnakamura(EVA),  Possible FTE and partial MP crossing
+2018-09-07/00:21:43 - 2018-09-07/00:23:33,  70.0, rnakamura(EVA), partial MP crossing
+2018-09-07/00:23:33 - 2018-09-07/00:25:23,  70.0, rnakamura(EVA), partial MP crossing
+2018-09-07/00:25:23 - 2018-09-07/00:27:13,  70.0, rnakamura(EVA), partial MP crossing
+2018-09-07/00:27:13 - 2018-09-07/00:31:53,  45.0, rnakamura(EVA),  current sheet in boundary layer
+2018-09-07/00:31:53 - 2018-09-07/00:34:13,  45.0, rnakamura(EVA),  current sheet in BL
+2018-09-07/00:34:13 - 2018-09-07/00:36:23,  45.0, rnakamura(EVA),  current sheet in BL
+2018-09-07/00:49:53 - 2018-09-07/00:52:53,  40.0, rnakamura(EVA),  current sheet in the magnetosheath. 
+2018-09-07/00:52:53 - 2018-09-07/00:57:53,  70.0, rnakamura(EVA), series of partial MP corssings 
+2018-09-07/01:17:53 - 2018-09-07/01:22:13,  90.0, rnakamura(EVA), Full MP crossing Flow reversal in Vz
+2018-09-07/01:22:13 - 2018-09-07/01:26:33,  90.0, rnakamura(EVA),  partal MP crossing
+2018-09-07/01:26:33 - 2018-09-07/01:31:23,  90.0, rnakamura(EVA),"  partial MP crossing, vanishing B"
+2018-09-07/01:31:23 - 2018-09-07/01:35:03,  70.0, rnakamura(EVA),  partial MP crossing 
+2018-09-07/02:03:43 - 2018-09-07/02:05:03,  70.0, rnakamura(EVA),  Partial MP crossings Bxy reversal
+2018-09-07/02:05:03 - 2018-09-07/02:07:13,  45.0, rnakamura(EVA)," Partial MP crossing,"
+2018-09-07/02:07:13 - 2018-09-07/02:09:53,  80.0, rnakamura(EVA),"  Vyz reversal, MP crossing high freq waves at start and end "
+2018-09-07/02:09:53 - 2018-09-07/02:13:53,  45.0, rnakamura(EVA),"  Reversal in Bx, EB waves "
+2018-09-07/02:20:03 - 2018-09-07/02:23:43,  70.0, rnakamura(EVA),  Full MP crossing
+2018-09-07/02:30:33 - 2018-09-07/02:32:43,  80.0, rnakamura(EVA),"  series of drops in magnetic field, two reversals in Bx associated wth drops in vx"
+2018-09-07/02:32:43 - 2018-09-07/02:34:53,  80.0, rnakamura(EVA),"  series of drops in magnetic field, two reversals in Bx associated wth drops in vx"
+2018-09-07/02:34:53 - 2018-09-07/02:37:03,  80.0, rnakamura(EVA),"  series of drops in magnetic field, two reversals in Bx associated wth drops in vx"
+2018-09-07/02:42:53 - 2018-09-07/02:45:13,  80.0, rnakamura(EVA),  Rapid MP crossings 
+2018-09-07/02:45:13 - 2018-09-07/02:47:23,  80.0, rnakamura(EVA),  Rapid MP crossings 
+2018-09-07/02:47:23 - 2018-09-07/02:49:43,  80.0, rnakamura(EVA),  Rapid MP crossings 
+2018-09-07/02:49:43 - 2018-09-07/02:52:03,  80.0, rnakamura(EVA),  Rapid MP crossings 
+2018-09-07/03:09:13 - 2018-09-07/03:14:03,  90.0, rnakamura(EVA),  Current Sheet Bx reversal with flows in vzy
+2018-09-07/03:17:33 - 2018-09-07/03:19:23, 100.0, rnakamura(EVA), MP crossing  EB waves Strong fluctuations in B. By reversal
+2018-09-07/03:19:23 - 2018-09-07/03:21:03, 100.0, rnakamura(EVA), MP crossing  EB waves Strong fluctuations in B. By reversal
+2018-09-07/03:21:03 - 2018-09-07/03:22:53, 100.0, rnakamura(EVA), MP crossing  EB waves Strong fluctuations in B. By reversal
+2018-09-07/03:26:53 - 2018-09-07/03:29:13,  90.0, rnakamura(EVA),  Series of reversals and strong B fluctuations EB waves
+2018-09-07/03:29:13 - 2018-09-07/03:31:33,  80.0, rnakamura(EVA),  Series of reversals and strong B fluctuations EB waves
+2018-09-07/03:31:33 - 2018-09-07/03:34:03,  90.0, rnakamura(EVA),  Series of reversals and strong B fluctuations EB waves
+2018-09-07/03:34:03 - 2018-09-07/03:36:23,  80.0, rnakamura(EVA),  Series of reversals and strong B fluctuations EB waves
+2018-09-07/03:36:23 - 2018-09-07/03:38:43,  80.0, rnakamura(EVA),  Series of reversals and strong B fluctuations EB waves
+2018-09-07/03:42:13 - 2018-09-07/03:45:33,  80.0, rnakamura(EVA),  MP crossing reversal in Vy.
+2018-09-07/03:45:33 - 2018-09-07/03:47:23,  70.0, rnakamura(EVA),  MP Crossing Reversal in Vy
+2018-09-07/03:47:23 - 2018-09-07/03:50:33,  40.0, rnakamura(EVA),  Series of magnetic holes
+2018-09-07/03:59:33 - 2018-09-07/04:02:03, 120.0, rnakamura(EVA), Current sheet crossing with ExB flows 600 kms-1
+2018-09-07/04:02:03 - 2018-09-07/04:04:33, 120.0, rnakamura(EVA), Current sheet crossing with ExB flows 600 kms-1
+2018-09-07/04:04:33 - 2018-09-07/04:05:43,  40.0, rnakamura(EVA),  mirror mode train
+2018-09-07/04:05:43 - 2018-09-07/04:07:23,  40.0, rnakamura(EVA),  mirror mode train
+2018-09-07/04:07:23 - 2018-09-07/04:10:53,  40.0, rnakamura(EVA),  mirror mode train
+2018-09-07/04:10:53 - 2018-09-07/04:12:33,  60.0, rnakamura(EVA),  mirror mode trains some with enhanced EB waves
+2018-09-07/04:25:13 - 2018-09-07/04:28:23,  70.0, rnakamura(EVA),  Partial MP crossing. Two reversals in Bx
+2018-09-07/04:43:13 - 2018-09-07/04:45:03,  70.0, rnakamura(EVA)," BL crossing current sheet fluctuates, Bz oscillation"
+2018-09-07/04:45:03 - 2018-09-07/04:46:43,  70.0, rnakamura(EVA)," BL crossing current sheet fluctuates, Bz oscillation"
+2018-09-07/04:46:43 - 2018-09-07/04:47:53,  70.0, rnakamura(EVA)," BL crossing current sheet fluctuates, Bz oscillation"
+2018-09-07/05:17:53 - 2018-09-07/05:19:13,  80.0, rnakamura(EVA),"  Partial MP crossing, Vz reverse, wave"
+2018-09-07/05:33:13 - 2018-09-07/05:34:53,  90.0, rnakamura(EVA),  very clean current sheet 200 kms-1 vy
+2018-09-07/09:52:13 - 2018-09-07/09:53:53, 100.0, rnakamura(EVA),"  NS crossing, Bz reversal, Vx >200km/s; E waves"
+2018-09-07/10:31:43 - 2018-09-07/10:33:53,  45.0, rnakamura(EVA),"  CS crossing, Ewaves, Bz front, "
+2018-09-07/11:09:33 - 2018-09-07/11:11:33, 100.0, rnakamura(EVA)," Bz erversal, CS crossing,Ewaves"
+2018-09-07/11:11:33 - 2018-09-07/11:13:33, 100.0, rnakamura(EVA)," Bz erversal, CS crossing,"
+2018-09-07/11:13:33 - 2018-09-07/11:15:43, 100.0, rnakamura(EVA)," Bz erversal, CS crossing, PSBL flow, Ewaves"
+2018-09-07/11:15:43 - 2018-09-07/11:17:43, 100.0, rnakamura(EVA)," Bz erversal, CS crossing, PSBL flow, Ewaves"
+2018-09-07/14:27:33 - 2018-09-07/14:29:43, 100.0, rnakamura(EVA),"  CS crossing, Vx 200km/s, Bz revserse, E fluctuations"
+2018-09-07/14:29:43 - 2018-09-07/14:31:53, 100.0, rnakamura(EVA),"  CS crossing, Vx 200km/s, Bz revserse, E fluctuations"
+2018-09-07/14:31:53 - 2018-09-07/14:33:53, 100.0, rnakamura(EVA),"  CS crossing, Vx 200km/s, Bz revserse, E fluctuations"
+2018-09-07/14:36:13 - 2018-09-07/14:38:13,  90.0, rnakamura(EVA),"  CS crossing, Vx 100km/s, Bz  E fluctuations"
+2018-09-07/14:38:13 - 2018-09-07/14:40:23,  90.0, rnakamura(EVA),"  CS crossings, Vx 100km/s, Bz  E fluctuations"
+2018-09-07/16:39:43 - 2018-09-07/16:41:33, 110.0, rnakamura(EVA)," CS crossings Bz revesere, Vx reverse-100 to 200 km/s, E, B waves"
+2018-09-07/16:41:33 - 2018-09-07/16:43:33, 110.0, rnakamura(EVA)," CS crossings Bz revesere, Vx reverse-100 to 200 km/s, E, B waves"
+2018-09-07/16:43:33 - 2018-09-07/16:45:23, 110.0, rnakamura(EVA)," CS crossings Bz revesere, Vx reverse-100 to 200 km/s, E, B waves"
+2018-09-07/16:47:43 - 2018-09-07/16:50:53, 110.0, rnakamura(EVA)," PS-BL, NS crossing, Bz reverse, Vx reversal (+100 to-200km/s)"
+2018-09-07/17:28:03 - 2018-09-07/17:30:03, 120.0, rnakamura(EVA),"  Vx (+300 to -200 km/s) Bz fluctuatiions, NS crossings "
+2018-09-07/17:30:03 - 2018-09-07/17:32:03, 120.0, rnakamura(EVA),"  Vx (+300 to -200 km/s) Bz fluctuatiions, NS crossings "
+2018-09-07/17:32:03 - 2018-09-07/17:34:13, 120.0, rnakamura(EVA),"  Vx (+300 to -200 km/s) Bz fluctuatiions, NS crossings "
+2018-09-07/17:34:13 - 2018-09-07/17:36:13, 120.0, rnakamura(EVA),"  Vx (+300 to -200 km/s) Bz fluctuatiions, NS crossings "
+2018-09-08/03:36:43 - 2018-09-08/03:38:23, 100.0, rnakamura(EVA),"  BBF(Vx 200km/s), DP front, E waves, Bz fluctuations"
+2018-09-08/03:38:23 - 2018-09-08/03:40:13, 100.0, rnakamura(EVA),"  BBF(Vx 200km/s), DP front, E waves, Bz fluctuations"
+2018-09-08/03:40:13 - 2018-09-08/03:41:53, 100.0, rnakamura(EVA),"  BBF(Vx 200km/s), DP front, E waves, Bz fluctuations"
+2018-09-08/06:56:33 - 2018-09-08/06:59:03,  70.0, rnakamura(EVA),"  PSBL crossing,Bz fluctuations,, Vx -50km/s"
+2018-09-08/06:59:03 - 2018-09-08/07:01:33,  70.0, rnakamura(EVA),"  PSBL crossing,Bz fluctuations,, Vx -50km/s"
+2018-09-08/07:01:33 - 2018-09-08/07:04:03,  70.0, rnakamura(EVA),"  PSBL crossing,Bz fluctuations,, Vx -50km/s"
+2018-09-08/07:12:53 - 2018-09-08/07:15:03,  65.0, rnakamura(EVA),"  Bz fluctuations, CS center, Vx reverse(50 to -100 k/s),"
+2018-09-08/07:15:03 - 2018-09-08/07:17:03,  65.0, rnakamura(EVA),"  Bz fluctuations, CS center, Vx reverse(50 to -100 k/s),"
+2018-09-08/07:17:03 - 2018-09-08/07:19:13,  65.0, rnakamura(EVA),"  Bz fluctuations, CS center, Vx reverse(50 to -100 k/s),"
+2018-09-08/12:03:23 - 2018-09-08/12:05:13,  90.0, rnakamura(EVA)," Multiple  DP fronts, Vx 300km/s, CS to PSBL "
+2018-09-08/12:05:13 - 2018-09-08/12:07:03,  90.0, rnakamura(EVA)," Multiple  DP fronts, Vx 300km/s, CS to PSBL "
+2018-09-08/12:07:03 - 2018-09-08/12:08:53,  90.0, rnakamura(EVA)," Multiple  DP fronts, Vx 300km/s, CS to PSBL "
+2018-09-08/13:13:23 - 2018-09-08/13:15:13, 100.0, rnakamura(EVA),"  Vx 400 km/s, PS entry, Cluster Conj"
+2018-09-08/13:15:13 - 2018-09-08/13:17:13, 100.0, rnakamura(EVA),"  Vx 400 km/s, PS entry, Cluster Conj"
+2018-09-08/13:17:13 - 2018-09-08/13:19:03, 100.0, rnakamura(EVA),"  Vx 400 km/s, PS entry, Cluster Conj"
+2018-09-08/13:19:03 - 2018-09-08/13:20:53, 145.0, rnakamura(EVA)," BBF Vx 1000km/s, Bz fluctution, CS center, CL conjunction "
+2018-09-08/13:20:53 - 2018-09-08/13:22:53, 145.0, rnakamura(EVA)," BBF Vx 1000km/s, Bz fluctution, CS center, CL conjunction "
+2018-09-08/13:22:53 - 2018-09-08/13:24:43, 145.0, rnakamura(EVA)," BBF Vx 1000km/s, Bz fluctution, CS center, CL conjunction "
+2018-09-08/13:24:43 - 2018-09-08/13:26:33, 145.0, rnakamura(EVA)," BBF Vx 1000km/s, Bz fluctution, CS center, CL conjunction "
+2018-09-08/13:39:53 - 2018-09-08/13:42:13, 100.0, rnakamura(EVA)," Vx 800 km/s, NS encounter, Bz fluctuation, (-5nT), CLconj."
+2018-09-08/13:42:13 - 2018-09-08/13:44:33, 100.0, rnakamura(EVA)," Vx 800 km/s, NS encounter, Bz fluctuation, (-5nT), CLconj."
+2018-09-08/13:44:33 - 2018-09-08/13:47:03, 140.0, rnakamura(EVA)," Vx 800 km/s, NS encounter, Bz fluctuation, (-5nT), CLconj."
+2018-09-08/13:47:03 - 2018-09-08/13:49:23, 100.0, rnakamura(EVA)," Vx 800 km/s, NS encounter, Bz fluctuation, (-5nT), CLconj."
+2018-09-08/14:00:43 - 2018-09-08/14:03:03, 100.0, rnakamura(EVA),"  CS crossing, Bz, Vx reverse (+200 to -200 km/s), CL conj."
+2018-09-08/14:03:03 - 2018-09-08/14:05:13, 100.0, rnakamura(EVA),"  CS crossing, Bz, Vx reverse (+200 to -200 km/s), CL conj."
+2018-09-08/14:05:13 - 2018-09-08/14:07:33, 100.0, rnakamura(EVA),"  CS crossing, Bz, Vx reverse (+200 to -200 km/s), CL conj."
+2018-09-08/14:07:33 - 2018-09-08/14:09:53, 100.0, rnakamura(EVA),"  CS crossing, Bz, Vx reverse (+200 to -200 km/s), CL conj."
+2018-09-08/14:50:43 - 2018-09-08/14:53:03, 140.0, rnakamura(EVA),"  Flux rope, Vx reverse (200 to -200 , CL conj-"
+2018-09-08/14:53:03 - 2018-09-08/14:55:03,  90.0, rnakamura(EVA)," Vx ,Bz oscillation, CL conjunction,"
+2018-09-08/14:55:03 - 2018-09-08/14:57:03,  45.0, rnakamura(EVA)," Vx ,Bz oscillation, CL conjunction,"
+2018-09-08/14:57:03 - 2018-09-08/14:59:03,  45.0, rnakamura(EVA)," Vx ,Bz oscillation, CL conjunction,"
+2018-09-08/14:59:03 - 2018-09-08/15:01:03,  45.0, rnakamura(EVA)," Vx ,Bz oscillation, CL conjunction,"

@@ -1,0 +1,71 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-04-25/10:22:04 - 2016-04-25/10:24:34, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/10:24:34 - 2016-04-25/10:27:04, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/10:27:04 - 2016-04-25/10:29:34, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/10:29:34 - 2016-04-25/10:32:04, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/10:32:04 - 2016-04-25/10:34:34, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/10:34:34 - 2016-04-25/10:37:04, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/10:37:04 - 2016-04-25/10:39:34, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/10:39:34 - 2016-04-25/10:41:54, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/10:41:54 - 2016-04-25/10:44:24, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/10:44:24 - 2016-04-25/10:46:54, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/10:46:54 - 2016-04-25/10:49:24, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/10:49:24 - 2016-04-25/10:51:54, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/10:51:54 - 2016-04-25/10:54:24, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/10:54:24 - 2016-04-25/10:56:54, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/10:56:54 - 2016-04-25/10:59:24, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/10:59:24 - 2016-04-25/11:01:54, 40.0, jburch(EVA), Fast Earthward ion jet at plasma sheet boundary 
+2016-04-25/13:55:34 - 2016-04-25/13:59:34, 10.0, jburch(EVA), Current sheet 
+2016-04-25/14:24:34 - 2016-04-25/14:26:54, 10.0, jburch(EVA), Current sheet 
+2016-04-25/14:26:54 - 2016-04-25/14:29:04, 10.0, jburch(EVA), Current sheet 
+2016-04-25/14:29:04 - 2016-04-25/14:31:24, 10.0, jburch(EVA), Current sheet 
+2016-04-25/14:43:34 - 2016-04-25/14:45:44, 10.0, jburch(EVA), Plasma sheet thinning 
+2016-04-25/14:45:44 - 2016-04-25/14:47:54, 10.0, jburch(EVA), Plasma sheet thinning 
+2016-04-25/14:47:54 - 2016-04-25/14:49:54, 10.0, jburch(EVA), Plasma sheet thinning 
+2016-04-25/14:49:54 - 2016-04-25/14:52:04, 10.0, jburch(EVA), Plasma sheet thinning 
+2016-04-25/14:52:04 - 2016-04-25/14:54:14, 10.0, jburch(EVA), Plasma sheet thinning 
+2016-04-25/15:12:14 - 2016-04-25/15:14:24, 30.0, jburch(EVA), Plasma sheet expansion with Earthward ion jet
+2016-04-25/15:14:24 - 2016-04-25/15:16:34, 30.0, jburch(EVA), Plasma sheet expansion with Earthward ion jet
+2016-04-25/15:16:34 - 2016-04-25/15:18:34, 30.0, jburch(EVA), Plasma sheet expansion with Earthward ion jet
+2016-04-25/15:18:34 - 2016-04-25/15:20:44, 30.0, jburch(EVA), Plasma sheet expansion with Earthward ion jet
+2016-04-25/15:20:44 - 2016-04-25/15:22:54, 30.0, jburch(EVA), Plasma sheet expansion with Earthward ion jet
+2016-04-25/15:22:54 - 2016-04-25/15:25:04, 30.0, jburch(EVA), Plasma sheet expansion with Earthward ion jet
+2016-04-25/16:14:24 - 2016-04-25/16:16:44, 20.0, jburch(EVA), Plasma sheet expansion with turbulence onset 
+2016-04-25/16:16:44 - 2016-04-25/16:19:04, 20.0, jburch(EVA), Plasma sheet expansion with turbulence onset 
+2016-04-25/16:19:04 - 2016-04-25/16:21:14, 20.0, jburch(EVA), Plasma sheet expansion with turbulence onset 
+2016-04-25/16:21:14 - 2016-04-25/16:23:34, 20.0, jburch(EVA), Plasma sheet expansion with turbulence onset 
+2016-04-25/16:23:34 - 2016-04-25/16:25:54, 20.0, jburch(EVA), Plasma sheet expansion with turbulence onset 
+2016-04-25/16:43:34 - 2016-04-25/16:46:04, 30.0, jburch(EVA), Plasma sheet expansion with flow reversal 
+2016-04-25/16:46:04 - 2016-04-25/16:48:34, 30.0, jburch(EVA), Plasma sheet expansion with flow reversal 
+2016-04-25/16:48:34 - 2016-04-25/16:51:04, 30.0, jburch(EVA), Plasma sheet expansion with flow reversal 
+2016-04-25/16:51:04 - 2016-04-25/16:53:34, 30.0, jburch(EVA), Plasma sheet expansion with flow reversal 
+2016-04-25/16:53:34 - 2016-04-25/16:55:54, 30.0, jburch(EVA), Plasma sheet expansion with flow reversal 
+2016-04-25/16:55:54 - 2016-04-25/16:58:24, 30.0, jburch(EVA), Plasma sheet expansion with flow reversal 
+2016-04-25/16:58:24 - 2016-04-25/17:00:54, 30.0, jburch(EVA), Plasma sheet expansion with flow reversal 
+2016-04-25/17:00:54 - 2016-04-25/17:03:24, 30.0, jburch(EVA), Plasma sheet expansion with flow reversal 
+2016-04-25/17:03:24 - 2016-04-25/17:05:54, 30.0, jburch(EVA), Plasma sheet expansion with flow reversal 
+2016-04-25/18:38:54 - 2016-04-25/18:41:24, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/18:41:24 - 2016-04-25/18:43:54, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/18:43:54 - 2016-04-25/18:46:24, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/18:46:24 - 2016-04-25/18:48:54, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/18:48:54 - 2016-04-25/18:51:24, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/18:51:24 - 2016-04-25/18:53:54, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/18:53:54 - 2016-04-25/18:56:24, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/18:56:24 - 2016-04-25/18:58:54, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/18:58:54 - 2016-04-25/19:01:24, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/19:01:24 - 2016-04-25/19:03:54, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/20:29:54 - 2016-04-25/20:32:24, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/20:32:24 - 2016-04-25/20:34:54, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/20:34:54 - 2016-04-25/20:37:24, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/20:37:24 - 2016-04-25/20:39:44, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/20:39:44 - 2016-04-25/20:42:14, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/20:42:14 - 2016-04-25/20:44:44, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/20:44:44 - 2016-04-25/20:47:14, 10.0, jburch(EVA), Plasma sheet turbulent heating 
+2016-04-25/23:30:04 - 2016-04-25/23:32:34, 40.0, jburch(EVA), VAP calibration 
+2016-04-25/23:32:34 - 2016-04-25/23:35:04, 40.0, jburch(EVA), VAP calibration 
+2016-04-25/23:35:04 - 2016-04-25/23:37:34, 40.0, jburch(EVA), VAP calibration 
+2016-04-25/23:37:34 - 2016-04-25/23:39:54, 40.0, jburch(EVA), VAP calibration 
+2016-04-25/23:39:54 - 2016-04-25/23:42:24, 40.0, jburch(EVA), VAP calibration 
+2016-04-25/23:42:24 - 2016-04-25/23:44:54, 40.0, jburch(EVA), VAP calibration 
+2016-04-25/23:44:54 - 2016-04-25/23:47:24, 40.0, jburch(EVA), VAP calibration 
+2016-04-25/23:47:24 - 2016-04-25/23:49:54, 40.0, jburch(EVA), VAP calibration 

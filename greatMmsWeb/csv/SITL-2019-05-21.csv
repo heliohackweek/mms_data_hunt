@@ -1,0 +1,55 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-05-21/23:01:13 - 2019-05-21/23:05:43, 100.0, margall(EVA)," Partial MP, enhanced Vix and Viz"
+2019-05-21/23:05:43 - 2019-05-21/23:10:03, 100.0, margall(EVA)," Partial MP, enhanced Vix and Viz"
+2019-05-21/23:10:03 - 2019-05-21/23:14:33, 150.0, margall(EVA)," Partial MP, enhanced Vix and Viz, bifurcated Bx CS"
+2019-05-21/23:20:03 - 2019-05-21/23:23:53,  80.0, margall(EVA)," MSP magnetic hole, BL plasma distributions"
+2019-05-21/23:23:53 - 2019-05-21/23:27:53,  80.0, margall(EVA)," MSP magnetic hole, BL plasma distributions"
+2019-05-21/23:38:03 - 2019-05-21/23:42:53, 100.0, margall(EVA), Partial MP
+2019-05-21/23:42:53 - 2019-05-21/23:47:43, 100.0, margall(EVA), Partial MP
+2019-05-21/23:47:43 - 2019-05-21/23:52:33, 100.0, margall(EVA), Partial MP
+2019-05-22/01:26:53 - 2019-05-22/01:31:03, 125.0, margall(EVA), CS in BL
+2019-05-22/01:31:03 - 2019-05-22/01:35:23, 125.0, margall(EVA), CS in BL
+2019-05-22/02:16:33 - 2019-05-22/02:20:33, 100.0, margall(EVA), Partial MP crossing
+2019-05-22/02:20:33 - 2019-05-22/02:24:33, 100.0, margall(EVA), Partial MP crossing
+2019-05-22/02:24:33 - 2019-05-22/02:28:33, 100.0, margall(EVA), Partial MP crossing
+2019-05-22/02:55:23 - 2019-05-22/02:59:13, 100.0, margall(EVA), Partial MP crossings
+2019-05-22/02:59:13 - 2019-05-22/03:03:03, 100.0, margall(EVA), Partial MP crossings
+2019-05-22/03:03:03 - 2019-05-22/03:07:03, 100.0, margall(EVA), Partial MP crossings
+2019-05-22/03:07:03 - 2019-05-22/03:10:53, 100.0, margall(EVA), Partial MP crossings
+2019-05-22/03:57:13 - 2019-05-22/04:00:43, 150.0, margall(EVA), MP crossing
+2019-05-22/04:00:43 - 2019-05-22/04:04:03, 150.0, margall(EVA), MP crossing
+2019-05-22/04:04:03 - 2019-05-22/04:07:33, 150.0, margall(EVA), MP crossing
+2019-05-22/04:10:33 - 2019-05-22/04:14:43, 150.0, margall(EVA)," Two MP crossings w/ boundary layer, strong currents"
+2019-05-22/04:14:43 - 2019-05-22/04:18:53, 150.0, margall(EVA)," Two MP crossings w/ boundary layer, strong currents"
+2019-05-22/07:23:43 - 2019-05-22/07:27:43, 150.0, margall(EVA), Two MP crossings
+2019-05-22/07:27:43 - 2019-05-22/07:31:43, 150.0, margall(EVA), Two MP crossings
+2019-05-22/07:31:43 - 2019-05-22/07:35:43, 150.0, margall(EVA), Two MP crossings
+2019-05-22/09:44:13 - 2019-05-22/09:48:53, 110.0, margall(EVA)," Turbulent MSH, strong currents, electron heating"
+2019-05-22/09:59:53 - 2019-05-22/10:02:53, 125.0, margall(EVA), Partial MP w/ deep magnetic null
+2019-05-22/10:02:53 - 2019-05-22/10:05:53, 125.0, margall(EVA), Partial MP w/ deep magnetic null
+2019-05-22/13:16:03 - 2019-05-22/13:18:03, 125.0, margall(EVA), MSH CS
+2019-05-22/13:25:23 - 2019-05-22/13:30:13,  75.0, margall(EVA)," BS, partial entry into SW"
+2019-05-23/11:45:13 - 2019-05-23/11:47:23,  90.0, margall(EVA), Possible bifurcated CS or nonlinear SLAMS
+2019-05-23/12:07:43 - 2019-05-23/12:10:23, 125.0, margall(EVA), SW CS
+2019-05-23/13:23:03 - 2019-05-23/13:26:03, 100.0, margall(EVA), Transition from low-frequency wave-filled SW to quiet SW at sharp CS
+2019-05-23/20:43:33 - 2019-05-23/20:44:53,  90.0, margall(EVA)," MSH FTE, strong core current"
+2019-05-23/21:08:43 - 2019-05-23/21:10:23, 150.0, margall(EVA)," MSH CS, density peak, e- heating"
+2019-05-23/21:26:33 - 2019-05-23/21:28:13, 125.0, margall(EVA)," MSH CS, 100 Hz EM waves"
+2019-05-23/21:30:43 - 2019-05-23/21:32:23, 150.0, margall(EVA)," MSH CS, Vx enhancement"
+2019-05-23/21:39:23 - 2019-05-23/21:41:03,  90.0, margall(EVA), Possible MSH FTE
+2019-05-23/21:59:03 - 2019-05-23/22:00:53, 125.0, margall(EVA), MSH CS
+2019-05-23/22:16:03 - 2019-05-23/22:19:33, 150.0, margall(EVA), MSH CS w/ strong Diff(B)
+2019-05-23/22:50:03 - 2019-05-23/22:52:03, 150.0, margall(EVA)," MSH CS, strong current layer separating reagions of strong and weak B-field"
+2019-05-23/23:04:13 - 2019-05-23/23:06:33,  80.0, margall(EVA), MSH isolated magnetic hole
+2019-05-23/23:33:43 - 2019-05-23/23:38:43, 150.0, margall(EVA)," MSH CS, energetic particles, enhanced Vz & Vy"
+2019-05-24/00:26:33 - 2019-05-24/00:31:13,  80.0, margall(EVA), BS crossing
+2019-05-24/00:34:33 - 2019-05-24/00:38:33,  80.0, margall(EVA), Long BS crossing
+2019-05-24/00:38:33 - 2019-05-24/00:42:23,  80.0, margall(EVA), Long BS crossing
+2019-05-24/00:42:23 - 2019-05-24/00:46:23,  80.0, margall(EVA), Long BS crossing
+2019-05-24/00:46:23 - 2019-05-24/00:50:23,  80.0, margall(EVA), Long BS crossing
+2019-05-24/01:46:53 - 2019-05-24/01:49:33, 150.0, margall(EVA)," MSH CS separating variable and quiet B-field regions, |B| null, N peak"
+2019-05-24/03:37:23 - 2019-05-24/03:41:13, 125.0, margall(EVA), MSH CS in turbulent region
+2019-05-24/03:46:43 - 2019-05-24/03:50:13, 150.0, margall(EVA), MSH bifurcated CS
+2019-05-24/04:32:13 - 2019-05-24/04:36:03,  60.0, margall(EVA), MSH CS following large B rotation
+2019-05-24/04:36:03 - 2019-05-24/04:39:43,  60.0, margall(EVA), MSH CS following large B rotation
+2019-05-24/04:39:43 - 2019-05-24/04:43:33, 125.0, margall(EVA), MSH CS following large B rotation
