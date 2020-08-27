@@ -1,0 +1,40 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-09-29/13:05:54 - 2016-09-29/13:07:54,  16.0, nkitamura(EVA),  boundary layer
+2016-09-29/13:16:14 - 2016-09-29/13:17:24,  30.0, nkitamura(EVA),  boundary layer with E waves and northward flow
+2016-09-29/13:17:24 - 2016-09-29/13:19:24,  22.0, nkitamura(EVA),  boundary layer with E waves
+2016-09-29/13:39:54 - 2016-09-29/13:41:24,  23.0, nkitamura(EVA),  boundary layer with E waves
+2016-09-29/14:07:24 - 2016-09-29/14:08:54,  19.0, nkitamura(EVA),  boundary layer
+2016-09-29/14:08:54 - 2016-09-29/14:10:24,  19.0, nkitamura(EVA),  boundary layer
+2016-09-29/14:34:14 - 2016-09-29/14:35:24,  16.0, nkitamura(EVA),  boundary layer
+2016-09-29/15:01:34 - 2016-09-29/15:03:44,  14.0, nkitamura(EVA),  boundary layer
+2016-09-29/15:03:44 - 2016-09-29/15:05:34,  14.0, nkitamura(EVA),  boundary layer
+2016-09-29/15:05:34 - 2016-09-29/15:06:44, 105.0, nkitamura(EVA),  partial MP
+2016-09-29/15:06:44 - 2016-09-29/15:08:04,  14.0, nkitamura(EVA),  boundary layer
+2016-09-29/15:08:04 - 2016-09-29/15:09:14,  14.0, nkitamura(EVA),  boundary layer
+2016-09-29/15:09:14 - 2016-09-29/15:10:24,  19.0, nkitamura(EVA),  boundary layer
+2016-09-29/15:10:24 - 2016-09-29/15:12:14,  14.0, nkitamura(EVA),  boundary layer
+2016-09-29/15:12:14 - 2016-09-29/15:14:04,  19.0, nkitamura(EVA),  boundary layer
+2016-09-29/15:14:04 - 2016-09-29/15:15:44,  14.0, nkitamura(EVA),  boundary layer
+2016-09-29/15:15:44 - 2016-09-29/15:17:54,  18.0, nkitamura(EVA),  boundary layer
+2016-09-29/15:17:54 - 2016-09-29/15:19:14,  14.0, nkitamura(EVA),  boundary layer
+2016-09-29/15:19:14 - 2016-09-29/15:20:34,  14.0, nkitamura(EVA),  boundary layer
+2016-09-29/15:20:34 - 2016-09-29/15:22:14,  17.0, nkitamura(EVA),  boundary layer
+2016-09-29/15:38:04 - 2016-09-29/15:40:04,  15.0, nkitamura(EVA),  bonudary layer
+2016-09-29/15:40:04 - 2016-09-29/15:42:14,  15.0, nkitamura(EVA),  boundary layer
+2016-09-29/16:10:14 - 2016-09-29/16:11:34,  19.0, nkitamura(EVA),  boundary layer
+2016-09-29/16:11:34 - 2016-09-29/16:12:14,  13.0, nkitamura(EVA),  fill
+2016-09-29/16:12:14 - 2016-09-29/16:12:54,  26.0, nkitamura(EVA),  boundary layer
+2016-09-29/16:12:54 - 2016-09-29/16:15:24, 110.0, nkitamura(EVA),  partial MP
+2016-09-29/16:15:24 - 2016-09-29/16:16:54,  26.0, nkitamura(EVA),  boundary layer with E waves
+2016-09-29/18:13:34 - 2016-09-29/18:16:04,  17.0, nkitamura(EVA),  boundary layer with E waves
+2016-09-29/18:16:04 - 2016-09-29/18:18:24,  17.0, nkitamura(EVA),  boundary layer with E waves
+2016-09-29/18:18:24 - 2016-09-29/18:20:54,  17.0, nkitamura(EVA),  boundary layer with E waves
+2016-09-29/18:20:54 - 2016-09-29/18:23:24,  17.0, nkitamura(EVA),  boundary layer with E waves
+2016-09-29/18:23:24 - 2016-09-29/18:25:44,  17.0, nkitamura(EVA),  boundary layer with E waves
+2016-09-29/18:25:44 - 2016-09-29/18:28:14,  16.0, nkitamura(EVA),  boundary layer with E waves
+2016-09-30/01:08:44 - 2016-09-30/01:10:14,  12.0, nkitamura(EVA),  PSBL
+2016-09-30/01:11:04 - 2016-09-30/01:12:44,  11.5, nkitamura(EVA),  sunward flow
+2016-09-30/01:12:44 - 2016-09-30/01:14:24,  11.5, nkitamura(EVA),  sunward flow
+2016-09-30/01:15:44 - 2016-09-30/01:16:34,  11.0, nkitamura(EVA),  PSBL
+2016-09-30/01:16:34 - 2016-09-30/01:18:04,  16.0, nkitamura(EVA),  PSBL with sunward flow
+2016-09-30/01:18:04 - 2016-09-30/01:19:14,  16.0, nkitamura(EVA),  PSBL with sunward flow

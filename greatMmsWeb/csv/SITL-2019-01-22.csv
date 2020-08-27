@@ -1,0 +1,68 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-01-22/09:00:33 - 2019-01-22/09:04:33, 150.0, svines(EVA), Low-shear complete magnetopause crossing
+2019-01-22/09:04:33 - 2019-01-22/09:06:43, 150.0, svines(EVA), Low-shear complete magnetopause crossing
+2019-01-22/09:06:43 - 2019-01-22/09:09:03, 150.0, svines(EVA), Low-shear complete magnetopause crossing
+2019-01-22/09:09:03 - 2019-01-22/09:11:13, 150.0, svines(EVA), Low-shear complete magnetopause crossing
+2019-01-22/09:11:13 - 2019-01-22/09:13:33, 150.0, svines(EVA), Low-shear complete magnetopause crossing
+2019-01-22/09:13:33 - 2019-01-22/09:15:43, 150.0, svines(EVA), Low-shear complete magnetopause crossing
+2019-01-22/09:15:43 - 2019-01-22/09:18:03, 150.0, svines(EVA), Low-shear complete magnetopause crossing
+2019-01-22/09:18:03 - 2019-01-22/09:20:13, 150.0, svines(EVA), Low-shear complete magnetopause crossing with boundary layers (+Vz flow enhancement)
+2019-01-22/09:58:03 - 2019-01-22/09:59:13, 125.0, svines(EVA), Magnetosheath current sheet 
+2019-01-22/10:31:23 - 2019-01-22/10:32:53,  90.0, svines(EVA), High-speed jet? Flow deflection with Pdyn increase 
+2019-01-22/10:41:13 - 2019-01-22/10:42:03, 105.0, svines(EVA), Turbulent downstream sheath with current sheet 
+2019-01-22/10:44:43 - 2019-01-22/10:45:53, 105.0, svines(EVA), Turbulent sheath current sheet 
+2019-01-22/10:49:23 - 2019-01-22/10:52:13, 120.0, svines(EVA), Turbulent downstream sheath  
+2019-01-22/11:05:23 - 2019-01-22/11:08:23, 105.0, svines(EVA),  Bipolar Bz with Vz wave and enhanced diffB downstream of Bs
+2019-01-22/11:24:23 - 2019-01-22/11:26:43, 110.0, svines(EVA), Quasi-parallel bow shock and downstream turbulent sheath
+2019-01-22/11:26:43 - 2019-01-22/11:29:03, 110.0, svines(EVA), Quasi-parallel bow shock and downstream turbulent sheath
+2019-01-22/11:29:03 - 2019-01-22/11:31:23, 110.0, svines(EVA), Quasi-parallel bow shock and downstream turbulent sheath
+2019-01-22/11:31:23 - 2019-01-22/11:33:53, 110.0, svines(EVA), Quasi-parallel bow shock 
+2019-01-22/11:33:53 - 2019-01-22/11:36:23, 110.0, svines(EVA), Quasi-parallel bow shock 
+2019-01-22/11:36:23 - 2019-01-22/11:38:13, 110.0, svines(EVA), Quasi-parallel bow shock 
+2019-01-22/11:45:13 - 2019-01-22/11:46:53,  90.0, svines(EVA), Skimming quasi-parallel bow shock (SLAMS?)  
+2019-01-22/11:56:33 - 2019-01-22/11:58:33,  75.0, svines(EVA), Foreshock structure with energetic ion enhancements 
+2019-01-22/12:04:53 - 2019-01-22/12:07:13,  55.0, svines(EVA)," B-field fluctuations (relatively large amplitude, possible whistler-mode waves?) in foreshock with slight enhancement in J "
+2019-01-22/14:16:23 - 2019-01-22/14:17:33, 130.0, svines(EVA), Solar wind current sheet 
+2019-01-22/14:51:23 - 2019-01-22/14:52:33, 105.0, svines(EVA), Current sheet in foreshock (bifurcated Bz)
+2019-01-23/12:06:13 - 2019-01-23/12:07:43, 115.0, svines(EVA), Solar wind current sheets
+2019-01-23/12:19:53 - 2019-01-23/12:20:53, 115.0, svines(EVA), Solar wind current sheet
+2019-01-23/12:28:33 - 2019-01-23/12:29:53, 100.0, svines(EVA), Solar wind holes
+2019-01-23/12:32:53 - 2019-01-23/12:34:03, 115.0, svines(EVA), Solar wind current sheet (bifurcated Bz) 
+2019-01-23/12:49:23 - 2019-01-23/12:50:03, 108.0, svines(EVA), Solar wind current sheet/discontinuity (bifurcated Bx and Bz) 
+2019-01-23/12:52:33 - 2019-01-23/12:53:13, 105.0, svines(EVA), Solar wind current sheet/discontinuity
+2019-01-23/13:02:53 - 2019-01-23/13:03:53, 105.0, svines(EVA), Solar wind current sheet (Bxy)
+2019-01-23/13:05:13 - 2019-01-23/13:06:53, 102.0, svines(EVA), Solar wind current sheet/discontinuity 
+2019-01-23/13:27:23 - 2019-01-23/13:28:33, 105.0, svines(EVA), Solar wind current sheet/discontinuity 
+2019-01-23/13:51:23 - 2019-01-23/13:52:23, 125.0, svines(EVA)," Solar wind current sheet/discontinuity, Vz flow  increase "
+2019-01-23/13:54:53 - 2019-01-23/13:55:43, 200.0, svines(EVA), SDP calibration
+2019-01-23/13:58:33 - 2019-01-23/14:00:43, 200.0, svines(EVA), SDP calibration 
+2019-01-23/14:26:03 - 2019-01-23/14:28:03, 200.0, svines(EVA), SDP calibration 
+2019-01-23/14:39:13 - 2019-01-23/14:40:03, 200.0, svines(EVA), SDP calibration 
+2019-01-23/14:48:03 - 2019-01-23/14:49:03, 200.0, svines(EVA), SDP calibration 
+2019-01-23/14:53:23 - 2019-01-23/14:54:53, 125.0, svines(EVA)," Solar wind current sheet/discontinuity (bifurcated Bz, slight Vz enhancement?) "
+2019-01-24/09:15:33 - 2019-01-24/09:18:33, 110.0, svines(EVA), Solar wind current sheet and structure (Bx) 
+2019-01-24/09:22:33 - 2019-01-24/09:23:53, 105.0, svines(EVA), Solar wind current sheet (By) 
+2019-01-24/09:42:33 - 2019-01-24/09:44:03, 110.0, svines(EVA), Solar wind current sheet (Bx) 
+2019-01-24/09:46:23 - 2019-01-24/09:47:53, 110.0, svines(EVA), Solar wind current sheet/discontinuity (Bx/By) 
+2019-01-24/10:20:33 - 2019-01-24/10:21:43, 110.0, svines(EVA), Solar wind current sheet (mainly By) 
+2019-01-24/10:30:53 - 2019-01-24/10:32:03, 110.0, svines(EVA), Solar wind current sheet/discontinuity (Bz) 
+2019-01-24/10:32:23 - 2019-01-24/10:33:33, 125.0, svines(EVA), Solar wind current sheet/discontinuity (By/Bz) 
+2019-01-24/10:44:53 - 2019-01-24/10:46:23, 115.0, svines(EVA), Solar wind current sheet 
+2019-01-24/11:18:43 - 2019-01-24/11:19:53, 100.0, svines(EVA), Solar wind hole (isolated) 
+2019-01-24/11:37:23 - 2019-01-24/11:39:03, 110.0, svines(EVA), Solar wind current sheet (By) 
+2019-01-24/12:01:03 - 2019-01-24/12:02:43, 110.0, svines(EVA), Solar wind current sheet/discontinuity (Bz) 
+2019-01-24/16:00:43 - 2019-01-24/16:03:03,  90.0, svines(EVA), Oblique shock and foreshock 
+2019-01-24/16:03:03 - 2019-01-24/16:05:13, 100.0, svines(EVA), Oblique shock and foreshock 
+2019-01-24/16:05:13 - 2019-01-24/16:07:33, 100.0, svines(EVA), Oblique shock and foreshock 
+2019-01-24/16:07:33 - 2019-01-24/16:10:03, 100.0, svines(EVA), Quasi-perp bowshock 
+2019-01-24/16:14:23 - 2019-01-24/16:16:03, 100.0, svines(EVA), Quasi-perp bow shock 
+2019-01-24/16:16:03 - 2019-01-24/16:17:53, 100.0, svines(EVA), Quasi-perp bow shock 
+2019-01-24/16:17:53 - 2019-01-24/16:19:33, 100.0, svines(EVA), Quasi-perp bow shock 
+2019-01-24/16:28:43 - 2019-01-24/16:30:43, 105.0, svines(EVA), Turbulent downstream sheath B-field with corresponding density modulation 
+2019-01-24/16:30:43 - 2019-01-24/16:32:43, 105.0, svines(EVA), Turbulent downstream sheath B-field with corresponding density modulation 
+2019-01-24/16:44:33 - 2019-01-24/16:46:43, 105.0, svines(EVA), Turbulent sheath B-field with corresponding plasma density and velocity modulations 
+2019-01-24/16:46:43 - 2019-01-24/16:48:43, 105.0, svines(EVA), Turbulent sheath B-field with corresponding plasma density and velocity modulations 
+2019-01-24/16:48:43 - 2019-01-24/16:50:53, 105.0, svines(EVA), Turbulent sheath B-field with corresponding plasma density and velocity modulations 
+2019-01-24/17:11:53 - 2019-01-24/17:14:03, 105.0, svines(EVA), Turbulent downstream sheath B-field with corresponding plasma density and velocity modulations 
+2019-01-24/17:14:03 - 2019-01-24/17:16:13, 105.0, svines(EVA), Turbulent downstream sheath B-field with corresponding plasma density and velocity modulations 
+2019-01-24/17:16:13 - 2019-01-24/17:18:23, 105.0, svines(EVA), Turbulent downstream sheath B-field with corresponding plasma density and velocity modulations 

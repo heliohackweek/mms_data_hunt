@@ -1,0 +1,60 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-09-21/18:02:14 - 2016-09-21/18:04:34,   5.0, hhiroshi(EVA), flow perturbation
+2016-09-21/18:04:34 - 2016-09-21/18:07:04,   5.0, hhiroshi(EVA), flow perturbation
+2016-09-21/18:07:04 - 2016-09-21/18:09:24,   5.0, hhiroshi(EVA), flow perturbation
+2016-09-21/18:09:24 - 2016-09-21/18:11:44,   5.0, hhiroshi(EVA), flow perturbation
+2016-09-21/18:11:44 - 2016-09-21/18:14:04,   5.0, hhiroshi(EVA), flow perturbation
+2016-09-21/18:14:04 - 2016-09-21/18:16:34,   5.0, hhiroshi(EVA), flow perturbation
+2016-09-21/18:16:34 - 2016-09-21/18:18:54,   5.0, hhiroshi(EVA), flow perturbation
+2016-09-21/19:00:54 - 2016-09-21/19:03:44,   5.0, hhiroshi(EVA), flow perturbation
+2016-09-21/19:16:34 - 2016-09-21/19:18:54,   5.0, hhiroshi(EVA), flow perturbation with weak B oscillation
+2016-09-21/19:18:54 - 2016-09-21/19:21:14,   5.0, hhiroshi(EVA), flow perturbation with weak B oscillation
+2016-09-21/19:21:14 - 2016-09-21/19:23:34,   5.0, hhiroshi(EVA), flow perturbation with weak B oscillation
+2016-09-21/19:23:34 - 2016-09-21/19:25:54,   5.0, hhiroshi(EVA), flow perturbation with weak B oscillation
+2016-09-21/19:25:54 - 2016-09-21/19:28:14,   5.0, hhiroshi(EVA), flow perturbation with weak B oscillation
+2016-09-21/19:28:14 - 2016-09-21/19:30:34,   5.0, hhiroshi(EVA), flow perturbation with weak B oscillation
+2016-09-21/19:30:34 - 2016-09-21/19:33:04,   5.0, hhiroshi(EVA), flow perturbation with weak B oscillation
+2016-09-21/19:33:04 - 2016-09-21/19:35:24,   5.0, hhiroshi(EVA), flow perturbation with weak B oscillation
+2016-09-21/19:35:24 - 2016-09-21/19:37:44,   5.0, hhiroshi(EVA), flow perturbation with weak B oscillation
+2016-09-21/19:37:44 - 2016-09-21/19:40:04,   5.0, hhiroshi(EVA), flow perturbation with weak B oscillation
+2016-09-21/19:40:04 - 2016-09-21/19:42:24,   5.0, hhiroshi(EVA), flow perturbation with weak B oscillation
+2016-09-21/19:42:24 - 2016-09-21/19:44:44,   5.0, hhiroshi(EVA), flow perturbation with weak B oscillation
+2016-09-21/19:44:44 - 2016-09-21/19:47:04,   5.0, hhiroshi(EVA), flow perturbation with weak B oscillation
+2016-09-21/20:20:24 - 2016-09-21/20:22:34,  15.0, hhiroshi(EVA), flow perturbation with E waves & B change
+2016-09-21/20:22:34 - 2016-09-21/20:24:44,  15.0, hhiroshi(EVA), flow perturbation with E waves & B change
+2016-09-21/20:24:44 - 2016-09-21/20:26:44,  15.0, hhiroshi(EVA), flow perturbation with E waves & B change
+2016-09-21/20:26:44 - 2016-09-21/20:28:54,  15.0, hhiroshi(EVA), flow perturbation with E waves & B change
+2016-09-21/20:28:54 - 2016-09-21/20:31:04,  15.0, hhiroshi(EVA), flow perturbation with E waves & B change
+2016-09-21/20:39:24 - 2016-09-21/20:41:24,  10.0, hhiroshi(EVA), flow perturbation with E waves
+2016-09-21/20:41:24 - 2016-09-21/20:43:24,  10.0, hhiroshi(EVA), flow perturbation with E waves
+2016-09-21/20:43:24 - 2016-09-21/20:45:24,  10.0, hhiroshi(EVA), flow perturbation with E waves
+2016-09-21/20:45:24 - 2016-09-21/20:47:24,  10.0, hhiroshi(EVA), flow perturbation with E waves
+2016-09-21/21:14:54 - 2016-09-21/21:17:14,   5.0, hhiroshi(EVA), flow perturbation
+2016-09-21/21:17:14 - 2016-09-21/21:19:44,   5.0, hhiroshi(EVA), flow perturbation
+2016-09-21/21:19:44 - 2016-09-21/21:22:04,   5.0, hhiroshi(EVA), flow perturbation
+2016-09-21/21:22:04 - 2016-09-21/21:24:34,   5.0, hhiroshi(EVA), flow perturbation
+2016-09-21/21:24:34 - 2016-09-21/21:26:24,  15.0, hhiroshi(EVA), flow perturbation with E waves & B change
+2016-09-21/21:26:24 - 2016-09-21/21:28:04,  15.0, hhiroshi(EVA), flow perturbation with E waves & B change
+2016-09-21/21:28:04 - 2016-09-21/21:29:54,  15.0, hhiroshi(EVA), flow perturbation with E waves & B change
+2016-09-21/21:29:54 - 2016-09-21/21:32:14,  10.0, hhiroshi(EVA), flow perturbation with B oscillation
+2016-09-21/21:32:14 - 2016-09-21/21:34:34,  10.0, hhiroshi(EVA), flow perturbation with B oscillation
+2016-09-21/21:34:34 - 2016-09-21/21:36:44,  10.0, hhiroshi(EVA), flow perturbation with B oscillation
+2016-09-21/21:36:44 - 2016-09-21/21:39:04,  10.0, hhiroshi(EVA), flow perturbation with B oscillation
+2016-09-21/21:39:04 - 2016-09-21/21:41:24,  10.0, hhiroshi(EVA), flow perturbation with B oscillation
+2016-09-21/21:41:24 - 2016-09-21/21:43:44,  10.0, hhiroshi(EVA), flow perturbation with B oscillation
+2016-09-21/21:43:44 - 2016-09-21/21:46:04,  10.0, hhiroshi(EVA), flow perturbation with B oscillation
+2016-09-21/21:46:04 - 2016-09-21/21:48:14,  10.0, hhiroshi(EVA), flow perturbation with B oscillation
+2016-09-21/21:48:14 - 2016-09-21/21:50:34,  10.0, hhiroshi(EVA), flow perturbation with B oscillation
+2016-09-21/21:50:34 - 2016-09-21/21:52:54,  10.0, hhiroshi(EVA), flow perturbation with B oscillation
+2016-09-21/23:24:34 - 2016-09-21/23:26:54,   5.0, hhiroshi(EVA), flow perturbation with B min
+2016-09-21/23:26:54 - 2016-09-21/23:29:04,   5.0, hhiroshi(EVA), flow perturbation with B min
+2016-09-21/23:29:04 - 2016-09-21/23:31:24,   5.0, hhiroshi(EVA), flow perturbation with B min
+2016-09-21/23:39:34 - 2016-09-21/23:41:54,  10.0, hhiroshi(EVA), flow perturbation with density increase
+2016-09-21/23:41:54 - 2016-09-21/23:44:24,  10.0, hhiroshi(EVA), flow perturbation with density increase
+2016-09-21/23:44:24 - 2016-09-21/23:46:44,  10.0, hhiroshi(EVA), flow perturbation with density increase
+2016-09-21/23:46:44 - 2016-09-21/23:49:14,  10.0, hhiroshi(EVA), flow perturbation with density increase
+2016-09-22/00:59:24 - 2016-09-22/01:01:54,   5.0, hhiroshi(EVA), B waves
+2016-09-22/01:11:44 - 2016-09-22/01:14:14,   5.0, hhiroshi(EVA), B waves
+2016-09-22/01:23:04 - 2016-09-22/01:25:44,   5.0, hhiroshi(EVA), B waves
+2016-09-22/01:35:34 - 2016-09-22/01:36:34,   5.0, hhiroshi(EVA), weak density increase
+2016-09-22/01:47:44 - 2016-09-22/01:49:24,   5.0, hhiroshi(EVA), weak density increase

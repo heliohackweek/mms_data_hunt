@@ -1,0 +1,99 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-05-02/10:51:43 - 2017-05-02/10:54:13,  40.0, moka(EVA), start of magnetotail activity
+2017-05-02/10:54:13 - 2017-05-02/10:56:43,  40.0, moka(EVA), start of magnetotail activity
+2017-05-02/10:56:43 - 2017-05-02/10:59:03,  40.0, moka(EVA), start of magnetotail activity
+2017-05-02/10:59:03 - 2017-05-02/11:01:33,  40.0, moka(EVA), start of magnetotail activity
+2017-05-02/11:01:33 - 2017-05-02/11:04:03,  40.0, moka(EVA), start of magnetotail activity
+2017-05-02/11:04:03 - 2017-05-02/11:06:33,  40.0, moka(EVA), start of magnetotail activity
+2017-05-02/11:06:33 - 2017-05-02/11:09:03,  40.0, moka(EVA), start of magnetotail activity
+2017-05-02/11:09:03 - 2017-05-02/11:11:33,  40.0, moka(EVA), start of magnetotail activity
+2017-05-02/11:11:33 - 2017-05-02/11:13:53,  40.0, moka(EVA), start of magnetotail activity
+2017-05-02/11:13:53 - 2017-05-02/11:16:23,  40.0, moka(EVA), start of magnetotail activity
+2017-05-02/11:16:23 - 2017-05-02/11:18:53,  40.0, moka(EVA), start of magnetotail activity
+2017-05-02/11:18:53 - 2017-05-02/11:21:23,  40.0, moka(EVA), start of magnetotail activity
+2017-05-02/11:32:33 - 2017-05-02/11:35:03,  55.0, moka(EVA),  active plasma sheet with Bx~0
+2017-05-02/11:35:03 - 2017-05-02/11:37:23,  55.0, moka(EVA),  active plasma sheet with Bx~0
+2017-05-02/11:37:23 - 2017-05-02/11:39:53,  55.0, moka(EVA),  active plasma sheet with Bx~0
+2017-05-02/11:39:53 - 2017-05-02/11:42:13,  55.0, moka(EVA),  active plasma sheet with Bx~0
+2017-05-02/11:42:13 - 2017-05-02/11:44:43,  55.0, moka(EVA),  active plasma sheet with Bx~0
+2017-05-02/11:44:43 - 2017-05-02/11:47:13,  55.0, moka(EVA),  active plasma sheet with Bx~0
+2017-05-02/11:47:13 - 2017-05-02/11:49:33,  55.0, moka(EVA),  active plasma sheet with Bx~0
+2017-05-02/11:49:33 - 2017-05-02/11:52:03,  55.0, moka(EVA),  active plasma sheet with Bx~0
+2017-05-02/11:52:03 - 2017-05-02/11:54:23,  55.0, moka(EVA),  active plasma sheet with Bx~0
+2017-05-02/11:54:23 - 2017-05-02/11:56:53,  55.0, moka(EVA),  active plasma sheet with Bx~0
+2017-05-02/19:28:23 - 2017-05-02/19:30:33,  75.0, moka(EVA),  B & V disturbance
+2017-05-02/19:30:33 - 2017-05-02/19:32:33,  75.0, moka(EVA),  B & V disturbance
+2017-05-02/19:32:33 - 2017-05-02/19:34:43,  75.0, moka(EVA),  B & V disturbance
+2017-05-02/19:34:43 - 2017-05-02/19:36:53,  75.0, moka(EVA),  B & V disturbance
+2017-05-02/19:36:53 - 2017-05-02/19:38:53,  75.0, moka(EVA),  B & V disturbance
+2017-05-02/19:38:53 - 2017-05-02/19:41:03,  75.0, moka(EVA),  B & V disturbance
+2017-05-02/21:05:03 - 2017-05-02/21:07:23,  50.0, moka(EVA),  vortices followed by a transition
+2017-05-02/21:07:23 - 2017-05-02/21:09:53,  50.0, moka(EVA),  vortices followed by a transition
+2017-05-02/21:09:53 - 2017-05-02/21:12:13,  50.0, moka(EVA),  vortices followed by a transition
+2017-05-02/21:12:13 - 2017-05-02/21:14:33,  50.0, moka(EVA),  vortices followed by a transition
+2017-05-02/21:14:33 - 2017-05-02/21:16:53,  50.0, moka(EVA),  vortices followed by a transition
+2017-05-02/21:16:53 - 2017-05-02/21:19:23,  50.0, moka(EVA),  vortices followed by a transition
+2017-05-02/21:19:23 - 2017-05-02/21:21:43,  50.0, moka(EVA),  vortices followed by a transition
+2017-05-02/21:21:43 - 2017-05-02/21:24:03,  50.0, moka(EVA),  vortices followed by a transition
+2017-05-02/21:24:03 - 2017-05-02/21:26:33,  50.0, moka(EVA),  vortices followed by a transition
+2017-05-02/21:26:33 - 2017-05-02/21:28:53,  50.0, moka(EVA),  vortices followed by a transition
+2017-05-02/21:59:03 - 2017-05-02/22:01:13,  20.0, moka(EVA),  a smooth transition
+2017-05-02/22:01:13 - 2017-05-02/22:03:33,  20.0, moka(EVA),  a smooth transition
+2017-05-02/22:52:43 - 2017-05-02/22:54:23,  75.0, moka(EVA),  plasmoid? vortex?? with intense wave activity
+2017-05-02/22:54:23 - 2017-05-02/22:56:03,  75.0, moka(EVA),  plasmoid? vortex?? with intense wave activity
+2017-05-03/01:10:23 - 2017-05-03/01:12:43,  75.0, moka(EVA),  MP crossing or FTE?
+2017-05-03/01:12:43 - 2017-05-03/01:15:03,  75.0, moka(EVA),  MP crossing or FTE?
+2017-05-03/01:15:03 - 2017-05-03/01:17:23,  75.0, moka(EVA),  MP crossing or FTE?
+2017-05-03/01:17:23 - 2017-05-03/01:19:53,  75.0, moka(EVA),  MP crossing or FTE?
+2017-05-03/01:19:53 - 2017-05-03/01:22:13,  75.0, moka(EVA),  MP crossing or FTE?
+2017-05-03/01:22:13 - 2017-05-03/01:24:33,  75.0, moka(EVA),  MP crossing or FTE?
+2017-05-03/01:39:23 - 2017-05-03/01:41:43,  75.0, moka(EVA), full or partial MP crossing
+2017-05-03/01:41:43 - 2017-05-03/01:44:03,  75.0, moka(EVA), full or partial MP crossing
+2017-05-03/01:44:03 - 2017-05-03/01:46:33,  75.0, moka(EVA), full or partial MP crossing
+2017-05-03/01:46:33 - 2017-05-03/01:48:53,  75.0, moka(EVA), full or partial MP crossing
+2017-05-03/01:48:53 - 2017-05-03/01:51:13,  75.0, moka(EVA), full or partial MP crossing
+2017-05-03/02:10:03 - 2017-05-03/02:12:03,  90.0, moka(EVA), MP crossing
+2017-05-03/02:12:03 - 2017-05-03/02:14:13,  90.0, moka(EVA), MP crossing
+2017-05-03/02:15:23 - 2017-05-03/02:17:23,  75.0, moka(EVA), MP crossings
+2017-05-03/02:17:23 - 2017-05-03/02:19:23,  75.0, moka(EVA), MP crossings
+2017-05-03/02:19:23 - 2017-05-03/02:21:23,  75.0, moka(EVA), MP crossings
+2017-05-03/02:21:23 - 2017-05-03/02:23:23,  75.0, moka(EVA), MP crossings
+2017-05-03/02:25:23 - 2017-05-03/02:26:43,  95.0, moka(EVA), MP crossing
+2017-05-03/02:30:03 - 2017-05-03/02:32:23,  75.0, moka(EVA),  MP crossings
+2017-05-03/02:32:23 - 2017-05-03/02:34:53,  90.0, moka(EVA),  MP crossings
+2017-05-03/02:34:53 - 2017-05-03/02:37:13,  90.0, moka(EVA),  MP crossings
+2017-05-03/02:37:13 - 2017-05-03/02:39:43,  75.0, moka(EVA),  MP crossings
+2017-05-03/02:39:43 - 2017-05-03/02:42:03,  75.0, moka(EVA),  MP crossings
+2017-05-03/02:42:03 - 2017-05-03/02:44:33,  75.0, moka(EVA),  MP crossings
+2017-05-03/03:02:03 - 2017-05-03/03:04:13,  75.0, moka(EVA),  partial MP crossing? 
+2017-05-03/03:55:53 - 2017-05-03/03:57:53,  90.0, moka(EVA),  MP crossings
+2017-05-03/03:57:53 - 2017-05-03/03:59:53,  90.0, moka(EVA),  MP crossings
+2017-05-03/04:02:03 - 2017-05-03/04:04:33,  90.0, moka(EVA),  MP crossings
+2017-05-03/04:04:33 - 2017-05-03/04:07:03,  90.0, moka(EVA),  MP crossings
+2017-05-03/04:08:03 - 2017-05-03/04:09:43,  75.0, moka(EVA),  partial MP crossings
+2017-05-03/04:09:43 - 2017-05-03/04:11:33,  75.0, moka(EVA),  partial MP crossings
+2017-05-03/04:12:33 - 2017-05-03/04:14:33,  75.0, moka(EVA),  partial MP crossings
+2017-05-03/04:14:33 - 2017-05-03/04:16:33,  75.0, moka(EVA),  partial MP crossings
+2017-05-03/04:16:33 - 2017-05-03/04:18:33,  75.0, moka(EVA),  partial MP crossings
+2017-05-03/04:18:33 - 2017-05-03/04:20:33,  75.0, moka(EVA),  partial MP crossings
+2017-05-03/04:30:33 - 2017-05-03/04:32:33,  70.0, moka(EVA),  partial MP crossings
+2017-05-03/04:32:33 - 2017-05-03/04:34:33,  70.0, moka(EVA),  partial MP crossings
+2017-05-03/04:56:33 - 2017-05-03/04:59:03,  75.0, moka(EVA),  partial MP crossings
+2017-05-03/05:23:43 - 2017-05-03/05:25:23,  95.0, moka(EVA), partial? full? MP crossings
+2017-05-03/05:25:23 - 2017-05-03/05:27:03,  95.0, moka(EVA), partial? full? MP crossings
+2017-05-03/05:30:23 - 2017-05-03/05:31:23,  75.0, moka(EVA),  MP crossings
+2017-05-03/05:33:33 - 2017-05-03/05:35:23,  75.0, moka(EVA),  MP crossings
+2017-05-03/05:36:43 - 2017-05-03/05:39:03,  75.0, moka(EVA),  MP crossings
+2017-05-03/05:39:03 - 2017-05-03/05:41:33,  75.0, moka(EVA),  MP crossings
+2017-05-03/05:45:13 - 2017-05-03/05:47:03,  75.0, moka(EVA),  MP crossings
+2017-05-03/05:49:03 - 2017-05-03/05:50:53,  90.0, moka(EVA),  MP crossings
+2017-05-03/05:51:43 - 2017-05-03/05:54:03,  75.0, moka(EVA),  MP crossings
+2017-05-03/05:54:03 - 2017-05-03/05:56:23,  75.0, moka(EVA),  MP crossings
+2017-05-03/08:31:53 - 2017-05-03/08:33:43,  75.0, moka(EVA),  MP crossings
+2017-05-03/08:33:43 - 2017-05-03/08:35:03,  75.0, moka(EVA),  MP crossings
+2017-05-03/08:36:23 - 2017-05-03/08:38:13,  75.0, moka(EVA),  MP crossings
+2017-05-03/08:38:13 - 2017-05-03/08:40:23,  75.0, moka(EVA),  MP crossings
+2017-05-03/08:54:03 - 2017-05-03/08:56:33,  75.0, moka(EVA), MP crossings
+2017-05-03/08:56:33 - 2017-05-03/08:59:03,  75.0, moka(EVA), MP crossings
+2017-05-03/14:37:23 - 2017-05-03/14:38:23,  80.0, moka(EVA),  MP crossings
+2017-05-03/14:39:23 - 2017-05-03/14:40:43,  80.0, moka(EVA),  MP crossings

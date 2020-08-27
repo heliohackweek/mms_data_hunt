@@ -1,0 +1,76 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-11-15/18:29:03 - 2018-11-15/18:31:03,  85.0, svines(EVA), Magnetosphere ICW (with Te peak and parallel e- decrease seen in FPI trigger data)
+2018-11-15/19:10:23 - 2018-11-15/19:12:43,  70.0, svines(EVA)," Long northward sheath Bz magnetopause crossing, skimming in out of the boundary layers"
+2018-11-15/19:12:43 - 2018-11-15/19:15:03,  70.0, svines(EVA)," Long northward sheath Bz magnetopause crossing, skimming in out of the boundary layers"
+2018-11-15/19:15:03 - 2018-11-15/19:17:23,  70.0, svines(EVA)," Long northward sheath Bz magnetopause crossing, skimming in out of the boundary layers"
+2018-11-15/19:17:23 - 2018-11-15/19:19:43,  70.0, svines(EVA)," Long northward sheath Bz magnetopause crossing, skimming in out of the boundary layers"
+2018-11-15/19:19:43 - 2018-11-15/19:22:13,  70.0, svines(EVA)," Long northward sheath Bz magnetopause crossing, skimming in out of the boundary layers"
+2018-11-15/19:22:13 - 2018-11-15/19:24:33,  70.0, svines(EVA)," Long northward sheath Bz magnetopause crossing, skimming in out of the boundary layers"
+2018-11-15/19:24:33 - 2018-11-15/19:26:53,  70.0, svines(EVA)," Long northward sheath Bz magnetopause crossing, skimming in out of the boundary layers"
+2018-11-15/19:26:53 - 2018-11-15/19:29:13,  70.0, svines(EVA)," Long northward sheath Bz magnetopause crossing, skimming in out of the boundary layers"
+2018-11-15/19:29:13 - 2018-11-15/19:31:33, 120.0, svines(EVA)," Long northward sheath Bz magnetopause crossing, skimming in out of the boundary layers"
+2018-11-15/19:31:33 - 2018-11-15/19:34:03, 120.0, svines(EVA)," Long northward sheath Bz magnetopause crossing, skimming in out of the boundary layers"
+2018-11-15/19:38:43 - 2018-11-15/19:39:53, 102.0, svines(EVA), Possible active flux rope (short change in V with density decrease and J enhancement) 
+2018-11-15/19:48:23 - 2018-11-15/19:49:43, 102.0, svines(EVA), Magnetosheath current sheet (By bifurcation) 
+2018-11-15/20:17:13 - 2018-11-15/20:19:03, 105.0, svines(EVA), Magnetosheath current sheet structure 
+2018-11-15/20:53:43 - 2018-11-15/20:55:43, 101.0, svines(EVA), Turbulent magnetosheath - large B-field fluctuations with some J enhancements (just downstream of shock?) 
+2018-11-15/20:55:43 - 2018-11-15/20:57:33, 101.0, svines(EVA), Turbulent magnetosheath - large B-field fluctuations with some J enhancements (just downstream of shock?) 
+2018-11-15/20:57:33 - 2018-11-15/20:59:33,  95.0, svines(EVA), Turbulent magnetosheath - large B-field fluctuations with some J enhancements (just downstream of shock?) 
+2018-11-15/20:59:33 - 2018-11-15/21:01:33, 101.0, svines(EVA), Turbulent magnetosheath - large B-field fluctuations with some J enhancements (just downstream of shock?) 
+2018-11-15/21:30:53 - 2018-11-15/21:33:13,  95.0, svines(EVA), Turbulent magnetosheath - large B-field fluctuations and J enhancements (just downstream of shock?) 
+2018-11-15/21:33:13 - 2018-11-15/21:35:43, 101.0, svines(EVA), Turbulent magnetosheath - large B-field fluctuations and J enhancements (just downstream of shock?) 
+2018-11-15/21:35:43 - 2018-11-15/21:38:03,  95.0, svines(EVA), Turbulent magnetosheath - large B-field fluctuations and J enhancements (just downstream of shock?) 
+2018-11-15/21:38:03 - 2018-11-15/21:40:33, 103.0, svines(EVA), Turbulent magnetosheath - large B-field fluctuations and J enhancements (just downstream of shock?) 
+2018-11-15/22:08:53 - 2018-11-15/22:11:03,  90.0, svines(EVA), Skimming through quasi-parallel bow shock and high-amplitude oscillatory B structures 
+2018-11-15/22:11:03 - 2018-11-15/22:13:23,  90.0, svines(EVA), Skimming through quasi-parallel bow shock and high-amplitude oscillatory B structures 
+2018-11-15/22:13:23 - 2018-11-15/22:15:33,  95.0, svines(EVA), Skimming through quasi-parallel bow shock and high-amplitude oscillatory B structures 
+2018-11-15/22:15:33 - 2018-11-15/22:17:43, 102.0, svines(EVA), Skimming through quasi-parallel bow shock and high-amplitude oscillatory B structures 
+2018-11-15/22:17:43 - 2018-11-15/22:19:53,  88.0, svines(EVA), Skimming through quasi-parallel bow shock and high-amplitude oscillatory B structures 
+2018-11-15/22:19:53 - 2018-11-15/22:22:13, 102.0, svines(EVA), Skimming through quasi-parallel bow shock and high-amplitude oscillatory B structures 
+2018-11-15/22:22:13 - 2018-11-15/22:24:23, 102.0, svines(EVA), Skimming through quasi-parallel bow shock and high-amplitude oscillatory B structures 
+2018-11-15/22:25:23 - 2018-11-15/22:27:33,  70.0, svines(EVA), Intens B-field fluctuations (different from quasi-parallel shock and SLAMS structure) 
+2018-11-15/22:56:53 - 2018-11-15/22:58:23, 105.0, svines(EVA), Oblique bow shock 
+2018-11-15/22:58:23 - 2018-11-15/23:00:33,  93.0, svines(EVA), Partial bow shock crossings 
+2018-11-15/23:00:33 - 2018-11-15/23:02:43,  93.0, svines(EVA), Partial bow shock crossings 
+2018-11-15/23:05:53 - 2018-11-15/23:07:33, 108.0, svines(EVA), Quasi-perp bow shock 
+2018-11-15/23:20:03 - 2018-11-15/23:22:23,  93.0, svines(EVA), Quasi-parallel bow shock 
+2018-11-15/23:22:23 - 2018-11-15/23:24:43, 107.0, svines(EVA), Quasi-parallel bow shock 
+2018-11-15/23:24:43 - 2018-11-15/23:27:03, 107.0, svines(EVA), Quasi-parallel bow shock 
+2018-11-15/23:30:13 - 2018-11-15/23:34:03,  90.0, svines(EVA), Partial quasi-parallel bow sohck crossing (not fully re-entering sheath)  
+2018-11-16/00:11:03 - 2018-11-16/00:13:53, 102.0, svines(EVA), Quasi-perp bow shock 
+2018-11-16/00:59:53 - 2018-11-16/01:03:43, 108.0, svines(EVA), Quasi-parallel bow shock 
+2018-11-16/01:03:43 - 2018-11-16/01:05:33, 101.0, svines(EVA), Quasi-perp bow shock 
+2018-11-16/02:00:53 - 2018-11-16/02:03:03,  80.0, svines(EVA)," Quasi-perp bow shock, intense broadband E-field emission "
+2018-11-16/02:03:03 - 2018-11-16/02:05:13, 102.0, svines(EVA)," Quasi-perp bow shock, intense broadband E-field emission "
+2018-11-16/02:05:13 - 2018-11-16/02:07:23, 102.0, svines(EVA)," Quasi-perp bow shock, intense broadband E-field emission "
+2018-11-16/02:07:23 - 2018-11-16/02:09:33,  80.0, svines(EVA)," Quasi-perp bow shock, intense broadband E-field emission "
+2018-11-16/03:49:53 - 2018-11-16/03:50:53,  78.0, svines(EVA), Solar wind current sheet/discontinuity 
+2018-11-16/06:20:53 - 2018-11-16/06:21:43,  70.0, svines(EVA), Solar wind current sheet/discontinuity 
+2018-11-16/17:29:43 - 2018-11-16/17:30:33,  70.0, svines(EVA), Solar wind current sheet/discontinuity 
+2018-11-16/17:44:53 - 2018-11-16/17:46:03,  70.0, svines(EVA), Solar wind current sheet/discontinuity 
+2018-11-17/09:48:23 - 2018-11-17/09:50:03,  90.0, svines(EVA), Partial quasi-parallel bow shock crossing 
+2018-11-17/09:50:03 - 2018-11-17/09:51:53,  90.0, svines(EVA), Partial quasi-parallel bow shock crossing 
+2018-11-17/09:51:53 - 2018-11-17/09:53:33,  90.0, svines(EVA), Partial quasi-parallel bow shock crossing 
+2018-11-17/11:59:33 - 2018-11-17/12:01:33,  85.0, svines(EVA), Partial crossing through quasi-parallel bow shock 
+2018-11-17/12:01:33 - 2018-11-17/12:03:33,  90.0, svines(EVA), Partial crossing through quasi-parallel bow shock 
+2018-11-17/12:03:33 - 2018-11-17/12:05:33,  90.0, svines(EVA), Partial crossing through quasi-parallel bow shock 
+2018-11-17/12:21:43 - 2018-11-17/12:25:23, 105.0, svines(EVA), Oblique bow shock 
+2018-11-17/14:32:23 - 2018-11-17/14:34:23, 101.0, svines(EVA)," Magnetosheath current sheet (Bz, By bifurcation) "
+2018-11-17/15:47:43 - 2018-11-17/15:49:03,  90.0, svines(EVA), Magnetosheath current sheet (Bz bifurcation) 
+2018-11-17/18:51:33 - 2018-11-17/18:53:13,  90.0, svines(EVA), Magnetosheath current sheet (Bz bifurcation) 
+2018-11-17/19:24:13 - 2018-11-17/19:27:03, 105.0, svines(EVA)," Flux rope in sheath with density depletion and small Vz, Vy enhancements "
+2018-11-17/19:43:23 - 2018-11-17/19:46:03, 110.0, svines(EVA), Flux rope structure with Vz increase and enhancment in J 
+2018-11-17/19:51:53 - 2018-11-17/19:54:43, 105.0, svines(EVA), Flux rope structure with Vy enhancment 
+2018-11-17/20:00:23 - 2018-11-17/20:03:03,  90.0, svines(EVA), Possible flux rope with slight change in Vy and small J enhancement 
+2018-11-17/20:03:03 - 2018-11-17/20:06:03, 102.0, svines(EVA), Magnetosheath current sheet structure with increase in Vz
+2018-11-17/20:09:13 - 2018-11-17/20:11:13, 130.0, svines(EVA)," Low shear, full magnetopause crossing "
+2018-11-17/20:11:13 - 2018-11-17/20:14:53, 153.0, svines(EVA)," Low shear, full magnetopause crossing "
+2018-11-17/20:14:53 - 2018-11-17/20:17:43,  93.0, svines(EVA)," Partial, low shear maagnetopause crossings, skimming boundary layer "
+2018-11-17/20:17:43 - 2018-11-17/20:21:13, 103.0, svines(EVA)," Partial, low shear maagnetopause crossings, skimming boundary layer "
+2018-11-17/20:21:13 - 2018-11-17/20:23:23, 115.0, svines(EVA)," Partial, low shear maagnetopause crossings, skimming boundary layer "
+2018-11-17/20:23:23 - 2018-11-17/20:25:53,  98.0, svines(EVA)," Partial, low shear maagnetopause crossings, skimming boundary layer "
+2018-11-17/20:29:13 - 2018-11-17/20:31:13, 110.0, svines(EVA), Crossing into boundary layer with FTE 
+2018-11-17/20:31:13 - 2018-11-17/20:33:13, 110.0, svines(EVA), Crossing into boundary layer with FTE 
+2018-11-17/20:46:53 - 2018-11-17/20:49:03,  70.0, svines(EVA), Crossing into boundary layer 
+2018-11-17/20:49:03 - 2018-11-17/20:51:23,  70.0, svines(EVA), Crossing into boundary layer 
+2018-11-17/20:51:23 - 2018-11-17/20:53:33,  70.0, svines(EVA), Crossing into boundary layer 

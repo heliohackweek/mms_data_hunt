@@ -1,0 +1,31 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-09-03/16:21:44 - 2016-09-03/16:24:14, 30.0, yvernisse(EVA),  Weak DF
+2016-09-03/16:24:14 - 2016-09-03/16:26:44, 30.0, yvernisse(EVA),  Weak DF
+2016-09-03/16:26:44 - 2016-09-03/16:29:14, 30.0, yvernisse(EVA),  Weak DF
+2016-09-03/16:58:54 - 2016-09-03/17:01:24, 20.0, yvernisse(EVA),  Weak DF
+2016-09-03/17:01:24 - 2016-09-03/17:03:44, 30.0, yvernisse(EVA),  Weak DF
+2016-09-03/17:03:44 - 2016-09-03/17:06:14, 30.0, yvernisse(EVA),  Weak DF
+2016-09-03/17:06:14 - 2016-09-03/17:08:34, 30.0, yvernisse(EVA),  Weak DF
+2016-09-03/17:08:34 - 2016-09-03/17:11:04, 20.0, yvernisse(EVA),  Weak DF
+2016-09-03/19:51:54 - 2016-09-03/19:54:14, 20.0, yvernisse(EVA),  DF
+2016-09-03/19:54:14 - 2016-09-03/19:56:34, 30.0, yvernisse(EVA),  DF
+2016-09-03/19:56:34 - 2016-09-03/19:59:04, 30.0, yvernisse(EVA),  DF
+2016-09-03/19:59:04 - 2016-09-03/20:01:24, 30.0, yvernisse(EVA),  DF
+2016-09-03/20:01:24 - 2016-09-03/20:03:44, 20.0, yvernisse(EVA),  DF
+2016-09-03/21:04:54 - 2016-09-03/21:06:44, 30.0, yvernisse(EVA),  Boundary crossing
+2016-09-03/21:06:44 - 2016-09-03/21:08:44, 30.0, yvernisse(EVA),  Boundary crossing
+2016-09-03/21:08:44 - 2016-09-03/21:10:34, 30.0, yvernisse(EVA),  Boundary crossing
+2016-09-03/22:48:14 - 2016-09-03/22:50:44, 30.0, yvernisse(EVA),  Dipolarization Front + Boundary crossing
+2016-09-03/22:50:44 - 2016-09-03/22:52:34, 20.0, yvernisse(EVA),  Dipolarization Front + Boundary crossing
+2016-09-03/22:52:34 - 2016-09-03/22:55:34, 30.0, yvernisse(EVA),  Dipolarization Front + Boundary crossing
+2016-09-03/22:55:34 - 2016-09-03/22:56:44, 20.0, yvernisse(EVA),  Dipolarization Front + Boundary crossing
+2016-09-03/22:56:44 - 2016-09-03/22:58:44, 30.0, yvernisse(EVA),  Dipolarization Front + Boundary crossing
+2016-09-03/23:50:24 - 2016-09-03/23:55:04, 20.0, yvernisse(EVA),  Weak DF
+2016-09-04/00:02:24 - 2016-09-04/00:04:54, 20.0, yvernisse(EVA),  Weak DF
+2016-09-04/00:04:54 - 2016-09-04/00:07:24, 20.0, yvernisse(EVA),  Weak DF
+2016-09-04/00:07:24 - 2016-09-04/00:09:54, 20.0, yvernisse(EVA),  Weak DF
+2016-09-04/00:32:54 - 2016-09-04/00:37:04, 20.0, yvernisse(EVA),  Weak DF
+2016-09-04/01:34:34 - 2016-09-04/01:38:34, 40.0, yvernisse(EVA),"  DF, strong flows"
+2016-09-04/01:38:34 - 2016-09-04/01:41:04, 40.0, yvernisse(EVA),"  DF, strong flows"
+2016-09-04/06:19:24 - 2016-09-04/06:20:24, 30.0, yvernisse(EVA),  Weak DF
+2016-09-04/07:34:04 - 2016-09-04/07:37:54, 30.0, yvernisse(EVA),  DF with strong flows

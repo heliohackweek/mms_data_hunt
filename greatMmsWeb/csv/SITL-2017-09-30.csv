@@ -1,0 +1,146 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-09-30/15:56:13 - 2017-09-30/15:56:53, 105.0, seriksson(EVA)," Large J, MSH current sheet/partial MP crossing?"
+2017-09-30/15:57:13 - 2017-09-30/15:59:13, 105.0, seriksson(EVA), several partial MP crossings w/o jets 
+2017-09-30/15:59:33 - 2017-09-30/16:00:43, 150.0, seriksson(EVA), Complete MP crossing
+2017-09-30/16:01:23 - 2017-09-30/16:03:13, 140.0, seriksson(EVA), partial MP crossing
+2017-09-30/16:11:03 - 2017-09-30/16:11:53,  90.0, seriksson(EVA),  Boundary layer traversal w/ current enhancement
+2017-09-30/16:29:13 - 2017-09-30/16:30:03,  90.0, seriksson(EVA),  Boundary layer traversal with J increase 
+2017-09-30/16:42:33 - 2017-09-30/16:45:03, 140.0, seriksson(EVA), Partial low-shear MP crossing w/ Vyz jetting
+2017-09-30/16:45:03 - 2017-09-30/16:46:33, 150.0, seriksson(EVA), Complete low shear MP crossing w/ Vz jet boundary
+2017-09-30/16:49:53 - 2017-09-30/16:51:43, 130.0, seriksson(EVA), Partial MP crossing w/ Vz jet and high freq waves 
+2017-09-30/16:51:53 - 2017-09-30/16:52:53, 125.0, seriksson(EVA), Two partial MP crossings
+2017-09-30/16:52:53 - 2017-09-30/16:54:33, 145.0, seriksson(EVA), Partial high-shear MP crossing
+2017-09-30/16:56:13 - 2017-09-30/16:57:53, 140.0, seriksson(EVA),  Two high-shear partial MP w/ Vz jetting
+2017-09-30/17:00:13 - 2017-09-30/17:01:33, 125.0, seriksson(EVA),  Several high-shear partial MP
+2017-09-30/17:01:43 - 2017-09-30/17:03:13, 145.0, seriksson(EVA),  Several high-shear partial MP w/ Vz flow
+2017-09-30/17:03:13 - 2017-09-30/17:04:43, 145.0, seriksson(EVA),  Several high-shear partial MP w/ Vz flow
+2017-09-30/17:06:23 - 2017-09-30/17:08:03, 110.0, seriksson(EVA),  Two partial MP crossings
+2017-09-30/17:08:33 - 2017-09-30/17:09:23, 105.0, seriksson(EVA),  Two partial MP
+2017-09-30/17:10:13 - 2017-09-30/17:11:03, 100.0, seriksson(EVA),  Two partial MP
+2017-09-30/17:13:43 - 2017-09-30/17:14:53, 150.0, seriksson(EVA), Complete MP crossing
+2017-09-30/17:14:53 - 2017-09-30/17:16:33, 145.0, seriksson(EVA), Partial MP crossing
+2017-09-30/17:16:43 - 2017-09-30/17:18:43, 148.0, seriksson(EVA)," Several partial MP crossings, large J, Vz flow rotation"
+2017-09-30/17:20:23 - 2017-09-30/17:21:53, 120.0, seriksson(EVA),  Several partial MP crossings w/ flow changes
+2017-09-30/17:33:13 - 2017-09-30/17:33:43, 140.0, cnorgren(EVA),"  partial MP crossing, large J"
+2017-09-30/17:34:13 - 2017-09-30/17:34:43, 130.0, cnorgren(EVA), partial MP crossing 
+2017-09-30/17:37:33 - 2017-09-30/17:39:43, 160.0, seriksson(EVA),  Complete extended MP crossing w/ partials
+2017-09-30/17:39:43 - 2017-09-30/17:41:53, 160.0, seriksson(EVA),  Complete extended MP crossing w/ partials
+2017-09-30/17:44:33 - 2017-09-30/17:46:43, 150.0, seriksson(EVA), Complete MP crossing
+2017-09-30/17:49:33 - 2017-09-30/17:50:43, 130.0, seriksson(EVA),  Partial MP w/ Vz jet
+2017-09-30/17:59:03 - 2017-09-30/18:00:33, 160.0, cnorgren(EVA), full MP crossing
+2017-09-30/18:01:23 - 2017-09-30/18:03:03, 150.0, cnorgren(EVA), full MP crossing
+2017-09-30/18:19:33 - 2017-09-30/18:21:23, 150.0, cnorgren(EVA), Full MP crossing
+2017-09-30/18:38:43 - 2017-09-30/18:40:13, 150.0, cnorgren(EVA), Full MP crossing
+2017-09-30/18:42:33 - 2017-09-30/18:43:53, 120.0, seriksson(EVA),  Low-shear partial MP w/ low Btot
+2017-09-30/18:51:03 - 2017-09-30/18:52:43, 110.0, seriksson(EVA),  Low shear partial MP
+2017-09-30/18:59:43 - 2017-09-30/19:01:43, 125.0, seriksson(EVA), Several low-shear partial MP and enhanced J
+2017-09-30/19:07:13 - 2017-09-30/19:09:03, 120.0, seriksson(EVA),  Partial MP possible KH-related
+2017-09-30/19:13:13 - 2017-09-30/19:14:43, 145.0, seriksson(EVA),  Two partial MP w/ Vx flow rotation (possible KH)
+2017-09-30/19:16:33 - 2017-09-30/19:18:03, 120.0, seriksson(EVA),  Partial MP (KH-related?)
+2017-09-30/19:21:03 - 2017-09-30/19:24:03, 150.0, seriksson(EVA),  Complete low-shear MP crossing incl high J
+2017-09-30/19:27:33 - 2017-09-30/19:29:03, 150.0, cnorgren(EVA), full MP crossing
+2017-09-30/19:29:03 - 2017-09-30/19:30:13, 120.0, cnorgren(EVA), partial MP crossing
+2017-09-30/19:32:43 - 2017-09-30/19:34:13, 120.0, cnorgren(EVA), partial MP crossing
+2017-09-30/19:34:13 - 2017-09-30/19:35:53, 120.0, cnorgren(EVA), partial MP crossing
+2017-09-30/19:46:23 - 2017-09-30/19:47:43, 130.0, cnorgren(EVA), partial MP crossing
+2017-09-30/19:48:03 - 2017-09-30/19:49:13, 150.0, seriksson(EVA), full MP crossing
+2017-09-30/19:49:13 - 2017-09-30/19:51:33, 150.0, cnorgren(EVA), full MP crossing
+2017-09-30/19:52:53 - 2017-09-30/19:53:43, 120.0, seriksson(EVA),  Partial MP w/ Vz flow event
+2017-09-30/20:50:03 - 2017-09-30/20:51:23, 100.0, seriksson(EVA),  Two partial MP
+2017-09-30/21:33:33 - 2017-09-30/21:35:33, 150.0, seriksson(EVA), full MP crossing
+2017-09-30/21:35:33 - 2017-09-30/21:36:03,  80.0, seriksson(EVA),  Fill
+2017-09-30/21:36:03 - 2017-09-30/21:37:23, 150.0, seriksson(EVA), full MP crossing
+2017-09-30/21:37:23 - 2017-09-30/21:39:23, 150.0, seriksson(EVA), full MP crossing
+2017-09-30/22:27:53 - 2017-09-30/22:30:03, 100.0, cnorgren(EVA), partial MP crossing 
+2017-09-30/22:30:03 - 2017-09-30/22:32:13, 100.0, cnorgren(EVA), partial MP crossing 
+2017-09-30/22:34:13 - 2017-09-30/22:34:43, 100.0, seriksson(EVA),  Magnetosheath current sheet - unsure reconnection
+2017-09-30/23:20:33 - 2017-09-30/23:22:53, 100.0, seriksson(EVA),  Two partial MP
+2017-09-30/23:22:53 - 2017-09-30/23:25:13, 100.0, seriksson(EVA),  Two partial MP
+2017-09-30/23:31:23 - 2017-09-30/23:31:53, 115.0, seriksson(EVA),  Magnetosheath B rotation w/ increased J
+2017-09-30/23:55:33 - 2017-09-30/23:56:23,  75.0, seriksson(EVA),  Possible flux rope
+2017-09-30/23:57:53 - 2017-09-30/23:58:33, 100.0, seriksson(EVA), Magnetosheath flux rope 
+2017-10-01/00:24:13 - 2017-10-01/00:26:03, 110.0, cnorgren(EVA),  Bow shock
+2017-10-01/00:34:13 - 2017-10-01/00:35:13, 110.0, cnorgren(EVA), Bow shock
+2017-10-01/00:41:43 - 2017-10-01/00:42:13,  90.0, seriksson(EVA),  Possible magnetosheath flux rope
+2017-10-01/00:44:13 - 2017-10-01/00:45:03, 100.0, seriksson(EVA),  Partial MP w/ increased J and flow changes
+2017-10-01/00:48:33 - 2017-10-01/00:50:23, 120.0, cnorgren(EVA), partial MP crossings
+2017-10-01/00:50:23 - 2017-10-01/00:52:23, 120.0, cnorgren(EVA), partial MP crossings
+2017-10-01/00:52:23 - 2017-10-01/00:54:13, 120.0, cnorgren(EVA), partial MP crossings
+2017-10-01/00:57:53 - 2017-10-01/01:00:03, 140.0, seriksson(EVA), Partial MP crossing
+2017-10-01/01:04:43 - 2017-10-01/01:05:23, 105.0, seriksson(EVA),  Magnetosheath current sheet
+2017-10-01/02:04:13 - 2017-10-01/02:04:53, 100.0, seriksson(EVA),  Magnetosheath current sheet
+2017-10-01/02:24:53 - 2017-10-01/02:25:33, 100.0, seriksson(EVA),  Magnetosheath current sheets
+2017-10-01/02:54:53 - 2017-10-01/02:55:23, 100.0, seriksson(EVA),  Magnetosheath current sheet
+2017-10-01/03:01:43 - 2017-10-01/03:02:13, 100.0, seriksson(EVA),  Magnetosheath current sheet
+2017-10-01/03:02:33 - 2017-10-01/03:03:03, 100.0, seriksson(EVA),  Magnetosheath current sheet
+2017-10-01/03:05:43 - 2017-10-01/03:06:13, 125.0, seriksson(EVA),  Strong magnetosheath current sheet (J>0.6)
+2017-10-01/03:26:33 - 2017-10-01/03:27:03, 125.0, seriksson(EVA),  Strong magnetosheath current sheet
+2017-10-01/05:21:23 - 2017-10-01/05:21:53, 110.0, seriksson(EVA),  Magnetosheath current sheet
+2017-10-01/05:40:23 - 2017-10-01/05:40:53, 110.0, seriksson(EVA),  Magnetosheath current sheet (J)
+2017-10-01/05:46:13 - 2017-10-01/05:46:53, 105.0, seriksson(EVA),  Magnetosheath current sheet
+2017-10-01/06:08:33 - 2017-10-01/06:09:23, 140.0, seriksson(EVA),  Magnetosheath flux rope w/ strong J
+2017-10-01/07:09:13 - 2017-10-01/07:09:43, 105.0, seriksson(EVA),  Magnetosheath current sheet
+2017-10-01/07:09:43 - 2017-10-01/07:10:13, 120.0, seriksson(EVA),  Strong magnetosheath current sheets (J>1 uA/m2)
+2017-10-01/07:10:53 - 2017-10-01/07:12:03, 125.0, seriksson(EVA),  Series of strong magnetosheath CS (max J>1 uA/m2)
+2017-10-01/08:07:53 - 2017-10-01/08:08:43, 105.0, seriksson(EVA),  Msheath CS
+2017-10-01/08:26:43 - 2017-10-01/08:27:23, 130.0, seriksson(EVA),  Strong msheath CS
+2017-10-01/08:47:43 - 2017-10-01/08:48:23, 145.0, seriksson(EVA),  Msheath CS with ion heating
+2017-10-01/08:52:13 - 2017-10-01/08:53:03, 115.0, seriksson(EVA),  Msheath CS
+2017-10-01/09:31:33 - 2017-10-01/09:32:33, 100.0, seriksson(EVA),  Msheath B rotation
+2017-10-01/10:17:33 - 2017-10-01/10:20:33, 125.0, seriksson(EVA),  Turbulent magnetosheath
+2017-10-01/11:23:13 - 2017-10-01/11:25:13, 120.0, seriksson(EVA),  Turbulent magnetosheath
+2017-10-01/11:25:13 - 2017-10-01/11:27:23, 120.0, seriksson(EVA),  Turbulent magnetosheath
+2017-10-01/12:29:53 - 2017-10-01/12:32:13, 120.0, seriksson(EVA),  Turbulent magnetosheath
+2017-10-01/14:17:33 - 2017-10-01/14:19:13, 115.0, seriksson(EVA),  Msheath CS
+2017-10-01/14:20:13 - 2017-10-01/14:22:33, 120.0, seriksson(EVA),  Turbulent magnetosheath
+2017-10-01/14:22:33 - 2017-10-01/14:24:23, 120.0, seriksson(EVA),  Turbulent magnetosheath
+2017-10-01/15:58:03 - 2017-10-01/15:58:43, 130.0, seriksson(EVA),  Msheath CS w/ possible jet
+2017-10-01/15:59:03 - 2017-10-01/15:59:43, 100.0, seriksson(EVA),  Msheath B rotations
+2017-10-01/15:59:53 - 2017-10-01/16:00:53, 110.0, seriksson(EVA),  Msheath B rotations
+2017-10-01/16:00:53 - 2017-10-01/16:02:03, 120.0, seriksson(EVA),  Msheath B rotations
+2017-10-01/16:02:23 - 2017-10-01/16:04:03, 105.0, seriksson(EVA),  Partial MP
+2017-10-01/17:49:53 - 2017-10-01/17:52:03, 125.0, seriksson(EVA),  Magnetosheath Vz flow rotation
+2017-10-01/18:09:53 - 2017-10-01/18:10:43, 120.0, seriksson(EVA), Magnetosheath CS w/ sharp Bz rotation (possible flux rope)
+2017-10-01/18:53:33 - 2017-10-01/18:54:53, 105.0, seriksson(EVA),  Possible partial MP w/ Vz>0 flows
+2017-10-01/19:00:03 - 2017-10-01/19:03:23, 110.0, seriksson(EVA),  Extended partial MP crossing w/ Vz>0 flow 
+2017-10-01/19:06:53 - 2017-10-01/19:09:43, 125.0, seriksson(EVA),  Partial MP crossing w/ Vz>0 flows
+2017-10-01/19:14:33 - 2017-10-01/19:15:03, 105.0, seriksson(EVA),  Possible FTE/flux rope
+2017-10-01/20:03:53 - 2017-10-01/20:05:43, 110.0, seriksson(EVA),  Partial MP crossings
+2017-10-01/20:11:03 - 2017-10-01/20:12:13, 145.0, seriksson(EVA),  Msheath CS w/ possible jet
+2017-10-01/21:29:23 - 2017-10-01/21:30:43, 120.0, seriksson(EVA),  Msheath CS w/ string-of-pearl (sop) differences
+2017-10-01/21:39:43 - 2017-10-01/21:40:33, 120.0, seriksson(EVA),  Msheath B-field rotations w/ SoP differences 
+2017-10-01/21:48:33 - 2017-10-01/21:49:03, 115.0, seriksson(EVA),  Msheath B rotation w/ strong J
+2017-10-01/22:08:33 - 2017-10-01/22:09:13, 125.0, seriksson(EVA), Possible small msheath flux rope w/ SoP differences
+2017-10-01/22:34:13 - 2017-10-01/22:35:03, 120.0, seriksson(EVA),  Msheath CS w/ SoP differences
+2017-10-02/00:21:53 - 2017-10-02/00:23:03, 160.0, seriksson(EVA), Possible active flux rope w/ Vx jet and SoP
+2017-10-02/00:25:53 - 2017-10-02/00:27:13, 125.0, seriksson(EVA),  Partial MP w/ possible Vx rotation and SoP
+2017-10-02/00:28:33 - 2017-10-02/00:30:03, 100.0, seriksson(EVA),  Partial MP
+2017-10-02/01:08:23 - 2017-10-02/01:10:03, 115.0, seriksson(EVA),  Partial MP w/ Vz flow change
+2017-10-02/01:11:03 - 2017-10-02/01:13:53, 125.0, seriksson(EVA),  Partial MP w/ flow changes
+2017-10-02/02:11:53 - 2017-10-02/02:12:53, 125.0, seriksson(EVA),  Msheath Bz rotation (SoP)
+2017-10-02/03:08:33 - 2017-10-02/03:09:13, 135.0, seriksson(EVA),  Msheath CS w/ density increase
+2017-10-02/04:03:43 - 2017-10-02/04:07:03, 140.0, seriksson(EVA),  Turbulent msheath Bfields w/ low B minima (SoP)
+2017-10-02/04:09:33 - 2017-10-02/04:12:33, 140.0, seriksson(EVA),  Turbulent msheath Bfields (SoP)
+2017-10-02/04:38:03 - 2017-10-02/04:39:43, 120.0, seriksson(EVA),  Msheath CS (SoP)
+2017-10-02/05:00:13 - 2017-10-02/05:01:53, 110.0, seriksson(EVA),  High B and density compression event - possible shock related (SoP)
+2017-10-02/05:02:03 - 2017-10-02/05:02:43,  75.0, seriksson(EVA),  Deep magnetic hole (SoP)
+2017-10-02/05:21:13 - 2017-10-02/05:22:33, 105.0, seriksson(EVA),  Two msheath CS (unlikely partial MP Bz<0)
+2017-10-02/05:31:23 - 2017-10-02/05:33:03, 100.0, seriksson(EVA),  Msheath B-rotations (SoP)
+2017-10-02/06:02:23 - 2017-10-02/06:03:03,  95.0, seriksson(EVA),  Msheath large By structure (SoP)
+2017-10-02/06:30:03 - 2017-10-02/06:32:03, 145.0, seriksson(EVA), Partial extended MP crossing
+2017-10-02/06:32:03 - 2017-10-02/06:34:03, 145.0, seriksson(EVA), Partial extended MP crossing
+2017-10-02/06:34:03 - 2017-10-02/06:36:03, 145.0, seriksson(EVA), Partial extended MP crossing
+2017-10-02/06:36:53 - 2017-10-02/06:40:23, 145.0, seriksson(EVA),  Partial MP crossing w/ deep Btot minimum
+2017-10-02/07:00:23 - 2017-10-02/07:03:13, 160.0, seriksson(EVA),  Complete high-shear MP crossing (SoP)
+2017-10-02/07:03:13 - 2017-10-02/07:03:53, 100.0, seriksson(EVA),  Fill
+2017-10-02/07:03:53 - 2017-10-02/07:07:43, 160.0, seriksson(EVA),  Complete high-shear MP crossing w/ partials
+2017-10-02/07:16:03 - 2017-10-02/07:18:03,  90.0, seriksson(EVA), Boundary layer event w/ small-magnitude Vz flow rotation
+2017-10-02/07:35:43 - 2017-10-02/07:36:53, 120.0, seriksson(EVA),  Two partial MP crossings (SoP)
+2017-10-02/07:46:53 - 2017-10-02/07:50:23, 165.0, seriksson(EVA),"  Complete low-shear MP crossing (Vz flow rotation, Vy jet, possible flux rope)"
+2017-10-02/08:04:03 - 2017-10-02/08:05:33, 100.0, seriksson(EVA),  Partial very low-shear MP
+2017-10-02/08:14:33 - 2017-10-02/08:16:23, 100.0, seriksson(EVA),  Two partial low-shear MP crossings
+2017-10-02/08:29:33 - 2017-10-02/08:32:13, 125.0, seriksson(EVA),  Partial low-shear MP crossing w/ Vz flow rotation
+2017-10-02/08:52:03 - 2017-10-02/08:53:53, 145.0, seriksson(EVA),  Partial MP crossing w/ bipolar Bz (flux rope?)
+2017-10-02/09:01:13 - 2017-10-02/09:02:33, 145.0, seriksson(EVA),  Partial MP crossing w/ bipolar Bz (flux rope?)
+2017-10-02/09:06:03 - 2017-10-02/09:08:03, 145.0, seriksson(EVA),  Partial MP crossing w/ bipolar Bz (flux rope?)
+2017-10-02/09:21:33 - 2017-10-02/09:23:03, 125.0, seriksson(EVA), Low-shear partial MP crossing

@@ -1,0 +1,30 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-10-05/15:48:54 - 2016-10-05/15:49:14,  94.3, jburch(EVA), BL near MP 
+2016-10-05/15:49:14 - 2016-10-05/15:49:34, 165.0, jburch(EVA), Flow stagnation with Hall field 
+2016-10-05/15:49:34 - 2016-10-05/15:49:54, 165.8, jburch(EVA), High-shear MP crossings with in-plane null 
+2016-10-05/15:49:54 - 2016-10-05/15:51:04, 102.0, jburch(EVA), MS between two MP crossings 
+2016-10-05/15:51:04 - 2016-10-05/15:51:54, 147.9, jburch(EVA), Medium shear MP and BL 
+2016-10-05/15:51:54 - 2016-10-05/15:52:14,  81.0, jburch(EVA), BL near MP crossing 
+2016-10-05/16:03:44 - 2016-10-05/16:04:04,  79.0, jburch(EVA), BL near MP crossing 
+2016-10-05/16:04:04 - 2016-10-05/16:06:04, 175.9, jburch(EVA), High-shear MP reversals (out and back in) 
+2016-10-05/17:14:04 - 2016-10-05/17:16:34,  25.5, jburch(EVA), Limited BL encounter 
+2016-10-05/17:25:34 - 2016-10-05/17:27:24,  28.0, jburch(EVA), Limited BL encounter 
+2016-10-05/17:27:24 - 2016-10-05/17:29:14,  28.0, jburch(EVA), Limited BL encounter 
+2016-10-05/17:34:44 - 2016-10-05/17:37:34,  25.0, jburch(EVA), Limited BL encounter 
+2016-10-05/20:45:54 - 2016-10-05/20:48:04, 102.0, jburch(EVA), Kelvin-Helmholtz event 
+2016-10-05/20:55:44 - 2016-10-05/20:59:14,  99.4, jburch(EVA), Kelvin-Helmholtz event 
+2016-10-05/21:41:34 - 2016-10-05/21:42:54,  40.0, jburch(EVA), BL encounter 
+2016-10-05/21:45:14 - 2016-10-05/21:46:44,  40.0, jburch(EVA), BL encounter 
+2016-10-05/22:47:44 - 2016-10-05/22:50:54,  61.0, jburch(EVA), Strong electron current with ion velocity shear. 
+2016-10-05/22:50:54 - 2016-10-05/22:53:24,  61.0, jburch(EVA), Strong electron current with in velocity shear. 
+2016-10-05/22:53:24 - 2016-10-05/22:56:54,  61.0, jburch(EVA), Strong electron current with ion velocity shear. 
+2016-10-05/23:02:34 - 2016-10-05/23:03:44,  61.0, jburch(EVA), Energetic electron injections with ULF waves and 100 eV electron enhancement 
+2016-10-05/23:08:44 - 2016-10-05/23:09:24,  60.0, jburch(EVA), Energetic electron injections with plasmasphere tail 
+2016-10-05/23:26:54 - 2016-10-05/23:29:14,  81.0, jburch(EVA), Energetic electron injections 
+2016-10-05/23:29:14 - 2016-10-05/23:31:24,  81.0, jburch(EVA), Energetic electron injections 
+2016-10-05/23:31:24 - 2016-10-05/23:33:44,  81.0, jburch(EVA), Energetic electron injections 
+2016-10-05/23:33:44 - 2016-10-05/23:36:04,  81.0, jburch(EVA), Energetic electron injections 
+2016-10-05/23:36:04 - 2016-10-05/23:38:24,  81.0, jburch(EVA), Energetic electron injections 
+2016-10-05/23:38:24 - 2016-10-05/23:40:34,  81.0, jburch(EVA), Energetic electron injections 
+2016-10-05/23:40:34 - 2016-10-05/23:42:54,  81.0, jburch(EVA), Energetic electron injections 
+2016-10-05/23:42:54 - 2016-10-05/23:45:14,  81.0, jburch(EVA), Energetic electron injections 

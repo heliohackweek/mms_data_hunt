@@ -1,0 +1,89 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-04-21/13:59:13 - 2018-04-21/14:01:13,  80.0, fwilder(EVA), Partial MP maybe with null.
+2018-04-21/14:10:13 - 2018-04-21/14:12:23, 105.0, fwilder(EVA), High Shear Partial MP
+2018-04-21/14:12:23 - 2018-04-21/14:14:23, 105.0, fwilder(EVA), High Shear Partial MP
+2018-04-21/14:14:23 - 2018-04-21/14:16:33, 105.0, fwilder(EVA), High Shear Partial MP
+2018-04-21/14:16:33 - 2018-04-21/14:18:43, 105.0, fwilder(EVA), High Shear Partial MP
+2018-04-21/14:18:43 - 2018-04-21/14:20:43, 105.0, fwilder(EVA), High Shear Partial MP
+2018-04-21/14:20:43 - 2018-04-21/14:22:53, 105.0, fwilder(EVA), High Shear Partial MP
+2018-04-21/14:49:03 - 2018-04-21/14:57:43, 150.0, fwilder(EVA), High Shear MP with strong current
+2018-04-21/15:17:03 - 2018-04-21/15:19:23, 105.0, fwilder(EVA), High Shear Partial MP
+2018-04-21/16:03:43 - 2018-04-21/16:05:53, 115.0, fwilder(EVA), Partial MP with strong currents
+2018-04-21/16:05:53 - 2018-04-21/16:08:03, 115.0, fwilder(EVA), Partial MP with strong currents
+2018-04-21/16:08:03 - 2018-04-21/16:10:13, 115.0, fwilder(EVA), Partial MP with strong currents
+2018-04-21/16:10:13 - 2018-04-21/16:12:23, 115.0, fwilder(EVA), Partial MP with strong currents
+2018-04-21/17:14:43 - 2018-04-21/17:15:53, 150.0, fwilder(EVA), High shear BL current with possible jet.
+2018-04-21/17:41:13 - 2018-04-21/17:43:23, 150.0, fwilder(EVA), High shear Partial MP
+2018-04-21/18:03:53 - 2018-04-21/18:04:23,  90.0, fwilder(EVA), High shear current with Null
+2018-04-21/18:11:03 - 2018-04-21/18:13:53,  70.0, fwilder(EVA), Maybe FTE?
+2018-04-21/18:26:43 - 2018-04-21/18:28:33, 145.0, fwilder(EVA), High Shear Partial MP
+2018-04-21/18:30:13 - 2018-04-21/18:31:13, 105.0, fwilder(EVA), High shear Partila MP but no clear reconnection signatures
+2018-04-21/18:55:33 - 2018-04-21/18:56:33, 130.0, fwilder(EVA), MP current sheet with null
+2018-04-21/20:34:23 - 2018-04-21/20:42:53, 100.0, fwilder(EVA), Sharp By reversal at flank magnetopause
+2018-04-22/14:06:53 - 2018-04-22/14:10:23, 145.0, fwilder(EVA), Bow shock with FPI solar wind table
+2018-04-22/14:11:13 - 2018-04-22/14:15:23, 145.0, fwilder(EVA), Bow shock with FPI solar wind table
+2018-04-22/14:41:03 - 2018-04-22/14:45:13, 156.0, fwilder(EVA), Shock with FPI table.
+2018-04-23/03:31:13 - 2018-04-23/03:33:43,  60.0, fwilder(EVA), Bow shock
+2018-04-23/03:33:43 - 2018-04-23/03:36:03,  60.0, fwilder(EVA), Bow shock
+2018-04-23/03:36:03 - 2018-04-23/03:38:33,  60.0, fwilder(EVA), Bow shock
+2018-04-23/03:38:33 - 2018-04-23/03:41:03,  60.0, fwilder(EVA), Bow shock
+2018-04-23/03:41:03 - 2018-04-23/03:43:33,  60.0, fwilder(EVA), Bow shock
+2018-04-23/03:43:33 - 2018-04-23/03:46:03,  60.0, fwilder(EVA), Bow shock
+2018-04-23/03:46:03 - 2018-04-23/03:48:33,  60.0, fwilder(EVA), Bow shock
+2018-04-23/03:48:33 - 2018-04-23/03:50:53,  60.0, fwilder(EVA), Bow shock
+2018-04-23/03:50:53 - 2018-04-23/03:53:23,  60.0, fwilder(EVA), Bow shock
+2018-04-23/03:53:23 - 2018-04-23/03:55:53,  60.0, fwilder(EVA), Bow shock
+2018-04-23/03:58:23 - 2018-04-23/04:00:33,  60.0, fwilder(EVA), Bow shock
+2018-04-23/04:00:33 - 2018-04-23/04:02:53,  60.0, fwilder(EVA), Bow shock
+2018-04-23/04:02:53 - 2018-04-23/04:05:03,  60.0, fwilder(EVA), Bow shock
+2018-04-23/04:05:03 - 2018-04-23/04:07:13,  60.0, fwilder(EVA), Bow shock
+2018-04-23/04:07:13 - 2018-04-23/04:09:33,  60.0, fwilder(EVA), Bow shock
+2018-04-23/04:09:33 - 2018-04-23/04:11:43,  60.0, fwilder(EVA), Bow shock
+2018-04-23/04:27:33 - 2018-04-23/04:30:03,  60.0, fwilder(EVA), Bow shock
+2018-04-23/04:30:03 - 2018-04-23/04:32:33,  60.0, fwilder(EVA), Bow shock
+2018-04-23/05:34:33 - 2018-04-23/05:36:23,  60.0, fwilder(EVA), Bow shock
+2018-04-23/05:36:23 - 2018-04-23/05:38:23,  60.0, fwilder(EVA), Bow shock
+2018-04-23/05:38:23 - 2018-04-23/05:40:13,  60.0, fwilder(EVA), Bow shock
+2018-04-23/07:50:13 - 2018-04-23/07:52:33, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/07:52:33 - 2018-04-23/07:55:03, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/07:55:03 - 2018-04-23/07:57:23, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/07:57:23 - 2018-04-23/07:59:53, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/07:59:53 - 2018-04-23/08:02:13, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/08:02:13 - 2018-04-23/08:04:43, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/08:04:43 - 2018-04-23/08:07:03, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/08:07:03 - 2018-04-23/08:09:33, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/08:09:33 - 2018-04-23/08:11:53, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/08:11:53 - 2018-04-23/08:14:23, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/08:14:23 - 2018-04-23/08:16:43, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/08:16:43 - 2018-04-23/08:19:13, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/08:19:13 - 2018-04-23/08:21:33, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/08:21:33 - 2018-04-23/08:24:03, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/08:24:03 - 2018-04-23/08:26:23, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/08:26:23 - 2018-04-23/08:28:53, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/08:28:53 - 2018-04-23/08:31:13, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/08:31:13 - 2018-04-23/08:33:43, 105.0, fwilder(EVA), Sheath Turbulence Interval With Large B reversals
+2018-04-23/08:41:03 - 2018-04-23/08:42:53, 105.0, fwilder(EVA), Several sharp unresolved field reversals in turbulent region.
+2018-04-23/08:47:33 - 2018-04-23/08:48:03, 105.0, fwilder(EVA), Sheath B reversal
+2018-04-23/11:38:33 - 2018-04-23/11:40:43, 125.0, fwilder(EVA), High shear MP Current sheet
+2018-04-23/11:41:53 - 2018-04-23/11:44:23, 125.0, fwilder(EVA), Series of high shear flank MPs
+2018-04-23/11:44:23 - 2018-04-23/11:46:43, 125.0, fwilder(EVA), Series of high shear flank MPs
+2018-04-23/11:46:43 - 2018-04-23/11:49:13, 125.0, fwilder(EVA), Series of high shear flank MPs
+2018-04-23/11:49:13 - 2018-04-23/11:51:33, 125.0, fwilder(EVA), Series of high shear flank MPs
+2018-04-23/11:51:33 - 2018-04-23/11:54:03, 125.0, fwilder(EVA), Series of high shear flank MPs
+2018-04-23/11:55:23 - 2018-04-23/11:58:43, 125.0, fwilder(EVA), High shear flank MP current sheet
+2018-04-23/12:26:23 - 2018-04-23/12:28:33, 110.0, fwilder(EVA), High shear MP current sheet
+2018-04-23/12:28:33 - 2018-04-23/12:30:53, 110.0, fwilder(EVA), High shear MP current sheet
+2018-04-23/12:30:53 - 2018-04-23/12:33:13, 110.0, fwilder(EVA), High shear MP current sheet
+2018-04-23/12:33:13 - 2018-04-23/12:35:33, 110.0, fwilder(EVA), High shear MP current sheet
+2018-04-23/12:35:33 - 2018-04-23/12:37:43, 110.0, fwilder(EVA), High shear MP current sheet
+2018-04-23/12:37:43 - 2018-04-23/12:40:03, 110.0, fwilder(EVA), High shear MP current sheet
+2018-04-23/15:20:53 - 2018-04-23/15:23:23, 145.0, fwilder(EVA), Partial MP with high shear
+2018-04-23/15:23:23 - 2018-04-23/15:25:43, 145.0, fwilder(EVA), Partial MP with high shear
+2018-04-23/15:25:43 - 2018-04-23/15:28:13, 145.0, fwilder(EVA), Partial MP with high shear
+2018-04-23/15:28:13 - 2018-04-23/15:30:33, 145.0, fwilder(EVA), Partial MP with high shear
+2018-04-23/15:30:33 - 2018-04-23/15:33:03, 145.0, fwilder(EVA), Partial MP with high shear
+2018-04-23/15:43:13 - 2018-04-23/15:45:23, 160.0, fwilder(EVA), High Shear MP With Jet Reversal
+2018-04-23/15:45:23 - 2018-04-23/15:47:43, 160.0, fwilder(EVA), High Shear MP With Jet Reversal
+2018-04-23/15:56:33 - 2018-04-23/15:58:53, 155.0, fwilder(EVA), High shear Full MP with Jet
+2018-04-23/15:58:53 - 2018-04-23/16:01:03, 155.0, fwilder(EVA), High shear Full MP with Jet
+2018-04-23/16:01:03 - 2018-04-23/16:03:23, 155.0, fwilder(EVA), High shear Full MP with Jet

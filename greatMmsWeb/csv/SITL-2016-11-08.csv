@@ -1,0 +1,41 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-11-08/08:43:14 - 2016-11-08/08:44:14,  15.0, hhiroshi(EVA), cold ions
+2016-11-08/09:05:24 - 2016-11-08/09:06:44,  75.0, hhiroshi(EVA), FTE with -Vz
+2016-11-08/09:18:24 - 2016-11-08/09:19:54, 105.0, hhiroshi(EVA), partial MP with -Vz
+2016-11-08/09:19:54 - 2016-11-08/09:21:34,  55.0, hhiroshi(EVA), cold ions next to partial MP
+2016-11-08/09:27:04 - 2016-11-08/09:29:34,  80.0, hhiroshi(EVA), partial MP with -Vz jet
+2016-11-08/09:29:34 - 2016-11-08/09:32:04, 105.0, hhiroshi(EVA), partial MP with -Vz jet
+2016-11-08/09:32:04 - 2016-11-08/09:34:34, 125.0, hhiroshi(EVA), partial MP with -Vz jet
+2016-11-08/09:34:34 - 2016-11-08/09:37:24, 180.0, hhiroshi(EVA), high-shear full MP with flow reversal & intense current
+2016-11-08/09:37:24 - 2016-11-08/09:39:24, 105.0, hhiroshi(EVA), full MP wing
+2016-11-08/09:39:24 - 2016-11-08/09:41:24,  75.0, hhiroshi(EVA), sheath BL with -Vz jet
+2016-11-08/09:41:24 - 2016-11-08/09:43:34,  75.0, hhiroshi(EVA), sheath BL with -Vz jet
+2016-11-08/09:43:34 - 2016-11-08/09:45:34,  75.0, hhiroshi(EVA), sheath BL with -Vz jet
+2016-11-08/09:45:34 - 2016-11-08/09:47:34,  75.0, hhiroshi(EVA), sheath BL with -Vz jet
+2016-11-08/09:47:34 - 2016-11-08/09:49:54, 125.0, hhiroshi(EVA), FTE with flow reversal
+2016-11-08/09:49:54 - 2016-11-08/09:52:14, 125.0, hhiroshi(EVA), FTE with flow reversal
+2016-11-08/09:52:14 - 2016-11-08/09:54:24, 125.0, hhiroshi(EVA), FTE with flow reversal
+2016-11-08/09:57:04 - 2016-11-08/09:59:34, 135.0, hhiroshi(EVA), high-shear partial MP with flow reversal & B min
+2016-11-08/09:59:34 - 2016-11-08/10:02:04, 140.0, hhiroshi(EVA), partial MP with flow reversal & intense current
+2016-11-08/10:02:04 - 2016-11-08/10:04:14, 125.0, hhiroshi(EVA), high-shear partial MP with B min & -Vz jet
+2016-11-08/10:04:14 - 2016-11-08/10:06:04,  25.0, hhiroshi(EVA), partial MP wing
+2016-11-08/10:06:04 - 2016-11-08/10:08:24, 125.0, hhiroshi(EVA), high-shear partial MP with -Vz jet & B min
+2016-11-08/10:08:24 - 2016-11-08/10:10:34, 120.0, hhiroshi(EVA), high-shear partial MP with -Vz flow
+2016-11-08/10:10:34 - 2016-11-08/10:12:54, 120.0, hhiroshi(EVA), high-shear partial MP with -Vz flow
+2016-11-08/10:25:14 - 2016-11-08/10:28:04, 110.0, hhiroshi(EVA), FTE with -Vz flow
+2016-11-08/10:48:54 - 2016-11-08/10:50:54, 125.0, hhiroshi(EVA), FTE with flow reversal
+2016-11-08/11:19:04 - 2016-11-08/11:21:34, 105.0, hhiroshi(EVA), sheath FTE with -Vz flow
+2016-11-08/13:53:04 - 2016-11-08/13:55:14, 110.0, hhiroshi(EVA), large FTE with flow reversal
+2016-11-08/13:55:14 - 2016-11-08/13:57:14, 110.0, hhiroshi(EVA), large FTE with flow reversal
+2016-11-08/13:57:14 - 2016-11-08/13:59:24, 110.0, hhiroshi(EVA), large FTE with flow reversal
+2016-11-08/13:59:24 - 2016-11-08/14:01:44, 110.0, hhiroshi(EVA), large FTE with flow reversal
+2016-11-08/14:32:54 - 2016-11-08/14:35:04, 155.0, hhiroshi(EVA), low-shear full MP with +Vz flow
+2016-11-08/14:35:04 - 2016-11-08/14:37:24, 155.0, hhiroshi(EVA), low-shear full MP with +Vz flow
+2016-11-08/14:37:24 - 2016-11-08/14:39:54, 125.0, hhiroshi(EVA), low-shear full MP wing
+2016-11-08/14:40:24 - 2016-11-08/14:42:44,  40.0, hhiroshi(EVA), BL with flow perturbation
+2016-11-08/14:42:44 - 2016-11-08/14:45:14,  40.0, hhiroshi(EVA), BL with flow perturbation
+2016-11-08/14:45:14 - 2016-11-08/14:47:34,  40.0, hhiroshi(EVA), BL with flow perturbation
+2016-11-08/14:55:24 - 2016-11-08/14:57:44,  25.0, hhiroshi(EVA), BL with flow perturbation
+2016-11-08/14:57:44 - 2016-11-08/14:59:54,  25.0, hhiroshi(EVA), BL with flow perturbation
+2016-11-08/14:59:54 - 2016-11-08/15:02:14,  25.0, hhiroshi(EVA), BL with flow perturbation
+2016-11-08/15:02:14 - 2016-11-08/15:04:34,  25.0, hhiroshi(EVA), BL with flow perturbation

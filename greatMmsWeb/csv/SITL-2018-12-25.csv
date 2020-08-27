@@ -1,0 +1,60 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-12-25/03:07:23 - 2018-12-25/03:09:53,  95.0, nkitamura(EVA), Two whistler waves and low frequency electrostatic turbulence (suggestive of a parametric instability)
+2018-12-25/03:09:53 - 2018-12-25/03:12:23,  95.0, nkitamura(EVA), Two whistler waves and low frequency electrostatic turbulence (suggestive of a parametric instability)
+2018-12-25/04:18:43 - 2018-12-25/04:20:43,  55.0, nkitamura(EVA), Boundary layer traversal
+2018-12-25/04:20:43 - 2018-12-25/04:23:03,  55.0, nkitamura(EVA), Boundary layer traversal
+2018-12-25/04:23:03 - 2018-12-25/04:24:43,  55.0, nkitamura(EVA), Boundary layer traversal
+2018-12-25/04:55:03 - 2018-12-25/04:57:03,  90.0, nkitamura(EVA), Inner edge of boundary layer
+2018-12-25/05:11:43 - 2018-12-25/05:13:23,  70.0, nkitamura(EVA), Partial BL traversal with no clear rotation in B
+2018-12-25/05:15:53 - 2018-12-25/05:17:33,  65.0, nkitamura(EVA), BL with no clear rotation in B 
+2018-12-25/05:18:03 - 2018-12-25/05:20:53, 150.0, nkitamura(EVA), Magnetopause crossing
+2018-12-25/05:59:23 - 2018-12-25/06:01:53,  60.0, nkitamura(EVA), Mirror waves and discontinuity inthe magnetosheath
+2018-12-25/06:01:53 - 2018-12-25/06:04:13,  60.0, nkitamura(EVA), Mirror waves and discontinuity inthe magnetosheath
+2018-12-25/06:04:13 - 2018-12-25/06:06:43,  60.0, nkitamura(EVA), Mirror waves and discontinuity inthe magnetosheath
+2018-12-25/07:47:03 - 2018-12-25/07:48:23, 115.0, nkitamura(EVA), Quasi-perpendicular bow shock (downstream)
+2018-12-25/07:48:23 - 2018-12-25/07:50:33, 115.0, nkitamura(EVA), Quasi-perpendicular bow shock crossing
+2018-12-25/07:54:43 - 2018-12-25/07:56:53, 110.0, nkitamura(EVA), Quasi-perpendicular bow shock crossing
+2018-12-25/07:56:53 - 2018-12-25/07:58:53, 110.0, nkitamura(EVA), Quasi-perpendicular bow shock (downstream)
+2018-12-25/08:24:03 - 2018-12-25/08:25:43, 110.0, nkitamura(EVA), Bow shock (downstream with compressional B fluctuations)
+2018-12-25/08:25:43 - 2018-12-25/08:28:13, 110.0, nkitamura(EVA), Bow shock crossing and foreshock B fluctuations
+2018-12-25/08:30:23 - 2018-12-25/08:33:13, 110.0, nkitamura(EVA), Bow shock crossing and foreshock B fluctuations
+2018-12-25/08:36:33 - 2018-12-25/08:39:03, 110.0, nkitamura(EVA), Quasi-perpendicular bow shock crossing
+2018-12-25/09:03:13 - 2018-12-25/09:03:43,  80.0, nkitamura(EVA), Solar wind CS
+2018-12-25/09:23:43 - 2018-12-25/09:26:03,  60.0, nkitamura(EVA), Solar wind CSs
+2018-12-26/06:28:23 - 2018-12-26/06:29:53,  85.0, nkitamura(EVA), Solar wind CS
+2018-12-26/07:13:03 - 2018-12-26/07:14:03,  65.0, nkitamura(EVA), Solar wind CS
+2018-12-26/07:37:23 - 2018-12-26/07:38:33,  60.0, nkitamura(EVA), Solar wind CS
+2018-12-26/07:57:13 - 2018-12-26/07:59:33,  90.0, nkitamura(EVA)," Coherent 30 s waves, probably related to Bow Shock reformation; wna = 12 deg; ellip =-0.75; f/fcp = 0.5; strong electron Temp oscillations"
+2018-12-26/07:59:33 - 2018-12-26/08:01:53,  90.0, nkitamura(EVA)," Coherent 30 s waves, probably related to Bow Shock reformation; wna = 12 deg; ellip =-0.75; f/fcp = 0.5; strong electron Temp oscillations"
+2018-12-26/08:01:53 - 2018-12-26/08:04:13,  90.0, nkitamura(EVA)," Coherent 30 s waves, probably related to Bow Shock reformation; wna = 12 deg; ellip =-0.75; f/fcp = 0.5; strong electron Temp oscillations"
+2018-12-26/08:04:13 - 2018-12-26/08:06:33,  90.0, nkitamura(EVA)," Coherent 30 s waves, probably related to Bow Shock reformation; wna = 12 deg; ellip =-0.75; f/fcp = 0.5; strong electron Temp oscillations"
+2018-12-27/06:23:13 - 2018-12-27/06:25:33, 100.0, nkitamura(EVA), Shock crossings
+2018-12-27/07:16:53 - 2018-12-27/07:19:33, 105.0, nkitamura(EVA), Quasi-parallel shock crossing
+2018-12-27/08:04:23 - 2018-12-27/08:06:53,  85.0, nkitamura(EVA), Quasi-parallel shock partial crossing
+2018-12-27/08:06:53 - 2018-12-27/08:09:23,  85.0, nkitamura(EVA), Quasi-parallel shock partial crossing
+2018-12-27/08:09:23 - 2018-12-27/08:11:13, 105.0, nkitamura(EVA), Quasi-parallel shock crossing
+2018-12-27/08:11:13 - 2018-12-27/08:12:53, 105.0, nkitamura(EVA), Quasi-parallel shock crossing
+2018-12-27/08:12:53 - 2018-12-27/08:14:43, 105.0, nkitamura(EVA), Quasi-parallel shock crossing
+2018-12-27/08:14:43 - 2018-12-27/08:16:53,  90.0, nkitamura(EVA), Quasi-parallel shock partial crossing
+2018-12-27/08:16:53 - 2018-12-27/08:19:13,  90.0, nkitamura(EVA), Quasi-parallel shock partial crossing
+2018-12-27/08:19:13 - 2018-12-27/08:21:23,  90.0, nkitamura(EVA), Quasi-parallel shock partial crossing
+2018-12-27/08:21:23 - 2018-12-27/08:23:33,  90.0, nkitamura(EVA), Quasi-parallel shock partial crossing
+2018-12-27/08:23:33 - 2018-12-27/08:25:53,  90.0, nkitamura(EVA), Quasi-parallel shock partial crossing
+2018-12-27/08:25:53 - 2018-12-27/08:28:03,  90.0, nkitamura(EVA), Quasi-parallel shock partial crossing
+2018-12-27/08:28:03 - 2018-12-27/08:30:33,  85.0, nkitamura(EVA), Quasi-parallel shock (downstream)
+2018-12-27/08:30:33 - 2018-12-27/08:33:03,  85.0, nkitamura(EVA), Quasi-parallel shock (downstream)
+2018-12-27/08:33:03 - 2018-12-27/08:35:33,  85.0, nkitamura(EVA), Quasi-parallel shock (downstream)
+2018-12-27/08:35:33 - 2018-12-27/08:38:03,  85.0, nkitamura(EVA), Quasi-parallel shock (downstream)
+2018-12-27/08:38:03 - 2018-12-27/08:40:23,  85.0, nkitamura(EVA), Quasi-parallel shock (downstream)
+2018-12-27/08:40:23 - 2018-12-27/08:42:43,  85.0, nkitamura(EVA), Quasi-parallel shock (downstream)
+2018-12-27/08:42:43 - 2018-12-27/08:45:03,  85.0, nkitamura(EVA), Quasi-parallel shock (downstream)
+2018-12-27/08:45:03 - 2018-12-27/08:47:33,  85.0, nkitamura(EVA), Quasi-parallel shock (downstream)
+2018-12-27/08:47:33 - 2018-12-27/08:49:53,  85.0, nkitamura(EVA), Quasi-parallel shock (downstream)
+2018-12-27/08:49:53 - 2018-12-27/08:52:13,  85.0, nkitamura(EVA), Quasi-parallel shock (downstream)
+2018-12-27/11:47:23 - 2018-12-27/11:49:53, 150.0, nkitamura(EVA), MP crossing
+2018-12-27/11:49:53 - 2018-12-27/11:51:23,  80.0, nkitamura(EVA), BL traversal with jets
+2018-12-27/11:51:23 - 2018-12-27/11:52:53,  80.0, nkitamura(EVA), BL traversal with jets
+2018-12-27/11:57:53 - 2018-12-27/11:59:43,  75.0, nkitamura(EVA), BL traversal with jets
+2018-12-27/11:59:43 - 2018-12-27/12:01:33,  75.0, nkitamura(EVA), BL traversal with jets
+2018-12-27/12:14:43 - 2018-12-27/12:16:53,  60.0, nkitamura(EVA), BL traversal
+2018-12-27/12:18:33 - 2018-12-27/12:20:43,  60.0, nkitamura(EVA), BL traversal

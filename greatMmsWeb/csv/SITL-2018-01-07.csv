@@ -1,0 +1,81 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-01-07/02:35:33 - 2018-01-07/02:37:53, 110.0, lavanov(EVA), Low shear MP crossing  
+2018-01-07/02:37:53 - 2018-01-07/02:39:43, 100.0, lavanov(EVA), LLBL skimming after MP crossing 
+2018-01-07/02:39:43 - 2018-01-07/02:41:33, 100.0, lavanov(EVA), LLBL skimming after MP crossing 
+2018-01-07/02:41:33 - 2018-01-07/02:43:23, 100.0, lavanov(EVA), LLBL skimming after MP crossing 
+2018-01-07/02:43:23 - 2018-01-07/02:45:13, 101.0, lavanov(EVA), Long interval with dense LLBl prior to MP 
+2018-01-07/02:45:13 - 2018-01-07/02:47:13, 101.0, lavanov(EVA), Long interval with dense LLBl prior to MP 
+2018-01-07/02:47:13 - 2018-01-07/02:50:03, 140.0, lavanov(EVA)," MP crossing.  High density LLBL prior to MP, minimal BVz reversal "
+2018-01-07/02:50:03 - 2018-01-07/02:52:53, 140.0, lavanov(EVA)," MP crossing.  High density LLBL prior to MP, minimal BVz reversal "
+2018-01-07/02:52:53 - 2018-01-07/02:57:13, 100.0, lavanov(EVA), Final exiting to the MSheath 
+2018-01-07/04:14:43 - 2018-01-07/04:16:33, 100.0, lavanov(EVA),  Turbulent MSH (mirror waves)
+2018-01-07/04:16:33 - 2018-01-07/04:18:23, 100.0, lavanov(EVA),  Turbulent MSH (mirror waves)
+2018-01-07/04:31:23 - 2018-01-07/04:33:03, 130.0, lavanov(EVA)," Active MSH current layer, with minimal B and large current "
+2018-01-07/05:02:53 - 2018-01-07/05:05:33, 100.0, lavanov(EVA)," Turbulent strcuture in the MSheath, significant current increase"
+2018-01-07/05:14:23 - 2018-01-07/05:17:43,  99.0, lavanov(EVA)," Qpar bow shock with with developed turbulent structure in the MSH, accelerated reflected ions uostream"
+2018-01-07/05:19:43 - 2018-01-07/05:21:53,  90.0, lavanov(EVA), Qpar bow shock 
+2018-01-07/05:26:43 - 2018-01-07/05:28:53, 102.0, lavanov(EVA), Qperp bow shock with alpha particles in and upstream 
+2018-01-07/05:50:23 - 2018-01-07/05:52:33, 110.0, lavanov(EVA), Set of 3 HFAs
+2018-01-07/05:52:33 - 2018-01-07/05:54:33, 110.0, lavanov(EVA), Set of 3 HFAs
+2018-01-07/06:23:23 - 2018-01-07/06:25:13,  90.0, lavanov(EVA)," Intersting periodic structure in the solar wind, density increase "
+2018-01-07/07:11:43 - 2018-01-07/07:15:13, 101.0, lavanov(EVA)," Solar wind CS/ magntic hole, Btot an number density depression  "
+2018-01-07/08:14:03 - 2018-01-07/08:16:43,  95.0, lavanov(EVA), Turbulent structure in the solar wind 
+2018-01-07/08:18:13 - 2018-01-07/08:20:13,  95.0, lavanov(EVA)," Current Sheet in the solar wind, ion heating "
+2018-01-07/08:27:23 - 2018-01-07/08:29:23,  90.0, lavanov(EVA), Interesting periodic structure in the solar wind 
+2018-01-07/08:31:23 - 2018-01-07/08:33:03, 100.0, lavanov(EVA)," Solar wind CS, possible ion heating"
+2018-01-08/04:00:03 - 2018-01-08/04:02:33, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:02:33 - 2018-01-08/04:05:03, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:05:03 - 2018-01-08/04:07:33, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:07:33 - 2018-01-08/04:10:03, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:10:03 - 2018-01-08/04:12:33, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:12:33 - 2018-01-08/04:15:03, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:15:03 - 2018-01-08/04:17:33, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:17:33 - 2018-01-08/04:20:03, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:20:03 - 2018-01-08/04:22:33, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:22:33 - 2018-01-08/04:25:03, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:25:03 - 2018-01-08/04:27:33, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:27:33 - 2018-01-08/04:30:03, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:30:03 - 2018-01-08/04:32:33, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:32:33 - 2018-01-08/04:35:03, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:35:03 - 2018-01-08/04:37:33, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:37:33 - 2018-01-08/04:40:03, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:40:03 - 2018-01-08/04:42:33, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:42:33 - 2018-01-08/04:45:03, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:45:03 - 2018-01-08/04:47:33, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:47:33 - 2018-01-08/04:50:03, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:50:03 - 2018-01-08/04:52:33, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:52:33 - 2018-01-08/04:55:03, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:55:03 - 2018-01-08/04:57:33, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/04:57:33 - 2018-01-08/05:00:03, 105.0, lavanov(EVA), Pristine solar wind for turbulence well before interplanetary shock 
+2018-01-08/06:37:23 - 2018-01-08/06:39:23, 145.0, lavanov(EVA), Interplanetary shock 
+2018-01-08/06:39:23 - 2018-01-08/06:41:23, 145.0, lavanov(EVA), Interplanetary shock 
+2018-01-08/06:41:23 - 2018-01-08/06:43:23, 145.0, lavanov(EVA), Interplanetary shock 
+2018-01-08/08:10:53 - 2018-01-08/08:12:53, 105.0, lavanov(EVA),"  Set of solar wind CSs, Bz reversal, number density enehancements"
+2018-01-08/08:12:53 - 2018-01-08/08:14:43, 105.0, lavanov(EVA),"  Set of solar wind CSs, Bz reversal, number density enehancements"
+2018-01-08/08:14:43 - 2018-01-08/08:16:43, 105.0, lavanov(EVA),"  Set of solar wind CSs, Bz reversal, number density enehancements"
+2018-01-09/08:21:23 - 2018-01-09/08:24:33,  95.0, lavanov(EVA), Oblique bow shock with reflected ions 
+2018-01-09/08:34:23 - 2018-01-09/08:35:03, 100.0, lavanov(EVA), Hot Flow Anomaly 
+2018-01-09/08:35:03 - 2018-01-09/08:37:13, 100.0, lavanov(EVA),  Possible HFA/multiple bow shock crossinngs
+2018-01-09/08:37:13 - 2018-01-09/08:39:43, 100.0, lavanov(EVA), Multiple Bow Shock crossing or set of HFAs 
+2018-01-09/08:44:03 - 2018-01-09/08:46:13, 100.0, lavanov(EVA), Possible set of HFA or multiple Bow Shock crossings 
+2018-01-09/08:46:13 - 2018-01-09/08:48:23, 100.0, lavanov(EVA), Possible set of HFA or multiple Bow Shock crossings 
+2018-01-09/08:48:23 - 2018-01-09/08:50:33, 100.0, lavanov(EVA), Possible set of HFA or multiple Bow Shock crossings 
+2018-01-09/09:09:33 - 2018-01-09/09:12:33,  80.0, lavanov(EVA)," Bow shock crossings, foreshock turbulence after BShock crosing "
+2018-01-09/09:18:23 - 2018-01-09/09:20:03, 120.0, lavanov(EVA)," Solar wind hole, Btot minimal, significant dercease in number density"
+2018-01-09/09:20:43 - 2018-01-09/09:22:53, 102.0, lavanov(EVA),  HFAs or multiple Bow shock crossing
+2018-01-09/09:30:03 - 2018-01-09/09:30:53,  90.0, lavanov(EVA),  Solar wind hoe with number density decarease
+2018-01-09/09:30:53 - 2018-01-09/09:32:03, 105.0, lavanov(EVA), Hot flow anomaly 
+2018-01-09/10:08:23 - 2018-01-09/10:08:53, 120.0, lavanov(EVA),  CS in the magnetosheath with bipolar Bz variation (possible MSH FTE)
+2018-01-09/10:10:13 - 2018-01-09/10:11:03, 105.0, lavanov(EVA),  Thin CS in the sheath
+2018-01-09/10:34:43 - 2018-01-09/10:36:33, 145.0, lavanov(EVA),"  Active magnetosheath current sheet, with B tot close to 0 in the leading edge. Significant increase in number density in the middle of CS"
+2018-01-09/11:09:23 - 2018-01-09/11:11:53, 155.0, lavanov(EVA),"  High shear inbound MP crossing, interestingmagnetic hole just prior to crossing"
+2018-01-09/11:11:53 - 2018-01-09/11:13:33, 150.0, lavanov(EVA), Two high shear MP crossings 
+2018-01-09/11:13:33 - 2018-01-09/11:15:23, 150.0, lavanov(EVA), Two high shear MP crossings 
+2018-01-09/11:15:23 - 2018-01-09/11:17:03, 150.0, lavanov(EVA), Two high shear MP crossings 
+2018-01-09/11:17:03 - 2018-01-09/11:19:03,  99.0, lavanov(EVA),  Cold ions
+2018-01-09/11:19:03 - 2018-01-09/11:21:13,  99.0, lavanov(EVA),  Cold ions
+2018-01-09/11:21:13 - 2018-01-09/11:23:33, 155.0, lavanov(EVA)," High shear MP crossing with -Vz jet, low energy ions from the sphere side "
+2018-01-09/11:23:33 - 2018-01-09/11:25:53, 100.0, lavanov(EVA),  Turbulent MSHeath interval between two MP crossings
+2018-01-09/11:25:53 - 2018-01-09/11:28:13, 100.0, lavanov(EVA),  Turbulent MSHeath interval between two MP crossings
+2018-01-09/11:28:13 - 2018-01-09/11:31:13, 155.0, lavanov(EVA),"  High shear MP crossing  with flow reversal, low energy "
+2018-01-09/11:37:13 - 2018-01-09/11:40:13, 155.0, lavanov(EVA), Two high shear MP crossing with B minimal at firsrt one 

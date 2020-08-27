@@ -1,0 +1,45 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-03-24/06:34:43 - 2018-03-24/06:37:03,  90.0, lavanov(EVA),"  Boundary layer, flow revesral"
+2018-03-24/06:38:43 - 2018-03-24/06:41:23, 100.0, lavanov(EVA), Partial MP crossings with b null 
+2018-03-24/06:44:23 - 2018-03-24/06:45:53, 100.0, lavanov(EVA), Low shear MP crossing
+2018-03-24/06:45:53 - 2018-03-24/06:47:23, 100.0, lavanov(EVA), Low shear MP crossing
+2018-03-24/06:47:23 - 2018-03-24/06:49:13,  90.0, lavanov(EVA),  Fill: magnetosehath boundary layer
+2018-03-24/06:49:13 - 2018-03-24/06:51:13, 100.0, lavanov(EVA), Partial MP crossong 
+2018-03-24/06:53:43 - 2018-03-24/06:55:23, 100.0, lavanov(EVA), Two Partial  MP crossings
+2018-03-24/07:03:33 - 2018-03-24/07:05:53, 130.0, lavanov(EVA), Two low shear MP crossings 
+2018-03-24/07:05:53 - 2018-03-24/07:08:13, 130.0, lavanov(EVA), Two low shear MP crossings 
+2018-03-24/07:09:23 - 2018-03-24/07:10:53, 105.0, lavanov(EVA), Set of 3  two high and in the middle low shear MP crossings 
+2018-03-24/07:10:53 - 2018-03-24/07:12:33, 105.0, lavanov(EVA), Set of 3  two high and in the middle low shear MP crossings 
+2018-03-24/10:37:23 - 2018-03-24/10:41:23, 100.0, lavanov(EVA), Long Q par bow shock crossing
+2018-03-24/10:49:23 - 2018-03-24/10:51:13,  90.0, lavanov(EVA),  Foreshock fenomena
+2018-03-24/10:53:23 - 2018-03-24/10:54:03,  90.0, lavanov(EVA), HFA is being formed
+2018-03-24/10:56:33 - 2018-03-24/10:57:43, 105.0, lavanov(EVA), Structured HFA 
+2018-03-24/11:06:53 - 2018-03-24/11:11:33,  90.0, lavanov(EVA),"  Two succesive HFA, strong boundary magnetic field increase."
+2018-03-24/11:28:03 - 2018-03-24/11:30:23, 100.0, lavanov(EVA), Set of HFAs 
+2018-03-24/11:30:23 - 2018-03-24/11:32:53, 100.0, lavanov(EVA), Set of HFAs 
+2018-03-24/11:39:33 - 2018-03-24/11:41:03, 100.0, lavanov(EVA),  HFA
+2018-03-24/11:56:13 - 2018-03-24/11:58:23,  90.0, lavanov(EVA), Bow shock 
+2018-03-24/11:58:43 - 2018-03-24/12:00:03,  90.0, lavanov(EVA),  Bow Shock
+2018-03-24/12:00:53 - 2018-03-24/12:02:33,  90.0, lavanov(EVA), Bow shock 
+2018-03-24/12:04:33 - 2018-03-24/12:05:53,  90.0, lavanov(EVA), Qpar bow shock 
+2018-03-24/12:07:03 - 2018-03-24/12:08:33,  90.0, lavanov(EVA), Qpar bow shock 
+2018-03-24/12:12:23 - 2018-03-24/12:14:33,  90.0, lavanov(EVA), Qpar bow shock with upstream in the solar windHFA (?) 
+2018-03-24/12:22:33 - 2018-03-24/12:24:53, 100.0, lavanov(EVA)," Intersting solar wind/bow shock, could be two Qpar shocks or two HFAs(?)Two HFAs  "
+2018-03-24/12:25:43 - 2018-03-24/12:29:03, 100.0, lavanov(EVA)," INteresting sloar wind/bow shock, could be two Qpar shocks or two HFAs."
+2018-03-24/12:31:33 - 2018-03-24/12:33:13, 100.0, lavanov(EVA), Qpar bow shock 
+2018-03-24/12:34:13 - 2018-03-24/12:36:23, 100.0, lavanov(EVA), Bow shock with sigificant density increase in the Msheath 
+2018-03-24/12:41:43 - 2018-03-24/12:43:43,  90.0, lavanov(EVA), Qpar bow shock 
+2018-03-24/12:43:43 - 2018-03-24/12:45:33,  90.0, lavanov(EVA), Qpar bow shock 
+2018-03-24/13:10:43 - 2018-03-24/13:12:43,  80.0, lavanov(EVA), Skimming the Bow shock 
+2018-03-24/13:12:43 - 2018-03-24/13:14:53,  80.0, lavanov(EVA), Skimming the Bow shock 
+2018-03-24/13:19:23 - 2018-03-24/13:21:43,  90.0, lavanov(EVA), Qpar bows hock 
+2018-03-24/13:25:43 - 2018-03-24/13:27:13,  90.0, lavanov(EVA)," Qpar bow shock, final exiting to solar wind"
+2018-03-25/12:42:13 - 2018-03-25/12:42:53,  80.0, lavanov(EVA), SC in the solar wind 
+2018-03-25/13:04:03 - 2018-03-25/13:04:43,  65.0, lavanov(EVA), CS in the solar wind 
+2018-03-26/04:23:13 - 2018-03-26/04:26:43, 100.0, plindqvist(EVA)," CS in solar wind, SW holes"
+2018-03-26/06:14:23 - 2018-03-26/06:16:33, 110.0, plindqvist(EVA), Qperp bow shock
+2018-03-26/06:30:03 - 2018-03-26/06:34:13, 110.0, plindqvist(EVA), Qperp bow shock
+2018-03-26/06:43:53 - 2018-03-26/06:45:53, 110.0, plindqvist(EVA), Qperp bow shock
+2018-03-26/07:27:23 - 2018-03-26/07:30:53, 110.0, plindqvist(EVA), Qperp bow shocks
+2018-03-26/07:33:03 - 2018-03-26/07:36:43, 110.0, plindqvist(EVA), Qperp bow shock
+2018-03-26/07:52:23 - 2018-03-26/07:55:13, 100.0, plindqvist(EVA)," CS in solar wind, e heating"

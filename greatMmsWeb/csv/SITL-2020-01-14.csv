@@ -1,0 +1,39 @@
+DATETIME,FOM,ID,DISCUSSION
+2020-01-14/19:22:03 - 2020-01-14/19:23:23, 125.0, seriksson(EVA),  Partial MP
+2020-01-14/19:23:23 - 2020-01-14/19:24:03,  55.0, seriksson(EVA),  Fill
+2020-01-14/19:24:03 - 2020-01-14/19:25:43, 125.0, seriksson(EVA),  Partial MP
+2020-01-14/19:44:13 - 2020-01-14/19:47:13, 100.0, seriksson(EVA),  Two partial MPs with small Vz fluctuations
+2020-01-14/19:55:53 - 2020-01-14/19:57:43, 150.0, seriksson(EVA),"  Complete, extended MP with embedded Vz>0 Rx jets"
+2020-01-14/19:57:43 - 2020-01-14/19:59:33, 150.0, seriksson(EVA),"  Complete, extended MP with embedded Vz>0 Rx jets"
+2020-01-14/19:59:33 - 2020-01-14/20:02:53, 175.0, seriksson(EVA),"  Complete, extended MP with embedded Vz>0 Rx jets"
+2020-01-14/20:02:53 - 2020-01-14/20:05:03, 175.0, seriksson(EVA),"  Complete, extended MP with embedded Vz>0 Rx jets"
+2020-01-14/20:05:03 - 2020-01-14/20:07:23, 175.0, seriksson(EVA),"  Complete, extended MP with embedded Vz>0 Rx jets"
+2020-01-14/20:07:23 - 2020-01-14/20:09:43, 175.0, seriksson(EVA),"  Complete, extended MP with embedded Vz>0 Rx jets"
+2020-01-14/20:09:43 - 2020-01-14/20:12:03, 175.0, seriksson(EVA),"  Complete, extended MP with embedded Vz>0 Rx jets"
+2020-01-14/20:12:03 - 2020-01-14/20:14:23, 175.0, seriksson(EVA),"  Complete, extended MP with embedded Vz>0 Rx jets"
+2020-01-14/20:14:23 - 2020-01-14/20:15:33, 150.0, seriksson(EVA),"  Complete, extended MP with embedded Vz>0 Rx jets"
+2020-01-14/21:40:53 - 2020-01-14/21:41:53, 145.0, seriksson(EVA),  Magnetosheath CS with enhanced diffB 0.4 uA/m2
+2020-01-14/22:11:13 - 2020-01-14/22:13:23, 125.0, seriksson(EVA),  Bow shock with intense CS
+2020-01-14/22:13:23 - 2020-01-14/22:15:33, 125.0, seriksson(EVA),  Bow shock with intense CS
+2020-01-14/22:15:33 - 2020-01-14/22:18:43, 125.0, seriksson(EVA),  Bow shock with intense CS
+2020-01-14/22:18:43 - 2020-01-14/22:20:13, 115.0, seriksson(EVA),  Bow shock with intense CS
+2020-01-14/23:34:53 - 2020-01-14/23:37:03, 120.0, seriksson(EVA),  Foreshock bubble
+2020-01-15/01:49:13 - 2020-01-15/01:50:13, 100.0, seriksson(EVA),  Two solar wind Bxz CS - unresolved exhausts
+2020-01-15/01:50:13 - 2020-01-15/01:51:33, 125.0, seriksson(EVA),  SW Bz CS
+2020-01-16/08:12:23 - 2020-01-16/08:14:13, 150.0, seriksson(EVA),  SW By CS with exhaust
+2020-01-16/09:51:33 - 2020-01-16/09:53:23, 150.0, seriksson(EVA),  Bifurcated SW Bz CS with exhaust
+2020-01-16/14:24:33 - 2020-01-16/14:28:13, 150.0, seriksson(EVA), High-shear (low Btot) SW Bx CS with Vx exhaust
+2020-01-16/15:39:23 - 2020-01-16/15:43:03, 125.0, seriksson(EVA),  Two bifurcated SW current sheets
+2020-01-17/10:41:43 - 2020-01-17/10:43:13, 120.0, seriksson(EVA),  SW CS - unresolved exhaust
+2020-01-17/11:30:03 - 2020-01-17/11:31:13, 125.0, seriksson(EVA),  Narrow SW By CS
+2020-01-17/11:47:23 - 2020-01-17/11:48:53, 125.0, seriksson(EVA),  SW current sheet - unresolved exhaust
+2020-01-17/11:58:23 - 2020-01-17/11:59:33, 145.0, seriksson(EVA),  Narrow SW current sheet
+2020-01-17/12:33:23 - 2020-01-17/12:34:13, 135.0, seriksson(EVA),  Narrow SW Bz CS
+2020-01-17/12:53:03 - 2020-01-17/12:53:33, 125.0, seriksson(EVA),  Narrow SW By CS
+2020-01-17/12:54:53 - 2020-01-17/12:55:53, 125.0, seriksson(EVA),  SW CS
+2020-01-17/13:12:43 - 2020-01-17/13:13:33, 150.0, seriksson(EVA), Narrow SW CS with bipolar Hall-like BM
+2020-01-17/14:02:03 - 2020-01-17/14:03:13, 125.0, seriksson(EVA),  Narrow SW Bxz CS
+2020-01-17/14:40:23 - 2020-01-17/14:44:43, 120.0, seriksson(EVA),  Hot Flow Anomaly (HFA)
+2020-01-17/14:47:43 - 2020-01-17/14:51:23, 100.0, seriksson(EVA),  Potential HFA
+2020-01-17/15:01:33 - 2020-01-17/15:03:33, 120.0, seriksson(EVA),  HFA
+2020-01-17/15:49:03 - 2020-01-17/15:50:23, 125.0, seriksson(EVA),  Low-shear bifurcated SW current sheet

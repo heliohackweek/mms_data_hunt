@@ -1,0 +1,46 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-01-28/00:10:53 - 2019-01-28/00:13:43, 140.0, seriksson(EVA),"  Partial MP crossing with jet reversals at MMS1,2 - String-of-Pearl (SoP)"
+2019-01-28/00:18:33 - 2019-01-28/00:21:03, 165.0, seriksson(EVA),"  High-shear MP crossing with multiple jets and jet reversals at MMS3,4 (SoP)"
+2019-01-28/00:21:03 - 2019-01-28/00:23:33, 165.0, seriksson(EVA),"  High-shear MP crossing with multiple jets and jet reversals at MMS3,4 (SoP)"
+2019-01-28/00:23:33 - 2019-01-28/00:26:03, 165.0, seriksson(EVA),"  High-shear MP crossing with multiple jets and jet reversals at MMS3,4 (SoP)"
+2019-01-28/00:26:03 - 2019-01-28/00:28:33, 175.0, seriksson(EVA),"  High-shear MP crossing with multiple jets and jet reversals at MMS3,4 (SoP)"
+2019-01-28/00:28:33 - 2019-01-28/00:30:53, 175.0, seriksson(EVA),"  High-shear MP crossing with multiple jets and jet reversals at MMS3,4 (SoP)"
+2019-01-28/00:30:53 - 2019-01-28/00:33:23, 175.0, seriksson(EVA),"  High-shear MP crossing with multiple jets and jet reversals at MMS3,4 (SoP)"
+2019-01-28/00:33:23 - 2019-01-28/00:35:53, 155.0, seriksson(EVA),"  High-shear MP crossing with multiple jets and jet reversals at MMS3,4 (SoP)"
+2019-01-28/00:35:53 - 2019-01-28/00:38:23, 165.0, seriksson(EVA),"  High-shear MP crossing with multiple jets and jet reversals at MMS3,4 (SoP)"
+2019-01-28/00:38:23 - 2019-01-28/00:40:53, 150.0, seriksson(EVA),"  High-shear MP crossing with multiple jets and jet reversals at MMS3,4 (SoP)"
+2019-01-28/00:44:23 - 2019-01-28/00:45:33, 100.0, seriksson(EVA),  Magnetosheath CS (MMS3 only)
+2019-01-28/00:51:53 - 2019-01-28/00:53:33, 105.0, seriksson(EVA),  Magnetosheath Bz rotations 
+2019-01-28/01:12:33 - 2019-01-28/01:14:53, 155.0, seriksson(EVA),  Narrow magnetosheath Bz CS (SoP)
+2019-01-28/01:27:23 - 2019-01-28/01:29:33, 150.0, seriksson(EVA),  Magnetosheath Bz CS
+2019-01-28/01:31:13 - 2019-01-28/01:32:33, 150.0, seriksson(EVA),  Magnetosheath Bz CS
+2019-01-28/01:39:53 - 2019-01-28/01:42:13, 150.0, seriksson(EVA),  Magnetosheath Bz CS
+2019-01-28/01:44:53 - 2019-01-28/01:46:23, 150.0, seriksson(EVA),  Magnetosheath Bz CS
+2019-01-28/02:10:53 - 2019-01-28/02:12:53, 150.0, seriksson(EVA),  Magnetosheath Bz CS
+2019-01-28/02:31:33 - 2019-01-28/02:32:53, 150.0, seriksson(EVA),  Magnetoshetah Bz CS
+2019-01-28/02:52:23 - 2019-01-28/02:53:33,  75.0, seriksson(EVA),  Foreshock encounter
+2019-01-28/03:10:03 - 2019-01-28/03:11:23, 100.0, seriksson(EVA),  Foreshock encounter with bipolar Bz rotation at all MMS s/c
+2019-01-28/03:45:33 - 2019-01-28/03:46:23, 125.0, seriksson(EVA),"  Magnetosheath Bx CS (MMS 1,2 mostly)"
+2019-01-28/03:50:53 - 2019-01-28/03:53:13, 125.0, seriksson(EVA),  Bow shock (SoP)
+2019-01-28/03:53:13 - 2019-01-28/03:55:13, 125.0, seriksson(EVA),  Bow shock (SoP)
+2019-01-28/03:55:13 - 2019-01-28/03:57:03, 125.0, seriksson(EVA),  Bow shock (SoP)
+2019-01-28/04:31:03 - 2019-01-28/04:34:23,  85.0, seriksson(EVA),  Foreshock
+2019-01-28/04:43:43 - 2019-01-28/04:45:03, 115.0, seriksson(EVA),  High-shear solar wind CS
+2019-01-28/04:45:23 - 2019-01-28/04:46:33, 135.0, seriksson(EVA),  Solar wind Bxy CS and foreshock encounter
+2019-01-28/04:48:43 - 2019-01-28/04:49:53, 135.0, seriksson(EVA),  High-shear bifurcated solar wind CS and subsequent By CS
+2019-01-28/05:21:53 - 2019-01-28/05:23:03, 130.0, seriksson(EVA),  Solar wind CS
+2019-01-28/05:26:33 - 2019-01-28/05:28:13, 150.0, seriksson(EVA),  Solar wind Bxz CS and potential Viz jet
+2019-01-28/05:34:03 - 2019-01-28/05:34:53, 115.0, seriksson(EVA),  Solar wind Bx CS
+2019-01-28/06:40:03 - 2019-01-28/06:42:13, 175.0, seriksson(EVA),  Solar wind Bz CS with Viz jet
+2019-01-29/04:19:03 - 2019-01-29/04:19:43, 125.0, seriksson(EVA), Bifurcated solar wind Bz CS
+2019-01-29/04:22:53 - 2019-01-29/04:24:03, 120.0, seriksson(EVA),  Solar wind Bz CS
+2019-01-30/00:14:53 - 2019-01-30/00:15:53, 145.0, seriksson(EVA),  Solar wind By CS with Viy jet in foreshock
+2019-01-30/00:19:43 - 2019-01-30/00:20:53, 135.0, seriksson(EVA), Bifurcated solar wind Bz CS in foreshock (too narrow to resolve)
+2019-01-30/00:37:13 - 2019-01-30/00:39:23, 105.0, seriksson(EVA),  By rotation with potential Viy jet in foreshock
+2019-01-30/01:05:23 - 2019-01-30/01:08:23, 120.0, seriksson(EVA),  Potential Vixz jets across Bxz CS and Viy jets at By CS in ion foreshock
+2019-01-30/02:55:03 - 2019-01-30/02:58:43, 115.0, seriksson(EVA), Viy deflection at shock encounter - possible HFA
+2019-01-30/03:47:23 - 2019-01-30/03:49:43, 120.0, seriksson(EVA), Bow shock and turbulent downstream magnetosheath with leading Viz flow HFA-like deflection
+2019-01-30/03:49:43 - 2019-01-30/03:51:53, 120.0, seriksson(EVA), Bow shock and turbulent downstream magnetosheath with leading Viz flow HFA-like deflection
+2019-01-30/03:51:53 - 2019-01-30/03:54:13, 120.0, seriksson(EVA), Bow shock and turbulent downstream magnetosheath with leading Viz flow HFA-like deflection
+2019-01-30/03:54:13 - 2019-01-30/03:56:23, 120.0, seriksson(EVA), Bow shock and turbulent downstream magnetosheath with leading Viz flow HFA-like deflection
+2019-01-30/03:56:23 - 2019-01-30/03:59:13, 120.0, seriksson(EVA), Bow shock and turbulent downstream magnetosheath with leading Viz flow HFA-like deflection

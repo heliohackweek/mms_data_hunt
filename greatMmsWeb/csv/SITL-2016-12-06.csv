@@ -1,0 +1,57 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-12-06/09:42:34 - 2016-12-06/09:43:34,  75.0, tphan(EVA),  bow shock
+2016-12-06/09:46:04 - 2016-12-06/09:47:14,  75.0, tphan(EVA),  bow shock
+2016-12-06/09:53:24 - 2016-12-06/09:54:44,  75.0, tphan(EVA),  bow shock
+2016-12-06/09:55:34 - 2016-12-06/09:57:34,  70.0, tphan(EVA), foreshock/bow shock
+2016-12-06/09:57:34 - 2016-12-06/09:59:44,  70.0, tphan(EVA), foreshock/bow shock
+2016-12-06/10:14:44 - 2016-12-06/10:16:54,  60.0, tphan(EVA),  long foreshock/bow shock
+2016-12-06/10:16:54 - 2016-12-06/10:19:14,  60.0, tphan(EVA),  long foreshock/bow shock
+2016-12-06/10:19:14 - 2016-12-06/10:21:24,  60.0, tphan(EVA),  long foreshock/bow shock
+2016-12-06/10:29:34 - 2016-12-06/10:31:04,  75.0, tphan(EVA),  bow shock
+2016-12-06/10:36:34 - 2016-12-06/10:38:14,  75.0, tphan(EVA),  bow shock
+2016-12-06/10:41:34 - 2016-12-06/10:43:24,  75.0, tphan(EVA),  bow shock
+2016-12-06/10:43:24 - 2016-12-06/10:45:14,  75.0, tphan(EVA),  bow shock
+2016-12-06/10:54:04 - 2016-12-06/10:55:04,  75.0, tphan(EVA),  bow shock
+2016-12-06/10:59:24 - 2016-12-06/11:01:04,  75.0, tphan(EVA),  bow shock
+2016-12-06/11:17:04 - 2016-12-06/11:18:24,  75.0, tphan(EVA),  bow shock
+2016-12-06/11:37:34 - 2016-12-06/11:39:44, 100.0, tphan(EVA),  pristine solar wind
+2016-12-06/11:39:44 - 2016-12-06/11:41:54, 100.0, tphan(EVA),  pristine solar wind
+2016-12-06/11:41:54 - 2016-12-06/11:44:04, 100.0, tphan(EVA),  pristine solar wind
+2016-12-06/12:04:14 - 2016-12-06/12:04:54,  75.0, tphan(EVA),  bow shock
+2016-12-06/14:44:54 - 2016-12-06/14:47:24,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/14:47:24 - 2016-12-06/14:49:44,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/14:49:44 - 2016-12-06/14:52:14,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/14:52:14 - 2016-12-06/14:54:34,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/14:54:34 - 2016-12-06/14:57:04,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/14:57:04 - 2016-12-06/14:59:34,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/14:59:34 - 2016-12-06/15:01:54,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:01:54 - 2016-12-06/15:04:24,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:04:24 - 2016-12-06/15:06:44,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:06:44 - 2016-12-06/15:09:14,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:09:14 - 2016-12-06/15:11:34,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:11:34 - 2016-12-06/15:14:04,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:14:04 - 2016-12-06/15:16:34,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:16:34 - 2016-12-06/15:18:54,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:18:54 - 2016-12-06/15:21:24,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:21:24 - 2016-12-06/15:23:44,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:23:44 - 2016-12-06/15:26:14,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:26:14 - 2016-12-06/15:28:44,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:28:44 - 2016-12-06/15:31:04,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:31:04 - 2016-12-06/15:33:34,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:33:34 - 2016-12-06/15:35:54,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:35:54 - 2016-12-06/15:38:24,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:38:24 - 2016-12-06/15:40:44,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:40:44 - 2016-12-06/15:43:14,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:43:14 - 2016-12-06/15:45:44,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:45:44 - 2016-12-06/15:48:04,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:48:04 - 2016-12-06/15:50:34,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:50:34 - 2016-12-06/15:52:54,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:52:54 - 2016-12-06/15:55:24,  45.0, tphan(EVA),  nice and long plasma depletion layer
+2016-12-06/15:55:24 - 2016-12-06/15:57:24, 150.0, tphan(EVA),  complete low-shear MP
+2016-12-06/15:57:24 - 2016-12-06/15:59:34, 150.0, tphan(EVA),  complete low-shear MP
+2016-12-06/16:03:54 - 2016-12-06/16:06:14, 100.0, tphan(EVA),  partial low-shear MP
+2016-12-06/16:06:14 - 2016-12-06/16:08:44, 100.0, tphan(EVA),  partial low-shear MP
+2016-12-06/16:11:44 - 2016-12-06/16:13:44, 100.0, tphan(EVA),  partial low-shear MP
+2016-12-06/16:13:44 - 2016-12-06/16:15:54, 100.0, tphan(EVA),  partial low-shear MP
+2016-12-06/16:15:54 - 2016-12-06/16:17:54, 100.0, tphan(EVA),  partial low-shear MP
+2016-12-06/16:17:54 - 2016-12-06/16:20:04, 100.0, tphan(EVA),  partial low-shear MP

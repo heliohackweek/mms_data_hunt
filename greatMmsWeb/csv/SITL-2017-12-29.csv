@@ -1,0 +1,84 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-12-29/15:19:03 - 2017-12-29/15:23:33,  44.0, svines(EVA)," Fast perpendicular ion flows, lots of E-field wave activity "
+2017-12-29/15:32:03 - 2017-12-29/15:34:03,  68.0, svines(EVA), Long excursion through the MP boundary layers
+2017-12-29/15:34:03 - 2017-12-29/15:36:03,  68.0, svines(EVA), Long excursion through the MP boundary layers
+2017-12-29/15:36:03 - 2017-12-29/15:38:03,  68.0, svines(EVA), Long excursion through the MP boundary layers
+2017-12-29/15:38:03 - 2017-12-29/15:40:03,  68.0, svines(EVA), Long excursion through the MP boundary layers
+2017-12-29/15:40:03 - 2017-12-29/15:40:33, 120.0, svines(EVA), Possible FTE/Traveling Compression Region (TCR)
+2017-12-29/15:42:03 - 2017-12-29/15:43:03, 100.0, pgangkai(EVA), chains of TCRs/FTEs
+2017-12-29/15:43:03 - 2017-12-29/15:44:03,  78.0, svines(EVA), Boundary layer excursion with between MP crosses 
+2017-12-29/15:44:03 - 2017-12-29/15:46:23, 160.0, pgangkai(EVA), magnetopause crossing
+2017-12-29/15:51:23 - 2017-12-29/15:53:13, 120.0, pgangkai(EVA), Possible chains of FTEs/TCRs
+2017-12-29/15:53:13 - 2017-12-29/15:55:13, 120.0, pgangkai(EVA), Possible chains of FTEs/TCRs
+2017-12-29/15:57:03 - 2017-12-29/15:59:13,  80.0, pgangkai(EVA), Magnetic field fluctuation out of phase with density; likely to be mirror mode waves
+2017-12-29/15:59:13 - 2017-12-29/16:01:33,  80.0, pgangkai(EVA), Magnetic field fluctuation out of phase with density; likely to be mirror mode waves
+2017-12-29/16:01:33 - 2017-12-29/16:03:43,  80.0, pgangkai(EVA), Magnetic field fluctuation out of phase with density; likely to be mirror mode waves
+2017-12-29/16:09:23 - 2017-12-29/16:11:43,  80.0, pgangkai(EVA), Possible mirror mode waves
+2017-12-29/16:11:43 - 2017-12-29/16:14:03,  80.0, pgangkai(EVA), Possible mirror mode waves
+2017-12-29/16:14:03 - 2017-12-29/16:16:23,  80.0, pgangkai(EVA), Possible mirror mode waves
+2017-12-29/16:16:23 - 2017-12-29/16:18:43,  80.0, pgangkai(EVA), Possible mirror mode waves
+2017-12-29/16:18:43 - 2017-12-29/16:21:03,  80.0, pgangkai(EVA), Possible mirror mode waves
+2017-12-29/16:21:03 - 2017-12-29/16:23:23,  80.0, pgangkai(EVA), Possible mirror mode waves
+2017-12-29/17:14:23 - 2017-12-29/17:16:43, 100.0, pgangkai(EVA), Bow shock crossing with overshoot
+2017-12-29/17:16:43 - 2017-12-29/17:19:03, 100.0, pgangkai(EVA), Bow shock crossing with overshoot
+2017-12-29/17:19:53 - 2017-12-29/17:22:53, 100.0, pgangkai(EVA), bow shock crossing
+2017-12-29/17:23:23 - 2017-12-29/17:25:53,  90.0, pgangkai(EVA), HFAs
+2017-12-29/17:25:53 - 2017-12-29/17:28:23,  90.0, pgangkai(EVA), HFAs
+2017-12-29/17:28:23 - 2017-12-29/17:30:53,  90.0, pgangkai(EVA), HFAs
+2017-12-29/18:09:53 - 2017-12-29/18:11:53,  90.0, pgangkai(EVA), Possible HFA
+2017-12-29/18:11:53 - 2017-12-29/18:13:53,  90.0, pgangkai(EVA), Possible HFA
+2017-12-29/18:38:13 - 2017-12-29/18:40:33, 100.0, pgangkai(EVA), Bow shock crossing/HFA 
+2017-12-29/18:40:33 - 2017-12-29/18:42:53, 100.0, pgangkai(EVA), Bow shock crossing/HFA 
+2017-12-29/18:42:53 - 2017-12-29/18:45:03, 100.0, pgangkai(EVA), Bow shock crossing/HFA 
+2017-12-29/18:45:03 - 2017-12-29/18:47:23, 100.0, pgangkai(EVA), Bow shock crossing/HFA 
+2017-12-29/18:47:23 - 2017-12-29/18:49:43, 100.0, pgangkai(EVA), Bow shock crossing/HFA 
+2017-12-29/19:04:03 - 2017-12-29/19:06:03,  90.0, pgangkai(EVA), Possible HFA
+2017-12-29/19:06:03 - 2017-12-29/19:08:03,  90.0, pgangkai(EVA), Possible HFA
+2017-12-29/19:08:03 - 2017-12-29/19:10:13,  90.0, pgangkai(EVA), Possible HFA
+2017-12-29/19:10:13 - 2017-12-29/19:12:13,  90.0, pgangkai(EVA), Possible HFA
+2017-12-29/19:12:13 - 2017-12-29/19:14:13,  90.0, pgangkai(EVA), Possible HFA
+2017-12-29/19:20:13 - 2017-12-29/19:23:43,  90.0, pgangkai(EVA), Possible HFA
+2017-12-29/19:39:03 - 2017-12-29/19:41:33, 100.0, pgangkai(EVA), Possible multiple bow shock crossing or HFA
+2017-12-29/19:41:33 - 2017-12-29/19:43:53, 100.0, pgangkai(EVA), Possible multiple bow shock crossing or HFA
+2017-12-29/19:43:53 - 2017-12-29/19:46:23, 100.0, pgangkai(EVA), Possible multiple bow shock crossing or HFA
+2017-12-29/19:46:23 - 2017-12-29/19:48:43, 100.0, pgangkai(EVA), Possible multiple bow shock crossing or HFA
+2017-12-29/19:48:43 - 2017-12-29/19:51:13, 100.0, pgangkai(EVA), Possible multiple bow shock crossing or HFA
+2017-12-29/19:51:13 - 2017-12-29/19:53:33, 100.0, pgangkai(EVA), Possible multiple bow shock crossing or HFA
+2017-12-29/19:53:33 - 2017-12-29/19:56:03, 100.0, pgangkai(EVA), Possible multiple bow shock crossing or HFA
+2017-12-29/19:56:03 - 2017-12-29/19:58:23, 100.0, pgangkai(EVA), Possible multiple bow shock crossing or HFA
+2017-12-29/19:58:23 - 2017-12-29/20:00:53, 100.0, pgangkai(EVA), Possible multiple bow shock crossing or HFA
+2017-12-29/20:00:53 - 2017-12-29/20:03:13, 100.0, pgangkai(EVA), Possible multiple bow shock crossing or HFA
+2017-12-29/20:03:13 - 2017-12-29/20:05:43, 100.0, pgangkai(EVA), Possible multiple bow shock crossing or HFA
+2017-12-29/20:23:33 - 2017-12-29/20:25:13,  68.0, svines(EVA)," Foreshock turbulence, particle heating, waves "
+2017-12-29/20:25:13 - 2017-12-29/20:26:03,  52.0, svines(EVA)," Foreshock turbulence, particle heating, waves "
+2017-12-29/20:26:03 - 2017-12-29/20:29:03,  76.0, svines(EVA)," Foreshock turbulence, particle heating, waves "
+2017-12-29/20:50:33 - 2017-12-29/20:54:03,  67.0, svines(EVA), Foreshock waves/turbulence with heating and energetic ions 
+2017-12-29/21:57:13 - 2017-12-29/21:59:23,  78.0, svines(EVA)," Foreshock turbulence, heating and short ion flow deflection "
+2017-12-29/21:59:23 - 2017-12-29/22:01:23,  86.0, svines(EVA)," Foreshock turbulence, heating and short ion flow deflection "
+2017-12-29/22:01:23 - 2017-12-29/22:03:33,  86.0, svines(EVA)," Foreshock turbulence, heating and short ion flow deflection "
+2017-12-30/15:34:13 - 2017-12-30/15:35:13,  82.0, svines(EVA), Discontinuity/current sheet 
+2017-12-30/15:52:13 - 2017-12-30/15:54:13,  62.0, svines(EVA), Solar wind current sheets/discontinuties 
+2017-12-30/16:30:43 - 2017-12-30/16:32:33,  69.0, svines(EVA), Solar wind current sheet/discontinuity 
+2017-12-30/16:32:33 - 2017-12-30/16:34:53,  88.0, svines(EVA), Solar wind current sheet/discontinuity 
+2017-12-30/16:34:53 - 2017-12-30/16:36:33,  69.0, svines(EVA), Solar wind current sheet/discontinuity 
+2017-12-31/18:24:53 - 2017-12-31/18:25:33,  72.0, svines(EVA), SLAMS (very brief interval)
+2017-12-31/18:31:43 - 2017-12-31/18:33:43,  66.0, svines(EVA), Foreshock energetic particles and heating 
+2017-12-31/18:33:43 - 2017-12-31/18:35:53,  80.0, svines(EVA), Foreshock energetic particles and heating 
+2017-12-31/18:35:53 - 2017-12-31/18:38:03,  80.0, svines(EVA), Foreshock energetic particles and heating 
+2017-12-31/18:46:43 - 2017-12-31/18:48:43,  62.0, svines(EVA), Foreshock and energetic ions 
+2017-12-31/18:48:43 - 2017-12-31/18:50:43,  62.0, svines(EVA), Foreshock and energetic ions 
+2017-12-31/18:50:43 - 2017-12-31/18:52:53,  62.0, svines(EVA), Foreshock and energetic ions 
+2017-12-31/18:52:53 - 2017-12-31/18:54:53,  62.0, svines(EVA), Foreshock and energetic ions 
+2017-12-31/19:01:13 - 2017-12-31/19:05:03, 151.0, svines(EVA)," Solar wind x-line? Deep B minimum coinciding with reversals in all components, slight enhancement of diffB, some wave activity"
+2017-12-31/22:08:43 - 2017-12-31/22:10:53,  90.0, svines(EVA),  Quasi-perp bow shock
+2017-12-31/22:30:43 - 2017-12-31/22:32:23,  77.0, svines(EVA), Current sheet/discontinuity in sheath 
+2017-12-31/22:43:23 - 2017-12-31/22:45:03,  81.0, svines(EVA), Current sheet/discontinuity in sheath
+2017-12-31/22:53:43 - 2017-12-31/22:55:33,  88.0, svines(EVA), Current sheet in sheath  
+2018-01-01/00:01:43 - 2018-01-01/00:05:43, 118.0, svines(EVA), Sheath reconnection - Bifurcated Bz and reversals in By and Bx with production of energetic ions
+2018-01-01/00:17:23 - 2018-01-01/00:21:33,  67.0, svines(EVA), Mirror mode waves
+2018-01-01/00:53:43 - 2018-01-01/00:55:43,  72.0, svines(EVA)," Current sheet/discontinuity, production of energetic ions "
+2018-01-01/00:55:43 - 2018-01-01/00:57:33,  86.0, svines(EVA)," Current sheet/discontinuity, production of energetic ions "
+2018-01-01/00:57:33 - 2018-01-01/00:59:33,  86.0, svines(EVA)," Current sheet/discontinuity, production of energetic ions "
+2018-01-01/01:07:23 - 2018-01-01/01:10:23,  73.0, svines(EVA)," Wave activity, energetic ions "
+2018-01-01/01:58:33 - 2018-01-01/02:01:13, 117.0, svines(EVA), FTE/TCR
+2018-01-01/02:10:03 - 2018-01-01/02:13:33, 121.0, svines(EVA), FTE/TCR (X-line associated with an FTE?) 

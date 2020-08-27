@@ -1,0 +1,51 @@
+DATETIME,FOM,ID,DISCUSSION
+2020-02-25/21:56:33 - 2020-02-25/21:58:53,  80.0, kgenestreti(EVA)," Cold electrons being energized, interesting E waves"
+2020-02-25/21:58:53 - 2020-02-25/22:01:23,  80.0, kgenestreti(EVA)," Cold electrons being energized, interesting E waves"
+2020-02-25/22:01:23 - 2020-02-25/22:03:43,  80.0, kgenestreti(EVA)," Cold electrons being energized, interesting E waves"
+2020-02-25/22:03:43 - 2020-02-25/22:06:03,  80.0, kgenestreti(EVA)," Cold electrons being energized, interesting E waves"
+2020-02-25/22:06:03 - 2020-02-25/22:08:33,  80.0, kgenestreti(EVA)," Cold electrons being energized, interesting E waves"
+2020-02-25/22:08:33 - 2020-02-25/22:10:53,  80.0, kgenestreti(EVA)," Cold electrons being energized, interesting E waves"
+2020-02-25/22:10:53 - 2020-02-25/22:13:23,  80.0, kgenestreti(EVA)," Cold electrons being energized, interesting E waves"
+2020-02-25/22:13:23 - 2020-02-25/22:15:43,  80.0, kgenestreti(EVA)," Cold electrons being energized, interesting E waves"
+2020-02-25/22:43:53 - 2020-02-25/22:45:53, 130.0, kgenestreti(EVA), Partial magnetopause crossing with sunward jet
+2020-02-25/22:45:53 - 2020-02-25/22:47:43, 130.0, kgenestreti(EVA), Partial magnetopause crossing with sunward jet
+2020-02-25/22:47:43 - 2020-02-25/22:48:33,  60.0, kgenestreti(EVA), Filler between two magnetopause crossings
+2020-02-25/22:48:33 - 2020-02-25/22:50:03, 175.0, kgenestreti(EVA), Full magnetopause crossing with possible jet reversal
+2020-02-25/22:50:03 - 2020-02-25/22:52:13, 175.0, kgenestreti(EVA), Full magnetopause crossing with possible jet reversal
+2020-02-25/22:52:13 - 2020-02-25/22:53:23,  60.0, kgenestreti(EVA), Filler between two magnetopause crossings
+2020-02-25/22:53:23 - 2020-02-25/22:55:23, 165.0, kgenestreti(EVA), Partial then full magnetopause crossing with possible ion jet reversal.
+2020-02-25/22:55:23 - 2020-02-25/22:57:13, 165.0, kgenestreti(EVA), Partial then full magnetopause crossing with possible ion jet reversal.
+2020-02-25/22:57:13 - 2020-02-25/22:59:13,  60.0, kgenestreti(EVA), Fill between two magnetopause crossings
+2020-02-25/22:59:13 - 2020-02-25/23:00:43, 150.0, kgenestreti(EVA), Full magnetopause crossing with no clear jetting
+2020-02-25/23:06:23 - 2020-02-25/23:07:43, 155.0, kgenestreti(EVA)," Full magnetopause crossing, some possible jetting"
+2020-02-25/23:07:43 - 2020-02-25/23:09:13, 155.0, kgenestreti(EVA)," Full magnetopause crossing, some possible jetting"
+2020-02-25/23:09:13 - 2020-02-25/23:10:03, 150.0, kgenestreti(EVA), Extended partial magnetopause crossing following full crossing crossing with possible jetting
+2020-02-25/23:10:03 - 2020-02-25/23:11:33, 150.0, kgenestreti(EVA), Multiple partial magnetopause crossings with possible jetting
+2020-02-25/23:11:33 - 2020-02-25/23:13:03, 150.0, kgenestreti(EVA), Multiple partial magnetopause crossings with no clear jetting
+2020-02-25/23:13:03 - 2020-02-25/23:15:33, 150.0, kgenestreti(EVA), Extended full/partial magnetopause crossing with possible jet reversal
+2020-02-25/23:15:33 - 2020-02-25/23:18:23, 150.0, kgenestreti(EVA), Extended full/partial magnetopause crossing with possible jet reversal
+2020-02-25/23:51:03 - 2020-02-25/23:53:03,  80.0, kgenestreti(EVA), Two sharp sheath current sheets with no clear jets or E field activity
+2020-02-26/00:05:43 - 2020-02-26/00:07:43,  50.0, kgenestreti(EVA), Possible HFA
+2020-02-26/00:07:43 - 2020-02-26/00:09:53,  50.0, kgenestreti(EVA), Possible HFA
+2020-02-26/00:15:03 - 2020-02-26/00:16:53,  75.0, kgenestreti(EVA), Possible HFA or partial bow shock crossing
+2020-02-26/00:16:53 - 2020-02-26/00:18:33,  75.0, kgenestreti(EVA), Possible HFA or partial bow shock crossing
+2020-02-26/00:36:53 - 2020-02-26/00:37:53,  40.0, kgenestreti(EVA)," Some sheath current sheets activity, not clean C.S.'s"
+2020-02-26/00:58:03 - 2020-02-26/01:00:23, 120.0, kgenestreti(EVA), Extended magnetosheath turbulence with many sharp current sheets downstream of quasi-// bow shock
+2020-02-26/01:00:23 - 2020-02-26/01:02:43, 120.0, kgenestreti(EVA), Extended magnetosheath turbulence with many sharp current sheets downstream of quasi-// bow shock
+2020-02-26/01:02:43 - 2020-02-26/01:05:03, 120.0, kgenestreti(EVA), Extended magnetosheath turbulence with many sharp current sheets downstream of quasi-// bow shock
+2020-02-26/01:05:03 - 2020-02-26/01:07:23, 120.0, kgenestreti(EVA), Extended magnetosheath turbulence with many sharp current sheets downstream of quasi-// bow shock
+2020-02-26/01:07:23 - 2020-02-26/01:09:33, 120.0, kgenestreti(EVA), Extended magnetosheath turbulence with many sharp current sheets downstream of quasi-// bow shock
+2020-02-26/01:09:33 - 2020-02-26/01:11:53, 120.0, kgenestreti(EVA), Extended magnetosheath turbulence with many sharp current sheets downstream of quasi-// bow shock
+2020-02-26/01:11:53 - 2020-02-26/01:14:13, 120.0, kgenestreti(EVA), Extended magnetosheath turbulence with many sharp current sheets downstream of quasi-// bow shock
+2020-02-26/01:14:13 - 2020-02-26/01:16:33, 120.0, kgenestreti(EVA), Extended magnetosheath turbulence with many sharp current sheets downstream of quasi-// bow shock
+2020-02-26/01:16:33 - 2020-02-26/01:18:53, 120.0, kgenestreti(EVA), Extended magnetosheath turbulence with many sharp current sheets downstream of quasi-// bow shock
+2020-02-26/01:18:53 - 2020-02-26/01:21:13, 120.0, kgenestreti(EVA), Extended magnetosheath turbulence with many sharp current sheets downstream of quasi-// bow shock
+2020-02-26/01:30:13 - 2020-02-26/01:30:43,  80.0, kgenestreti(EVA), Partial bow shock crossing
+2020-02-26/01:30:43 - 2020-02-26/01:31:23,  40.0, kgenestreti(EVA), Fill between partial bow shock crossing and full bow shock crossing
+2020-02-26/01:31:23 - 2020-02-26/01:33:13, 120.0, kgenestreti(EVA), Partial quasi-// bow shock crossings with some sharp B reversals and B nulls
+2020-02-26/01:33:13 - 2020-02-26/01:35:13, 120.0, kgenestreti(EVA), Partial quasi-// bow shock crossings with some sharp B reversals and B nulls
+2020-02-26/01:35:13 - 2020-02-26/01:37:43, 120.0, kgenestreti(EVA), Partial quasi-// bow shock crossings with some sharp B reversals and B nulls
+2020-02-26/01:41:53 - 2020-02-26/01:43:33,  80.0, kgenestreti(EVA)," Partial bow shock crossing or HFA, moderate current sheets with no B nulls"
+2020-02-27/06:56:33 - 2020-02-27/06:57:33,  60.0, kgenestreti(EVA), Weak SW current sheet with no obvious E acitivity nor particle acceleration
+2020-02-27/07:13:23 - 2020-02-27/07:13:53,  65.0, kgenestreti(EVA), Weak SW current sheet with no obvious reconnection signatures
+2020-02-27/07:55:03 - 2020-02-27/07:56:03,  65.0, kgenestreti(EVA), Weak SW current sheet with no clear reconnection signatures

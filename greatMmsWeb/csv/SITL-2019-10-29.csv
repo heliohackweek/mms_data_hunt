@@ -1,0 +1,80 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-10-29/19:29:43 - 2019-10-29/19:31:53, 175.0, lavanov(EVA),"  Three high shear MP crossings, with B nulls"
+2019-10-29/19:31:53 - 2019-10-29/19:34:03, 175.0, lavanov(EVA),"  Three high shear MP crossings, with B nulls"
+2019-10-29/19:36:43 - 2019-10-29/19:37:13, 130.0, lavanov(EVA), MSH current sheet with Bz reversal 
+2019-10-29/19:41:43 - 2019-10-29/19:43:43, 150.0, lavanov(EVA)," High shear MP crossing, two partial MPs, O+"
+2019-10-29/19:43:43 - 2019-10-29/19:45:03, 150.0, lavanov(EVA), Partial MP crossings with sigificzntly depressed Btot 
+2019-10-29/19:45:03 - 2019-10-29/19:46:03,  85.0, lavanov(EVA),  Boundary layer
+2019-10-29/19:46:03 - 2019-10-29/19:46:53, 130.0, lavanov(EVA),"  Low shear MP crossing, with depressed Btot"
+2019-10-29/19:46:53 - 2019-10-29/19:48:03, 125.0, lavanov(EVA),  Two partia; MP crossing
+2019-10-29/19:48:03 - 2019-10-29/19:48:53, 130.0, lavanov(EVA),  Two MP crossings with Bnull on the MSH side
+2019-10-29/19:48:53 - 2019-10-29/19:51:03, 130.0, lavanov(EVA), Three short partial MP crossings 
+2019-10-29/19:51:03 - 2019-10-29/19:52:23, 105.0, lavanov(EVA),  Boundary layer/Partial MP
+2019-10-29/19:52:23 - 2019-10-29/19:53:03, 100.0, lavanov(EVA), BL/Partial MP crossing 
+2019-10-29/19:53:03 - 2019-10-29/19:54:03, 130.0, lavanov(EVA), Two partial and low shear MP crossings 
+2019-10-29/19:54:03 - 2019-10-29/19:56:13, 115.0, lavanov(EVA), KH instability 
+2019-10-29/19:56:13 - 2019-10-29/19:58:33, 115.0, lavanov(EVA), KH instability 
+2019-10-29/19:58:33 - 2019-10-29/19:59:23, 100.0, lavanov(EVA), Periodic structure in the MSH (mirror waves?)
+2019-10-29/19:59:23 - 2019-10-29/20:00:33, 125.0, lavanov(EVA), Three low shear partial MP crossings 
+2019-10-29/20:00:33 - 2019-10-29/20:02:43, 105.0, lavanov(EVA), Set of partial MP crossings 
+2019-10-29/20:02:43 - 2019-10-29/20:04:53, 105.0, lavanov(EVA), Set of partial MP crossings 
+2019-10-29/20:04:53 - 2019-10-29/20:07:03, 150.0, lavanov(EVA), Complete MP crossing with depressed Btotal on MSH side 
+2019-10-29/20:07:03 - 2019-10-29/20:09:43, 110.0, lavanov(EVA),  Partial Mp crossings/Boundary layer
+2019-10-29/20:16:53 - 2019-10-29/20:18:43, 150.0, lavanov(EVA),  High shear MP crossings followed by partial MP 
+2019-10-29/20:18:43 - 2019-10-29/20:20:23,  90.0, lavanov(EVA),  BL/skimming the MP
+2019-10-29/20:20:23 - 2019-10-29/20:22:13,  90.0, lavanov(EVA),  BL/skimming the MP
+2019-10-29/20:26:33 - 2019-10-29/20:27:13, 120.0, lavanov(EVA),  MSH CS 
+2019-10-30/05:59:03 - 2019-10-30/06:01:13,  95.0, lavanov(EVA), Compressed MSH before BS 
+2019-10-30/06:01:13 - 2019-10-30/06:03:23,  95.0, lavanov(EVA), Compressed MSH before BS 
+2019-10-30/06:03:23 - 2019-10-30/06:06:03, 135.0, lavanov(EVA),  Q-parallel Bow Schock
+2019-10-30/06:15:13 - 2019-10-30/06:17:53, 110.0, lavanov(EVA),  Set of HFAs
+2019-10-30/06:17:53 - 2019-10-30/06:20:33, 110.0, lavanov(EVA),  Set of HFAs
+2019-10-30/06:20:33 - 2019-10-30/06:23:13, 110.0, lavanov(EVA),  Set of HFAs
+2019-10-30/06:23:13 - 2019-10-30/06:25:53, 110.0, lavanov(EVA),  Set of HFAs
+2019-10-30/06:30:43 - 2019-10-30/06:33:13, 125.0, lavanov(EVA),"  Q-par BS, with strong overshoot"
+2019-10-30/06:57:23 - 2019-10-30/06:58:23, 110.0, lavanov(EVA),"  MSH CS, Bz rotation (MSH FTE?)"
+2019-10-30/12:44:13 - 2019-10-30/12:46:13, 135.0, lavanov(EVA),"  Q-perp Bow Shock, reflected energetic ions in front, and sigificant compression on the MSH side. CS prior to BS crossing"
+2019-10-31/01:48:53 - 2019-10-31/01:51:13, 135.0, lavanov(EVA)," Q-perp BS, with CS in the MSH prior to BS, strong plasma compression on the MSH side "
+2019-10-31/01:51:13 - 2019-10-31/01:53:43, 135.0, lavanov(EVA)," Q-perp BS, with CS in the MSH prior to BS, strong plasma compression on the MSH side "
+2019-10-31/16:34:03 - 2019-10-31/16:36:13, 145.0, lavanov(EVA), Bow shock or foreshock transient. Energetic particles 
+2019-10-31/16:36:13 - 2019-10-31/16:38:23, 145.0, lavanov(EVA), Bow shock or foreshock transient. Energetic particles 
+2019-10-31/16:50:53 - 2019-10-31/16:52:43, 150.0, lavanov(EVA)," Set of MSH CSs, candidate for MSH reconnection, Vz reversal. Also it could be foreshock or BS (?) "
+2019-10-31/16:52:43 - 2019-10-31/16:54:43, 150.0, lavanov(EVA)," Set of MSH CSs, candidate for MSH reconnection, Vz reversal. Also it could be foreshock or BS (?) "
+2019-10-31/17:22:53 - 2019-10-31/17:24:53, 150.0, lavanov(EVA)," Set of MSH CSs, with Bz and Vz reversal, or it is foreshock transients"
+2019-10-31/17:24:53 - 2019-10-31/17:26:53, 150.0, lavanov(EVA)," Set of MSH CSs, with Bz and Vz reversal, possible candidate MSH reconnection "
+2019-10-31/17:29:43 - 2019-10-31/17:33:13, 150.0, lavanov(EVA), BS crossing or MSH Current Sheets with Bz reversal(?) 
+2019-10-31/18:32:23 - 2019-10-31/18:34:23,  95.0, lavanov(EVA), Turbulent MSH  
+2019-10-31/18:34:23 - 2019-10-31/18:36:33,  95.0, lavanov(EVA), Turbulent MSH  
+2019-10-31/18:36:33 - 2019-10-31/18:38:33,  95.0, lavanov(EVA), Turbulent MSH  
+2019-11-01/04:32:03 - 2019-11-01/04:33:43, 140.0, lavanov(EVA),"  Magnetosheath CS, Bz reversal"
+2019-11-01/04:33:43 - 2019-11-01/04:35:13,  95.0, lavanov(EVA),  Boundary Layer
+2019-11-01/04:35:13 - 2019-11-01/04:37:03, 150.0, lavanov(EVA),  MSH CS with southward jet
+2019-11-01/04:37:03 - 2019-11-01/04:38:33, 150.0, lavanov(EVA),  MSH CS with southward jet
+2019-11-01/04:38:33 - 2019-11-01/04:40:03, 150.0, lavanov(EVA),  MSH CS with southward jet
+2019-11-01/04:40:03 - 2019-11-01/04:42:13,  95.0, lavanov(EVA),  Boundary Layer/Skimmimng the MP
+2019-11-01/04:42:13 - 2019-11-01/04:44:33,  95.0, lavanov(EVA),  Boundary Layer/Skimmimng the MP
+2019-11-01/04:44:33 - 2019-11-01/04:46:53,  95.0, lavanov(EVA),  Boundary Layer/Skimmimng the MP
+2019-11-01/04:46:53 - 2019-11-01/04:48:23,  95.0, lavanov(EVA),  Boundary Layer/Skimmimng the MP
+2019-11-01/04:48:23 - 2019-11-01/04:50:13, 150.0, lavanov(EVA), Low shear long MP crossing 
+2019-11-01/04:50:13 - 2019-11-01/04:52:13, 150.0, lavanov(EVA), Low shear long MP crossing 
+2019-11-01/04:52:13 - 2019-11-01/04:54:03, 150.0, lavanov(EVA), Low shear long MP crossing 
+2019-11-01/04:54:03 - 2019-11-01/04:55:43,  90.0, lavanov(EVA),  Boundary Layer/Skimmimng the MP
+2019-11-01/04:55:43 - 2019-11-01/04:57:53,  90.0, lavanov(EVA),  Boundary Layer/Skimmimng the MP
+2019-11-01/05:12:43 - 2019-11-01/05:14:23, 150.0, lavanov(EVA),  Long complete MP crossing with Bnull 
+2019-11-01/05:14:23 - 2019-11-01/05:16:13, 150.0, lavanov(EVA),  Long complete MP crossing with Bnull 
+2019-11-01/05:16:13 - 2019-11-01/05:17:53, 150.0, lavanov(EVA),  Long complete MP crossing with Bnull 
+2019-11-01/07:18:43 - 2019-11-01/07:20:03, 125.0, lavanov(EVA), MSH CS with flow reversal (Vz -70 +70 km/s) 
+2019-11-01/07:43:03 - 2019-11-01/07:44:23, 100.0, lavanov(EVA),"  MSH CS, Bnull"
+2019-11-01/08:16:33 - 2019-11-01/08:18:33, 120.0, lavanov(EVA),"  Two MSH CS, Btot depressed"
+2019-11-01/08:24:53 - 2019-11-01/08:28:33, 100.0, lavanov(EVA), Two partial MPs 
+2019-11-01/08:41:43 - 2019-11-01/08:42:53, 130.0, lavanov(EVA),"  MSH CS, Bnull"
+2019-11-01/09:09:13 - 2019-11-01/09:11:13, 120.0, lavanov(EVA),  Two partial MP crossings
+2019-11-01/09:11:13 - 2019-11-01/09:13:03, 120.0, lavanov(EVA),  Two partial MP crossings
+2019-11-01/09:13:03 - 2019-11-01/09:15:03, 120.0, lavanov(EVA),  Two partial MP crossings
+2019-11-01/09:15:03 - 2019-11-01/09:17:03,  80.0, lavanov(EVA), Boundary layer 
+2019-11-01/09:17:03 - 2019-11-01/09:19:03,  80.0, lavanov(EVA), Boundary layer 
+2019-11-01/09:19:03 - 2019-11-01/09:21:23, 130.0, lavanov(EVA), Long low shear MP 
+2019-11-01/09:21:23 - 2019-11-01/09:23:43, 130.0, lavanov(EVA), Long low shear MP 
+2019-11-01/09:23:43 - 2019-11-01/09:26:03, 130.0, lavanov(EVA), Long low shear MP 
+2019-11-01/09:26:03 - 2019-11-01/09:29:03,  85.0, lavanov(EVA),  Boundary layer
+2019-11-01/09:29:03 - 2019-11-01/09:30:33, 100.0, lavanov(EVA), Low shear partial MP 

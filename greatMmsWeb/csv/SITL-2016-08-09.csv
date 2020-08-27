@@ -1,0 +1,66 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-08-09/03:43:34 - 2016-08-09/03:46:24, 20.0, jstawarz(EVA),  Density enhancment with +/-100 km/s flow signature. Some field fluctuations present.
+2016-08-09/04:33:04 - 2016-08-09/04:34:24, 70.0, jstawarz(EVA),"  Dipolarization, Flows +/-200 km/s, E and B field activity, No FPI data."
+2016-08-09/04:34:24 - 2016-08-09/04:35:44, 70.0, jstawarz(EVA),"  Dipolarization, Flows +/-200 km/s, E and B field activity, No FPI data."
+2016-08-09/04:35:44 - 2016-08-09/04:37:24, 70.0, jstawarz(EVA),"  Dipolarization, Flows +/-200 km/s, E and B field activity, No FPI data."
+2016-08-09/04:37:24 - 2016-08-09/04:39:04, 70.0, jstawarz(EVA),"  Dipolarization, Flows +/-200 km/s, E and B field activity, No FPI data."
+2016-08-09/07:49:24 - 2016-08-09/07:51:54, 49.0, jstawarz(EVA),  Some flow perturbations and beginning of dipolarization. Less field activity than following section.
+2016-08-09/07:51:54 - 2016-08-09/07:54:24, 49.0, jstawarz(EVA),  Some flow perturbations and beginning of dipolarization. Less field activity than following section.
+2016-08-09/07:54:24 - 2016-08-09/07:56:24, 75.0, jstawarz(EVA),"  Dipolarization, E and B field fluctuations, +400 km/s Vx, No FPI data"
+2016-08-09/07:56:24 - 2016-08-09/07:58:34, 75.0, jstawarz(EVA),"  Dipolarization, E and B field fluctuations, +400 km/s Vx, No FPI data"
+2016-08-09/07:58:34 - 2016-08-09/08:00:34, 75.0, jstawarz(EVA),"  Dipolarization, E and B field fluctuations, +400 km/s Vx, No FPI data"
+2016-08-09/08:00:34 - 2016-08-09/08:02:44, 75.0, jstawarz(EVA),"  Dipolarization, E and B field fluctuations, +400 km/s Vx, No FPI data"
+2016-08-09/08:20:04 - 2016-08-09/08:22:04, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/08:22:04 - 2016-08-09/08:24:14, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/08:24:14 - 2016-08-09/08:26:24, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/08:26:24 - 2016-08-09/08:28:24, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/08:28:24 - 2016-08-09/08:30:34, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/08:30:34 - 2016-08-09/08:32:44, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/08:32:44 - 2016-08-09/08:34:54, 110.0, jstawarz(EVA),"  Dipolarization, increase in temperature, +/-200 km/s fluctuating velocities. FPI data available. "
+2016-08-09/08:34:54 - 2016-08-09/08:37:04, 110.0, jstawarz(EVA),"  Dipolarization, increase in temperature, +/-200 km/s fluctuating velocities. FPI data available. "
+2016-08-09/08:37:04 - 2016-08-09/08:39:34, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/08:39:34 - 2016-08-09/08:41:54, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/08:41:54 - 2016-08-09/08:44:24, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/08:44:24 - 2016-08-09/08:46:44, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/08:46:44 - 2016-08-09/08:49:14, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/08:49:14 - 2016-08-09/08:51:44, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/08:51:44 - 2016-08-09/08:54:04, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/08:54:04 - 2016-08-09/08:56:34, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/08:56:34 - 2016-08-09/08:58:54, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/08:58:54 - 2016-08-09/09:01:24, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/09:01:24 - 2016-08-09/09:03:54, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/09:03:54 - 2016-08-09/09:06:14, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/09:06:14 - 2016-08-09/09:08:44, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/09:08:44 - 2016-08-09/09:11:04, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/09:11:04 - 2016-08-09/09:13:34, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/09:13:34 - 2016-08-09/09:15:34, 70.0, jstawarz(EVA),  Gap fill pre-BBF event.
+2016-08-09/09:15:34 - 2016-08-09/09:17:14, 99.0, jstawarz(EVA),  Pre-BBF event with 300 km/s VX and field activity.
+2016-08-09/09:17:14 - 2016-08-09/09:19:04, 99.0, jstawarz(EVA),  Pre-BBF event with 300 km/s VX and field activity.
+2016-08-09/09:19:04 - 2016-08-09/09:20:44, 140.0, jstawarz(EVA),"  Strong flows up to 600 km/s, Dipolarization, E an B field activity, FPI data available on 4 s/c. Near boundary of plasma sheet. "
+2016-08-09/09:20:44 - 2016-08-09/09:22:34, 140.0, jstawarz(EVA),"  Strong flows up to 600 km/s, Dipolarization, E an B field activity, FPI data available on 4 s/c. Near boundary of plasma sheet. "
+2016-08-09/09:22:34 - 2016-08-09/09:24:14, 140.0, jstawarz(EVA),"  Strong flows up to 600 km/s, Dipolarization, E an B field activity, FPI data available on 4 s/c. Near boundary of plasma sheet. "
+2016-08-09/09:24:14 - 2016-08-09/09:26:14, 99.0, jstawarz(EVA),  Gap fill within BBF event region.
+2016-08-09/09:26:14 - 2016-08-09/09:28:14, 99.0, jstawarz(EVA),  Gap fill within BBF event region.
+2016-08-09/09:28:14 - 2016-08-09/09:29:44, 120.0, jstawarz(EVA)," Possible dipolarization, Vx -200 km/s, E field activity, FPI data available."
+2016-08-09/09:29:44 - 2016-08-09/09:31:24, 120.0, jstawarz(EVA)," Possible dipolarization, Vx -200 km/s, E field activity, FPI data available."
+2016-08-09/09:31:24 - 2016-08-09/09:33:34, 99.0, jstawarz(EVA),  Gap fill within BBF event region.
+2016-08-09/09:33:34 - 2016-08-09/09:35:24, 120.0, jstawarz(EVA),"  Dipolarization, -200 km/s Vx and 200 km/s Vz and Vy, E field fluctuations, FPI data available."
+2016-08-09/09:35:24 - 2016-08-09/09:37:04, 120.0, jstawarz(EVA),"  Dipolarization, -200 km/s Vx and 200 km/s Vz and Vy, E field fluctuations, FPI data available."
+2016-08-09/09:37:04 - 2016-08-09/09:38:54, 120.0, jstawarz(EVA),"  Dipolarization, -200 km/s Vx and 200 km/s Vz and Vy, E field fluctuations, FPI data available."
+2016-08-09/09:38:54 - 2016-08-09/09:41:14, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/09:41:14 - 2016-08-09/09:43:44, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/09:43:44 - 2016-08-09/09:46:04, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/09:46:04 - 2016-08-09/09:48:24, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/09:48:24 - 2016-08-09/09:50:54, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/09:50:54 - 2016-08-09/09:53:14, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/09:53:14 - 2016-08-09/09:55:34, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/09:55:34 - 2016-08-09/09:57:54, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/09:57:54 - 2016-08-09/10:00:24, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/10:00:24 - 2016-08-09/10:02:44, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/10:02:44 - 2016-08-09/10:05:04, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/10:05:04 - 2016-08-09/10:07:34, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/10:07:34 - 2016-08-09/10:09:54, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/10:09:54 - 2016-08-09/10:12:14, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/10:12:14 - 2016-08-09/10:14:44, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/10:14:44 - 2016-08-09/10:17:04, 50.0, jstawarz(EVA),  Fill. FPI data available.
+2016-08-09/10:17:04 - 2016-08-09/10:19:54, 50.0, jstawarz(EVA),  Fill. FPI data available.

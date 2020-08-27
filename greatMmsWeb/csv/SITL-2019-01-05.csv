@@ -1,0 +1,32 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-01-05/08:51:33 - 2019-01-05/08:53:33, 125.0, sboardsen(EVA), MSPH; ICW; probably proton cyclotron waves if He++ content low enough; observed in FPI trigger and EDP data; F/Fcp = 0.408; WNA = 6 deg; ellip = -0.71 plus strong whistler emissions at 100 Hz
+2019-01-05/09:13:33 - 2019-01-05/09:14:33,  95.0, sboardsen(EVA), MSPH ICW; F/Fcp = 0.35; wna = 18 deg; ellip = -0.518; strong cold ions; TE oscillations in FPI trigger; lower band chorus. 
+2019-01-05/09:20:43 - 2019-01-05/09:21:23,  80.0, sboardsen(EVA), Strong lower band chorus; oblique weak MSPH ICW; 
+2019-01-05/09:23:03 - 2019-01-05/09:23:33,  90.0, sboardsen(EVA), Msph ICW; F/Fcp = 0.34; wna = 16.2; ellip==0.4; strong cold ions; TE oscillations in FPI trigger; upper/lower band chorus. 
+2019-01-05/09:24:43 - 2019-01-05/09:25:43,  90.0, sboardsen(EVA), Msph ICW; db 3 nT; f/fcp=0.35; ellip=-0.14; strong cold ion; ion osccillations obsrved in FPI trigger; weak lower band chorus 
+2019-01-05/10:10:03 - 2019-01-05/10:11:43,  75.0, sboardsen(EVA), boundary layer
+2019-01-05/10:12:13 - 2019-01-05/10:13:53, 130.0, sboardsen(EVA), partial MP cr with strong 10 mV/m ES turbulence in middle; IMF BZ >0 so might be full MP cr.
+2019-01-05/10:22:53 - 2019-01-05/10:24:53, 100.0, sboardsen(EVA), partial MP; northward IMF
+2019-01-05/10:45:13 - 2019-01-05/10:46:23, 100.0, sboardsen(EVA), Msheath CS; 5 mV/M ES turbulence
+2019-01-05/11:00:33 - 2019-01-05/11:02:03, 150.0, sboardsen(EVA), MP cr
+2019-01-05/11:07:53 - 2019-01-05/11:09:43, 160.0, sboardsen(EVA), MP cr; Vz jet?; EM up to 0.5 fce; 10 mV/M ES
+2019-01-05/11:12:43 - 2019-01-05/11:14:53, 175.0, sboardsen(EVA), MP cr; Vz Jet?; Bdip at start of jet; EM up to 0.5 fce;  5 mV/M ES; bi-directional electrons
+2019-01-05/11:28:23 - 2019-01-05/11:32:13, 165.0, sboardsen(EVA), MP crs; VZ jets?; 6 mV/m ES turbulence; cold plasma
+2019-01-05/12:24:33 - 2019-01-05/12:25:13, 100.0, sboardsen(EVA), Msheath CS
+2019-01-05/13:26:53 - 2019-01-05/13:28:43, 100.0, sboardsen(EVA), Qperp BS
+2019-01-05/13:30:53 - 2019-01-05/13:32:23, 100.0, sboardsen(EVA), Qperp Bs
+2019-01-05/13:41:13 - 2019-01-05/13:42:23, 100.0, sboardsen(EVA), Qperp BS
+2019-01-05/13:47:43 - 2019-01-05/13:48:43, 100.0, sboardsen(EVA), Qperp BS
+2019-01-05/14:02:23 - 2019-01-05/14:03:33, 100.0, sboardsen(EVA), Qperp BS
+2019-01-05/14:06:03 - 2019-01-05/14:07:13,   0.0, sboardsen(EVA), HFA?
+2019-01-05/14:08:23 - 2019-01-05/14:09:13, 101.0, sboardsen(EVA), Qperp  10 mv/m; EM turublence
+2019-01-05/14:21:03 - 2019-01-05/14:22:13, 101.0, sboardsen(EVA), Qperp BS; 6 mV/m ES; EM up to 0.5 fce
+2019-01-05/14:22:33 - 2019-01-05/14:23:33, 101.0, sboardsen(EVA), Qperp BS; 10 mV/m ES; EM up to 0.5 fce
+2019-01-05/14:28:13 - 2019-01-05/14:28:53, 105.0, sboardsen(EVA), SW  strong E&B fluctuations associated with T enhancement
+2019-01-05/15:05:13 - 2019-01-05/15:06:13, 100.0, sboardsen(EVA), HFA?
+2019-01-05/15:27:03 - 2019-01-05/15:29:23, 100.0, sboardsen(EVA), SW CS
+2019-01-05/16:02:43 - 2019-01-05/16:06:03, 101.0, sboardsen(EVA), SW weak CS; one CS has whilster at 100 Hz
+2019-01-05/16:26:23 - 2019-01-05/16:27:23, 100.0, sboardsen(EVA), SW cs
+2019-01-05/16:42:53 - 2019-01-05/16:46:53, 120.0, sboardsen(EVA), Magjor SW CS crossing; end portion marked by strong E&B oscillations with spordaic whistler bursts between 50 and 200 Hz
+2019-01-05/16:46:53 - 2019-01-05/16:50:53, 120.0, sboardsen(EVA), Magjor SW CS crossing; end portion marked by strong E&B oscillations with spordaic whistler bursts between 50 and 200 Hz
+2019-01-05/17:37:53 - 2019-01-05/17:41:53, 120.0, sboardsen(EVA), HFA? Strong B fluctuations; TE&TI enhancements;4 mV/m ES 

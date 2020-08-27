@@ -1,0 +1,109 @@
+DATETIME,FOM,ID,DISCUSSION
+2020-03-25/00:24:23 - 2020-03-25/00:26:53, 175.0, lavanov(EVA),  Three high shear MP crossings. One with flow reversal.
+2020-03-25/00:26:53 - 2020-03-25/00:29:13, 175.0, lavanov(EVA),  Three high shear MP crossings. One with flow reversal.
+2020-03-25/00:29:13 - 2020-03-25/00:30:53, 175.0, lavanov(EVA),  Three high shear MP crossings. One with flow reversal.
+2020-03-25/00:30:53 - 2020-03-25/00:32:33, 175.0, lavanov(EVA),  Three high shear MP crossings. One with flow reversal.
+2020-03-25/00:32:33 - 2020-03-25/00:34:53, 145.0, lavanov(EVA),  Set of partial MP crossings
+2020-03-25/00:34:53 - 2020-03-25/00:37:23, 145.0, lavanov(EVA),  Set of partial MP crossings
+2020-03-25/00:37:23 - 2020-03-25/00:39:43, 145.0, lavanov(EVA),  Set of partial MP crossings
+2020-03-25/00:39:43 - 2020-03-25/00:42:13, 145.0, lavanov(EVA),  Set of partial MP crossings
+2020-03-25/00:42:13 - 2020-03-25/00:44:33, 145.0, lavanov(EVA),  Set of partial MP crossings
+2020-03-25/00:44:33 - 2020-03-25/00:46:23, 150.0, lavanov(EVA),  Partial MP crossing with Bnull
+2020-03-25/00:46:23 - 2020-03-25/00:48:33, 150.0, lavanov(EVA),  Partial MP crossing with Bnull
+2020-03-25/00:48:33 - 2020-03-25/00:50:53, 150.0, lavanov(EVA),  Partial MP crossing with Bnull
+2020-03-25/00:50:53 - 2020-03-25/00:52:53, 150.0, lavanov(EVA),  Partial MP crossing with Bnull
+2020-03-25/00:52:53 - 2020-03-25/00:55:03, 180.0, lavanov(EVA),  Two high shear MP crossings with strong -Vz jet possible EDR
+2020-03-25/00:55:03 - 2020-03-25/00:57:23, 180.0, lavanov(EVA),  Two high shear MP crossings with strong -Vz jet possible EDR
+2020-03-25/00:57:23 - 2020-03-25/00:59:13, 180.0, lavanov(EVA),  Two high shear MP crossings with strong -Vz jet possible EDR
+2020-03-25/00:59:13 - 2020-03-25/01:01:23, 180.0, lavanov(EVA),  Two high shear MP crossings with strong -Vz jet possible EDR
+2020-03-25/01:01:23 - 2020-03-25/01:03:33, 180.0, lavanov(EVA),  Two high shear MP crossings with strong -Vz jet possible EDR
+2020-03-25/01:03:33 - 2020-03-25/01:05:43, 180.0, lavanov(EVA),  Two high shear MP crossings with strong -Vz jet possible EDR
+2020-03-25/01:05:43 - 2020-03-25/01:08:33, 180.0, lavanov(EVA),  Two high shear MP crossings with strong -Vz jet possible EDR
+2020-03-25/01:08:33 - 2020-03-25/01:10:53, 110.0, lavanov(EVA), MSheath bounfdary layer 
+2020-03-25/01:10:53 - 2020-03-25/01:13:23, 110.0, lavanov(EVA), MSheath bounfdary layer 
+2020-03-25/01:13:23 - 2020-03-25/01:15:23, 185.0, lavanov(EVA), Complete high shear MP crossing mwith southward jet 
+2020-03-25/01:15:23 - 2020-03-25/01:17:43, 185.0, lavanov(EVA), Complete high shear MP crossing mwith southward jet 
+2020-03-25/01:17:43 - 2020-03-25/01:19:53, 185.0, lavanov(EVA), Complete high shear MP crossing mwith southward jet 
+2020-03-25/01:19:53 - 2020-03-25/01:22:13, 185.0, lavanov(EVA), Complete high shear MP crossing mwith southward jet 
+2020-03-25/01:22:13 - 2020-03-25/01:23:53, 175.0, lavanov(EVA), High shear MP crossing 
+2020-03-25/01:23:53 - 2020-03-25/01:25:53, 175.0, lavanov(EVA), High shear MP crossing 
+2020-03-25/01:25:53 - 2020-03-25/01:27:53, 175.0, lavanov(EVA), High shear MP crossing 
+2020-03-25/01:27:53 - 2020-03-25/01:29:53, 175.0, lavanov(EVA), High shear MP crossing 
+2020-03-25/01:29:53 - 2020-03-25/01:31:53, 150.0, lavanov(EVA), Partial MP crossings with flow reverssal
+2020-03-25/01:31:53 - 2020-03-25/01:33:53, 150.0, lavanov(EVA), Partial MP crossings with flow reverssal
+2020-03-25/01:33:53 - 2020-03-25/01:36:03, 150.0, lavanov(EVA), Partial MP crossings with flow reverssal
+2020-03-25/01:36:03 - 2020-03-25/01:38:03, 150.0, lavanov(EVA), Partial MP crossings with flow reverssal
+2020-03-25/01:38:03 - 2020-03-25/01:39:13, 165.0, lavanov(EVA), Three long complete MP crossings and one partial 
+2020-03-25/01:39:13 - 2020-03-25/01:41:23, 165.0, lavanov(EVA), Three long complete MP crossings and one partial 
+2020-03-25/01:41:23 - 2020-03-25/01:43:23, 165.0, lavanov(EVA), Three long complete MP crossings and one partial 
+2020-03-25/01:43:23 - 2020-03-25/01:45:33, 165.0, lavanov(EVA), Three long complete MP crossings and one partial 
+2020-03-25/01:45:33 - 2020-03-25/01:47:33, 165.0, lavanov(EVA), Three long complete MP crossings and one partial 
+2020-03-25/01:47:33 - 2020-03-25/01:49:43, 165.0, lavanov(EVA), Set of partial MP crossings
+2020-03-25/01:49:43 - 2020-03-25/01:51:23, 165.0, lavanov(EVA), Set of partial MP crossings
+2020-03-25/01:51:23 - 2020-03-25/01:53:13, 165.0, lavanov(EVA), Set of partial MP crossings
+2020-03-25/02:30:33 - 2020-03-25/02:33:03, 130.0, lavanov(EVA), Partial MP crossings  
+2020-03-25/02:33:03 - 2020-03-25/02:34:33, 130.0, lavanov(EVA), Partial MP crossings  
+2020-03-25/02:34:33 - 2020-03-25/02:36:33, 130.0, lavanov(EVA), Partial MP crossings  
+2020-03-25/02:36:33 - 2020-03-25/02:38:43, 130.0, lavanov(EVA), Partial MP crossings  
+2020-03-25/04:13:53 - 2020-03-25/04:16:13, 100.0, lavanov(EVA), Qpar BS and Foreshock transients (possible SLAMSs)
+2020-03-25/04:16:13 - 2020-03-25/04:17:33, 100.0, lavanov(EVA), Qpar BS and Foreshock transients (possible SLAMSs)
+2020-03-25/04:17:33 - 2020-03-25/04:19:03, 100.0, lavanov(EVA), Qpar BS and Foreshock transients (possible SLAMSs)
+2020-03-25/04:25:23 - 2020-03-25/04:27:13, 140.0, lavanov(EVA), Qpar BS folowed by turbulent MSheath. Accelearted ions in the solar wind 
+2020-03-25/04:27:13 - 2020-03-25/04:29:13, 140.0, lavanov(EVA), Qpar BS folowed by turbulent MSheath. Accelearted ions in the solar wind 
+2020-03-25/04:29:13 - 2020-03-25/04:31:13, 140.0, lavanov(EVA), Qpar BS folowed by turbulent MSheath. Accelearted ions in the solar wind 
+2020-03-25/04:31:13 - 2020-03-25/04:32:53, 110.0, lavanov(EVA),  Set of Qpar BS 
+2020-03-25/04:32:53 - 2020-03-25/04:34:33, 110.0, lavanov(EVA),  Set of Qpar BS 
+2020-03-25/04:34:33 - 2020-03-25/04:36:33, 110.0, lavanov(EVA),  Set of Qpar BS 
+2020-03-25/04:36:33 - 2020-03-25/04:38:43, 110.0, lavanov(EVA),  Set of Qpar BS 
+2020-03-25/04:38:43 - 2020-03-25/04:40:23, 120.0, lavanov(EVA), Several Foreshock transient (probably HFAs)
+2020-03-25/04:40:23 - 2020-03-25/04:42:33, 120.0, lavanov(EVA), Several Foreshock transient (probably HFAs)
+2020-03-25/04:42:33 - 2020-03-25/04:44:43, 120.0, lavanov(EVA), Several Foreshock transient (probably HFAs)
+2020-03-25/04:44:43 - 2020-03-25/04:46:13, 130.0, lavanov(EVA),  Qpar BS folowed by turbulent sheath 
+2020-03-25/04:46:13 - 2020-03-25/04:48:13, 130.0, lavanov(EVA),  Qpar BS folowed by turbulent sheath 
+2020-03-25/04:48:13 - 2020-03-25/04:50:13, 130.0, lavanov(EVA),  Qpar BS folowed by turbulent sheath 
+2020-03-25/04:53:33 - 2020-03-25/04:55:53,  85.0, lavanov(EVA),  Turbulent MSheath 
+2020-03-25/04:55:53 - 2020-03-25/04:58:13,  85.0, lavanov(EVA),  Turbulent MSheath 
+2020-03-25/04:58:13 - 2020-03-25/05:00:33,  85.0, lavanov(EVA),  Turbulent MSheath 
+2020-03-25/05:00:33 - 2020-03-25/05:02:53,  85.0, lavanov(EVA),  Turbulent MSheath 
+2020-03-25/05:15:53 - 2020-03-25/05:17:53,  90.0, lavanov(EVA),  Mirror waves in  MSheath
+2020-03-25/05:17:53 - 2020-03-25/05:19:53,  90.0, lavanov(EVA),  Mirror waves in  MSheath
+2020-03-25/05:19:53 - 2020-03-25/05:21:53,  90.0, lavanov(EVA),  Mirror waves in  MSheath
+2020-03-25/05:21:53 - 2020-03-25/05:23:43, 125.0, lavanov(EVA),  Qpar BS
+2020-03-25/05:23:43 - 2020-03-25/05:25:03, 125.0, lavanov(EVA),  Qpar BS with upstream accelarated ions
+2020-03-25/05:25:03 - 2020-03-25/05:26:33, 125.0, lavanov(EVA),  Qpar BS with upstream accelarated ions
+2020-03-26/11:04:03 - 2020-03-26/11:04:43, 115.0, lavanov(EVA), Thin CS in the solar wind with magnetic field rotation 
+2020-03-26/12:29:53 - 2020-03-26/12:31:53, 110.0, lavanov(EVA)," Solar wind CS, field rotation "
+2020-03-26/12:35:03 - 2020-03-26/12:37:13,  85.0, lavanov(EVA),  Periodic structures in the solat wind
+2020-03-26/12:37:13 - 2020-03-26/12:39:33,  85.0, lavanov(EVA),  Periodic structures in the solat wind
+2020-03-26/12:39:33 - 2020-03-26/12:41:43,  85.0, lavanov(EVA),  Periodic structures in the solat wind
+2020-03-27/13:20:23 - 2020-03-27/13:22:23, 120.0, lavanov(EVA)," Interesting discotinuity in the solar wind, possibly interplanetary shock flollowed by strong turbulence "
+2020-03-27/13:22:23 - 2020-03-27/13:24:23, 120.0, lavanov(EVA)," Interesting discotinuity in the solar wind, possibly interplanetary shock flollowed by strong turbulence "
+2020-03-27/13:24:23 - 2020-03-27/13:26:23, 120.0, lavanov(EVA)," Interesting discotinuity in the solar wind, possibly interplanetary shock flollowed by strong turbulence "
+2020-03-27/14:20:53 - 2020-03-27/14:22:53,  90.0, lavanov(EVA), Periodic structure in the solar wind 
+2020-03-27/14:22:53 - 2020-03-27/14:24:53,  90.0, lavanov(EVA), Periodic structure in the solar wind 
+2020-03-27/14:24:53 - 2020-03-27/14:26:53,  90.0, lavanov(EVA), Periodic structure in the solar wind 
+2020-03-27/14:26:53 - 2020-03-27/14:29:03,  90.0, lavanov(EVA), Periodic structure in the solar wind 
+2020-03-27/14:29:03 - 2020-03-27/14:31:23,  90.0, lavanov(EVA), Periodic structure in the solar wind 
+2020-03-27/14:31:23 - 2020-03-27/14:33:43,  90.0, lavanov(EVA), Periodic structure in the solar wind 
+2020-03-27/14:53:03 - 2020-03-27/14:55:33, 130.0, lavanov(EVA),"  Solafr wind CS, intersting ion heating"
+2020-03-27/16:51:33 - 2020-03-27/16:53:33, 100.0, lavanov(EVA)," Set of CS in the solar wind, high energy ions "
+2020-03-27/16:53:33 - 2020-03-27/16:55:23, 100.0, lavanov(EVA)," Set of CS in the solar wind, high energy ions "
+2020-03-27/16:55:23 - 2020-03-27/16:57:23, 100.0, lavanov(EVA)," Set of CS in the solar wind, high energy ions "
+2020-03-27/19:26:03 - 2020-03-27/19:27:13, 170.0, lavanov(EVA)," CS in the solar wind, possible reconnection event, Vz variation, full field rotation "
+2020-03-27/19:41:23 - 2020-03-27/19:43:43, 140.0, lavanov(EVA),"  Foreshock transient, probably HFA, significant increase in number density"
+2020-03-27/19:56:13 - 2020-03-27/19:58:33, 130.0, lavanov(EVA), Set of Qpar bow shocks 
+2020-03-27/19:58:33 - 2020-03-27/20:00:43, 130.0, lavanov(EVA), Set of Qpar bow shocks 
+2020-03-27/20:00:43 - 2020-03-27/20:03:03, 130.0, lavanov(EVA), Set of Qpar bow shocks 
+2020-03-27/20:03:03 - 2020-03-27/20:05:13, 130.0, lavanov(EVA), Set of Qpar bow shocks 
+2020-03-27/20:05:13 - 2020-03-27/20:07:33, 130.0, lavanov(EVA), Set of Qpar bow shocks 
+2020-03-27/20:07:33 - 2020-03-27/20:09:43, 130.0, lavanov(EVA), Set of Qpar bow shocks 
+2020-03-27/20:09:43 - 2020-03-27/20:12:03, 130.0, lavanov(EVA), Set of Qpar bow shocks 
+2020-03-27/20:12:03 - 2020-03-27/20:14:23, 130.0, lavanov(EVA), Set of Qpar bow shocks 
+2020-03-27/20:14:23 - 2020-03-27/20:16:53, 130.0, lavanov(EVA), Set of Qpar bow shocks 
+2020-03-27/20:16:53 - 2020-03-27/20:19:13, 130.0, lavanov(EVA), Set of Qpar bow shocks 
+2020-03-27/20:37:53 - 2020-03-27/20:40:33, 120.0, lavanov(EVA),  MSheath CS
+2020-03-27/22:43:53 - 2020-03-27/22:45:53, 165.0, lavanov(EVA), Three Low shear MP crossings with southward jets 
+2020-03-27/22:45:53 - 2020-03-27/22:47:53, 165.0, lavanov(EVA), Three Low shear MP crossings with southward jets 
+2020-03-27/22:47:53 - 2020-03-27/22:50:03, 165.0, lavanov(EVA), Three Low shear MP crossings with southward jets 
+2020-03-27/22:50:03 - 2020-03-27/22:52:03, 165.0, lavanov(EVA), Three Low shear MP crossings with southward jets 
+2020-03-27/22:52:03 - 2020-03-27/22:54:03, 165.0, lavanov(EVA), Three Low shear MP crossings with southward jets 

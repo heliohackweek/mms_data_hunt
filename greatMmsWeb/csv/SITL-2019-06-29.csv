@@ -1,0 +1,78 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-06-29/00:56:43 - 2019-06-29/00:59:23,  60.0, makhavantafti(EVA),  Boundary crossing
+2019-06-29/02:01:33 - 2019-06-29/02:03:53,  80.0, makhavantafti(EVA), Flow reversals at a possible boundary crossing
+2019-06-29/02:03:53 - 2019-06-29/02:06:23,  80.0, makhavantafti(EVA), Flow reversals at a possible boundary crossing
+2019-06-29/02:06:23 - 2019-06-29/02:08:03,  60.0, makhavantafti(EVA),  Boundary crossing
+2019-06-29/02:08:03 - 2019-06-29/02:10:13,  60.0, makhavantafti(EVA),  Boundary crossing
+2019-06-29/02:10:13 - 2019-06-29/02:12:23,  60.0, makhavantafti(EVA),  Boundary crossing
+2019-06-29/08:28:43 - 2019-06-29/08:30:43,  90.0, makhavantafti(EVA),  Enhanced flow at possible boundary crossings 
+2019-06-29/08:30:43 - 2019-06-29/08:32:43,  90.0, makhavantafti(EVA),  Enhanced flow at possible boundary crossings 
+2019-06-29/08:32:43 - 2019-06-29/08:34:43, 100.8, makhavantafti(EVA),  Enhanced flow at possible boundary crossings
+2019-06-29/09:05:23 - 2019-06-29/09:07:53,  80.0, makhavantafti(EVA),  possible boundary crossing 
+2019-06-29/09:24:13 - 2019-06-29/09:26:13, 100.0, makhavantafti(EVA),  Possible boundary crossing
+2019-06-29/10:36:13 - 2019-06-29/10:38:23,  80.0, makhavantafti(EVA),  Flow reversals in the plasma sheet
+2019-06-29/10:38:23 - 2019-06-29/10:40:33,  80.0, makhavantafti(EVA),  Flow reversals in the plasma sheet
+2019-06-29/10:40:33 - 2019-06-29/10:42:43,  80.0, makhavantafti(EVA),  Flow reversals in the plasma sheet
+2019-06-29/10:42:43 - 2019-06-29/10:44:53,  80.0, makhavantafti(EVA),  Flow reversals in the plasma sheet
+2019-06-29/10:44:53 - 2019-06-29/10:47:03,  80.0, makhavantafti(EVA),  Flow reversals in the plasma sheet
+2019-06-29/10:47:03 - 2019-06-29/10:49:23, 110.0, makhavantafti(EVA), Possible PSBL crossing with enhanced earthward jets
+2019-06-29/10:49:23 - 2019-06-29/10:51:33, 110.0, makhavantafti(EVA), Possible PSBL crossing with enhanced earthward jets
+2019-06-29/10:51:33 - 2019-06-29/10:53:53, 110.0, makhavantafti(EVA), Possible PSBL crossing with enhanced earthward jets
+2019-06-29/11:11:23 - 2019-06-29/11:13:43,  90.0, makhavantafti(EVA),  flow reversals in the plasma sheet
+2019-06-29/11:13:43 - 2019-06-29/11:16:13,  90.0, makhavantafti(EVA),  flow reversals in the plasma sheet
+2019-06-29/11:16:13 - 2019-06-29/11:18:33,  90.0, makhavantafti(EVA),  flow reversals in the plasma sheet
+2019-06-29/11:18:33 - 2019-06-29/11:21:03,  90.0, makhavantafti(EVA),  flow reversals in the plasma sheet
+2019-06-29/11:44:13 - 2019-06-29/11:46:13,  90.0, makhavantafti(EVA),  PSBL crossings
+2019-06-29/11:46:13 - 2019-06-29/11:48:23,  90.0, makhavantafti(EVA),  PSBL crossings
+2019-06-29/11:48:23 - 2019-06-29/11:50:23,  90.0, makhavantafti(EVA),  PSBL crossings
+2019-06-29/11:50:23 - 2019-06-29/11:52:33,  90.0, makhavantafti(EVA),  PSBL crossings
+2019-06-29/12:55:53 - 2019-06-29/12:58:23, 100.0, makhavantafti(EVA), Enhanced earthward jet (~ 600 km/s) coinciding witha a strong current sheet
+2019-06-29/12:58:23 - 2019-06-29/13:00:13, 100.0, makhavantafti(EVA), Enhanced earthward jet (~ 600 km/s) coinciding witha a strong current sheet
+2019-06-29/13:00:13 - 2019-06-29/13:03:23, 110.0, makhavantafti(EVA), Enhanced earthward jet (~ 600 km/s) coinciding witha a strong current sheet
+2019-06-29/13:03:23 - 2019-06-29/13:05:53, 100.0, makhavantafti(EVA), Enhanced earthward jet (~ 600 km/s) coinciding witha a strong current sheet
+2019-06-29/13:05:53 - 2019-06-29/13:08:23, 100.0, makhavantafti(EVA), Enhanced earthward jet (~ 600 km/s) coinciding witha a strong current sheet
+2019-06-29/14:42:13 - 2019-06-29/14:44:13,  80.0, makhavantafti(EVA), flow enhancement/reversal at increased Bz fluctuations
+2019-06-29/14:44:13 - 2019-06-29/14:46:03,  80.0, makhavantafti(EVA), flow enhancement/reversal at increased Bz fluctuations
+2019-06-29/14:46:03 - 2019-06-29/14:48:03,  80.0, makhavantafti(EVA), flow enhancement/reversal at increased Bz fluctuations
+2019-06-29/15:18:03 - 2019-06-29/15:20:13,  80.0, makhavantafti(EVA), Earthward flow enehancement with Bz reversals/fluctuations
+2019-06-29/15:20:13 - 2019-06-29/15:22:13,  90.0, makhavantafti(EVA), Earthward flow enehancement with Bz reversals/fluctuations
+2019-06-29/15:22:13 - 2019-06-29/15:24:23,  80.0, makhavantafti(EVA), Earthward flow enehancement with Bz reversals/fluctuations
+2019-06-29/15:24:23 - 2019-06-29/15:26:23,  80.0, makhavantafti(EVA), Earthward flow enehancement with Bz reversals/fluctuations
+2019-06-29/15:26:23 - 2019-06-29/15:28:33,  80.0, makhavantafti(EVA), Earthward flow enehancement with Bz reversals/fluctuations
+2019-06-29/15:39:43 - 2019-06-29/15:40:43,  60.0, makhavantafti(EVA), Boundary crossing
+2019-06-29/18:42:43 - 2019-06-29/18:45:03,  80.0, makhavantafti(EVA),  Bz reversal and Vix reversals
+2019-06-29/18:45:03 - 2019-06-29/18:47:33,  80.0, makhavantafti(EVA),  Bz reversal and Vix reversals
+2019-06-29/18:47:33 - 2019-06-29/18:49:53,  80.0, makhavantafti(EVA),  Bz reversal and Vix reversals
+2019-06-29/18:49:53 - 2019-06-29/18:52:23,  80.0, makhavantafti(EVA),  Bz reversal and Vix reversals
+2019-06-29/18:52:23 - 2019-06-29/18:54:43,  80.0, makhavantafti(EVA),  Bz reversal and Vix reversals
+2019-06-29/18:54:43 - 2019-06-29/18:57:13,  80.0, makhavantafti(EVA),  Bz reversal and Vix reversals
+2019-06-29/18:57:13 - 2019-06-29/18:59:33,  80.0, makhavantafti(EVA),  Bz reversal and Vix reversals
+2019-06-29/18:59:33 - 2019-06-29/19:01:53,  80.0, makhavantafti(EVA),  Bz reversal and Vix reversals
+2019-06-29/19:01:53 - 2019-06-29/19:04:23,  80.0, makhavantafti(EVA),  Bz reversal and Vix reversals
+2019-06-29/19:04:23 - 2019-06-29/19:06:43,  80.0, makhavantafti(EVA),  Bz reversal and Vix reversals
+2019-06-29/19:06:43 - 2019-06-29/19:09:13,  80.0, makhavantafti(EVA),  Bz reversal and Vix reversals
+2019-06-29/19:09:13 - 2019-06-29/19:11:33,  80.0, makhavantafti(EVA),  Bz reversal and Vix reversals
+2019-06-29/19:11:33 - 2019-06-29/19:14:03,  80.0, makhavantafti(EVA),  Bz reversal and Vix reversals
+2019-06-29/19:14:03 - 2019-06-29/19:16:23,  80.0, makhavantafti(EVA),  Bz reversal and Vix reversals
+2019-06-29/23:21:43 - 2019-06-29/23:23:33,  80.0, makhavantafti(EVA), Vix flow reversal
+2019-06-29/23:23:33 - 2019-06-29/23:25:33,  80.0, makhavantafti(EVA), Vix flow reversal
+2019-06-29/23:25:33 - 2019-06-29/23:27:23,  80.0, makhavantafti(EVA), Vix flow reversal
+2019-06-29/23:27:23 - 2019-06-29/23:29:23, 100.0, makhavantafti(EVA), Bz reversal coinciding w/ enhanced earthward flow
+2019-06-29/23:29:23 - 2019-06-29/23:31:13, 100.0, makhavantafti(EVA), Bz reversal coinciding w/ enhanced earthward flow
+2019-06-29/23:31:13 - 2019-06-29/23:33:13,  80.0, makhavantafti(EVA), Bz reversal coinciding w/ enhanced earthward flow
+2019-07-01/00:34:03 - 2019-07-01/00:36:03, 120.0, mnishino(EVA), Full MP
+2019-07-01/00:36:03 - 2019-07-01/00:38:13, 120.0, mnishino(EVA), Full MP
+2019-07-01/00:38:13 - 2019-07-01/00:40:13, 120.0, mnishino(EVA), Full MP
+2019-07-01/00:40:13 - 2019-07-01/00:42:23, 120.0, mnishino(EVA), Full MP
+2019-07-01/00:42:23 - 2019-07-01/00:44:23, 120.0, mnishino(EVA), Full MP
+2019-07-01/04:09:03 - 2019-07-01/04:11:33, 150.0, mnishino(EVA), Full MP
+2019-07-01/04:11:33 - 2019-07-01/04:14:03, 150.0, mnishino(EVA), Full MP
+2019-07-01/04:14:03 - 2019-07-01/04:16:33, 150.0, mnishino(EVA), Full MP
+2019-07-01/04:16:33 - 2019-07-01/04:19:03, 150.0, mnishino(EVA), Full MP
+2019-07-01/04:28:33 - 2019-07-01/04:31:03, 100.0, mnishino(EVA), partial MP
+2019-07-01/04:32:33 - 2019-07-01/04:35:03, 100.0, mnishino(EVA), partial MP
+2019-07-01/17:12:03 - 2019-07-01/17:15:33, 100.0, mnishino(EVA), PSBL
+2019-07-01/22:56:03 - 2019-07-01/22:58:03, 120.0, mnishino(EVA), Large negative Bz in PS
+2019-07-01/22:58:03 - 2019-07-01/23:00:03, 120.0, mnishino(EVA), Large negative Bz in PS
+2019-07-01/23:00:03 - 2019-07-01/23:02:03, 120.0, mnishino(EVA), Large negative Bz in PS
+2019-07-01/23:02:03 - 2019-07-01/23:04:03, 120.0, mnishino(EVA), Large negative Bz in PS

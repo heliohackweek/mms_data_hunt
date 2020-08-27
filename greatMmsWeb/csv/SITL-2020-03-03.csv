@@ -1,0 +1,40 @@
+DATETIME,FOM,ID,DISCUSSION
+2020-03-03/22:00:53 - 2020-03-03/22:02:23, 100.0, sboardsen(EVA), partial MP
+2020-03-03/22:02:23 - 2020-03-03/22:05:13, 100.0, sboardsen(EVA), partail MP
+2020-03-03/22:05:13 - 2020-03-03/22:06:53, 100.0, sboardsen(EVA), partial MP
+2020-03-03/22:06:53 - 2020-03-03/22:11:03,  90.0, sboardsen(EVA),  fill between MP CR
+2020-03-03/22:11:03 - 2020-03-03/22:13:53, 155.0, sboardsen(EVA), MP CR FTE
+2020-03-03/22:13:53 - 2020-03-03/22:18:23, 150.0, sboardsen(EVA), MP CRs
+2020-03-03/22:18:23 - 2020-03-03/22:19:33, 150.0, sboardsen(EVA), MP CR
+2020-03-03/22:19:33 - 2020-03-03/22:21:53, 100.0, sboardsen(EVA), patial MP
+2020-03-03/22:21:53 - 2020-03-03/22:23:13, 150.0, sboardsen(EVA), MP CR
+2020-03-03/22:23:13 - 2020-03-03/22:24:13, 150.0, sboardsen(EVA), MP CR
+2020-03-03/22:24:13 - 2020-03-03/22:25:33,  90.0, sboardsen(EVA),  fill between MP
+2020-03-03/22:25:33 - 2020-03-03/22:27:23, 155.0, sboardsen(EVA), MP CR FTE
+2020-03-03/22:27:23 - 2020-03-03/22:29:33, 150.0, sboardsen(EVA), MP CR
+2020-03-03/22:29:33 - 2020-03-03/22:31:23, 150.0, sboardsen(EVA), MP CR
+2020-03-03/23:04:33 - 2020-03-03/23:06:23, 150.0, sboardsen(EVA), partial MP CR
+2020-03-04/00:17:53 - 2020-03-04/00:20:23, 150.0, sboardsen(EVA), MP CR
+2020-03-04/00:48:03 - 2020-03-04/00:51:43, 100.0, sboardsen(EVA), turbulent MSH
+2020-03-04/01:09:33 - 2020-03-04/01:12:33, 100.0, sboardsen(EVA), turbulent MSH
+2020-03-04/01:12:33 - 2020-03-04/01:15:33, 100.0, sboardsen(EVA), turbulent MSH
+2020-03-04/01:43:33 - 2020-03-04/01:48:33, 110.0, sboardsen(EVA), BS turbulent
+2020-03-04/01:57:43 - 2020-03-04/02:00:43, 100.0, sboardsen(EVA), BS formation
+2020-03-04/02:05:53 - 2020-03-04/02:08:43, 100.0, sboardsen(EVA), BS formation
+2020-03-04/02:13:43 - 2020-03-04/02:17:13, 100.0, sboardsen(EVA), BS formation
+2020-03-04/03:06:43 - 2020-03-04/03:08:33, 105.0, sboardsen(EVA), Foreshock Transient
+2020-03-04/03:37:33 - 2020-03-04/03:40:43, 105.0, sboardsen(EVA), Foreshock Transient
+2020-03-04/03:41:03 - 2020-03-04/03:43:23, 105.0, sboardsen(EVA), Foreshcok Transient
+2020-03-04/05:32:13 - 2020-03-04/05:35:43,  95.0, sboardsen(EVA), SW 90s oscillations; with whistler mode up to 100 Hz
+2020-03-04/05:35:43 - 2020-03-04/05:39:23,  95.0, sboardsen(EVA), SW 90s oscillations; with whistler mode up to 100 Hz
+2020-03-04/06:29:33 - 2020-03-04/06:32:43,  90.0, sboardsen(EVA), SW CS
+2020-03-06/15:20:23 - 2020-03-06/15:21:13,  90.0, sboardsen(EVA), SW Cs sector crosing; no wave signatures
+2020-03-06/17:40:33 - 2020-03-06/17:41:43, 110.0, sboardsen(EVA), Fore shock LF whistler waves; CLUSTER just downstream
+2020-03-06/17:55:43 - 2020-03-06/18:00:03, 120.0, sboardsen(EVA), BS CR; CLUSTER just downstream
+2020-03-06/18:11:13 - 2020-03-06/18:14:33,  95.0, sboardsen(EVA), MSH near BS low frequency waves; CLUSTER just downstream
+2020-03-06/18:27:03 - 2020-03-06/18:30:33, 125.0, sboardsen(EVA), BS CRs low and high frequency whistler; CLUSTER just downstream
+2020-03-06/19:24:53 - 2020-03-06/19:27:23,  95.0, sboardsen(EVA), MSH low frequency wave and high frequency whisterl; CLUSTER just downstream
+2020-03-06/19:27:23 - 2020-03-06/19:30:03,  95.0, sboardsen(EVA), MSH low frequency wave and high frequency whisterl; CLUSTER just downstream
+2020-03-06/20:03:43 - 2020-03-06/20:07:23, 100.0, sboardsen(EVA), Msh turbulence
+2020-03-06/20:41:33 - 2020-03-06/20:44:03, 100.0, sboardsen(EVA), MSH CS plus ICw
+2020-03-06/20:53:03 - 2020-03-06/20:55:03, 100.0, sboardsen(EVA), MSH CS

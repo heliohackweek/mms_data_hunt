@@ -1,0 +1,59 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-06-19/11:36:33 - 2018-06-19/11:38:23, 140.0, lavanov(EVA),"  Dipolarization front, Earthward flow"
+2018-06-19/11:38:23 - 2018-06-19/11:40:13, 140.0, lavanov(EVA),"  Dipolarization front, Earthward flow"
+2018-06-19/17:38:33 - 2018-06-19/17:41:13,  90.0, lavanov(EVA),"  Earthward flow, Bx reversal (central sheetcrossing?)"
+2018-06-19/17:41:13 - 2018-06-19/17:43:53, 110.0, lavanov(EVA),"  CS crossing with B null, Earthward flow"
+2018-06-19/17:43:53 - 2018-06-19/17:46:33, 130.0, lavanov(EVA),"  CS crossing with B null, Earthward flow"
+2018-06-19/17:46:33 - 2018-06-19/17:49:13, 110.0, lavanov(EVA),"  CS crossing with B null, Earthward flow"
+2018-06-19/17:55:23 - 2018-06-19/17:57:43,  90.0, lavanov(EVA),  Enhanced Ertahward flows
+2018-06-19/17:57:43 - 2018-06-19/17:59:53,  90.0, lavanov(EVA),  Enhanced Ertahward flows
+2018-06-19/17:59:53 - 2018-06-19/18:02:13,  90.0, lavanov(EVA),  Enhanced Ertahward flows
+2018-06-19/18:17:33 - 2018-06-19/18:20:23, 120.0, lavanov(EVA),"  Dipolarization front, sharp Earthward enhancement"
+2018-06-19/18:20:23 - 2018-06-19/18:23:13, 120.0, lavanov(EVA),"  Dipolarization front, sharp Earthward enhancement"
+2018-06-19/18:28:53 - 2018-06-19/18:31:33, 100.0, lavanov(EVA)," DF followed by crossing current sheet wwith increase in curren densityt, flow reversal"
+2018-06-19/18:31:33 - 2018-06-19/18:34:23, 100.0, lavanov(EVA)," DF followed by crossing current sheet wwith increase in curren densityt, flow reversal"
+2018-06-19/18:39:43 - 2018-06-19/18:42:23, 110.0, lavanov(EVA),"  PSBL crossings, Enhanced Earth flows"
+2018-06-19/18:42:23 - 2018-06-19/18:45:13, 110.0, lavanov(EVA),"  PSBL crossings, Enhanced Earth flows"
+2018-06-19/18:52:13 - 2018-06-19/18:54:33, 105.0, lavanov(EVA),"  Current sheet associated with DF (?), flow reversal, B null "
+2018-06-19/18:54:33 - 2018-06-19/18:56:43, 105.0, lavanov(EVA),"  Current sheet associated with DF (?), flow reversal "
+2018-06-19/18:56:43 - 2018-06-19/18:59:03, 105.0, lavanov(EVA),"  Current sheet associated with DF (?), flow reversal "
+2018-06-19/19:24:03 - 2018-06-19/19:26:23, 100.0, lavanov(EVA),  DF with flow reversal 
+2018-06-19/19:26:23 - 2018-06-19/19:28:53, 100.0, lavanov(EVA),  DF with flow reversal 
+2018-06-19/19:28:53 - 2018-06-19/19:31:13, 100.0, lavanov(EVA),  DF with flow reversal 
+2018-06-20/04:14:53 - 2018-06-20/04:18:03, 120.0, lavanov(EVA),"  Central sheet crossing (?), Fast Earthward flow"
+2018-06-20/04:18:03 - 2018-06-20/04:21:13, 120.0, lavanov(EVA),"  Central sheet crossing (?), Fast Earthward flow"
+2018-06-20/04:36:13 - 2018-06-20/04:38:53, 110.0, lavanov(EVA),  DF with Earthward flow
+2018-06-20/04:38:53 - 2018-06-20/04:41:43, 110.0, lavanov(EVA),  DF with Earthward flow
+2018-06-20/04:41:43 - 2018-06-20/04:44:23, 110.0, lavanov(EVA),  DF with Earthward flow
+2018-06-20/04:52:33 - 2018-06-20/04:54:53,  90.0, lavanov(EVA),"  Earthward flow, associated with DF (?)"
+2018-06-20/04:54:53 - 2018-06-20/04:57:23,  90.0, lavanov(EVA),"  Earthward flow, associated with DF (?)"
+2018-06-20/05:01:43 - 2018-06-20/05:05:13, 100.0, lavanov(EVA), Enhanced Earthward flow associated with DF 
+2018-06-20/13:43:53 - 2018-06-20/13:46:23,  80.0, lavanov(EVA),  Earthward flow. Weak DF (?)
+2018-06-20/14:00:53 - 2018-06-20/14:03:13,  70.0, lavanov(EVA),  Flow reversal
+2018-06-20/14:03:13 - 2018-06-20/14:05:43,  70.0, lavanov(EVA),  Flow reversal
+2018-06-20/14:39:03 - 2018-06-20/14:41:03, 120.0, lavanov(EVA),  Current sheet with Bz and Vz reversal
+2018-06-20/14:41:03 - 2018-06-20/14:43:33, 110.0, lavanov(EVA),  DF with flow reversal
+2018-06-20/14:43:33 - 2018-06-20/14:45:43, 110.0, lavanov(EVA),  DF with flow reversal
+2018-06-20/14:45:43 - 2018-06-20/14:47:53, 110.0, lavanov(EVA),  DF with flow reversal
+2018-06-20/14:47:53 - 2018-06-20/14:50:03, 110.0, lavanov(EVA),  DF with flow reversal
+2018-06-20/14:50:03 - 2018-06-20/14:52:13, 110.0, lavanov(EVA),  DF with flow reversal
+2018-06-20/15:47:33 - 2018-06-20/15:49:13, 150.0, lavanov(EVA),  DFs with enhanced Earthward flow
+2018-06-20/15:49:13 - 2018-06-20/15:51:03, 150.0, lavanov(EVA),  DFs with enhanced Earthward flow
+2018-06-20/23:05:43 - 2018-06-20/23:07:23, 105.0, lavanov(EVA),"  DF, enhanced Earthward flow,  Vz and Bz reversal"
+2018-06-20/23:07:23 - 2018-06-20/23:09:13, 105.0, lavanov(EVA),"  DF, enhanced Earthward flow,  Vz and Bz reversal"
+2018-06-20/23:09:13 - 2018-06-20/23:10:53, 105.0, lavanov(EVA),"  DF, enhanced Earthward flow,  Vz and Bz reversal"
+2018-06-20/23:36:03 - 2018-06-20/23:39:23, 100.0, lavanov(EVA),"  Dipolarization front, earthward flow, Vy reversal"
+2018-06-21/00:11:13 - 2018-06-21/00:12:53, 110.0, lavanov(EVA),"  DF, Earthward flow"
+2018-06-21/00:12:53 - 2018-06-21/00:14:43, 110.0, lavanov(EVA),"  DF, Earthward flow"
+2018-06-21/00:14:43 - 2018-06-21/00:16:23, 110.0, lavanov(EVA),"  DF, Earthward flow"
+2018-06-21/02:32:03 - 2018-06-21/02:34:23,  80.0, lavanov(EVA),  Earthward flow
+2018-06-21/02:34:23 - 2018-06-21/02:36:33,  80.0, lavanov(EVA),  Earthward flow
+2018-06-21/02:36:33 - 2018-06-21/02:38:53,  80.0, lavanov(EVA),  Earthward flow
+2018-06-21/03:46:13 - 2018-06-21/03:48:13, 110.0, lavanov(EVA),  Enhanced Earthward flow
+2018-06-21/03:48:13 - 2018-06-21/03:50:13, 110.0, lavanov(EVA),  Enhanced Earthward flow
+2018-06-21/03:50:13 - 2018-06-21/03:52:13, 110.0, lavanov(EVA),  Enhanced Earthward flow
+2018-06-21/04:03:43 - 2018-06-21/04:05:53, 120.0, lavanov(EVA),  Flux rope associated with DF (?)
+2018-06-21/04:05:53 - 2018-06-21/04:08:03, 110.0, lavanov(EVA),  Flux rope associated with DF (?)
+2018-06-21/04:08:03 - 2018-06-21/04:10:13, 100.0, lavanov(EVA),  Flux rope associated with DF (?)
+2018-06-21/15:23:13 - 2018-06-21/15:25:33,  70.0, lavanov(EVA),"  Weak DF, interesting low enrgy ions"
+2018-06-21/15:25:33 - 2018-06-21/15:28:03,  70.0, lavanov(EVA),"  Weak DF, interesting low enrgy ions"

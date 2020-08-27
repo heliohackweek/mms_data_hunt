@@ -1,0 +1,73 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-09-28/14:23:44 - 2016-09-28/14:24:34, 120.0, nkitamura(EVA),  partial MP with current spike
+2016-09-28/14:24:34 - 2016-09-28/14:25:24,  25.0, nkitamura(EVA),  fill between partial MP
+2016-09-28/14:25:24 - 2016-09-28/14:26:04, 100.0, nkitamura(EVA),  partial MP
+2016-09-28/14:26:04 - 2016-09-28/14:27:04,  25.0, nkitamura(EVA),  fill between partial MP
+2016-09-28/14:27:04 - 2016-09-28/14:28:04, 110.0, nkitamura(EVA),  partial MP with southward flow
+2016-09-28/14:28:04 - 2016-09-28/14:28:44, 129.0, nkitamura(EVA),  partial MP with B minimum
+2016-09-28/14:28:44 - 2016-09-28/14:29:24, 129.0, nkitamura(EVA),  partial MP with B minimum
+2016-09-28/14:29:24 - 2016-09-28/14:30:14,  30.0, nkitamura(EVA),  boundary layer
+2016-09-28/14:41:24 - 2016-09-28/14:43:44, 125.0, nkitamura(EVA),  partial MP with B minimum
+2016-09-28/14:43:44 - 2016-09-28/14:45:34,  95.0, nkitamura(EVA),  B minimum in boundary layer with southward flow
+2016-09-28/14:47:44 - 2016-09-28/14:48:34,  35.0, nkitamura(EVA),  boundary layer
+2016-09-28/14:51:34 - 2016-09-28/14:53:34, 102.0, nkitamura(EVA),  partial MP
+2016-09-28/14:54:24 - 2016-09-28/14:55:24, 102.0, nkitamura(EVA),  partial MP
+2016-09-28/14:57:14 - 2016-09-28/14:58:54, 102.0, nkitamura(EVA),  partial MP
+2016-09-28/15:00:24 - 2016-09-28/15:01:34, 102.0, nkitamura(EVA),  partial MP
+2016-09-28/15:09:54 - 2016-09-28/15:11:44, 120.0, nkitamura(EVA),  partial MP with southward flow
+2016-09-28/15:11:44 - 2016-09-28/15:13:34, 120.0, nkitamura(EVA),  partial MP with southward flow
+2016-09-28/15:13:34 - 2016-09-28/15:15:14, 155.0, nkitamura(EVA),  full MP with southward flow
+2016-09-28/15:15:14 - 2016-09-28/15:17:04, 155.0, nkitamura(EVA),  full MP with southward flow
+2016-09-28/15:19:34 - 2016-09-28/15:20:14,  30.0, nkitamura(EVA),  current spike
+2016-09-28/15:23:24 - 2016-09-28/15:24:54, 100.0, nkitamura(EVA), partial MP
+2016-09-28/15:24:54 - 2016-09-28/15:26:44, 100.0, nkitamura(EVA),  partial MP
+2016-09-28/15:26:44 - 2016-09-28/15:29:04, 125.0, nkitamura(EVA),  partial MP with B minimum
+2016-09-28/15:29:04 - 2016-09-28/15:31:24, 100.0, nkitamura(EVA),  partial MP
+2016-09-28/15:32:34 - 2016-09-28/15:33:24,  30.0, nkitamura(EVA),  current spike
+2016-09-28/15:49:14 - 2016-09-28/15:51:34,  25.0, nkitamura(EVA),  B fluctuation near MP
+2016-09-28/15:51:34 - 2016-09-28/15:54:04,  25.0, nkitamura(EVA),  very unclear transition (full MP)
+2016-09-28/15:54:04 - 2016-09-28/15:56:34,  25.0, nkitamura(EVA),  very unclear transition (full MP)
+2016-09-28/15:56:34 - 2016-09-28/15:59:04,  25.0, nkitamura(EVA),  very unclear transition (full MP)
+2016-09-28/15:59:04 - 2016-09-28/16:01:34,  25.0, nkitamura(EVA),  very unclear transition (full MP)
+2016-09-28/16:01:34 - 2016-09-28/16:04:04,  25.0, nkitamura(EVA),  very unclear transition (full MP)
+2016-09-28/16:04:04 - 2016-09-28/16:05:04, 129.0, nkitamura(EVA),  partial MP with current and electrion density spike
+2016-09-28/16:05:04 - 2016-09-28/16:06:54,  25.0, nkitamura(EVA),  very unclear transition (full MP)
+2016-09-28/16:06:54 - 2016-09-28/16:08:54,  25.0, nkitamura(EVA),  very unclear transition (full MP)
+2016-09-28/16:34:44 - 2016-09-28/16:36:04,  30.0, nkitamura(EVA),  boundary layer with current spike
+2016-09-28/16:48:34 - 2016-09-28/16:49:14, 110.0, nkitamura(EVA),  B fluctuation in unclear transition (full MP)
+2016-09-28/16:49:14 - 2016-09-28/16:50:04,  25.0, nkitamura(EVA),  unclear transition (full MP)
+2016-09-28/16:50:04 - 2016-09-28/16:51:14, 110.0, nkitamura(EVA),  B fluctuation in unclear transition (full MP)
+2016-09-28/16:51:14 - 2016-09-28/16:52:24,  25.0, nkitamura(EVA),  unclear transition (full MP)
+2016-09-28/16:52:24 - 2016-09-28/16:53:04, 105.0, nkitamura(EVA),  B fluctuation in unclear transition (full MP)
+2016-09-28/16:53:04 - 2016-09-28/16:53:44, 120.0, nkitamura(EVA),  B minimum in unclear transition (full MP)
+2016-09-28/16:53:44 - 2016-09-28/16:55:44,  25.0, nkitamura(EVA),  unclear transition (full MP)
+2016-09-28/16:55:44 - 2016-09-28/16:57:34,  25.0, nkitamura(EVA),  unclear transition (full MP)
+2016-09-28/16:57:34 - 2016-09-28/16:59:34,  25.0, nkitamura(EVA),  unclear transition (full MP)
+2016-09-28/16:59:34 - 2016-09-28/17:01:24,  35.0, nkitamura(EVA),  B minimum
+2016-09-28/17:01:24 - 2016-09-28/17:03:34,  40.0, nkitamura(EVA),  B minimum
+2016-09-28/17:08:44 - 2016-09-28/17:09:24,  40.0, nkitamura(EVA),  current spike
+2016-09-28/17:10:04 - 2016-09-28/17:10:54,  35.0, nkitamura(EVA),  current spike
+2016-09-28/17:25:04 - 2016-09-28/17:25:54, 100.0, nkitamura(EVA),  partial MP
+2016-09-28/17:28:14 - 2016-09-28/17:29:04,  30.0, nkitamura(EVA),  B minimum
+2016-09-28/17:32:04 - 2016-09-28/17:33:54,  25.0, nkitamura(EVA),  unclear partial MP
+2016-09-28/17:33:54 - 2016-09-28/17:35:44,  25.0, nkitamura(EVA),  unclear partial MP
+2016-09-28/17:35:44 - 2016-09-28/17:37:34,  25.0, nkitamura(EVA),  unclear partial MP
+2016-09-28/18:16:24 - 2016-09-28/18:17:34,  25.0, nkitamura(EVA),  unclear partial MP
+2016-09-28/18:17:34 - 2016-09-28/18:18:24, 110.0, nkitamura(EVA),  partial MP with B minimum
+2016-09-28/18:18:24 - 2016-09-28/18:19:44,  25.0, nkitamura(EVA),  unclear partial MP
+2016-09-28/18:19:44 - 2016-09-28/18:21:14,  25.0, nkitamura(EVA),  unclear partial MP
+2016-09-28/18:39:04 - 2016-09-28/18:40:04, 125.0, nkitamura(EVA),  partial MP with B minimum
+2016-09-28/18:40:04 - 2016-09-28/18:41:54, 125.0, nkitamura(EVA),  partial MP with B minimum 
+2016-09-28/18:41:54 - 2016-09-28/18:44:04, 120.0, nkitamura(EVA),  partial MP with B minimum
+2016-09-28/18:47:04 - 2016-09-28/18:48:34, 100.0, nkitamura(EVA),  partial MP
+2016-09-28/18:48:34 - 2016-09-28/18:50:14, 100.0, nkitamura(EVA),  partial MP
+2016-09-28/18:55:34 - 2016-09-28/18:56:44, 160.0, nkitamura(EVA),  full MP with B minimum
+2016-09-28/18:56:44 - 2016-09-28/18:57:54,  21.0, nkitamura(EVA),  fill
+2016-09-28/18:57:54 - 2016-09-28/18:58:34, 110.0, nkitamura(EVA),  partial MP with B minimum
+2016-09-28/18:58:34 - 2016-09-28/19:00:44,  21.0, nkitamura(EVA),  fill
+2016-09-28/19:00:44 - 2016-09-28/19:01:24,  70.0, nkitamura(EVA),  B minimum
+2016-09-28/19:01:24 - 2016-09-28/19:02:44,  40.0, nkitamura(EVA),  fill
+2016-09-28/19:02:44 - 2016-09-28/19:03:54,  70.0, nkitamura(EVA),  B minimum
+2016-09-28/19:03:54 - 2016-09-28/19:05:24, 160.0, nkitamura(EVA),  full MP with B minimum
+2016-09-28/19:05:24 - 2016-09-28/19:06:44,  30.0, nkitamura(EVA),  boundary layer
+2016-09-28/20:04:04 - 2016-09-28/20:06:04,  80.0, nkitamura(EVA),  B minimum

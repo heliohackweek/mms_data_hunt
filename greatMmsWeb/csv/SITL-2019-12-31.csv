@@ -1,0 +1,106 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-12-31/18:39:33 - 2019-12-31/18:40:03,  80.0, jburch(EVA), Cold ion PP plume with O+ 
+2019-12-31/18:40:03 - 2019-12-31/18:41:23, 145.4, jburch(EVA), High shear MP with cold ions 
+2019-12-31/18:41:23 - 2019-12-31/18:42:43, 145.4, jburch(EVA), High shear MP with cold ions 
+2019-12-31/18:52:43 - 2019-12-31/18:54:53, 120.0, jburch(EVA), High shear MP 
+2019-12-31/19:00:33 - 2019-12-31/19:02:23, 105.0, jburch(EVA), Medium shear MP 
+2019-12-31/19:02:53 - 2019-12-31/19:04:43, 105.0, jburch(EVA), Medium shear MP 
+2019-12-31/19:12:53 - 2019-12-31/19:14:23, 130.0, jburch(EVA), High shear MP with cold ions
+2019-12-31/19:14:23 - 2019-12-31/19:15:53, 130.0, jburch(EVA), High shear MP with cold ions
+2019-12-31/19:23:33 - 2019-12-31/19:25:43,  90.0, jburch(EVA), Low shear MP 
+2019-12-31/19:27:03 - 2019-12-31/19:29:13,  90.0, jburch(EVA), Low shear MP 
+2019-12-31/19:29:13 - 2019-12-31/19:31:13,  90.0, jburch(EVA), Low shear MP 
+2019-12-31/19:31:13 - 2019-12-31/19:33:23,  90.0, jburch(EVA), Low shear MP 
+2019-12-31/19:43:53 - 2019-12-31/19:46:13, 100.0, jburch(EVA), FTE with O+ and mirror mode waves 
+2019-12-31/19:46:13 - 2019-12-31/19:48:33, 100.0, jburch(EVA), FTE with O+ and mirror mode waves 
+2019-12-31/19:48:33 - 2019-12-31/19:50:53, 100.0, jburch(EVA), FTE with O+ and mirror mode waves 
+2019-12-31/19:50:53 - 2019-12-31/19:53:13,  79.1, jburch(EVA), Weak mirror mode waves 
+2019-12-31/19:53:13 - 2019-12-31/19:55:33,  79.1, jburch(EVA), MS current sheet with intense kHz waves 
+2019-12-31/19:55:33 - 2019-12-31/19:57:53,  79.1, jburch(EVA), MS current sheet with intense kHz waves 
+2019-12-31/20:50:13 - 2019-12-31/20:52:33,  94.3, jburch(EVA), HFA and bow shock 
+2019-12-31/20:52:33 - 2019-12-31/20:54:53,  94.3, jburch(EVA), HFA and bow shock 
+2019-12-31/20:54:53 - 2019-12-31/20:57:03,  79.1, jburch(EVA), Bow shock and MS turbulence 
+2019-12-31/20:57:03 - 2019-12-31/20:59:23,  79.1, jburch(EVA), Bow shock and MS turbulence 
+2019-12-31/21:27:53 - 2019-12-31/21:29:13,  89.2, jburch(EVA), MS current sheet and bow shock 
+2019-12-31/21:29:13 - 2019-12-31/21:30:33,  89.2, jburch(EVA), MS current sheet and bow shock 
+2019-12-31/21:32:53 - 2019-12-31/21:33:23,  89.0, jburch(EVA), SLAM
+2019-12-31/21:44:23 - 2019-12-31/21:46:03, 100.0, jburch(EVA), Bow shock 
+2019-12-31/21:46:03 - 2019-12-31/21:47:43, 100.0, jburch(EVA), Bow shock 
+2019-12-31/21:50:23 - 2019-12-31/21:52:33, 100.0, jburch(EVA), Bow shock 
+2019-12-31/21:52:33 - 2019-12-31/21:54:43, 100.0, jburch(EVA), Bow shock 
+2019-12-31/22:24:23 - 2019-12-31/22:26:03,  90.0, jburch(EVA)," Bow shock, in and out "
+2019-12-31/22:42:53 - 2019-12-31/22:43:33,  86.7, jburch(EVA), HFA 
+2019-12-31/23:23:23 - 2019-12-31/23:24:23, 100.0, jburch(EVA), Bow shock
+2019-12-31/23:39:13 - 2019-12-31/23:41:43,  80.0, jburch(EVA), Turbulent MS with compressional waves
+2019-12-31/23:41:43 - 2019-12-31/23:44:13,  80.0, jburch(EVA), Turbulent MS with compressional waves
+2019-12-31/23:44:13 - 2019-12-31/23:46:33,  80.0, jburch(EVA), Turbulent MS with compressional waves
+2019-12-31/23:46:33 - 2019-12-31/23:49:03,  80.0, jburch(EVA), Turbulent MS with compressional waves
+2019-12-31/23:49:03 - 2019-12-31/23:51:33,  80.0, jburch(EVA), Turbulent MS with compressional waves
+2019-12-31/23:51:33 - 2019-12-31/23:54:03,  80.0, jburch(EVA), Turbulent MS with compressional waves
+2019-12-31/23:54:03 - 2019-12-31/23:56:23,  80.0, jburch(EVA), Turbulent MS with compressional waves
+2019-12-31/23:56:23 - 2019-12-31/23:58:53,  80.0, jburch(EVA), Turbulent MS with compressional waves
+2019-12-31/23:58:53 - 2020-01-01/00:01:23,  80.0, jburch(EVA), Turbulent MS with compressional waves
+2020-01-01/00:01:23 - 2020-01-01/00:03:23, 100.0, jburch(EVA), Bow shock 
+2020-01-01/00:32:03 - 2020-01-01/00:33:43,  80.0, jburch(EVA), MHD waves at SW discontinuity 
+2020-01-01/01:00:43 - 2020-01-01/01:03:03,  80.0, jburch(EVA), SW magnetic nulls 
+2020-01-01/01:03:03 - 2020-01-01/01:05:23,  80.0, jburch(EVA), SW magnetic nulls 
+2020-01-01/01:05:23 - 2020-01-01/01:07:43,  80.0, jburch(EVA), SW magnetic nulls 
+2020-01-01/01:07:43 - 2020-01-01/01:10:03,  80.0, jburch(EVA), SW magnetic nulls 
+2020-01-01/01:10:03 - 2020-01-01/01:12:23,  80.0, jburch(EVA), SW magnetic nulls 
+2020-01-01/01:12:23 - 2020-01-01/01:14:43,  80.0, jburch(EVA), SW magnetic nulls 
+2020-01-01/01:14:43 - 2020-01-01/01:17:03,  80.0, jburch(EVA), SW magnetic nulls 
+2020-01-01/01:36:13 - 2020-01-01/01:38:23,  80.0, jburch(EVA), SW discontinuity 
+2020-01-01/01:38:23 - 2020-01-01/01:40:33,  80.0, jburch(EVA), SW discontinuity 
+2020-01-01/01:40:33 - 2020-01-01/01:42:33,  80.0, jburch(EVA), SW discontinuity 
+2020-01-01/01:42:33 - 2020-01-01/01:44:43,  80.0, jburch(EVA), SW discontinuity 
+2020-01-01/01:44:43 - 2020-01-01/01:46:53,  80.0, jburch(EVA), SW discontinuity 
+2020-01-02/05:50:13 - 2020-01-02/05:52:43,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/05:52:43 - 2020-01-02/05:55:13,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/05:55:13 - 2020-01-02/05:57:43,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/05:57:43 - 2020-01-02/06:00:13,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:00:13 - 2020-01-02/06:02:43,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:02:43 - 2020-01-02/06:05:13,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:05:13 - 2020-01-02/06:07:43,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:07:43 - 2020-01-02/06:10:13,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:10:13 - 2020-01-02/06:12:43,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:12:43 - 2020-01-02/06:15:13,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:15:13 - 2020-01-02/06:17:43,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:17:43 - 2020-01-02/06:20:13,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:20:13 - 2020-01-02/06:22:43,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:22:43 - 2020-01-02/06:25:03,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:25:03 - 2020-01-02/06:27:33,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:27:33 - 2020-01-02/06:30:03,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:30:03 - 2020-01-02/06:32:33,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:32:33 - 2020-01-02/06:35:03,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:35:03 - 2020-01-02/06:37:33,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:37:33 - 2020-01-02/06:40:03,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:40:03 - 2020-01-02/06:42:33,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:42:33 - 2020-01-02/06:45:03,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:45:03 - 2020-01-02/06:47:33,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:47:33 - 2020-01-02/06:50:03,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:50:03 - 2020-01-02/06:52:33,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:52:33 - 2020-01-02/06:55:03,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:55:03 - 2020-01-02/06:57:33,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-02/06:57:33 - 2020-01-02/07:00:03,  75.0, jburch(EVA), Pristine solar wind 
+2020-01-03/13:45:43 - 2020-01-03/13:48:03, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/13:48:03 - 2020-01-03/13:50:23, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/13:52:53 - 2020-01-03/13:55:13, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/13:55:13 - 2020-01-03/13:57:33, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/14:21:23 - 2020-01-03/14:23:53, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/14:23:53 - 2020-01-03/14:26:23, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/14:28:53 - 2020-01-03/14:31:23, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/14:31:23 - 2020-01-03/14:33:53, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/14:51:33 - 2020-01-03/14:54:03, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/14:54:03 - 2020-01-03/14:56:23, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/14:56:23 - 2020-01-03/14:58:53, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/15:10:23 - 2020-01-03/15:12:53, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/15:12:53 - 2020-01-03/15:15:13, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/15:17:43 - 2020-01-03/15:20:03, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/15:20:03 - 2020-01-03/15:22:33, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/15:36:43 - 2020-01-03/15:38:13, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/15:38:13 - 2020-01-03/15:39:43, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/15:39:43 - 2020-01-03/15:42:03, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/15:42:03 - 2020-01-03/15:44:33, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/15:44:33 - 2020-01-03/15:47:03, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/15:47:03 - 2020-01-03/15:49:33, 100.0, jburch(EVA), Bow shocks 
+2020-01-03/15:49:33 - 2020-01-03/15:51:53, 100.0, jburch(EVA), Bow shocks 

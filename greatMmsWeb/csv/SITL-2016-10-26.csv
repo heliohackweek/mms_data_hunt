@@ -1,0 +1,63 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-10-26/10:02:14 - 2016-10-26/10:02:44, 150.0, moka(EVA),  enhanced current
+2016-10-26/10:19:04 - 2016-10-26/10:21:14, 145.0, moka(EVA),  partial MP with enhanced current
+2016-10-26/10:43:24 - 2016-10-26/10:43:54, 100.0, moka(EVA),  enhanced current
+2016-10-26/10:45:54 - 2016-10-26/10:46:44, 125.0, moka(EVA),  magnetosheath CS with enhanced current
+2016-10-26/10:58:34 - 2016-10-26/11:00:54, 150.0, moka(EVA),  MP crossing
+2016-10-26/11:00:54 - 2016-10-26/11:03:04, 100.0, moka(EVA),"  fill, adjacent to MP crossing"
+2016-10-26/11:03:04 - 2016-10-26/11:05:24, 150.0, moka(EVA),  MP crossing
+2016-10-26/12:07:44 - 2016-10-26/12:10:14, 145.0, moka(EVA),  partial MP with enhanced current
+2016-10-26/12:10:14 - 2016-10-26/12:11:04,  40.0, moka(EVA),  fill
+2016-10-26/12:11:04 - 2016-10-26/12:12:44, 100.0, moka(EVA),  partial MP with low shear
+2016-10-26/12:12:44 - 2016-10-26/12:13:54,  40.0, moka(EVA),  fill
+2016-10-26/12:13:54 - 2016-10-26/12:15:14, 115.0, moka(EVA),  partial MP
+2016-10-26/12:15:14 - 2016-10-26/12:16:34, 115.0, moka(EVA),  partial MP
+2016-10-26/14:36:14 - 2016-10-26/14:38:24,  75.0, moka(EVA),  turbulence in magnetosheath with jets
+2016-10-26/14:38:24 - 2016-10-26/14:40:34,  75.0, moka(EVA),  turbulence in magnetosheath with jets
+2016-10-26/14:40:34 - 2016-10-26/14:42:44,  75.0, moka(EVA),  turbulence in magnetosheath with jets
+2016-10-26/17:01:54 - 2016-10-26/17:03:34, 175.0, moka(EVA),  MP crossing with Vx jets
+2016-10-26/17:03:34 - 2016-10-26/17:05:24, 175.0, moka(EVA),  MP crossing with Vx jets
+2016-10-26/17:05:24 - 2016-10-26/17:07:04, 175.0, moka(EVA),  MP crossing with Vx jets
+2016-10-26/17:10:54 - 2016-10-26/17:13:24,  60.0, moka(EVA),  BL? 
+2016-10-26/17:13:24 - 2016-10-26/17:15:34, 150.0, moka(EVA),  MP crossing
+2016-10-26/17:15:34 - 2016-10-26/17:17:34, 150.0, moka(EVA),  MP crossing
+2016-10-26/17:17:34 - 2016-10-26/17:19:44, 150.0, moka(EVA),  MP crossing
+2016-10-26/18:18:54 - 2016-10-26/18:21:14, 150.0, moka(EVA),  a very long MP crossing with low shear
+2016-10-26/18:21:14 - 2016-10-26/18:23:44, 150.0, moka(EVA),  a very long MP crossing with low shear
+2016-10-26/18:23:44 - 2016-10-26/18:26:04, 150.0, moka(EVA),  a very long MP crossing with low shear
+2016-10-26/18:26:04 - 2016-10-26/18:28:34, 150.0, moka(EVA),  a very long MP crossing with low shear
+2016-10-26/18:28:34 - 2016-10-26/18:30:44,  40.0, moka(EVA),"  BL, adjacent to MP crossing"
+2016-10-26/18:30:44 - 2016-10-26/18:33:04,  40.0, moka(EVA),"  BL, adjacent to MP crossing"
+2016-10-26/18:33:04 - 2016-10-26/18:35:14,  40.0, moka(EVA),"  BL, adjacent to MP crossing"
+2016-10-26/18:35:14 - 2016-10-26/18:37:34,  40.0, moka(EVA),"  BL, adjacent to MP crossing"
+2016-10-26/18:40:24 - 2016-10-26/18:42:04, 175.0, moka(EVA),  MP crossings with large shear
+2016-10-26/18:42:04 - 2016-10-26/18:43:54, 175.0, moka(EVA),  MP crossings with large shear
+2016-10-26/18:54:14 - 2016-10-26/18:55:04, 100.0, moka(EVA),  partial MP with low shear
+2016-10-26/18:57:14 - 2016-10-26/18:59:04, 175.0, moka(EVA),  MP crossing
+2016-10-26/18:59:04 - 2016-10-26/19:00:34, 100.0, moka(EVA),  partial MP
+2016-10-26/19:00:34 - 2016-10-26/19:02:14, 100.0, moka(EVA),  partial MP
+2016-10-26/19:04:14 - 2016-10-26/19:05:14,  45.0, moka(EVA),  BL or partial MP with low shear
+2016-10-26/19:05:14 - 2016-10-26/19:06:24, 160.0, moka(EVA),  MP crossing
+2016-10-26/19:06:24 - 2016-10-26/19:08:34, 125.0, moka(EVA),  magnetosheath with Vz jets and enhanced currents
+2016-10-26/19:08:34 - 2016-10-26/19:10:44, 125.0, moka(EVA),  magnetosheath with Vz jets and enhanced currents
+2016-10-26/19:10:44 - 2016-10-26/19:13:04, 125.0, moka(EVA),  magnetosheath with Vz jets and enhanced currents
+2016-10-26/19:13:04 - 2016-10-26/19:15:14, 125.0, moka(EVA),  magnetosheath with Vz jets and enhanced currents
+2016-10-26/19:15:14 - 2016-10-26/19:16:44, 160.0, moka(EVA),  MP
+2016-10-26/19:18:14 - 2016-10-26/19:19:34, 100.0, moka(EVA),  partial MP with low shear
+2016-10-26/19:21:54 - 2016-10-26/19:24:04,  25.0, moka(EVA),  BL
+2016-10-26/19:26:24 - 2016-10-26/19:28:04, 175.0, moka(EVA),  MP crossings
+2016-10-26/19:38:04 - 2016-10-26/19:40:04, 180.0, moka(EVA),  MP crossing with enhanced current
+2016-10-26/19:41:54 - 2016-10-26/19:43:44, 150.0, moka(EVA),  MP crossing ?
+2016-10-26/19:43:44 - 2016-10-26/19:45:44, 150.0, moka(EVA),  MP crossing ?
+2016-10-26/19:45:44 - 2016-10-26/19:48:04, 100.0, moka(EVA),  partial MP or BL?
+2016-10-26/19:48:04 - 2016-10-26/19:50:34, 100.0, moka(EVA),  partial MP or BL?
+2016-10-26/19:55:44 - 2016-10-26/19:57:34, 100.0, moka(EVA),  partial MP? with low shear
+2016-10-26/19:57:34 - 2016-10-26/19:59:34, 100.0, moka(EVA),  partial MP? with low shear
+2016-10-26/19:59:34 - 2016-10-26/20:01:24, 100.0, moka(EVA),  partial MP? with low shear
+2016-10-26/20:03:04 - 2016-10-26/20:05:34, 100.0, moka(EVA),  partial MP with low shear
+2016-10-26/20:08:14 - 2016-10-26/20:10:24, 100.0, moka(EVA),  partial MP with low shear
+2016-10-26/20:10:24 - 2016-10-26/20:12:34, 100.0, moka(EVA),  partial MP with low shear
+2016-10-26/20:14:44 - 2016-10-26/20:17:14, 100.0, moka(EVA),  partial MP with low shear
+2016-10-26/20:18:44 - 2016-10-26/20:19:54, 100.0, moka(EVA),  partial MP with low shear
+2016-10-26/20:22:04 - 2016-10-26/20:23:34,  75.0, moka(EVA),  partial MP or BL?
+2016-10-26/20:23:34 - 2016-10-26/20:25:14,  75.0, moka(EVA),  partial MP or BL?

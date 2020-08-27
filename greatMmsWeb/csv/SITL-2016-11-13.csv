@@ -1,0 +1,55 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-11-13/07:30:54 - 2016-11-13/07:32:14,  58.0, rtorbert(EVA),  FTE with current spike
+2016-11-13/07:35:14 - 2016-11-13/07:36:14,  40.0, rtorbert(EVA),  FTE
+2016-11-13/07:38:34 - 2016-11-13/07:40:44,  66.0, rtorbert(EVA),"  FTE or MP crossing, modest current spike"
+2016-11-13/07:42:34 - 2016-11-13/07:45:34, 112.0, rtorbert(EVA),  MP crossing with large flows
+2016-11-13/07:47:54 - 2016-11-13/07:50:44,  79.1, rtorbert(EVA),  MP crossing
+2016-11-13/07:50:44 - 2016-11-13/07:52:34, 126.0, rtorbert(EVA),"  MP crossing, current, flow changes"
+2016-11-13/07:55:14 - 2016-11-13/07:56:24,  94.0, rtorbert(EVA),  Current spike in MSH with flow jet
+2016-11-13/08:20:34 - 2016-11-13/08:22:34, 132.6, rtorbert(EVA),"  MP crossing, current spike, flow reversal"
+2016-11-13/08:24:44 - 2016-11-13/08:25:44,  73.0, rtorbert(EVA),  MP crossing
+2016-11-13/08:27:54 - 2016-11-13/08:30:54,  66.3, rtorbert(EVA),  MP crossing with light current
+2016-11-13/08:30:54 - 2016-11-13/08:32:34,  25.5, rtorbert(EVA), feature in MS with current
+2016-11-13/08:55:44 - 2016-11-13/08:57:04, 102.0, rtorbert(EVA),  MP crossing with large currents
+2016-11-13/09:02:44 - 2016-11-13/09:04:04,  76.3, rtorbert(EVA),  Mp crossing
+2016-11-13/09:06:24 - 2016-11-13/09:07:24,  58.0, rtorbert(EVA),  MP crossing with little current
+2016-11-13/09:09:24 - 2016-11-13/09:10:44, 135.0, rtorbert(EVA),  MP crossing with large currents and flow reversal
+2016-11-13/09:10:44 - 2016-11-13/09:12:04, 135.0, rtorbert(EVA),  MP crossing with large currents and flow reversal
+2016-11-13/09:34:34 - 2016-11-13/09:36:34,  94.3, rtorbert(EVA),"  Partial MP crossing, with flow reversal"
+2016-11-13/09:36:34 - 2016-11-13/09:38:24, 114.8, rtorbert(EVA),"  Partial MP crossing, with flow reversal"
+2016-11-13/09:38:24 - 2016-11-13/09:40:24,  73.9, rtorbert(EVA),"  Partial MP crossing, with flow reversal"
+2016-11-13/11:04:24 - 2016-11-13/11:06:14,  73.0, rtorbert(EVA),"  MP crossings, light current"
+2016-11-13/11:06:14 - 2016-11-13/11:08:14,  73.0, rtorbert(EVA),"  MP crossings, light current"
+2016-11-13/11:08:14 - 2016-11-13/11:10:04,  73.0, rtorbert(EVA),"  MP crossings, light current"
+2016-11-13/11:10:04 - 2016-11-13/11:12:04,  73.0, rtorbert(EVA),"  MP crossings, light current"
+2016-11-13/13:40:34 - 2016-11-13/13:45:14, 119.0, rtorbert(EVA),  MP corssings with large current spike
+2016-11-13/13:46:14 - 2016-11-13/13:48:34,  73.0, rtorbert(EVA),  Sequence of MP crossings with modest current
+2016-11-13/13:48:34 - 2016-11-13/13:50:54,  73.0, rtorbert(EVA),  Sequence of MP crossings with modest current
+2016-11-13/13:50:54 - 2016-11-13/13:53:14,  73.0, rtorbert(EVA),  Sequence of MP crossings with modest current
+2016-11-13/13:53:14 - 2016-11-13/13:55:34,  73.0, rtorbert(EVA),  Sequence of MP crossings with modest current
+2016-11-13/13:55:34 - 2016-11-13/13:57:54,  73.0, rtorbert(EVA),  Sequence of MP crossings with modest current
+2016-11-13/13:57:54 - 2016-11-13/14:00:14,  73.0, rtorbert(EVA),  Sequence of MP crossings with modest current
+2016-11-13/14:10:14 - 2016-11-13/14:12:34,  78.8, rtorbert(EVA),"  MP crossing, low current"
+2016-11-13/14:43:14 - 2016-11-13/14:45:24,  58.0, rtorbert(EVA),"  MP crossing, with some current spike at MS end"
+2016-11-13/14:45:24 - 2016-11-13/14:47:34,  58.0, rtorbert(EVA),"  MP crossing, with some current spike at MS end"
+2016-11-13/14:47:34 - 2016-11-13/14:49:44,  58.0, rtorbert(EVA),"  MP crossing, with some current spike at MS end"
+2016-11-13/14:49:44 - 2016-11-13/14:51:54,  58.0, rtorbert(EVA),"  MP crossing, with some current spike at MS end"
+2016-11-13/14:51:54 - 2016-11-13/14:54:04, 107.1, rtorbert(EVA),"  MP crossing, with some current spike at MS end"
+2016-11-13/14:54:04 - 2016-11-13/14:56:14, 102.0, rtorbert(EVA),"  MP crossing, with some current spike at MS end"
+2016-11-13/15:23:44 - 2016-11-13/15:25:34, 147.0, rtorbert(EVA),"  MP crossing with large current spike, modest flows"
+2016-11-13/15:25:34 - 2016-11-13/15:27:24, 147.0, rtorbert(EVA),"  MP crossing with large current spike, modest flows"
+2016-11-13/15:27:24 - 2016-11-13/15:29:14, 147.0, rtorbert(EVA),"  MP crossing with large current spike, modest flows"
+2016-11-13/15:37:34 - 2016-11-13/15:40:04,  66.0, rtorbert(EVA),"  Mult MP crossings, with low surrent"
+2016-11-13/15:40:04 - 2016-11-13/15:42:34,  66.0, rtorbert(EVA),"  Mult MP crossings, with low surrent"
+2016-11-13/15:42:34 - 2016-11-13/15:45:04,  66.0, rtorbert(EVA),"  Mult MP crossings, with low surrent"
+2016-11-13/15:50:04 - 2016-11-13/15:51:44,  66.0, rtorbert(EVA),  MP crossing with FTE
+2016-11-13/15:51:44 - 2016-11-13/15:53:34, 102.0, rtorbert(EVA),  MP crossing with FTE
+2016-11-13/15:53:34 - 2016-11-13/15:55:14,  66.0, rtorbert(EVA),  MP crossing with FTE
+2016-11-13/16:04:44 - 2016-11-13/16:06:54,  81.0, rtorbert(EVA),  MP crossing with small current spike
+2016-11-13/16:06:54 - 2016-11-13/16:09:14,  81.0, rtorbert(EVA),  MP crossing with small current spike
+2016-11-13/16:09:14 - 2016-11-13/16:11:24,  81.0, rtorbert(EVA),  MP crossing with small current spike
+2016-11-13/16:53:54 - 2016-11-13/16:55:54,  40.0, rtorbert(EVA),  Strange density variations
+2016-11-13/16:55:54 - 2016-11-13/16:58:04,  40.0, rtorbert(EVA),  Strange density variations
+2016-11-13/16:58:04 - 2016-11-13/17:00:04,  40.0, rtorbert(EVA),  Strange density variations
+2016-11-13/17:00:04 - 2016-11-13/17:02:14,  40.0, rtorbert(EVA),  Strange density variations
+2016-11-13/17:39:34 - 2016-11-13/17:42:54,  53.0, rtorbert(EVA),  FTE

@@ -1,0 +1,47 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-11-27/06:33:14 - 2016-11-27/06:35:14, 120.0, ykhotyaintsev(EVA), Partial MP
+2016-11-27/06:37:54 - 2016-11-27/06:39:04,  60.0, ykhotyaintsev(EVA),  BL
+2016-11-27/06:39:04 - 2016-11-27/06:41:14, 160.0, ykhotyaintsev(EVA),  2 MP crossings
+2016-11-27/06:44:44 - 2016-11-27/06:47:04, 180.0, ykhotyaintsev(EVA),"  Full crossing, high J"
+2016-11-27/06:47:04 - 2016-11-27/06:48:24,  60.0, ykhotyaintsev(EVA),  fill
+2016-11-27/06:48:24 - 2016-11-27/06:51:34, 175.0, ykhotyaintsev(EVA), Full MP prossing Vz<0
+2016-11-27/06:51:34 - 2016-11-27/06:52:04,  60.0, ykhotyaintsev(EVA),  fill
+2016-11-27/06:52:04 - 2016-11-27/06:54:14, 125.0, ykhotyaintsev(EVA),  2 partial crossings
+2016-11-27/06:54:14 - 2016-11-27/06:55:04,  45.0, ykhotyaintsev(EVA),  fill
+2016-11-27/06:55:04 - 2016-11-27/06:56:34, 155.0, ykhotyaintsev(EVA), Full low shear MP
+2016-11-27/06:59:54 - 2016-11-27/07:03:34,  40.0, ykhotyaintsev(EVA),  MSHBL
+2016-11-27/07:20:44 - 2016-11-27/07:25:44,  40.0, ykhotyaintsev(EVA),  MSHBL
+2016-11-27/08:08:14 - 2016-11-27/08:11:24,  55.0, ykhotyaintsev(EVA),  MSHBL
+2016-11-27/08:15:54 - 2016-11-27/08:16:44,  40.0, ykhotyaintsev(EVA),  MSHBL
+2016-11-27/08:17:34 - 2016-11-27/08:19:54,  40.0, ykhotyaintsev(EVA),  MSHBL
+2016-11-27/08:27:14 - 2016-11-27/08:29:44,  70.0, ykhotyaintsev(EVA),  MSH CS
+2016-11-27/08:38:34 - 2016-11-27/08:41:54,  80.0, ykhotyaintsev(EVA),  MSH Flux rope
+2016-11-27/08:45:24 - 2016-11-27/08:46:44,  65.0, ykhotyaintsev(EVA),  MSH flux rope
+2016-11-27/09:11:04 - 2016-11-27/09:12:44,  60.0, ykhotyaintsev(EVA),  MSH flux rope
+2016-11-27/09:14:24 - 2016-11-27/09:15:34,  65.0, ykhotyaintsev(EVA),  MSH flux rope
+2016-11-27/09:16:24 - 2016-11-27/09:17:14,  65.0, ykhotyaintsev(EVA),  MSH flux rope
+2016-11-27/11:54:24 - 2016-11-27/11:56:24,  70.0, ykhotyaintsev(EVA), MSH jet 
+2016-11-27/11:56:24 - 2016-11-27/11:58:14,  70.0, ykhotyaintsev(EVA), MSH jet 
+2016-11-27/11:58:14 - 2016-11-27/12:00:14,  70.0, ykhotyaintsev(EVA), MSH jet 
+2016-11-27/12:47:14 - 2016-11-27/12:48:24, 160.0, ykhotyaintsev(EVA),  Full low shear MP
+2016-11-27/12:48:24 - 2016-11-27/12:49:14, 120.0, ykhotyaintsev(EVA),  partial MP
+2016-11-27/12:49:14 - 2016-11-27/12:49:54,  40.0, ykhotyaintsev(EVA),  fill
+2016-11-27/12:49:54 - 2016-11-27/12:51:34, 165.0, ykhotyaintsev(EVA),  Full MP crossing
+2016-11-27/13:04:34 - 2016-11-27/13:08:04,  40.0, ykhotyaintsev(EVA),  MSHBL
+2016-11-27/13:15:04 - 2016-11-27/13:17:04, 165.0, ykhotyaintsev(EVA),  Full MP crossing
+2016-11-27/13:17:04 - 2016-11-27/13:19:24, 125.0, ykhotyaintsev(EVA),  Partial MP
+2016-11-27/13:46:04 - 2016-11-27/13:47:04,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-27/13:47:04 - 2016-11-27/13:49:44, 160.0, ykhotyaintsev(EVA),  Full MP crossing
+2016-11-27/14:23:54 - 2016-11-27/14:28:54, 120.0, ykhotyaintsev(EVA),  Partial MP
+2016-11-27/14:34:54 - 2016-11-27/14:38:04, 110.0, ykhotyaintsev(EVA),  Partial MP
+2016-11-27/14:38:04 - 2016-11-27/14:41:44, 110.0, ykhotyaintsev(EVA),  Partial MP
+2016-11-27/14:41:44 - 2016-11-27/14:46:24,  48.0, ykhotyaintsev(EVA),  fill
+2016-11-27/14:46:24 - 2016-11-27/14:48:24, 110.0, ykhotyaintsev(EVA),  Partial MP
+2016-11-27/14:49:14 - 2016-11-27/14:51:14, 110.0, ykhotyaintsev(EVA),  Partial MP
+2016-11-27/14:55:14 - 2016-11-27/14:58:04,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-27/15:00:04 - 2016-11-27/15:01:14,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-27/15:02:34 - 2016-11-27/15:03:24,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-27/15:15:14 - 2016-11-27/15:18:04,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-27/15:19:14 - 2016-11-27/15:23:04,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-27/15:26:44 - 2016-11-27/15:29:54,  40.0, ykhotyaintsev(EVA),  BL
+2016-11-27/16:15:34 - 2016-11-27/16:18:44,  40.0, ykhotyaintsev(EVA),  BL

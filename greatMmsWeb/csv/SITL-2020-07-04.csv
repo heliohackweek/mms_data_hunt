@@ -1,0 +1,58 @@
+DATETIME,FOM,ID,DISCUSSION
+2020-07-04/07:59:23 - 2020-07-04/08:01:03, 120.0, dpayne(EVA),  active PSBL
+2020-07-04/08:01:03 - 2020-07-04/08:02:53, 120.0, dpayne(EVA),  active PSBL
+2020-07-04/08:02:53 - 2020-07-04/08:04:33, 120.0, dpayne(EVA),  active PSBL
+2020-07-04/08:05:33 - 2020-07-04/08:07:43, 120.0, dpayne(EVA),  active PSBL
+2020-07-04/08:07:43 - 2020-07-04/08:10:03, 120.0, dpayne(EVA),  active PSBL
+2020-07-04/08:10:03 - 2020-07-04/08:12:13, 120.0, dpayne(EVA),  active PSBL
+2020-07-04/08:12:13 - 2020-07-04/08:14:33, 120.0, dpayne(EVA),  active PSBL
+2020-07-04/11:45:43 - 2020-07-04/11:48:03,  80.0, dpayne(EVA), boring PSBL
+2020-07-04/11:48:03 - 2020-07-04/11:50:33,  80.0, dpayne(EVA), boring PSBL
+2020-07-04/11:50:33 - 2020-07-04/11:52:53,  80.0, dpayne(EVA), boring PSBL
+2020-07-04/11:52:53 - 2020-07-04/11:55:23,  80.0, dpayne(EVA), boring PSBL
+2020-07-04/11:55:23 - 2020-07-04/11:57:43,  80.0, dpayne(EVA), boring PSBL
+2020-07-04/12:07:23 - 2020-07-04/12:09:03,  40.0, dpayne(EVA),  BL
+2020-07-04/12:09:03 - 2020-07-04/12:10:53,  40.0, dpayne(EVA),  BL
+2020-07-04/12:10:53 - 2020-07-04/12:12:33,  40.0, dpayne(EVA),  BL
+2020-07-04/13:44:33 - 2020-07-04/13:46:23, 120.0, dpayne(EVA),  active PSBL
+2020-07-04/13:46:23 - 2020-07-04/13:48:13, 120.0, dpayne(EVA),  active PSBL
+2020-07-04/13:48:13 - 2020-07-04/13:50:03, 120.0, dpayne(EVA),  active PSBL
+2020-07-04/13:51:33 - 2020-07-04/13:54:13, 120.0, tphan(EVA),  active PSBL
+2020-07-04/13:58:13 - 2020-07-04/14:00:33, 110.0, dpayne(EVA),  active and inactive PSBL
+2020-07-04/14:00:33 - 2020-07-04/14:02:53, 110.0, dpayne(EVA),  active and inactive PSBL
+2020-07-04/14:02:53 - 2020-07-04/14:05:13, 110.0, dpayne(EVA),  active and inactive PSBL
+2020-07-04/14:20:33 - 2020-07-04/14:22:53, 150.0, dpayne(EVA),"  DFs (?), BBF(?)"
+2020-07-04/14:22:53 - 2020-07-04/14:25:13, 150.0, dpayne(EVA),"  DFs (?), BBF(?)"
+2020-07-04/14:25:13 - 2020-07-04/14:27:33, 150.0, dpayne(EVA),"  DFs (?), BBF(?)"
+2020-07-04/20:08:13 - 2020-07-04/20:10:43,  60.0, dpayne(EVA),  Long PSBL(?) going into lobe
+2020-07-04/20:10:43 - 2020-07-04/20:13:03,  60.0, dpayne(EVA),  Long PSBL(?) going into lobe
+2020-07-04/20:13:03 - 2020-07-04/20:15:33,  60.0, dpayne(EVA),  Long PSBL(?) going into lobe
+2020-07-04/20:15:33 - 2020-07-04/20:17:53,  60.0, dpayne(EVA),  Long PSBL(?) going into lobe
+2020-07-04/20:17:53 - 2020-07-04/20:20:23,  60.0, dpayne(EVA),  Long PSBL(?) going into lobe
+2020-07-04/20:20:23 - 2020-07-04/20:22:43,  60.0, dpayne(EVA),  Long PSBL(?) going into lobe
+2020-07-04/20:22:43 - 2020-07-04/20:25:13,  60.0, dpayne(EVA),  Long PSBL(?) going into lobe
+2020-07-04/20:25:13 - 2020-07-04/20:27:33,  60.0, dpayne(EVA),  Long PSBL(?) going into lobe
+2020-07-04/20:27:33 - 2020-07-04/20:30:03,  60.0, dpayne(EVA),  Long PSBL(?) going into lobe
+2020-07-04/21:17:33 - 2020-07-04/21:20:13, 120.0, tphan(EVA), active PSBL with lobe cold ions
+2020-07-04/21:34:43 - 2020-07-04/21:36:43, 110.0, dpayne(EVA),  active PSBL with cold lobe ions
+2020-07-04/21:36:43 - 2020-07-04/21:38:43, 110.0, dpayne(EVA),  active PSBL with cold lobe ions
+2020-07-04/21:38:43 - 2020-07-04/21:40:53, 110.0, dpayne(EVA),  active PSBL with cold lobe ions
+2020-07-04/21:40:53 - 2020-07-04/21:42:53, 110.0, dpayne(EVA),  active PSBL with cold lobe ions
+2020-07-04/21:49:03 - 2020-07-04/21:53:43, 110.0, tphan(EVA),  active PSBL
+2020-07-05/00:28:43 - 2020-07-05/00:31:03, 150.0, dpayne(EVA),"  Possible DFs(?), large flow, sharp Bz fluctuations"
+2020-07-05/00:31:03 - 2020-07-05/00:33:33, 150.0, dpayne(EVA),"  Possible DFs(?), large flow, sharp Bz fluctuations"
+2020-07-05/00:33:33 - 2020-07-05/00:35:53, 150.0, dpayne(EVA),"  Possible DFs(?), large flow, sharp Bz fluctuations"
+2020-07-05/00:35:53 - 2020-07-05/00:38:23, 150.0, dpayne(EVA),"  Possible DFs(?), large flow, sharp Bz fluctuations"
+2020-07-05/01:05:33 - 2020-07-05/01:07:33, 150.0, dpayne(EVA),  DF
+2020-07-05/01:07:33 - 2020-07-05/01:09:23, 150.0, dpayne(EVA),  DF
+2020-07-05/01:09:23 - 2020-07-05/01:11:23, 150.0, dpayne(EVA),  DF
+2020-07-05/01:11:23 - 2020-07-05/01:13:23, 150.0, dpayne(EVA),  DF
+2020-07-05/02:13:43 - 2020-07-05/02:15:53,  65.0, dpayne(EVA),  PSBL w/ brief Bz reversal
+2020-07-05/02:15:53 - 2020-07-05/02:18:03,  65.0, dpayne(EVA),  PSBL w/ brief Bz reversal
+2020-07-05/02:18:03 - 2020-07-05/02:20:03,  65.0, dpayne(EVA),  PSBL w/ brief Bz reversal
+2020-07-05/02:20:03 - 2020-07-05/02:22:13,  65.0, dpayne(EVA),  PSBL w/ brief Bz reversal
+2020-07-05/02:22:13 - 2020-07-05/02:24:23,  65.0, dpayne(EVA),  PSBL w/ brief Bz reversal
+2020-07-05/02:51:33 - 2020-07-05/02:53:53,  50.0, dpayne(EVA),  PSBL(?)
+2020-07-05/02:53:53 - 2020-07-05/02:56:13,  50.0, dpayne(EVA),  PSBL(?)
+2020-07-05/02:56:13 - 2020-07-05/02:58:33,  50.0, dpayne(EVA),  PSBL(?)
+2020-07-05/02:58:33 - 2020-07-05/03:00:53,  50.0, dpayne(EVA),  PSBL(?)

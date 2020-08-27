@@ -1,0 +1,47 @@
+DATETIME,FOM,ID,DISCUSSION
+2020-05-06/03:27:13 - 2020-05-06/03:29:23, 125.0, seriksson(EVA),  Earthward BBF 300 km/s in plasma sheet
+2020-05-06/03:29:23 - 2020-05-06/03:31:43, 125.0, seriksson(EVA),  Earthward BBF 300 km/s in plasma sheet
+2020-05-06/03:31:43 - 2020-05-06/03:33:53, 125.0, seriksson(EVA),  Earthward BBF 300 km/s in plasma sheet
+2020-05-06/03:33:53 - 2020-05-06/03:36:13, 125.0, seriksson(EVA),  Earthward BBF 300 km/s in plasma sheet
+2020-05-06/03:36:13 - 2020-05-06/03:38:23, 125.0, seriksson(EVA),  Earthward BBF 300 km/s in plasma sheet
+2020-05-06/03:38:23 - 2020-05-06/03:40:43, 125.0, seriksson(EVA),  Earthward BBF 300 km/s in plasma sheet
+2020-05-06/08:40:53 - 2020-05-06/08:44:23, 125.0, seriksson(EVA),  Partial MP
+2020-05-06/08:57:43 - 2020-05-06/09:00:03, 125.0, seriksson(EVA), KH-like induced current sheet
+2020-05-06/09:00:03 - 2020-05-06/09:02:23, 155.0, seriksson(EVA), KH-like induced current sheet
+2020-05-06/09:04:53 - 2020-05-06/09:06:23, 125.0, seriksson(EVA),  KH-like induced By current sheet
+2020-05-06/09:06:23 - 2020-05-06/09:09:13, 155.0, seriksson(EVA),  KH-like induced By current sheet
+2020-05-06/09:10:43 - 2020-05-06/09:13:43, 125.0, seriksson(EVA),  KH-like partial MP
+2020-05-06/09:17:23 - 2020-05-06/09:19:23, 125.0, seriksson(EVA),  KH-like partial MP
+2020-05-06/09:19:23 - 2020-05-06/09:21:13, 125.0, seriksson(EVA),  KH-like partial MP
+2020-05-06/09:21:13 - 2020-05-06/09:23:13, 125.0, seriksson(EVA),  KH-like partial MP
+2020-05-06/09:25:43 - 2020-05-06/09:27:23, 145.0, seriksson(EVA),  KH-like partial MP with very low-shear CS
+2020-05-06/09:27:23 - 2020-05-06/09:29:13, 145.0, seriksson(EVA),  KH-like partial MP with very low-shear CS
+2020-05-06/09:29:13 - 2020-05-06/09:30:53, 145.0, seriksson(EVA),  KH-like partial MP with very low-shear CS
+2020-05-06/09:38:03 - 2020-05-06/09:42:03, 155.0, seriksson(EVA),  KH-like induced Bx current sheet and partial MP
+2020-05-06/09:46:43 - 2020-05-06/09:48:53, 160.0, seriksson(EVA),  KH-induced MP current sheet crossings 
+2020-05-06/09:48:53 - 2020-05-06/09:51:03, 160.0, seriksson(EVA),  KH-induced MP current sheet crossings 
+2020-05-06/09:51:03 - 2020-05-06/09:53:13, 145.0, seriksson(EVA),  KH-induced MP current sheet crossings 
+2020-05-06/09:53:13 - 2020-05-06/09:55:23, 125.0, seriksson(EVA),  KH-induced MP current sheet crossings 
+2020-05-06/09:55:23 - 2020-05-06/09:57:33, 160.0, seriksson(EVA),  KH-induced MP current sheet crossings 
+2020-05-06/09:57:33 - 2020-05-06/10:00:23, 160.0, seriksson(EVA),  KH-induced MP current sheet crossings 
+2020-05-06/10:00:23 - 2020-05-06/10:02:23, 125.0, seriksson(EVA),  KH-induced MP current sheet crossings 
+2020-05-06/10:02:23 - 2020-05-06/10:03:53, 125.0, seriksson(EVA),  KH-induced MP current sheet crossings 
+2020-05-06/10:03:53 - 2020-05-06/10:07:03, 160.0, seriksson(EVA),  KH-induced MP current sheet crossings 
+2020-05-06/10:07:03 - 2020-05-06/10:09:23, 160.0, seriksson(EVA),  KH-induced MP current sheet crossings 
+2020-05-06/10:09:23 - 2020-05-06/10:10:43, 125.0, seriksson(EVA),  KH-induced MP current sheet crossings 
+2020-05-06/10:10:43 - 2020-05-06/10:14:03, 160.0, seriksson(EVA),  KH-induced MP current sheet crossings 
+2020-05-06/10:14:03 - 2020-05-06/10:15:33, 125.0, seriksson(EVA),  KH-induced MP current sheet crossings 
+2020-05-06/10:15:33 - 2020-05-06/10:18:13, 160.0, seriksson(EVA),  KH-induced MP current sheet crossings 
+2020-05-06/10:18:13 - 2020-05-06/10:20:23, 160.0, seriksson(EVA),  KH-induced MP current sheet crossings 
+2020-05-06/10:20:23 - 2020-05-06/10:22:43,  55.0, seriksson(EVA),  Fill KH
+2020-05-06/10:22:43 - 2020-05-06/10:26:03, 145.0, seriksson(EVA),  Extended high-shear partial MP with flow enhancement
+2020-05-06/10:26:03 - 2020-05-06/10:28:13, 145.0, seriksson(EVA),  Extended high-shear partial MP with flow enhancement
+2020-05-06/10:28:13 - 2020-05-06/10:30:33, 145.0, seriksson(EVA),  Extended high-shear partial MP with flow enhancement
+2020-05-06/10:30:33 - 2020-05-06/10:32:03, 145.0, seriksson(EVA),  Extended high-shear partial MP with flow enhancement
+2020-05-06/10:32:03 - 2020-05-06/10:36:03, 145.0, seriksson(EVA),  Extended high-shear partial MP with flow enhancement
+2020-05-06/10:41:53 - 2020-05-06/10:43:13, 175.0, seriksson(EVA),  Magnetosheath Bz CS with potential Vz jet
+2020-05-06/10:46:03 - 2020-05-06/10:47:53, 125.0, seriksson(EVA),  FTE flux rope
+2020-05-06/11:13:43 - 2020-05-06/11:14:23, 175.0, seriksson(EVA),  Magnetosheath Bz current sheet
+2020-05-06/20:29:43 - 2020-05-06/20:33:23, 125.0, seriksson(EVA),  Bow shock and magnetosheath CS
+2020-05-06/20:46:03 - 2020-05-06/20:46:53, 145.0, seriksson(EVA), Sharp magnetosheath Bz current sheet near bow shock
+2020-05-06/21:23:13 - 2020-05-06/21:27:43, 110.0, seriksson(EVA),  Bow shock

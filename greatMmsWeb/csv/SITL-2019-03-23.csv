@@ -1,0 +1,36 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-03-23/04:18:43 - 2019-03-23/04:21:03, 150.0, tphan(EVA),  very long MP crossing with reconnection jets
+2019-03-23/04:21:03 - 2019-03-23/04:23:13, 150.0, tphan(EVA),  very long MP crossing with reconnection jets
+2019-03-23/04:23:13 - 2019-03-23/04:25:33, 150.0, tphan(EVA),  very long MP crossing with reconnection jets
+2019-03-23/04:25:33 - 2019-03-23/04:27:43, 150.0, tphan(EVA),  very long MP crossing with reconnection jets
+2019-03-23/04:27:43 - 2019-03-23/04:30:03, 150.0, tphan(EVA),  very long MP crossing with reconnection jets
+2019-03-23/04:30:03 - 2019-03-23/04:32:23, 150.0, tphan(EVA),  very long MP crossing with reconnection jets
+2019-03-23/04:32:23 - 2019-03-23/04:34:33, 150.0, tphan(EVA),  very long MP crossing with reconnection jets
+2019-03-23/04:34:33 - 2019-03-23/04:36:53, 150.0, tphan(EVA),  very long MP crossing with reconnection jets
+2019-03-23/04:46:53 - 2019-03-23/04:48:13, 125.0, tphan(EVA),  magnetosheath CS
+2019-03-23/05:20:03 - 2019-03-23/05:21:23, 125.0, tphan(EVA),  magnetosheath CS
+2019-03-23/07:50:33 - 2019-03-23/07:52:33, 125.0, tphan(EVA),  clean BS
+2019-03-23/07:56:53 - 2019-03-23/07:58:53, 125.0, tphan(EVA),  clean BS
+2019-03-23/08:05:53 - 2019-03-23/08:08:13, 100.0, tphan(EVA),  long BS transition with lots of current sheets
+2019-03-23/08:08:13 - 2019-03-23/08:10:33, 100.0, tphan(EVA),  long BS transition with lots of current sheets
+2019-03-23/08:10:33 - 2019-03-23/08:13:03, 100.0, tphan(EVA),  long BS transition with lots of current sheets
+2019-03-23/08:13:03 - 2019-03-23/08:15:23, 100.0, tphan(EVA),  long BS transition with lots of current sheets
+2019-03-23/08:18:13 - 2019-03-23/08:21:13, 125.0, tphan(EVA), BS
+2019-03-23/08:24:43 - 2019-03-23/08:26:33, 125.0, tphan(EVA),  BS
+2019-03-23/08:28:53 - 2019-03-23/08:30:53,  85.0, tphan(EVA),  partial BS
+2019-03-23/08:30:53 - 2019-03-23/08:33:03,  85.0, tphan(EVA),  partial BS
+2019-03-23/09:25:43 - 2019-03-23/09:28:43, 110.0, lavanov(EVA)," Foreshock transient, possibly HFA, interesting leading edge (interplanetary shock?) "
+2019-03-23/09:47:03 - 2019-03-23/09:50:33, 100.0, lavanov(EVA)," Foreshock transient, with emebeded CSs  "
+2019-03-23/14:42:53 - 2019-03-23/14:43:43, 100.0, tphan(EVA),  SW CS
+2019-03-24/14:20:23 - 2019-03-24/14:24:23, 105.0, lavanov(EVA), Solar wind CS with number density decrease
+2019-03-24/14:35:53 - 2019-03-24/14:40:03,  50.0, lavanov(EVA), Turbulen solar wind
+2019-03-24/14:40:03 - 2019-03-24/14:44:13,  50.0, lavanov(EVA), Turbulen solar wind
+2019-03-24/14:44:13 - 2019-03-24/14:48:33,  50.0, lavanov(EVA), Turbulen solar wind
+2019-03-24/14:48:33 - 2019-03-24/14:52:43,  50.0, lavanov(EVA), Turbulen solar wind
+2019-03-24/14:52:43 - 2019-03-24/14:56:53,  50.0, lavanov(EVA), Turbulen solar wind
+2019-03-24/15:23:33 - 2019-03-24/15:24:03, 100.0, lavanov(EVA), Solar Wind CS 
+2019-03-24/15:25:23 - 2019-03-24/15:26:03, 100.0, lavanov(EVA), Bifurcated solar wind CSs 
+2019-03-24/15:32:03 - 2019-03-24/15:32:33, 105.0, lavanov(EVA),"  Solar CS, Bz reversal"
+2019-03-24/15:45:23 - 2019-03-24/15:45:53, 105.0, lavanov(EVA),  Solar Wind CS
+2019-03-24/16:04:43 - 2019-03-24/16:07:03, 110.0, lavanov(EVA), Solar wind hole with CS 
+2019-03-24/16:24:53 - 2019-03-24/16:26:23, 105.0, lavanov(EVA), Solar wind CS 

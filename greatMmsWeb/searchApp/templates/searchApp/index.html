@@ -1,0 +1,14 @@
+{% extends "searchApp/base_template.html" %}
+{% block maincontent %}
+  <div class="col">
+  <main role="main" class="container leadBox">
+    <div class="jumbotron">
+        <h1>The MMS Event Explorer (MeMeS)</h1>
+        <p class="lead">MeMeS is a Python-based collaborative project incorporating research performed during the 2020 Helio HackWeek, hosted by the NASA Center for Climate Simulation, the University of Washington eScience Institute, NVIDIA, and the University of Maryland Department of Geographical Sciences.</p>
+        <h3>Our Goals</h3>
+        <p class="lead">To contribute to the scientific community a research-aiding utility that identifies characteristic Heliophysical events within the Magnetospheric Multiscale (MMS) mission observation record using identified events from Scientists in the Loop (SITL) reports as the ground-truth training set for machine learning training and event selection.</p>
+        <a class="btn btn-lg btn-primary" href="{% url 'reportUserInterface' %}" role="button">Let's Hack</a>
+    </div>
+  </main>
+  </div>
+{% endblock %}

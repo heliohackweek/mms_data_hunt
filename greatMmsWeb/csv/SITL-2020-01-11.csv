@@ -1,0 +1,29 @@
+DATETIME,FOM,ID,DISCUSSION
+2020-01-11/07:24:13 - 2020-01-11/07:26:03,  92.0, sboardsen(EVA), MSPH cold ion beam associated with instense broad band whistler mode
+2020-01-11/07:38:53 - 2020-01-11/07:42:03, 175.0, sboardsen(EVA), MP CR Vz +400 km/s jet; followed by FTE
+2020-01-11/07:42:03 - 2020-01-11/07:43:53, 155.0, seriksson(EVA), MP cr; Vz jet +200 km/s
+2020-01-11/07:45:23 - 2020-01-11/07:48:43, 155.0, sboardsen(EVA), MP CR; Vz jet ~ -150 km/s
+2020-01-11/07:53:13 - 2020-01-11/07:54:13, 175.0, seriksson(EVA), Intense Bz Msheath current sheet  with 2.7 uA/m2 diffB
+2020-01-11/07:57:43 - 2020-01-11/07:58:23, 155.0, seriksson(EVA),  Msheath CS with enhanced diffB >1.5 uA/m2
+2020-01-11/09:23:43 - 2020-01-11/09:25:33, 125.0, sboardsen(EVA), FTE bipolar Vz jets
+2020-01-11/09:59:03 - 2020-01-11/10:00:53, 150.0, seriksson(EVA), MSH CS with diff B>1.2 uA/m2
+2020-01-11/10:31:23 - 2020-01-11/10:33:43, 115.0, sboardsen(EVA), train of FTEs
+2020-01-11/11:09:33 - 2020-01-11/11:11:23, 125.0, seriksson(EVA), Intense current sheets in turbulent msheath near bow shock
+2020-01-11/11:11:23 - 2020-01-11/11:12:23, 125.0, seriksson(EVA),  Msheath CS
+2020-01-11/11:20:33 - 2020-01-11/11:23:53, 110.0, seriksson(EVA),  Bow shock
+2020-01-11/11:24:23 - 2020-01-11/11:28:13, 125.0, seriksson(EVA),  Bow shock
+2020-01-11/11:30:23 - 2020-01-11/11:32:13, 120.0, seriksson(EVA),  Bow shock
+2020-01-11/11:32:13 - 2020-01-11/11:34:03, 120.0, seriksson(EVA),  Bow shock
+2020-01-11/11:36:53 - 2020-01-11/11:37:43, 100.0, sboardsen(EVA), SW CS
+2020-01-11/13:27:43 - 2020-01-11/13:29:23, 125.0, sboardsen(EVA),  SW CS- unresolved exhaust
+2020-01-11/14:01:03 - 2020-01-11/14:03:43, 125.0, seriksson(EVA), Two Bz SW CS - One is bifurcated; unresolved exhausts
+2020-01-11/15:32:13 - 2020-01-11/15:33:33, 125.0, sboardsen(EVA),  SW CS -unresolved exhaust
+2020-01-12/17:29:03 - 2020-01-12/17:31:23, 100.0, sboardsen(EVA), SW CS
+2020-01-12/19:19:13 - 2020-01-12/19:21:43,  99.0, sboardsen(EVA), RH waves at 3 Hz; LH waves at 0.2 Hz; probably foreshock
+2020-01-12/20:15:23 - 2020-01-12/20:17:03, 100.0, seriksson(EVA), Low-shear SW CS
+2020-01-13/23:20:33 - 2020-01-13/23:23:43, 120.0, seriksson(EVA),  Bifurcated low-shear SW CS
+2020-01-13/23:53:33 - 2020-01-13/23:55:03, 120.0, seriksson(EVA),  Bifurcated low-shear SW CS - unresolved exhaust
+2020-01-14/02:33:23 - 2020-01-14/02:36:13, 165.0, seriksson(EVA),  Bifurcated SW CS with confirmed exhaust
+2020-01-14/03:10:53 - 2020-01-14/03:11:33, 120.0, seriksson(EVA),  SW CS - unresolved exhaust
+2020-01-14/03:33:03 - 2020-01-14/03:35:33, 100.0, seriksson(EVA),  Bow shock skimming
+2020-01-14/03:40:23 - 2020-01-14/03:43:53, 100.0, seriksson(EVA),  Skimming bow shock

@@ -1,0 +1,91 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-02-18/09:25:43 - 2018-02-18/09:27:53, 150.0, seriksson(EVA),  Extended southward jet earthward of high-shear MP
+2018-02-18/09:27:53 - 2018-02-18/09:31:13, 160.0, seriksson(EVA),  Extended southward jet earthward of high-shear MP - possible jet reversal
+2018-02-18/09:31:13 - 2018-02-18/09:32:33, 140.0, seriksson(EVA),  Low-shear partial MP with large diffB=2.5 uA/m2 and Vz flow changes
+2018-02-18/09:32:33 - 2018-02-18/09:35:13, 120.0, seriksson(EVA), Low-shear partial MP with possible Vz>0 activity
+2018-02-18/09:38:03 - 2018-02-18/09:39:33, 150.0, seriksson(EVA),  Complete high-shear MP with Vz>0 jet
+2018-02-18/09:39:33 - 2018-02-18/09:40:43, 125.0, seriksson(EVA),  Low-shear partial MP with Vz flow changes and diffB=1.4
+2018-02-18/09:43:23 - 2018-02-18/09:43:53,  75.0, seriksson(EVA),  Complete high-shear MP
+2018-02-18/09:43:53 - 2018-02-18/09:46:23, 150.0, seriksson(EVA),  Complete high-shear MP
+2018-02-18/09:59:23 - 2018-02-18/10:01:33, 148.0, seriksson(EVA),  Two high-shear partial MP with Vz>0 jet and diffB=2 uA/m2
+2018-02-18/10:09:33 - 2018-02-18/10:12:13, 155.0, seriksson(EVA),  High-shear complete MP with Vz>0 jet
+2018-02-18/10:17:43 - 2018-02-18/10:20:13, 150.0, seriksson(EVA),  Complete high-shear MP with Vxz jet
+2018-02-18/10:21:43 - 2018-02-18/10:23:03, 100.0, seriksson(EVA),  Two high-shear partial MP
+2018-02-18/10:26:33 - 2018-02-18/10:27:23,  65.0, seriksson(EVA),  Two low-shear BL encounters
+2018-02-18/10:27:53 - 2018-02-18/10:29:03, 120.0, seriksson(EVA),  High-shear partial MP with enhanced diffB
+2018-02-18/10:35:53 - 2018-02-18/10:37:03, 125.0, seriksson(EVA),  Possible FTE (bipolar By)
+2018-02-18/10:40:53 - 2018-02-18/10:42:13, 100.0, seriksson(EVA),  Low-shear partial MP with enhanced diffB
+2018-02-18/10:44:43 - 2018-02-18/10:46:13, 150.0, seriksson(EVA),  Complete high-shear MP
+2018-02-18/10:47:13 - 2018-02-18/10:48:43,  95.0, seriksson(EVA),  Low-shear partial MP with diffB activity
+2018-02-18/10:50:03 - 2018-02-18/10:51:23, 150.0, seriksson(EVA),  High-shear complete MP with diffB and weak Vz<0 jet
+2018-02-18/11:07:03 - 2018-02-18/11:08:03, 145.0, seriksson(EVA), Very high-shear partial MP with large diffB
+2018-02-18/11:13:53 - 2018-02-18/11:14:53, 135.0, seriksson(EVA),  High-shear partial MP
+2018-02-18/11:17:43 - 2018-02-18/11:19:03, 120.0, seriksson(EVA),  Two high-shear partial MP weak Vz<0 change at 2nd
+2018-02-18/11:22:53 - 2018-02-18/11:23:53, 149.0, seriksson(EVA),  High-shear partial MP with Vz>0 jet
+2018-02-18/11:48:13 - 2018-02-18/11:48:53, 135.0, seriksson(EVA),  Two high-shear MSH CS with large diffB
+2018-02-18/11:51:23 - 2018-02-18/11:51:53, 125.0, seriksson(EVA),  Two MSH CS - enhanced diffB at 2nd
+2018-02-18/11:55:13 - 2018-02-18/11:55:43, 130.0, seriksson(EVA),  Three MSH CS enhanced diffB
+2018-02-18/12:01:23 - 2018-02-18/12:02:23, 135.0, seriksson(EVA),  Partial MP with possible Vz reversal before north jet
+2018-02-18/12:05:03 - 2018-02-18/12:05:33, 125.0, seriksson(EVA),  Possible MSH flux rope and large diffB=2uA/m2 at edge
+2018-02-18/12:13:53 - 2018-02-18/12:14:53, 150.0, seriksson(EVA),  High-shear complete MP - possible Vz<0 jet
+2018-02-18/12:17:23 - 2018-02-18/12:18:23,  70.0, seriksson(EVA),  Low-shear partial MP
+2018-02-18/12:18:23 - 2018-02-18/12:19:03, 125.0, seriksson(EVA),  Bifurcated MSH CS (Byz)
+2018-02-18/12:19:03 - 2018-02-18/12:21:03, 100.0, seriksson(EVA),  Quasi-parallel BS w/ Vy>0 flow
+2018-02-18/12:21:03 - 2018-02-18/12:22:43, 125.0, seriksson(EVA),  Quasi-parallel BS and downstream turbulence with large diffB=2uA/m2
+2018-02-18/12:22:43 - 2018-02-18/12:24:13, 110.0, seriksson(EVA),  Quasi-parallel BS and downstream turbulence with large diffB=2uA/m2
+2018-02-18/12:39:33 - 2018-02-18/12:43:53, 125.0, seriksson(EVA),  Turbulence MSH and diffB>2
+2018-02-18/12:52:43 - 2018-02-18/12:54:43, 125.0, seriksson(EVA),  Turbulent MSH and diffB>1.5 (peak diffB=2.5)
+2018-02-18/12:54:43 - 2018-02-18/12:56:53, 125.0, seriksson(EVA),  Turbulent MSH and diffB>1.5 (peak diffB=2.5)
+2018-02-18/12:56:53 - 2018-02-18/12:58:53, 125.0, seriksson(EVA),  Turbulent MSH and diffB>1.5 (peak diffB=2.5)
+2018-02-18/12:58:53 - 2018-02-18/13:01:03, 125.0, seriksson(EVA),  Turbulent MSH and diffB>1.5 (peak diffB=2.5)
+2018-02-18/13:01:03 - 2018-02-18/13:03:03, 125.0, seriksson(EVA),  Turbulent MSH and diffB>1.5 (peak diffB=2.5)
+2018-02-18/13:19:43 - 2018-02-18/13:23:03,  75.0, seriksson(EVA),  Quasi-para BS and diffB<1.5 fluctuations
+2018-02-18/13:26:03 - 2018-02-18/13:27:13, 125.0, seriksson(EVA),  Turbulence MSH CS diffB>1.5
+2018-02-18/13:28:33 - 2018-02-18/13:29:43, 125.0, seriksson(EVA),  Turbulent MSH CS
+2018-02-18/13:56:53 - 2018-02-18/13:58:03, 125.0, seriksson(EVA),  Quasi-para BS and diffB>2 turbulent MSH CS
+2018-02-18/14:01:03 - 2018-02-18/14:01:33, 125.0, seriksson(EVA),  MSH CS downstream quasi-para BS
+2018-02-18/14:04:03 - 2018-02-18/14:05:03, 125.0, seriksson(EVA),  MSH CS downstream quasi-para BS
+2018-02-18/14:08:13 - 2018-02-18/14:10:13,  70.0, seriksson(EVA),  Quasi-para BS
+2018-02-18/14:10:13 - 2018-02-18/14:12:03,  70.0, seriksson(EVA),  Quasi-para BS
+2018-02-18/14:12:03 - 2018-02-18/14:14:03,  70.0, seriksson(EVA),  Quasi-para BS
+2018-02-18/14:23:53 - 2018-02-18/14:25:53,  49.0, seriksson(EVA),  Foreshock waves
+2018-02-18/14:25:53 - 2018-02-18/14:28:03,  49.0, seriksson(EVA),  Foreshock waves
+2018-02-18/17:08:03 - 2018-02-18/17:08:43, 120.0, seriksson(EVA),  Solar wind Bxz CS
+2018-02-18/17:36:53 - 2018-02-18/17:40:13,  80.0, seriksson(EVA),  Pristine solar wind (steady IMF with Bz>0) for turbulence
+2018-02-18/17:52:23 - 2018-02-18/17:54:03, 125.0, seriksson(EVA),  Bifurcated solar wind Bx CS
+2018-02-19/14:15:43 - 2018-02-19/14:17:33, 125.0, seriksson(EVA),  Bifurcated SW CS (Bxz)
+2018-02-19/14:25:33 - 2018-02-19/14:26:03, 130.0, seriksson(EVA),  Bifurcated SW CS (Bx)
+2018-02-19/15:22:53 - 2018-02-19/15:25:43,  90.0, seriksson(EVA),  Pristine SW for turbulence (IMF Bz near zero)
+2018-02-19/16:45:23 - 2018-02-19/16:45:53, 125.0, seriksson(EVA),  Two low-shear SW CS
+2018-02-20/11:52:03 - 2018-02-20/11:55:33,  60.0, seriksson(EVA),  BS encounter
+2018-02-20/12:24:33 - 2018-02-20/12:29:23,  80.0, seriksson(EVA),  BS encounter
+2018-02-20/13:41:53 - 2018-02-20/13:46:33, 115.0, seriksson(EVA),  BS encounter and possible HFA (Vx>0 flow)
+2018-02-20/13:52:33 - 2018-02-20/13:54:23,  85.0, seriksson(EVA),  Quasi-parallel BS with large diffB=2.5 event
+2018-02-20/13:54:23 - 2018-02-20/13:56:13, 130.0, seriksson(EVA),  Quasi-parallel BS with large diffB=2.5 event
+2018-02-20/13:59:13 - 2018-02-20/14:00:13, 100.0, seriksson(EVA),  Turbulent MSH CS downstream of BS and diffB>1uA/m2
+2018-02-20/14:13:03 - 2018-02-20/14:14:43, 115.0, seriksson(EVA),  Quasi-parallel BS and large diffB=1.2 activity
+2018-02-20/14:14:43 - 2018-02-20/14:16:33,  90.0, seriksson(EVA),  Quasi-parallel BS and large diffB=1.2 activity
+2018-02-20/14:16:33 - 2018-02-20/14:18:13,  80.0, seriksson(EVA),  Quasi-parallel BS and large diffB=1.2 activity
+2018-02-20/14:21:03 - 2018-02-20/14:23:03,  75.0, seriksson(EVA),  Quasi-parallel BS and turbulent MSH CS
+2018-02-20/14:23:03 - 2018-02-20/14:25:13, 105.0, seriksson(EVA),  Quasi-parallel BS and turbulent MSH CS
+2018-02-20/14:25:43 - 2018-02-20/14:27:13,  75.0, seriksson(EVA),  Quasi-parallel BS with diffB
+2018-02-20/14:27:13 - 2018-02-20/14:30:13, 110.0, seriksson(EVA),  Quasi-parallel BS with diffB
+2018-02-20/14:36:43 - 2018-02-20/14:38:13,  99.0, seriksson(EVA),  BS and turbulent MSH CS
+2018-02-20/14:38:13 - 2018-02-20/14:39:53, 105.0, seriksson(EVA),  BS and turbulent MSH CS
+2018-02-20/15:05:13 - 2018-02-20/15:05:43, 125.0, seriksson(EVA), MSH CS
+2018-02-20/15:06:43 - 2018-02-20/15:07:13, 125.0, seriksson(EVA),  MSH CS
+2018-02-20/15:08:13 - 2018-02-20/15:08:43, 125.0, seriksson(EVA),  MSH CS
+2018-02-20/15:14:53 - 2018-02-20/15:15:43, 110.0, seriksson(EVA),  MSH CS
+2018-02-20/15:23:43 - 2018-02-20/15:24:13, 120.0, seriksson(EVA),  MSH CS
+2018-02-20/16:06:33 - 2018-02-20/16:07:03,  65.0, seriksson(EVA),  MSH magnetic hole
+2018-02-20/16:32:53 - 2018-02-20/16:35:13, 150.0, seriksson(EVA),  Complete high-shear MP
+2018-02-20/16:42:03 - 2018-02-20/16:43:43, 155.0, seriksson(EVA),  Complete high-shear MP crossing - possibly at edge of Vz>0 jet
+2018-02-20/16:43:43 - 2018-02-20/16:45:43, 155.0, seriksson(EVA),  Complete high-shear MP crossing - possibly at edge of Vz>0 jet
+2018-02-20/16:45:43 - 2018-02-20/16:47:33,  90.0, seriksson(EVA),  Complete high-shear MP crossing - possibly at edge of Vz>0 jet
+2018-02-20/16:59:03 - 2018-02-20/17:00:23, 110.0, seriksson(EVA),  Two partial high-shear MP and Vz<0 deflection
+2018-02-20/17:00:53 - 2018-02-20/17:02:43,  75.0, seriksson(EVA),  Two boundary layer encounters with high Bz shear
+2018-02-20/17:05:43 - 2018-02-20/17:06:43, 125.0, seriksson(EVA),  High-shear partial MP and Vz>0 flow 
+2018-02-20/17:06:43 - 2018-02-20/17:07:43, 105.0, seriksson(EVA),  High-shear partial MP
+2018-02-20/17:15:53 - 2018-02-20/17:18:33, 125.0, seriksson(EVA),  Complete low-shear MP w/ Vz>0 flow change
+2018-02-20/17:31:33 - 2018-02-20/17:33:53, 160.0, seriksson(EVA),  High-shear complete MP with Vz>0 jets
+2018-02-20/17:40:43 - 2018-02-20/17:44:03, 105.0, seriksson(EVA),  Complete low-shear MP - possible Vz>0 jet

@@ -1,0 +1,73 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-10-01/20:54:23 - 2018-10-01/20:57:43, 110.0, sboardsen(EVA)," KH, ES turbulence +/+ 10 mV/M, Whistler mode"
+2018-10-01/20:57:43 - 2018-10-01/21:01:03, 110.0, sboardsen(EVA)," KH, ES turbulence +/+ 10 mV/M, Whistler mode"
+2018-10-01/21:39:53 - 2018-10-01/21:42:53, 149.0, sboardsen(EVA)," multiple MP cr, Whistler mode, EDR?"
+2018-10-01/21:54:23 - 2018-10-01/21:56:53, 100.0, sboardsen(EVA)," FTE and B min, ES turbulence"
+2018-10-01/22:00:13 - 2018-10-01/22:01:23, 100.0, sboardsen(EVA)," multipe MP cr, whister, ES turbulence, Bmin"
+2018-10-01/22:07:33 - 2018-10-01/22:08:53, 100.0, sboardsen(EVA)," MP cr, ES turbulence"
+2018-10-01/22:11:33 - 2018-10-01/22:12:03,  80.0, sboardsen(EVA), Whister mode in magnetosheath
+2018-10-01/22:12:03 - 2018-10-01/22:13:03,  80.0, sboardsen(EVA), Whister mode in magnetosheath
+2018-10-01/22:17:43 - 2018-10-01/22:20:43,  80.0, sboardsen(EVA), Multiple Bmin in magnetosheath
+2018-10-01/22:29:03 - 2018-10-01/22:31:33,  85.0, sboardsen(EVA), Whistler mode in magnetosheath
+2018-10-01/22:33:33 - 2018-10-01/22:34:53, 110.0, sboardsen(EVA), Masgnetosheath parallel current sheath associated with whistler model
+2018-10-01/22:35:13 - 2018-10-01/22:36:33, 120.0, sboardsen(EVA)," Magnetosheath, FTE, dispersive whistler"
+2018-10-01/23:04:03 - 2018-10-01/23:04:53, 115.0, sboardsen(EVA), magnetic holes containing whistler mode
+2018-10-01/23:10:13 - 2018-10-01/23:13:43, 110.0, sboardsen(EVA)," multiple MP cr, Whistler mode, Es turbulence +/- 10 mV/M"
+2018-10-01/23:13:43 - 2018-10-01/23:17:23, 110.0, sboardsen(EVA)," multiple MP cr, Whistler mode, Es turbulence +/- 10 mV/M"
+2018-10-02/02:54:53 - 2018-10-02/02:57:53,  95.0, sboardsen(EVA), multiple MP crossings
+2018-10-02/02:57:53 - 2018-10-02/03:01:03,  95.0, sboardsen(EVA), multiple MP crossings
+2018-10-02/03:38:33 - 2018-10-02/03:43:03, 100.0, sboardsen(EVA)," multi MP cr, ES turbulence, sporadic emissions near fpe."
+2018-10-02/04:20:43 - 2018-10-02/04:23:43,  85.0, sboardsen(EVA), multiple MP cr
+2018-10-02/04:26:03 - 2018-10-02/04:28:03,  90.0, sboardsen(EVA), multiple MP cr
+2018-10-02/04:32:53 - 2018-10-02/04:37:53,  90.0, sboardsen(EVA), multple MP cr
+2018-10-02/04:38:33 - 2018-10-02/04:40:33, 149.0, sboardsen(EVA)," MP cross, EDR? Vz jet with Tpara/Tper enhancement"
+2018-10-02/04:46:03 - 2018-10-02/04:47:43,  95.0, sboardsen(EVA)," MP cr, ES turbulence"
+2018-10-02/04:58:23 - 2018-10-02/05:01:23, 105.0, sboardsen(EVA)," multiple MP cr, Es turbulence up to +/- 5 mV/M"
+2018-10-02/05:01:23 - 2018-10-02/05:04:23, 105.0, sboardsen(EVA)," multiple MP cr, Es turbulence up to +/- 5 mV/M"
+2018-10-02/05:21:43 - 2018-10-02/05:24:43,  90.0, sboardsen(EVA), multiple MP cr
+2018-10-02/05:42:03 - 2018-10-02/05:45:03,  95.0, sboardsen(EVA)," multi MP CR, ES"
+2018-10-02/05:45:03 - 2018-10-02/05:48:03,  95.0, sboardsen(EVA)," multi MP CR, ES"
+2018-10-02/05:58:33 - 2018-10-02/06:01:23, 149.0, sboardsen(EVA)," MP cr, Vz jet, EDR?, whistler waves up to 100 Hz, ES turbulence"
+2018-10-02/18:14:23 - 2018-10-02/18:16:33, 120.0, sboardsen(EVA)," Msheath density ehancements, rotations in B and current sheets"
+2018-10-02/19:49:23 - 2018-10-02/19:51:13, 115.0, sboardsen(EVA)," Msheath ICW db/B ~ 0.2, strong electrostic wave just above fce."
+2018-10-02/20:55:23 - 2018-10-02/20:57:53, 120.0, sboardsen(EVA)," Msheath FTE? with precuror? Inside FTE Ne depression, Te enhancement"
+2018-10-02/23:37:23 - 2018-10-02/23:38:53, 130.0, sboardsen(EVA), MP cr; Vz +/-100 km/s
+2018-10-02/23:47:53 - 2018-10-02/23:50:23, 149.0, sboardsen(EVA)," MP cr, KH segments, EDR? +/-Vz 150 km/s"
+2018-10-02/23:50:23 - 2018-10-02/23:53:03, 149.0, sboardsen(EVA)," MP cr, KH segments, EDR? +/-Vz 150 km/s"
+2018-10-02/23:56:13 - 2018-10-02/23:59:23, 149.0, sboardsen(EVA)," MP CR, KH segments, possible EDF  Vz +/-100 km/s"
+2018-10-02/23:59:23 - 2018-10-03/00:02:43, 149.0, sboardsen(EVA)," MP CR, KH segments, possible EDF  Vz +/-100 km/s"
+2018-10-03/00:05:33 - 2018-10-03/00:08:33, 130.0, sboardsen(EVA)," MP CR, KH segment"
+2018-10-03/00:08:33 - 2018-10-03/00:11:43, 130.0, sboardsen(EVA)," MP CR, KH segment"
+2018-10-03/00:13:23 - 2018-10-03/00:15:53, 130.0, sboardsen(EVA)," MP cr, KH segment"
+2018-10-03/00:15:53 - 2018-10-03/00:18:33, 130.0, sboardsen(EVA)," MP cr, KH segment"
+2018-10-03/00:59:43 - 2018-10-03/01:00:53,  90.0, sboardsen(EVA)," MP cr, B rot minimum"
+2018-10-03/01:13:23 - 2018-10-03/01:14:23,  90.0, sboardsen(EVA), multi MP cr
+2018-10-03/01:15:33 - 2018-10-03/01:17:03,  99.0, sboardsen(EVA)," MP cr, Vz +/- 50 km/s"
+2018-10-03/01:49:53 - 2018-10-03/01:53:33,  85.0, sboardsen(EVA)," multi MP cr, B rot minimal"
+2018-10-03/01:53:33 - 2018-10-03/01:57:23,  85.0, sboardsen(EVA)," multi MP cr, B rot minimal"
+2018-10-03/02:02:23 - 2018-10-03/02:05:23, 140.0, sboardsen(EVA)," 6 MP cr, Vz +/- 100 km/s"
+2018-10-03/02:06:23 - 2018-10-03/02:08:23, 140.0, sboardsen(EVA), 2 MP cr: Vz +/- 100 km/s
+2018-10-03/02:08:43 - 2018-10-03/02:09:43,  85.0, sboardsen(EVA), MP CR
+2018-10-03/02:25:43 - 2018-10-03/02:27:23,  85.0, sboardsen(EVA)," 2 MP cr, min B rotation"
+2018-10-03/02:28:33 - 2018-10-03/02:29:33,  85.0, sboardsen(EVA), MP cr
+2018-10-03/02:30:13 - 2018-10-03/02:31:53,  85.0, sboardsen(EVA), MP cr
+2018-10-03/02:32:43 - 2018-10-03/02:34:43, 100.0, sboardsen(EVA)," MP cr, B rotation"
+2018-10-03/03:03:13 - 2018-10-03/03:07:13,  85.0, sboardsen(EVA), multi MP CR
+2018-10-03/03:08:13 - 2018-10-03/03:10:33,  85.0, sboardsen(EVA), 2 MP cr
+2018-10-03/07:08:13 - 2018-10-03/07:12:13, 135.0, sboardsen(EVA)," MP cr, Bsheath ~3 nT, Vz reversal"
+2018-10-03/07:21:53 - 2018-10-03/07:23:33, 135.0, sboardsen(EVA)," MP cr, Bsheath down to 2 nT, Vz reveral"
+2018-10-03/07:32:13 - 2018-10-03/07:34:03, 135.0, sboardsen(EVA)," MP cr, Bsheath down to 1 nT, Vz reversal"
+2018-10-03/07:54:33 - 2018-10-03/07:56:33, 135.0, sboardsen(EVA)," MP cr, B min, Vz sign reversal"
+2018-10-03/07:57:53 - 2018-10-03/08:01:23, 135.0, sboardsen(EVA)," MP cr, B minimum, Vz sign reversal"
+2018-10-03/08:05:13 - 2018-10-03/08:09:43, 140.0, sboardsen(EVA)," MP cr, Bsheath ~1 nT, Vz reveral at both MP crs"
+2018-10-03/10:04:13 - 2018-10-03/10:07:23, 125.0, sboardsen(EVA)," multi MP cr, magnetic hole, Vz + 150 km/s"
+2018-10-03/10:17:33 - 2018-10-03/10:20:23, 130.0, sboardsen(EVA)," MP cr, Vz + 100 km, E&B turbulence, multipe magnetic holes"
+2018-10-03/10:20:23 - 2018-10-03/10:23:23, 130.0, sboardsen(EVA)," MP cr, Vz + 100 km, E&B turbulence, multipe magnetic holes"
+2018-10-03/11:03:23 - 2018-10-03/11:04:13,  90.0, sboardsen(EVA)," MP cr, Vz +150"
+2018-10-03/11:08:23 - 2018-10-03/11:09:23,  90.0, sboardsen(EVA)," MP cr, Vz +150"
+2018-10-03/11:14:33 - 2018-10-03/11:15:33,  90.0, sboardsen(EVA)," MP cr, Vz + 150"
+2018-10-03/11:17:13 - 2018-10-03/11:18:43,  95.0, sboardsen(EVA), magnetic hole
+2018-10-03/11:20:33 - 2018-10-03/11:21:33,  90.0, sboardsen(EVA)," MP cr, Vz + 150 km/s"
+2018-10-03/15:00:03 - 2018-10-03/15:04:13, 105.0, sboardsen(EVA), FTE? but MSPH side of model MP
+2018-10-03/20:47:43 - 2018-10-03/20:48:13, 115.0, sboardsen(EVA), weak coherent whistler waves  f/fcp ~ 80
+2018-10-03/21:11:33 - 2018-10-03/21:15:13, 120.0, sboardsen(EVA)," weak DF, ns crossing, whislters, ES turbulence"

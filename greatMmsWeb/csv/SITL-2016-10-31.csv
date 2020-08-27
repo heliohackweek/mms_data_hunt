@@ -1,0 +1,35 @@
+DATETIME,FOM,ID,DISCUSSION
+2016-10-31/09:49:24 - 2016-10-31/09:50:54,  40.0, svines(EVA),  Brief BL encounter?
+2016-10-31/09:55:14 - 2016-10-31/09:57:34,  40.0, svines(EVA)," Colder plasma (10s- 100s eV), oscillatory ion velocity, wave activity"
+2016-10-31/09:57:34 - 2016-10-31/09:59:54,  40.0, svines(EVA)," Colder plasma (10s- 100s eV), oscillatory ion velocity, wave activity"
+2016-10-31/09:59:54 - 2016-10-31/10:02:14,  40.0, svines(EVA),"  Colder plasma (10s - 100s eV), oscillatory ion velocity, wave activity"
+2016-10-31/10:02:14 - 2016-10-31/10:04:44,  40.0, svines(EVA)," Colder plasma (10s - 100s eV), oscillatory ion velocity, wave activity"
+2016-10-31/10:04:44 - 2016-10-31/10:07:04,  40.0, svines(EVA)," Colder plasma (10s - 100s eV), oscillatory ion velocity, wave activity"
+2016-10-31/10:07:04 - 2016-10-31/10:09:24,  40.0, svines(EVA),"  BL encounter, colder plasma (10s- 100s eV), oscillatory ion velocity, wave activity"
+2016-10-31/10:09:24 - 2016-10-31/10:10:34,  40.0, svines(EVA),"  BL encounter, colder plasma (10s- 100s eV), oscillatory ion velocity, wave activity"
+2016-10-31/11:28:44 - 2016-10-31/11:30:34, 110.0, svines(EVA),"  Very sort BL or partial crossing, B minimum, -Vz jet"
+2016-10-31/12:00:34 - 2016-10-31/12:01:44,  40.0, svines(EVA)," Complete, lower shear MP cross, skimming boundary layer"
+2016-10-31/12:01:44 - 2016-10-31/12:04:14,  90.0, svines(EVA)," Complete, lower shear MP cross, skimming boundary layer"
+2016-10-31/12:04:14 - 2016-10-31/12:06:34,  90.0, svines(EVA)," Complete, lower shear MP cross, skimming boundary layer"
+2016-10-31/12:06:34 - 2016-10-31/12:09:04,  90.0, svines(EVA)," Complete, lower shear MP cross, skimming boundary layer"
+2016-10-31/12:09:04 - 2016-10-31/12:11:24, 155.0, svines(EVA)," Complete, lower shear MP cross, skimming boundary layer"
+2016-10-31/12:11:24 - 2016-10-31/12:12:34,  75.0, svines(EVA)," Complete, lower shear MP cross, skimming boundary layer"
+2016-10-31/12:13:44 - 2016-10-31/12:15:04, 115.0, svines(EVA),  Partial MP with southward jet
+2016-10-31/12:19:14 - 2016-10-31/12:21:04, 110.0, svines(EVA),  Sheath FTE with southward jet
+2016-10-31/12:24:44 - 2016-10-31/12:26:34, 100.0, svines(EVA),"  Partial MP crossings and BL, enhanced Vz flow"
+2016-10-31/12:26:34 - 2016-10-31/12:28:34, 130.0, svines(EVA), Brief crossing into magnetosphere
+2016-10-31/12:28:34 - 2016-10-31/12:30:24, 110.0, svines(EVA),"  Partial MP crossings and BL, brief crossing into magnetosphere"
+2016-10-31/12:33:34 - 2016-10-31/12:34:44,  35.0, svines(EVA),"  Magnetosheath current enhancement, slight Vz flow increase"
+2016-10-31/12:35:34 - 2016-10-31/12:36:54,  90.0, svines(EVA),  BL and brief partial crossings
+2016-10-31/12:38:34 - 2016-10-31/12:39:54, 100.0, svines(EVA),"  BL and brief partial crossing, +Vz jet"
+2016-10-31/12:43:34 - 2016-10-31/12:45:14,  50.0, svines(EVA),  BL encounter
+2016-10-31/12:45:54 - 2016-10-31/12:47:24,  40.0, svines(EVA),"  BL encouner, possibly interesting colder plasma (~100 eV)"
+2016-10-31/13:13:44 - 2016-10-31/13:16:04,  50.0, svines(EVA),  BL encounter
+2016-10-31/13:16:04 - 2016-10-31/13:17:04,  50.0, svines(EVA),  BL encounter
+2016-10-31/13:28:14 - 2016-10-31/13:30:54,  50.0, svines(EVA),  Possible BL with ion flow reversal
+2016-10-31/14:37:24 - 2016-10-31/14:38:54,  60.0, svines(EVA),"  BL encounter or FTEs, Vz jets"
+2016-10-31/14:40:04 - 2016-10-31/14:41:14,  60.0, svines(EVA),"  BL encounter and FTEs, Vz jets"
+2016-10-31/14:42:44 - 2016-10-31/14:43:44,  60.0, svines(EVA),"  BL encounter or FTEs, Vz jets"
+2016-10-31/15:19:14 - 2016-10-31/15:21:04,  60.0, svines(EVA),"  BL encounter, or possible FTE?"
+2016-10-31/15:30:54 - 2016-10-31/15:32:14,  40.0, svines(EVA),"  BL encounter, small ion jets and reversal"
+2016-10-31/15:32:54 - 2016-10-31/15:34:54,  40.0, svines(EVA),"  BL encounter, small ion jets and reversal"

@@ -1,0 +1,22 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-01-08/06:20:03 - 2019-01-08/06:24:53, 100.0, lalm(EVA),"  Partial MP crossing on MSPH side, +Vz flow"
+2019-01-08/06:28:23 - 2019-01-08/06:31:43, 100.0, lalm(EVA),"  Partial MP crossing on MSPH side, +Vz flow"
+2019-01-08/06:31:43 - 2019-01-08/06:35:13, 100.0, lalm(EVA),"  Partial MP crossing on MSPH side, +Vz flow"
+2019-01-08/06:35:13 - 2019-01-08/06:39:23, 100.0, lalm(EVA),"  Partial MP crossing on MSPH side, +Vz flow"
+2019-01-08/06:44:53 - 2019-01-08/06:49:43,  90.0, lalm(EVA),"  Slow partial MP crossing, +Vz flow"
+2019-01-08/06:53:53 - 2019-01-08/06:57:03,  80.0, lalm(EVA),"  Slow partial MP crossing, +Vz flow, current sheet"
+2019-01-08/07:00:23 - 2019-01-08/07:05:23, 150.0, lalm(EVA)," Full MP crossings, cold ions, +Vz flow on second crossing"
+2019-01-08/07:58:33 - 2019-01-08/07:59:13,  95.0, lalm(EVA)," Magnetosheath current sheet, possible flux rope"
+2019-01-08/08:03:13 - 2019-01-08/08:04:53,  90.0, lalm(EVA)," High-speed jets in magnetosheatht, currents sheet, turbulence"
+2019-01-08/08:16:43 - 2019-01-08/08:21:43,  90.0, lalm(EVA),"  Magnetosheath current sheets, downstream of quasi-par shock"
+2019-01-08/08:21:43 - 2019-01-08/08:26:43, 100.0, lalm(EVA)," Multiple (partial) shock crossings, magnetosheath currents"
+2019-01-08/08:35:53 - 2019-01-08/08:40:53, 100.0, lalm(EVA),"  Multiple quasi-par shock crossings, magnetosheath current sheets"
+2019-01-08/08:40:53 - 2019-01-08/08:45:53, 100.0, lalm(EVA),"  Magnetosheath high-speed jet, strong current, down stream of shock"
+2019-01-08/08:56:43 - 2019-01-08/08:59:23, 100.0, lalm(EVA), Quasi-perp shock crossing
+2019-01-08/09:04:13 - 2019-01-08/09:06:53, 100.0, lalm(EVA), Quasi-perp shock crossing
+2019-01-08/09:29:03 - 2019-01-08/09:34:03,  80.0, lalm(EVA),"  Magnetic hole, low density, turbulence"
+2019-01-08/11:39:03 - 2019-01-08/11:44:03, 110.0, lalm(EVA)," Multiple partial shock crossings, foreshock transient"
+2019-01-08/11:44:03 - 2019-01-08/11:46:23,  80.0, lalm(EVA),  Fill segment
+2019-01-08/11:46:23 - 2019-01-08/11:50:33, 110.0, lalm(EVA)," Partial shock crossing, foreshock transient"
+2019-01-08/13:09:03 - 2019-01-08/13:13:33,  90.0, lalm(EVA),  Ion fore shock
+2019-01-09/09:54:03 - 2019-01-09/09:56:23, 100.0, lalm(EVA),  SW current sheet

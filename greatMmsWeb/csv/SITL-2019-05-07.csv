@@ -1,0 +1,55 @@
+DATETIME,FOM,ID,DISCUSSION
+2019-05-07/21:01:53 - 2019-05-07/21:04:43, 150.0, seriksson(EVA), MP CR; included burst of whistler before CR
+2019-05-07/21:04:43 - 2019-05-07/21:06:23, 125.0, seriksson(EVA), KH-associated partial MPs
+2019-05-07/21:06:23 - 2019-05-07/21:08:33, 125.0, seriksson(EVA), KH-associated partial MPs
+2019-05-07/21:08:33 - 2019-05-07/21:13:13, 125.0, seriksson(EVA), KH-associated partial MP with sharp Bx
+2019-05-07/21:13:33 - 2019-05-07/21:16:53, 125.0, seriksson(EVA),  KH-associated partial MPs
+2019-05-07/21:19:43 - 2019-05-07/21:21:43, 150.0, seriksson(EVA), MP CR
+2019-05-07/21:21:43 - 2019-05-07/21:24:23, 125.0, seriksson(EVA), partial MP CR
+2019-05-07/21:25:23 - 2019-05-07/21:28:33, 150.0, seriksson(EVA), MP CR
+2019-05-07/21:33:23 - 2019-05-07/21:35:03, 175.0, seriksson(EVA), 2 MP CRs; possible jet +/-50 km/s for 2nd CR.
+2019-05-07/21:36:43 - 2019-05-07/21:38:33, 150.0, sboardsen(EVA), MP CR with BL
+2019-05-07/21:38:33 - 2019-05-07/21:42:23, 175.0, sboardsen(EVA), multiple MP CR and partial MP CR KH?; Cluster upstream near MP
+2019-05-07/21:45:53 - 2019-05-07/21:47:23, 150.0, seriksson(EVA), MP CR
+2019-05-07/21:47:23 - 2019-05-07/21:48:53, 150.0, seriksson(EVA), MP CR
+2019-05-07/21:51:53 - 2019-05-07/21:54:33, 160.0, sboardsen(EVA), MP CR; KH? T~130 s
+2019-05-07/21:55:53 - 2019-05-07/21:58:23, 160.0, sboardsen(EVA), MP CR; KH?
+2019-05-07/22:05:33 - 2019-05-07/22:07:43, 160.0, sboardsen(EVA), MP CR; KH?
+2019-05-07/22:08:33 - 2019-05-07/22:10:23, 160.0, sboardsen(EVA), MP CR; KH?
+2019-05-07/22:10:33 - 2019-05-07/22:12:43, 160.0, seriksson(EVA), MP CR; KH?
+2019-05-07/22:15:13 - 2019-05-07/22:18:43, 160.0, seriksson(EVA), MP CR; KH?
+2019-05-07/22:27:23 - 2019-05-07/22:30:13,  75.0, seriksson(EVA),  Boundary layer
+2019-05-07/22:50:53 - 2019-05-07/22:54:03, 100.0, seriksson(EVA),  Boundary layer with sharp B rotations and Vz flows
+2019-05-07/23:01:33 - 2019-05-07/23:02:53,  75.0, seriksson(EVA),  Boundary layer
+2019-05-08/01:45:43 - 2019-05-08/01:46:43, 120.0, seriksson(EVA),  Msheath By CS
+2019-05-08/02:06:13 - 2019-05-08/02:07:23, 120.0, seriksson(EVA),  Msheath Bz CS
+2019-05-08/02:16:53 - 2019-05-08/02:18:03, 120.0, seriksson(EVA),  Two msheath Bz CS
+2019-05-08/09:05:33 - 2019-05-08/09:09:33, 110.0, seriksson(EVA), BS CR; reflected ions
+2019-05-08/09:09:33 - 2019-05-08/09:12:03, 110.0, seriksson(EVA), BS CR; reflected ions
+2019-05-08/09:15:33 - 2019-05-08/09:18:53, 110.0, seriksson(EVA), BS CRs; reflected ions
+2019-05-08/09:25:53 - 2019-05-08/09:27:43, 110.0, seriksson(EVA), BS CR; relected ions
+2019-05-08/10:10:03 - 2019-05-08/10:13:13, 110.0, seriksson(EVA), BS CR; reflected ions; msheath dnesity enhancement
+2019-05-08/11:21:03 - 2019-05-08/11:23:53,  90.0, sboardsen(EVA), SW; Bdip
+2019-05-08/11:23:53 - 2019-05-08/11:26:43,  90.0, sboardsen(EVA), SW; Bdip
+2019-05-09/09:25:53 - 2019-05-09/09:27:53, 125.0, seriksson(EVA), SW CS; BZ tracks VZ; jet ?; not clean
+2019-05-09/09:39:03 - 2019-05-09/09:41:03, 140.0, seriksson(EVA), SW CS; BZ tracks Vz; possible jet 
+2019-05-09/09:43:23 - 2019-05-09/09:43:53, 125.0, seriksson(EVA), Bifurcated solar wind By CS
+2019-05-09/09:57:43 - 2019-05-09/09:58:23, 125.0, seriksson(EVA),  Solar wind Bx CS
+2019-05-09/11:13:53 - 2019-05-09/11:14:53, 110.0, seriksson(EVA), SW CS
+2019-05-09/11:46:03 - 2019-05-09/11:47:43, 149.0, sboardsen(EVA), SW CS; BZ-VZ track; jet  40 km/s; E&B turbulence up to fce.
+2019-05-10/05:55:23 - 2019-05-10/05:56:33,  99.0, sboardsen(EVA), SW whistler mode shocket; cleary detected in FPI trigger
+2019-05-10/06:15:33 - 2019-05-10/06:16:53, 100.0, sboardsen(EVA), brief BS encounter
+2019-05-10/06:43:43 - 2019-05-10/06:45:23, 100.0, sboardsen(EVA), quasi-perp BS CR
+2019-05-10/06:46:23 - 2019-05-10/06:47:03,  98.0, sboardsen(EVA), Msheath left handed wave near fcp picked up in trigger data
+2019-05-10/06:49:23 - 2019-05-10/06:50:33, 100.0, sboardsen(EVA), BS CR
+2019-05-10/06:52:33 - 2019-05-10/06:53:33, 100.0, sboardsen(EVA), BS CR
+2019-05-10/06:54:43 - 2019-05-10/06:56:23, 110.0, sboardsen(EVA), Ms sheath CS
+2019-05-10/06:56:23 - 2019-05-10/06:58:13, 100.0, sboardsen(EVA), BS CR
+2019-05-10/07:06:43 - 2019-05-10/07:08:33, 115.0, sboardsen(EVA), SW CS
+2019-05-10/07:48:53 - 2019-05-10/07:50:53, 105.0, sboardsen(EVA), BS CR with Bdips
+2019-05-10/08:01:33 - 2019-05-10/08:03:33, 105.0, sboardsen(EVA), BS CR with Bdips
+2019-05-10/08:07:23 - 2019-05-10/08:09:03, 100.0, sboardsen(EVA), BS CR
+2019-05-10/08:14:13 - 2019-05-10/08:15:23,  80.0, sboardsen(EVA), SW spike in B
+2019-05-10/08:24:23 - 2019-05-10/08:26:33, 100.0, sboardsen(EVA), quasi-para BS CR
+2019-05-10/08:56:33 - 2019-05-10/08:57:53, 100.0, sboardsen(EVA), BS CR
+2019-05-10/09:00:13 - 2019-05-10/09:01:33, 100.0, sboardsen(EVA), BS CR

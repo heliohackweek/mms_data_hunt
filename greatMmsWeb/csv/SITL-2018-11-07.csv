@@ -1,0 +1,142 @@
+DATETIME,FOM,ID,DISCUSSION
+2018-11-07/08:38:43 - 2018-11-07/08:40:53, 125.0, seriksson(EVA),  Partial MPs
+2018-11-07/08:43:13 - 2018-11-07/08:43:53, 125.0, seriksson(EVA),  Partial MPs
+2018-11-07/08:51:03 - 2018-11-07/08:52:43, 130.0, seriksson(EVA), Very low-shear partial MPs and embedded short-duration diffB>1 uA/m2
+2018-11-07/08:52:43 - 2018-11-07/08:54:23, 110.0, seriksson(EVA), Very low-shear  partial MPs
+2018-11-07/08:56:43 - 2018-11-07/08:58:23, 130.0, seriksson(EVA),  Very low-shear partial MPs and embedded diffB>1 uA/m2
+2018-11-07/08:59:03 - 2018-11-07/09:01:03, 125.0, seriksson(EVA), Low-shear partial MPs
+2018-11-07/09:02:23 - 2018-11-07/09:04:23, 140.0, seriksson(EVA),  Potential KHI partial MPs - very low shear
+2018-11-07/09:04:23 - 2018-11-07/09:06:33, 140.0, seriksson(EVA),  Potential KHI partial MPs - very low shear
+2018-11-07/09:06:33 - 2018-11-07/09:08:33, 140.0, seriksson(EVA),  Potential KHI partial MPs - very low shear
+2018-11-07/09:15:43 - 2018-11-07/09:17:43, 125.0, seriksson(EVA), Very low-shear partial MPs - remote KHI?
+2018-11-07/09:17:43 - 2018-11-07/09:19:53, 150.0, seriksson(EVA), Very low-shear partial MPs - embedded diffB=0.8 uA/m2 - KHI shear remote in latitude?
+2018-11-07/09:21:43 - 2018-11-07/09:24:43, 105.0, seriksson(EVA),  Partial MPs - no sharp CS - remote KHI?
+2018-11-07/09:31:03 - 2018-11-07/09:34:13, 150.0, seriksson(EVA), Very low-shear partial MPs - large 1.2 uA/m2 diffB at last boundary crossing - KHI max shear remote latitude location?
+2018-11-07/09:38:33 - 2018-11-07/09:41:03, 125.0, seriksson(EVA),  Very low-shear partial MPs
+2018-11-07/09:41:33 - 2018-11-07/09:43:03, 125.0, seriksson(EVA),  Low-shear partial MP
+2018-11-07/09:46:33 - 2018-11-07/09:48:13, 150.0, seriksson(EVA), Partial MP - KHI - By rotations
+2018-11-07/09:48:13 - 2018-11-07/09:49:53, 150.0, seriksson(EVA),  Partial MP - KHI - By rotations
+2018-11-07/09:51:03 - 2018-11-07/09:52:53, 150.0, seriksson(EVA),  Partial MP - KHI - By rotations
+2018-11-07/09:53:23 - 2018-11-07/09:56:03, 160.0, seriksson(EVA), Final complete KHI-related low-shear MP with enhanced diffB
+2018-11-07/09:56:03 - 2018-11-07/09:58:03, 125.0, seriksson(EVA), Final complete KHI-related low-shear MP with enhanced diffB
+2018-11-07/10:02:23 - 2018-11-07/10:04:33, 125.0, seriksson(EVA),  Msheath CS with large diffB
+2018-11-07/10:11:53 - 2018-11-07/10:13:53, 125.0, seriksson(EVA),  Partial low-shear MPs
+2018-11-07/10:13:53 - 2018-11-07/10:15:13,  80.0, seriksson(EVA),  Partial MP Fill
+2018-11-07/10:15:13 - 2018-11-07/10:17:33, 125.0, seriksson(EVA),  Partial low-shear MP
+2018-11-07/10:20:23 - 2018-11-07/10:22:43, 125.0, seriksson(EVA),  Partial low-shear MP
+2018-11-07/10:26:03 - 2018-11-07/10:27:33, 125.0, seriksson(EVA),  Partial low-shear MP
+2018-11-07/10:39:13 - 2018-11-07/10:39:53, 115.0, seriksson(EVA),  Msheath Byz CS with enhanced diffB
+2018-11-07/11:32:33 - 2018-11-07/11:34:23, 115.0, seriksson(EVA),  Partial MP encounters
+2018-11-07/11:50:53 - 2018-11-07/11:52:33,  85.0, seriksson(EVA),  Msheath B-fluctuations and boundary layer traversals
+2018-11-07/13:01:43 - 2018-11-07/13:03:03, 125.0, seriksson(EVA),  Turbulent msheath CS near bow shock with large diffB > 1 uA/m2
+2018-11-07/13:13:03 - 2018-11-07/13:15:33, 125.0, seriksson(EVA),  Turbulent msheath CS near bow shock with large diffB > 1 uA/m2 (max 3 uA/m2)
+2018-11-07/13:15:33 - 2018-11-07/13:17:53, 125.0, seriksson(EVA),  Turbulent msheath CS near bow shock with large diffB > 1 uA/m2 (max 3 uA/m2)
+2018-11-07/13:17:53 - 2018-11-07/13:20:23, 125.0, seriksson(EVA),  Turbulent msheath CS near bow shock with large diffB > 1 uA/m2 (max 3 uA/m2)
+2018-11-07/13:20:23 - 2018-11-07/13:22:53, 125.0, seriksson(EVA),  Turbulent msheath CS near bow shock with large diffB > 1 uA/m2 (max 3 uA/m2)
+2018-11-07/13:22:53 - 2018-11-07/13:25:13, 125.0, seriksson(EVA),  Turbulent msheath CS near bow shock with large diffB > 1 uA/m2 (max 3 uA/m2)
+2018-11-07/13:25:13 - 2018-11-07/13:27:43, 125.0, seriksson(EVA),  Turbulent msheath CS near bow shock with large diffB > 1 uA/m2 (max 3 uA/m2)
+2018-11-07/13:27:43 - 2018-11-07/13:30:13, 125.0, seriksson(EVA),  Turbulent msheath CS near bow shock with large diffB > 1 uA/m2 (max 3 uA/m2)
+2018-11-07/13:30:13 - 2018-11-07/13:32:43, 125.0, seriksson(EVA),  Turbulent msheath CS near bow shock with large diffB > 1 uA/m2 (max 3 uA/m2)
+2018-11-07/13:32:43 - 2018-11-07/13:35:03, 125.0, seriksson(EVA),  Turbulent msheath CS near bow shock with large diffB > 1 uA/m2 (max 3 uA/m2)
+2018-11-07/13:35:03 - 2018-11-07/13:37:33, 125.0, seriksson(EVA),  Turbulent msheath CS near bow shock with large diffB > 1 uA/m2 (max 3 uA/m2)
+2018-11-07/13:52:43 - 2018-11-07/13:54:53, 125.0, seriksson(EVA),  Turbulent msheath CS near quasi-para bow shock with large diffB > 1 uA/m2
+2018-11-07/13:54:53 - 2018-11-07/13:57:03, 125.0, seriksson(EVA),  Turbulent msheath CS near quasi-para bow shock with large diffB > 1 uA/m2
+2018-11-07/13:57:03 - 2018-11-07/13:59:13, 125.0, seriksson(EVA),  Turbulent msheath CS near quasi-para bow shock with large diffB > 1 uA/m2
+2018-11-07/13:59:13 - 2018-11-07/14:01:23, 125.0, seriksson(EVA),  Turbulent msheath CS near quasi-para bow shock with large diffB > 1 uA/m2
+2018-11-07/14:01:23 - 2018-11-07/14:03:33, 125.0, seriksson(EVA),  Turbulent msheath CS near quasi-para bow shock with large diffB > 1 uA/m2
+2018-11-07/14:03:33 - 2018-11-07/14:05:43, 125.0, seriksson(EVA),  Turbulent msheath CS near quasi-para bow shock with large diffB > 1 uA/m2
+2018-11-07/14:14:13 - 2018-11-07/14:14:53, 120.0, seriksson(EVA), Msheath high diffB >1 uA/m2
+2018-11-07/14:15:23 - 2018-11-07/14:15:53, 105.0, seriksson(EVA),  Msheath Bz CS
+2018-11-07/14:16:43 - 2018-11-07/14:17:33, 125.0, seriksson(EVA),  Bow shock and msheath Bz CS
+2018-11-07/14:21:13 - 2018-11-07/14:23:13, 115.0, seriksson(EVA),  Bow shock with large diffB > 1 uA/m2
+2018-11-07/14:29:43 - 2018-11-07/14:31:33, 125.0, seriksson(EVA), Quasi-para bow shock and turbulent msheath CS and high diffB >1 uA/m2
+2018-11-07/14:31:33 - 2018-11-07/14:33:13, 125.0, seriksson(EVA), Quasi-para bow shock and turbulent msheath CS and high diffB >1 uA/m2
+2018-11-07/14:33:13 - 2018-11-07/14:35:03, 125.0, seriksson(EVA), Quasi-para bow shock and turbulent msheath CS and high diffB >1 uA/m2
+2018-11-07/14:36:03 - 2018-11-07/14:36:53, 125.0, seriksson(EVA),  Turbulent msheath CS and high diffB >1 uA/m2
+2018-11-07/14:37:43 - 2018-11-07/14:38:23, 125.0, seriksson(EVA),   Turbulent msheath CS and high diffB >1 uA/m2
+2018-11-07/14:45:23 - 2018-11-07/14:47:23, 125.0, seriksson(EVA),  Turbulent msheath CS downstream quasi-para bow shock
+2018-11-07/14:47:23 - 2018-11-07/14:49:23, 125.0, seriksson(EVA),  Turbulent msheath CS downstream quasi-para bow shock
+2018-11-07/15:49:33 - 2018-11-07/15:50:03,  95.0, seriksson(EVA),  Msheath ICW large amplitude db/b=0.2 clear FPI trigger
+2018-11-07/15:54:23 - 2018-11-07/15:56:53, 170.0, seriksson(EVA),  Msheath Bz bifurcated CS with potential Viz exhaust
+2018-11-07/17:04:23 - 2018-11-07/17:06:03, 125.0, seriksson(EVA),  Two adjacent bow shocks with large diffB fluctuations
+2018-11-07/17:06:03 - 2018-11-07/17:07:33, 125.0, seriksson(EVA),  Two adjacent bow shocks with large diffB fluctuations
+2018-11-07/17:09:03 - 2018-11-07/17:11:43, 125.0, seriksson(EVA),  Quasi-parallel bow shock candidate
+2018-11-07/17:18:53 - 2018-11-07/17:21:33, 125.0, seriksson(EVA),  Quasi-para bow shocks with large diffB 1 uA/m2 level fluctuations
+2018-11-07/17:21:33 - 2018-11-07/17:23:53, 125.0, seriksson(EVA),  Quasi-para bow shocks with large diffB 1 uA/m2 level fluctuations
+2018-11-07/17:23:53 - 2018-11-07/17:26:13, 125.0, seriksson(EVA),  Quasi-para bow shocks with large diffB 1 uA/m2 level fluctuations
+2018-11-07/17:26:13 - 2018-11-07/17:28:33, 125.0, seriksson(EVA),  Quasi-para bow shocks with large diffB 1 uA/m2 level fluctuations
+2018-11-07/17:29:43 - 2018-11-07/17:34:33, 125.0, seriksson(EVA),  Bow shock with gyrating ions in upstream foreshock
+2018-11-07/17:48:03 - 2018-11-07/17:51:23, 110.0, seriksson(EVA),  Quasi-perp bow shock
+2018-11-07/17:56:43 - 2018-11-07/17:59:03, 115.0, seriksson(EVA),  Quasi-perp bow shock
+2018-11-07/18:04:53 - 2018-11-07/18:05:43, 120.0, seriksson(EVA),  Solar wind Bz CS
+2018-11-07/18:13:53 - 2018-11-07/18:14:43, 100.0, seriksson(EVA),  Low-shear solar wind Bz CS
+2018-11-07/18:40:53 - 2018-11-07/18:41:53, 135.0, seriksson(EVA),  Solar wind Bz CS and density increase
+2018-11-07/18:43:53 - 2018-11-07/18:44:43, 145.0, seriksson(EVA),  Solar wind Bz CS with density increase
+2018-11-07/18:47:13 - 2018-11-07/18:48:43, 130.0, seriksson(EVA),  Low-shear solar wind Bz CS
+2018-11-07/18:53:03 - 2018-11-07/18:55:53, 120.0, seriksson(EVA),  Solar wind Bz CS
+2018-11-07/19:56:53 - 2018-11-07/19:58:13, 145.0, seriksson(EVA),  Short-duration solar wind By CS
+2018-11-07/20:21:33 - 2018-11-07/20:23:03, 125.0, seriksson(EVA),  Low-shear narrow solar wind Bz CS
+2018-11-07/21:10:13 - 2018-11-07/21:13:03, 140.0, seriksson(EVA), Short-duration solar wind Bz CS
+2018-11-07/21:22:13 - 2018-11-07/21:25:13, 100.0, seriksson(EVA),  Solar wind Bz CS
+2018-11-07/21:43:33 - 2018-11-07/21:46:33, 130.0, seriksson(EVA),  Low-shear solar wind CS with density increase
+2018-11-07/22:20:03 - 2018-11-07/22:20:43,  95.0, seriksson(EVA),  Foreshock large amplitude whistler waves dB/B=0.33 observed in FPI trigger
+2018-11-08/04:47:53 - 2018-11-08/04:50:33, 140.0, seriksson(EVA),  Series of solar wind CS incl sharp Bz
+2018-11-08/04:52:53 - 2018-11-08/04:54:13, 110.0, seriksson(EVA),  Solar wind Bz CS
+2018-11-08/06:26:33 - 2018-11-08/06:28:23, 125.0, seriksson(EVA),  Solar wind Bz CS
+2018-11-08/06:36:43 - 2018-11-08/06:38:43, 125.0, seriksson(EVA),  Bow shock
+2018-11-08/06:53:33 - 2018-11-08/06:55:33, 120.0, seriksson(EVA),  Bow shock
+2018-11-08/20:35:33 - 2018-11-08/20:37:13, 150.0, seriksson(EVA),  Msheath Bz CS with possible Viz jet
+2018-11-08/22:06:23 - 2018-11-08/22:07:13, 130.0, seriksson(EVA), Sharp msheath Bz CS
+2018-11-08/22:09:33 - 2018-11-08/22:10:43, 110.0, seriksson(EVA),  Msheath By and Bz CS and enhanced diffB
+2018-11-08/22:11:23 - 2018-11-08/22:12:33, 115.0, seriksson(EVA),  Msheath By and Bx CS
+2018-11-08/22:27:23 - 2018-11-08/22:28:03, 115.0, seriksson(EVA),  Msheath By CS with Bz enhancement
+2018-11-08/22:53:53 - 2018-11-08/22:55:23, 120.0, seriksson(EVA),  Msheath Bz CS
+2018-11-08/22:59:13 - 2018-11-08/23:00:03, 110.0, seriksson(EVA),  Msheath Bx CS
+2018-11-08/23:55:13 - 2018-11-08/23:58:53, 110.0, seriksson(EVA), Possibly turbulent B-field fluctuations near bow shock
+2018-11-09/00:40:13 - 2018-11-09/00:42:43, 110.0, seriksson(EVA),  Turbulent B-fluctuations near bow shock
+2018-11-09/00:58:33 - 2018-11-09/01:00:23, 105.0, seriksson(EVA), Skimming bow shock with enhanced diffB
+2018-11-09/02:26:33 - 2018-11-09/02:27:53, 105.0, seriksson(EVA),  Msheath Bz CS near bow shock
+2018-11-09/03:47:13 - 2018-11-09/03:48:53, 125.0, seriksson(EVA),  Partial MP with Bx shear
+2018-11-09/04:02:03 - 2018-11-09/04:04:03, 125.0, seriksson(EVA),  Partial MP
+2018-11-09/04:05:13 - 2018-11-09/04:06:23, 105.0, seriksson(EVA),  Low-shear partial MP
+2018-11-09/04:06:53 - 2018-11-09/04:07:53, 125.0, seriksson(EVA),  Partial MP with Vz flow
+2018-11-09/04:11:23 - 2018-11-09/04:12:33, 130.0, seriksson(EVA),  Potential flux rope (bipolar By) near flank mpause
+2018-11-09/04:13:33 - 2018-11-09/04:14:43, 125.0, seriksson(EVA),  Partial MP
+2018-11-09/04:20:33 - 2018-11-09/04:22:13, 125.0, seriksson(EVA),  Partial MP
+2018-11-09/04:53:43 - 2018-11-09/04:56:03,  85.0, seriksson(EVA),  Boundary layer with some B fluctuations
+2018-11-09/04:56:53 - 2018-11-09/04:57:33, 125.0, seriksson(EVA),  Msheath Bz CS with enhanced diffB
+2018-11-09/05:00:33 - 2018-11-09/05:01:53, 130.0, seriksson(EVA),  Msheath Bz CS inside potential flux rope
+2018-11-09/05:12:53 - 2018-11-09/05:13:23, 115.0, seriksson(EVA), High-shear msheath Bz CS
+2018-11-09/05:22:03 - 2018-11-09/05:24:03, 115.0, seriksson(EVA),  Partial MP
+2018-11-09/05:25:03 - 2018-11-09/05:25:53, 105.0, seriksson(EVA),  Partial MP with Bz CS
+2018-11-09/05:27:13 - 2018-11-09/05:28:23, 120.0, seriksson(EVA),  Partial MP
+2018-11-09/05:31:43 - 2018-11-09/05:32:43, 120.0, seriksson(EVA), Int.med. shear partial MP
+2018-11-09/05:33:33 - 2018-11-09/05:35:03, 115.0, seriksson(EVA),  Partial MP
+2018-11-09/05:36:33 - 2018-11-09/05:37:53, 120.0, seriksson(EVA),  Partial MP with Bx shear
+2018-11-09/05:38:13 - 2018-11-09/05:39:43, 120.0, seriksson(EVA),  Partial MP
+2018-11-09/05:42:33 - 2018-11-09/05:43:53,  85.0, seriksson(EVA),  Boundary layer encounter with Bxy rotations
+2018-11-09/05:45:53 - 2018-11-09/05:47:03, 120.0, seriksson(EVA),  Partial MP with bifurcated Bx CS
+2018-11-09/05:47:13 - 2018-11-09/05:48:23, 130.0, seriksson(EVA),  Partial MP with enhanced diffB
+2018-11-09/05:54:53 - 2018-11-09/05:56:03, 110.0, seriksson(EVA),  Partial MP
+2018-11-09/05:56:23 - 2018-11-09/05:57:43, 115.0, seriksson(EVA),  Partial MP
+2018-11-09/06:00:13 - 2018-11-09/06:00:43, 120.0, seriksson(EVA),  Partial MP
+2018-11-09/06:01:23 - 2018-11-09/06:04:03, 115.0, seriksson(EVA),  Two partial MPs
+2018-11-09/06:26:53 - 2018-11-09/06:28:53, 165.0, seriksson(EVA),"  Complete, narrow, high-shear MP"
+2018-11-09/07:31:53 - 2018-11-09/07:35:43, 160.0, seriksson(EVA),  Complete high-shear long-duration MP
+2018-11-09/07:35:43 - 2018-11-09/07:37:53, 160.0, seriksson(EVA),  Complete high-shear long-duration MP
+2018-11-09/07:37:53 - 2018-11-09/07:39:53, 160.0, seriksson(EVA),  Complete high-shear long-duration MP
+2018-11-09/07:39:53 - 2018-11-09/07:42:03, 160.0, seriksson(EVA),  Complete high-shear long-duration MP
+2018-11-09/07:42:03 - 2018-11-09/07:44:13, 160.0, seriksson(EVA),  Complete high-shear long-duration MP
+2018-11-09/07:49:03 - 2018-11-09/07:51:13, 115.0, seriksson(EVA),  Two partial MPs
+2018-11-09/07:51:13 - 2018-11-09/07:53:23, 115.0, seriksson(EVA),  Two partial MPs
+2018-11-09/07:58:33 - 2018-11-09/08:01:53, 125.0, seriksson(EVA),  Partial MP with enhanced diffB at sharp Bz CS
+2018-11-09/08:05:03 - 2018-11-09/08:05:43, 120.0, seriksson(EVA),  Msheath CS with deep Btot minimum and increased diffB
+2018-11-09/08:36:03 - 2018-11-09/08:37:23, 115.0, seriksson(EVA),  Potential msheath flux rope with enhanced diffB at Bx CS
+2018-11-09/09:48:43 - 2018-11-09/09:51:13, 150.0, seriksson(EVA),  Msheath Bxz CS and density increase with potential Viz exhaust
+2018-11-09/10:30:03 - 2018-11-09/10:30:53, 115.0, seriksson(EVA),  Msheath Bz CS too narrow to resolve
+2018-11-09/10:52:13 - 2018-11-09/10:52:53, 120.0, seriksson(EVA),  Msheath By CS
+2018-11-09/11:24:43 - 2018-11-09/11:25:33, 130.0, seriksson(EVA),  High-shear msheath By CS with deep Btot minimum
+2018-11-09/11:33:43 - 2018-11-09/11:34:23, 105.0, seriksson(EVA),  Msheath Bz CS
+2018-11-09/11:38:13 - 2018-11-09/11:40:13, 105.0, seriksson(EVA),  Low-shear partial MP
+2018-11-09/11:42:23 - 2018-11-09/11:44:53, 115.0, seriksson(EVA), Extended high-shear partial MP
+2018-11-09/11:44:53 - 2018-11-09/11:47:23, 115.0, seriksson(EVA), Extended high-shear partial MP

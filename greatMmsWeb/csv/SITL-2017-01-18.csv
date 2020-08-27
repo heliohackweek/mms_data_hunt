@@ -1,0 +1,36 @@
+DATETIME,FOM,ID,DISCUSSION
+2017-01-18/23:55:43 - 2017-01-18/23:57:43, 185.0, lavanov(EVA),  Two complete high shear MP crossings with strong Vz jets
+2017-01-18/23:57:43 - 2017-01-18/23:59:53, 185.0, lavanov(EVA),  Two complete high shear MP crossings with strong Vz jets
+2017-01-18/23:59:53 - 2017-01-19/00:01:53, 185.0, lavanov(EVA),  Two complete high shear MP crossings with strong Vz jets
+2017-01-19/00:01:53 - 2017-01-19/00:04:33, 125.0, lavanov(EVA), Two partial MP crossings with Vz jet 
+2017-01-19/00:04:33 - 2017-01-19/00:06:43, 175.0, lavanov(EVA), Two complete MP crossings with strong Vz jest 
+2017-01-19/00:06:43 - 2017-01-19/00:08:43, 175.0, lavanov(EVA), Two complete MP crossings with strong Vz jest 
+2017-01-19/00:08:43 - 2017-01-19/00:10:53, 175.0, lavanov(EVA), Two complete MP crossings with strong Vz jest 
+2017-01-19/00:10:53 - 2017-01-19/00:12:13, 175.0, lavanov(EVA), Complete MP crossing with strong Vz jet (-300 km/s) 
+2017-01-19/00:12:13 - 2017-01-19/00:13:33, 175.0, lavanov(EVA), Complete MP crossing with strong Vz jet (-300 km/s) 
+2017-01-19/00:13:33 - 2017-01-19/00:15:43, 110.0, lavanov(EVA), Long partial MP crossing 
+2017-01-19/00:15:43 - 2017-01-19/00:17:53, 110.0, lavanov(EVA), Long partial MP crossing 
+2017-01-19/00:33:03 - 2017-01-19/00:34:03, 180.0, lavanov(EVA),  MSH reconnetcion event
+2017-01-19/00:44:13 - 2017-01-19/00:46:23, 110.0, lavanov(EVA), Partial MP crossing 
+2017-01-19/03:33:03 - 2017-01-19/03:34:03, 150.0, lavanov(EVA), Possible MSH reconnection event. 
+2017-01-19/05:02:43 - 2017-01-19/05:06:03, 115.0, lavanov(EVA), Partial MP crossing with Vz jet reversal(?) but to close to BS 
+2017-01-19/07:59:43 - 2017-01-19/08:01:13,  70.0, lavanov(EVA), Bow shock crossing 
+2017-01-19/08:23:13 - 2017-01-19/08:25:23,  80.0, lavanov(EVA), Bow Shock crossing 
+2017-01-19/09:47:13 - 2017-01-19/09:47:43, 120.0, lavanov(EVA),  Thin MSH CS
+2017-01-19/09:49:03 - 2017-01-19/09:49:53, 115.0, lavanov(EVA), Thin CS  
+2017-01-19/10:00:23 - 2017-01-19/10:01:33, 120.0, lavanov(EVA), MSH CS with sigificant density enhancement 
+2017-01-19/10:08:23 - 2017-01-19/10:09:43, 125.0, lavanov(EVA), Active MSH CS number density increase 
+2017-01-19/10:29:03 - 2017-01-19/10:30:53, 100.0, lavanov(EVA), Active MSH CS withVz reversal and Vx jet 
+2017-01-19/10:30:53 - 2017-01-19/10:32:43, 100.0, lavanov(EVA), Active MSH CS withVz reversal and Vx jet 
+2017-01-19/10:34:53 - 2017-01-19/10:36:23, 120.0, lavanov(EVA), Acive MSH CS with significant density enhancement and jet 
+2017-01-19/11:31:43 - 2017-01-19/11:34:03, 115.0, lavanov(EVA), Low shear MP crossing
+2017-01-19/11:57:33 - 2017-01-19/11:59:13, 175.0, lavanov(EVA), Complete low shear MP crossing 
+2017-01-19/11:59:13 - 2017-01-19/12:00:53, 175.0, lavanov(EVA), Complete low shear MP crossing 
+2017-01-19/12:00:53 - 2017-01-19/12:02:23, 180.0, lavanov(EVA), Complete high shear MP crossing with +Vz jet (+250 km/s) 
+2017-01-19/12:02:23 - 2017-01-19/12:03:53, 180.0, lavanov(EVA), Complete high shear MP crossing with +Vz jet (+250 km/s) 
+2017-01-19/12:03:53 - 2017-01-19/12:06:03, 130.0, lavanov(EVA), Low shear MP crossing 
+2017-01-19/12:06:03 - 2017-01-19/12:08:23, 130.0, lavanov(EVA), Low shear MP crossing 
+2017-01-19/12:08:23 - 2017-01-19/12:10:03, 175.0, lavanov(EVA)," MP crossing with strong +Vz (250 km/s) jet, Vy reversal "
+2017-01-19/12:10:03 - 2017-01-19/12:11:53, 175.0, lavanov(EVA)," MP crossing with strong +Vz (250 km/s) jet, Vy reversal "
+2017-01-19/12:11:53 - 2017-01-19/12:13:33, 175.0, lavanov(EVA)," MP crossing with strong +Vz (250 km/s) jet, Vy reversal "
+2017-01-19/12:24:03 - 2017-01-19/12:26:03, 200.0, lavanov(EVA), FPI burst calibration 
