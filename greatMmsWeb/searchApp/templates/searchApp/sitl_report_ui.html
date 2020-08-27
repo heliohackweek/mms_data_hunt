@@ -1,13 +1,46 @@
 {% extends "searchApp/base_template.html" %}
 {% block maincontent %}
-<nav class="col-md-3 col-lg-2 d-md-block bg-light sidebar pt-5">
+<nav class="col-md-6 col-lg-2 d-md-block bg-light sidebar pt-5">
       <form action="/searchApp/sitl_reports/" method="post">
+        <h5> Looking for specific date ? </h5>
         {% csrf_token %}
-        {{ form.as_p }}
-        <button type="submit" id="submitBtn" class="btn btn-primary btn-block">Generate Data</button>
+        {% comment %} {{ form.as_p }}
+        <button type="submit" id="submitBtn" class="btn btn-primary btn-block">Generate Data</button> {% endcomment %}
+        <div class="fieldWrapper">
+            {{ form.date_field.errors }}
+            <label for="{{ form.date_field.id_for_label }}">Date:</label>
+            {{ form.date_field }}
+            <button type="submit" id="submitBtn" name="submitBtn" class="btn btn-primary btn-block mt-3">Generate Data</button>
+        </div>
       </form>
+      <form action="/searchApp/sitl_reports/" method="post">
+        <h5 class="mt-2">Looking for specific Event type ? </h5>
+        {% csrf_token %}
+        <div class="fieldWrapper">
+            {{ form.search_event_type.errors }}
+            <label for="{{ form.search_event_type.id_for_label }}">Event type:</label>
+            {{ form.search_event_type }}
+            <button type="submit" id="searchBtn" name="searchBtn" class="btn btn-primary btn-block mt-3">Search</button>
+        </div>
+      </form>
+      <form action="/searchApp/sitl_reports/" method="post">
+        <h5 class="mt-2"> Looking for last N events ? </h5>
+        {% csrf_token %}
+        <div class="fieldWrapper">
+            {{ form.last_n_events_type.errors }}
+            <label for="{{ form.last_n_events_type.id_for_label }}">Event type:</label>
+            {{ form.last_n_events_type }}
+        </div>
+        <div class="fieldWrapper">
+            {{ form.last_n_events_num.errors }}
+            <label for="{{ form.last_n_events_num.id_for_label }}"># of Events:</label>
+            {{ form.last_n_events_num }}
+            <button type="submit" id="searchNEventsBtn" name="searchNEventsBtn" class="btn btn-primary btn-block mt-3">Search N Events</button>
+        </div>
+      </form>
+
 </nav>
-<main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-md-4 pt-5">
+<main role="main" class="col-md-6 ml-sm-auto col-lg-10 px-md-4 pt-5">
       {% if sitl_report == 'initial' %}
       <h2> Welcome to our SITL Report Repository</h2>
       {% else %}
@@ -32,9 +65,11 @@
             <tbody>
               {% for list_item in sitl_report.body %}
               <tr>
-              {% for item in list_item %}
-                <td> {{ item }} </td>
-              {% endfor %}
+                <td> {{ list_item.start_datetime_field }} </td>
+                <td> {{ list_item.end_datetime_field }} </td>
+                <td> {{ list_item.fom }} </td>
+                <td> {{ list_item.id_record }} </td>
+                <td> {{ list_item.discusson }} </td>
               </tr>
               {% endfor %}
             </tbody>

@@ -8,12 +8,20 @@ body {
 .leadBox {
   margin-top: 10em;
 }
-#id_date_field {
+input[type=text],
+input[type=number]{
   border-radius: 5px;
   padding-left: 10px;
 }
 .table-responsive {
-  height: 50vh;
+  min-height: max-content;
+  max-height: 50vh;
+}
+/* quick fix for making it look pretty */
+form:nth-child(2),
+form:nth-child(3) {
+  border-top: 1px solid #ccc;
+  margin-top: 20px;
 }
 .footer {
   width: 100%;
