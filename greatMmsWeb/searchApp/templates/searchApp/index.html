@@ -1,55 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>GREATMMSHUNT</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-  <!-- Add additional CSS in static file -->
-  {% load static %}
-  <link rel="stylesheet" href="{% static 'css/style.css' %}">
-  <!-- libs -->
-  </head>
-<body>
-<header>
-<nav class="navbar fixed top navbar-light bg-dark">
-  <a class="navbar-brand text-white" href="#">GREATMMSHUNT</a>
-</nav>
-</header>
-<div class="container-fluid pt-4 border-dark border-right">
-  <div class="row">
-    <div class="col-3 sideBar">
-        <form id="form-sitl">
-        <div class="form-group">
-          <label for="dateInput">Date</label>
-          <input type="date" class="form-control" id="dateInput" placeholder="Choose a date.">
-        </div>
-        <div class="form-group">
-          <button class="btn btn-primary" id="generateBtn">Generate Data</button>
-        </div>
-      </form>
-    </div>
-    <div class="col-9">
-      <main role="main" class="col-md-9 col-lg-10 ">
-      <!-- <canvas id="myChart" width="900" height="380"></canvas> -->
-      <div class="jumbotron">
+{% extends "searchApp/base_template.html" %}
+{% block maincontent %}
+  <div class="col">
+  <main role="main" class="container leadBox">
+    <div class="jumbotron">
         <h1>The MMS Event Explorer (MeMeS)</h1>
         <p class="lead">MeMeS is a Python-based collaborative project incorporating research performed during the 2020 Helio HackWeek, hosted by the NASA Center for Climate Simulation, the University of Washington eScience Institute, NVIDIA, and the University of Maryland Department of Geographical Sciences.</p>
-      </div>
-    </main>
+        <h3>Our Goals</h3>
+        <p class="lead">To contribute to the scientific community a research-aiding utility that identifies characteristic Heliophysical events within the Magnetospheric Multiscale (MMS) mission observation record using identified events from Scientists in the Loop (SITL) reports as the ground-truth training set for machine learning training and event selection.</p>
+        <a class="btn btn-lg btn-primary" href="{% url 'reportUserInterface' %}" role="button">Let's Hack</a>
     </div>
+  </main>
   </div>
-</div>
-<footer class="navbar fixed bottom">
-  <div class="inner">
-    <p>&copy; MMS Event Explorer</p>
-  </div>
-</footer>
-  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-  {% load static %}
-  <script src="{% static 'js/main.js' %}"></script>
-</body>
-</html>
+{% endblock %}

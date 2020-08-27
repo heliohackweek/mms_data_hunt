@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GREATMMSHUNT</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  {% load static %}
+  <link rel="stylesheet" href="{% static 'searchApp/css/styleNew.css' %}">
+  <!-- libs -->
+  </head>
+<body>
+<header>
+<nav class="navbar fixed top navbar-light bg-dark">
+  <a class="navbar-brand text-white" href="#">GREATMMSHUNT</a>
+</nav>
+</header>
+<div class="container-fluid">
+  <div class="row">
+        {% block maincontent %}{% endblock %}
+  </div>
+</div>
+<footer class="footer mt-auto py-3 px-3">
+    <span class="text-muted">MMS Event Explorer (2020)</span>
+</footer>
+{% block jsFiles %}{% endblock %}
+</body>
+</html>
